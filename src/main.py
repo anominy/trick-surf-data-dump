@@ -19,6 +19,7 @@
 
 from typing import Final, Optional, Union, Any
 from types import MappingProxyType
+from datetime import datetime
 
 import requests
 import re
@@ -26,6 +27,8 @@ import os
 import json
 import shutil
 import string
+import ciso8601
+import time
 
 from re import MULTILINE as REGEX_MULTILINE_FLAG
 from argparse import ArgumentParser, Namespace as ArgumentNamespace
@@ -34,6 +37,7 @@ from subprocess import Popen
 # noinspection PyPep8Naming
 from sys import stdout as STDOUT, stderr as STDERR
 
+_TIME_ZONE_OFFSET: Final[int] = time.timezone
 
 _OPEN_FILE_WRITE_FLAG: Final[str] = 'w'
 _OPEN_FILE_READ_FLAG: Final[str] = 'r'
@@ -666,7 +670,10 @@ def _trick_gxds_merge_data(
     #           "Points": <TRICK-POINTS>,
     #           "Tier": <TRICK-TIER>,
     #           "PreSpeedLock": <IS-PRE-SPEED-LOCKED?>,
-    #           "CreationDate": "<TRICK-CREATION-DATE>",
+    #           "CreateDate": "<TRICK-CREATE-DATE>",
+    #           "UpdateDate": "<TRICK-UPDATE-DATE>",
+    #           "CreateTimestamp": <TRICK-CREATE-TIMESTAMP>,
+    #           "UpdateTimestamp": <TRICK-UPDATE-TIMESTAMP>,
     #           "Author": {
     #               "PlayerName": "<PLAYER-NAME>",
     #               "ProfileURL": "<PROFILE-URL>"
@@ -706,6 +713,9 @@ def _trick_gxds_merge_data(
         trick_pre_speed_lock: bool = not int(trick_row[_TRICK_GXDS_TRICK_TABLE_VELOCITY_COLUMN_INDEX]) == 1
         trick_date: str = trick_row[_TRICK_GXDS_TRICK_TABLE_CREATE_DATE_COLUMN_INDEX]
 
+        trick_datetime: datetime = ciso8601.parse_datetime(trick_date)
+        trick_timestamp: int = int(time.mktime(trick_datetime.timetuple())) - _TIME_ZONE_OFFSET
+
         trick_author: Optional[dict[str, Any]] \
             = _trick_gxds_find_author(player_table_rows, trick_row[_TRICK_GXDS_TRICK_TABLE_AUTHOR_ID_COLUMN_INDEX], sift_entries)
 
@@ -714,7 +724,10 @@ def _trick_gxds_merge_data(
             'Points': trick_points,
             'Tier': trick_tier,
             'PreSpeedLock': trick_pre_speed_lock,
-            'CreationDate': trick_date,
+            'CreateDate': trick_date,
+            'UpdateDate': trick_date,
+            'CreateTimestamp': trick_timestamp,
+            'UpdateTimestamp': trick_timestamp,
             'Author': trick_author,
             'RoutePath': trick_route
         })
