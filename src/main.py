@@ -17,10 +17,14 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-from typing import Final, Optional, Union, Any
+from typing import Final, Optional, Union, Any, TextIO
 from types import MappingProxyType
+from argparse import ArgumentParser, Namespace as ArgumentNamespace
+from subprocess import Popen
+from re import RegexFlag
 from datetime import datetime
 
+import sys
 import requests
 import re
 import os
@@ -30,17 +34,16 @@ import string
 import ciso8601
 import time
 
-from re import MULTILINE as REGEX_MULTILINE_FLAG
-from argparse import ArgumentParser, Namespace as ArgumentNamespace
-from subprocess import Popen
-
-# noinspection PyPep8Naming
-from sys import stdout as STDOUT, stderr as STDERR
 
 _TIME_ZONE_OFFSET: Final[int] = time.timezone
 
+_STD_OUT_STREAM: Final[TextIO] = sys.stdout
+_STD_ERR_STREAM: Final[TextIO] = sys.stderr
+
 _OPEN_FILE_WRITE_FLAG: Final[str] = 'w'
 _OPEN_FILE_READ_FLAG: Final[str] = 'r'
+
+_REGEX_MULTILINE_FLAG: Final[RegexFlag] = re.MULTILINE
 
 _CURRENT_PATH: Final[str] = os.path.dirname(__file__)
 _PARENT_PATH: Final[str] = os.path.join(_CURRENT_PATH, '..')
@@ -747,7 +750,7 @@ def _trick_gxds_dump_data(
         = _get_url_text(_TRICK_GXDS_PLAYER_TABLE_URL)
 
     player_table_rows: Final[list[tuple[Any, ...]]] \
-        = re.findall(_TRICK_GXDS_PLAYER_TABLE_ROW_REGEX, player_table_text, REGEX_MULTILINE_FLAG)
+        = re.findall(_TRICK_GXDS_PLAYER_TABLE_ROW_REGEX, player_table_text, _REGEX_MULTILINE_FLAG)
 
     if not player_table_rows:
         return False
@@ -757,7 +760,7 @@ def _trick_gxds_dump_data(
         = _get_url_text(_TRICK_GXDS_ROUTE_TABLE_URL)
 
     route_table_rows: Final[list[tuple[Any, ...]]] \
-        = re.findall(_TRICK_GXDS_ROUTE_TABLE_ROW_REGEX, route_table_text, REGEX_MULTILINE_FLAG)
+        = re.findall(_TRICK_GXDS_ROUTE_TABLE_ROW_REGEX, route_table_text, _REGEX_MULTILINE_FLAG)
 
     if not route_table_rows:
         return False
@@ -767,7 +770,7 @@ def _trick_gxds_dump_data(
         = _get_url_text(_TRICK_GXDS_TRICK_TABLE_URL)
 
     trick_table_rows: Final[list[tuple[Any, ...]]] \
-        = re.findall(_TRICK_GXDS_TRICK_TABLE_ROW_REGEX, trick_table_text, REGEX_MULTILINE_FLAG)
+        = re.findall(_TRICK_GXDS_TRICK_TABLE_ROW_REGEX, trick_table_text, _REGEX_MULTILINE_FLAG)
 
     if not trick_table_rows:
         return False
@@ -777,7 +780,7 @@ def _trick_gxds_dump_data(
         = _get_url_text(_TRICK_GXDS_TRIGGER_TABLE_URL)
 
     trigger_table_rows: Final[list[tuple[Any, ...]]] \
-        = re.findall(_TRICK_GXDS_TRIGGER_TABLE_ROW_REGEX, trigger_table_text, REGEX_MULTILINE_FLAG)
+        = re.findall(_TRICK_GXDS_TRIGGER_TABLE_ROW_REGEX, trigger_table_text, _REGEX_MULTILINE_FLAG)
 
     if not trigger_table_rows:
         return False
@@ -988,9 +991,9 @@ def _main() -> None:
             )
 
         if is_success:
-            print(_SUCCESS_MESSAGE_DUMP_TRICK_GXDS_DATA, file=STDOUT)
+            print(_SUCCESS_MESSAGE_DUMP_TRICK_GXDS_DATA, file=_STD_OUT_STREAM)
         else:
-            print(_FAILURE_MESSAGE_DUMP_TRICK_GXDS_DATA, file=STDERR)
+            print(_FAILURE_MESSAGE_DUMP_TRICK_GXDS_DATA, file=_STD_ERR_STREAM)
 
     if args.is_dump_trick_surf_data_flag:
         is_success \
@@ -1000,9 +1003,9 @@ def _main() -> None:
             )
 
         if is_success:
-            print(_SUCCESS_MESSAGE_DUMP_TRICK_SURF_DATA, file=STDOUT)
+            print(_SUCCESS_MESSAGE_DUMP_TRICK_SURF_DATA, file=_STD_OUT_STREAM)
         else:
-            print(_FAILURE_MESSAGE_DUMP_TRICK_SURF_DATA, file=STDERR)
+            print(_FAILURE_MESSAGE_DUMP_TRICK_SURF_DATA, file=_STD_ERR_STREAM)
 
 
 if __name__ == '__main__':
