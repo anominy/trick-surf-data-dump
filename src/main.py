@@ -18,7 +18,7 @@
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 from typing import Final, Optional, Union, Any, TextIO
-from types import MappingProxyType
+from types import MappingProxyType as MappingProxy
 from argparse import ArgumentParser, Namespace as ArgumentNamespace
 from subprocess import Popen
 from re import RegexFlag
@@ -152,7 +152,7 @@ _TRICK_GXDS_TRIGGER_TABLE_Y_COLUMN_INDEX: Final[int] = 4
 _TRICK_GXDS_TRIGGER_TABLE_Z_COLUMN_INDEX: Final[int] = 5
 _TRICK_GXDS_TRIGGER_TABLE_IMAGE_URL_COLUMN_INDEX: Final[int] = 6
 
-_TRICK_GXDS_TRIGGER_NAMES: Final[dict[str, Optional[str]]] = MappingProxyType({
+_TRICK_GXDS_TRIGGER_NAMES: Final[dict[str, Optional[str]]] = MappingProxy({
     't_spawn': 'T-Spawn (G: 0)',  # @CONFIRMED
     'main_ramp': 'Main Ramp (G: 0)',  # @CONFIRMED
     'tower_top': 'Tower Top (G: 0)',  # @CONFIRMED
@@ -390,7 +390,7 @@ _TRICK_GXDS_TRIGGER_NAMES: Final[dict[str, Optional[str]]] = MappingProxyType({
     'sriracha_tip': 'Sriracha Tip (G: 0)'  # @CONFIRMED
 })
 
-_TRICK_GXDS_PLAYER_NAMES: Final[dict[str, str]] = MappingProxyType({
+_TRICK_GXDS_PLAYER_NAMES: Final[dict[str, str]] = MappingProxy({
     'ÐŸÐ¾Ð²ÐµÐ»Ð¸Ñ‚ÐµÐ»ÑŒ Ñ‚Ñ€ÑŽÐ³Ðµ': 'Evvvai',
     'Using 5 fingers? - Ð¿Ð¸Ð´Ð¾Ñ€Ð°': 'Parta',
     'Autostrafing issues': 'Halisha',
@@ -403,7 +403,7 @@ _TRICK_GXDS_PLAYER_NAMES: Final[dict[str, str]] = MappingProxyType({
     'ghostie': 'Ghostie'
 })
 
-_TRICK_GXDS_PLAYER_ID64S: Final[dict[str, str]] = MappingProxyType({
+_TRICK_GXDS_PLAYER_ID64S: Final[dict[str, str]] = MappingProxy({
     '76561198059585682': '76561198279987304',
     '76561198058934072': '76561198150200931'
 })
@@ -453,7 +453,7 @@ _ESCAPE_ENCODING: Final[str] = 'unicode-escape'
 _ARGUMENT_POINTS_SYSTEM_OLD: Final[str] = 'old'
 _ARGUMENT_POINTS_SYSTEM_NEW: Final[str] = 'new'
 
-_NEW_POINTS_SYSTEM_BOOL: Final[dict[str, bool]] = MappingProxyType({
+_NEW_POINTS_SYSTEM_BOOL: Final[dict[str, bool]] = MappingProxy({
     _ARGUMENT_POINTS_SYSTEM_OLD: False,
     _ARGUMENT_POINTS_SYSTEM_NEW: True
 })
