@@ -39,7 +39,7 @@ also title cased trick names, fixed player names, and mapped trigger names to th
 ### About
 The script is located in the [/src/](./src) directory & named [main.py](./src/main.py).
 The script supports several flags that you can pass to it — `--license`, `--dump-trick-gxds`,
-`--dump-trick-surf`, `--unified-points-system`, `--unified-title-names`. 
+`--dump-trick-surf`, `--unified-points-system`, `--unified-title-names`.
 To gather more information & make yourself familiar w/ the utility,
 execute the [main.py](./src/main.py) file w/ `--help` flag attached.
 ```text
@@ -79,7 +79,7 @@ SUCCESS :: TrickSurf :: Created & wrote data dumps to JSON files
 
 ## Setting Development Environment
 Follow this [documentation](https://docs.python.org/3/library/venv.html) to
-setup a virtual python environment. Then active the environment you just set-up
+setup a virtual python environment. Then activate the environment you just set-up
 and install required packages using the [requirements.txt](./requirements.txt) file placed in the root of this project.
 Be sure that you use Python 3.9.
 
