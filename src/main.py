@@ -17,7 +17,7 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-from typing import Final, Optional, Union, Any, TextIO
+from typing import Final, Optional, Union, Any, TextIO, Callable
 from types import MappingProxyType as MappingProxy
 from argparse import ArgumentParser, Namespace as ArgumentNamespace
 from subprocess import Popen
@@ -44,6 +44,9 @@ _OPEN_FILE_WRITE_FLAG: Final[str] = 'w'
 _OPEN_FILE_READ_FLAG: Final[str] = 'r'
 
 _REGEX_MULTILINE_FLAG: Final[RegexFlag] = re.MULTILINE
+
+# language=PythonRegExp
+_REGEX_WHITESPACE_CHARS: Final[str] = '\\s|\t|\n|\r|\v|\f'
 
 _CURRENT_PATH: Final[str] = os.path.dirname(__file__)
 _PARENT_PATH: Final[str] = os.path.join(_CURRENT_PATH, '..')
@@ -129,13 +132,55 @@ _TRICK_GXDS_PLAYER_TABLE_AVATAR_URL_COLUMN_INDEX: Final[int] = 5
 _TRICK_GXDS_PLAYER_TABLE_AVATAR_CUSTOM_URL_COLUMN_INDEX: Final[int] = 6
 _TRICK_GXDS_PLAYER_TABLE_DASHBOARD_URL_COLUMN_INDEX: Final[int] = 7
 _TRICK_GXDS_PLAYER_TABLE_JOIN_DATE_COLUMN_INDEX: Final[int] = 8
-_TRICK_GXDS_PLAYER_TABLE_LAST_SITE_LOGIN_COLUMN_INDEX: Final[int] = 9
-_TRICK_GXDS_PLAYER_TABLE_LAST_SERVER_LOGIN_COLUMN_INDEX: Final[int] = 10
+_TRICK_GXDS_PLAYER_TABLE_LAST_SITE_LOGIN_DATE_COLUMN_INDEX: Final[int] = 9
+_TRICK_GXDS_PLAYER_TABLE_LAST_SERVER_LOGIN_DATE_COLUMN_INDEX: Final[int] = 10
 _TRICK_GXDS_PLAYER_TABLE_ROLE_COLUMN_INDEX: Final[int] = 11
+
+_TRICK_GXDS_PLAYER_TABLE_COLUMN_NAMES: Final[dict[int, str]] = MappingProxy({
+    _TRICK_GXDS_PLAYER_TABLE_ID_COLUMN_INDEX: 'id',
+    _TRICK_GXDS_PLAYER_TABLE_STEAM_ID2_COLUMN_INDEX: 'steam_id2',
+    _TRICK_GXDS_PLAYER_TABLE_STEAM_ID64_COLUMN_INDEX: 'steam_id64',
+    _TRICK_GXDS_PLAYER_TABLE_NAME_COLUMN_INDEX: 'name',
+    _TRICK_GXDS_PLAYER_TABLE_STEAM_VANITY_URL_COLUMN_INDEX: 'steam_vanity_url',
+    _TRICK_GXDS_PLAYER_TABLE_AVATAR_URL_COLUMN_INDEX: 'avatar_url',
+    _TRICK_GXDS_PLAYER_TABLE_AVATAR_CUSTOM_URL_COLUMN_INDEX: 'avatar_custom_url',
+    _TRICK_GXDS_PLAYER_TABLE_DASHBOARD_URL_COLUMN_INDEX: 'dashboard_url',
+    _TRICK_GXDS_PLAYER_TABLE_JOIN_DATE_COLUMN_INDEX: 'join_date',
+    _TRICK_GXDS_PLAYER_TABLE_LAST_SITE_LOGIN_DATE_COLUMN_INDEX: 'last_site_login_date',
+    _TRICK_GXDS_PLAYER_TABLE_LAST_SERVER_LOGIN_DATE_COLUMN_INDEX: 'last_server_login_date',
+    _TRICK_GXDS_PLAYER_TABLE_ROLE_COLUMN_INDEX: 'role'
+})
+
+_TRICK_GXDS_PLAYER_TABLE_COLUMN_TYPES: Final[dict[int, Callable[[Any], Any]]] = MappingProxy({
+    _TRICK_GXDS_PLAYER_TABLE_ID_COLUMN_INDEX: int,
+    _TRICK_GXDS_PLAYER_TABLE_STEAM_ID2_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_STEAM_ID64_COLUMN_INDEX: int,
+    _TRICK_GXDS_PLAYER_TABLE_NAME_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_STEAM_VANITY_URL_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_AVATAR_URL_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_AVATAR_CUSTOM_URL_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_DASHBOARD_URL_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_JOIN_DATE_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_LAST_SITE_LOGIN_DATE_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_LAST_SERVER_LOGIN_DATE_COLUMN_INDEX: str,
+    _TRICK_GXDS_PLAYER_TABLE_ROLE_COLUMN_INDEX: str
+})
 
 _TRICK_GXDS_ROUTE_TABLE_ID_COLUMN_INDEX: Final[int] = 0
 _TRICK_GXDS_ROUTE_TABLE_TRICK_ID_COLUMN_INDEX: Final[int] = 1
 _TRICK_GXDS_ROUTE_TABLE_TRIGGER_ID_COLUMN_INDEX: Final[int] = 2
+
+_TRICK_GXDS_ROUTE_TABLE_COLUMN_NAMES: Final[dict[int, str]] = MappingProxy({
+    _TRICK_GXDS_ROUTE_TABLE_ID_COLUMN_INDEX: 'id',
+    _TRICK_GXDS_ROUTE_TABLE_TRICK_ID_COLUMN_INDEX: 'trick_id',
+    _TRICK_GXDS_ROUTE_TABLE_TRIGGER_ID_COLUMN_INDEX: 'trigger_id'
+})
+
+_TRICK_GXDS_ROUTE_TABLE_COLUMN_TYPES: Final[dict[int, Callable[[Any], Any]]] = MappingProxy({
+    _TRICK_GXDS_ROUTE_TABLE_ID_COLUMN_INDEX: int,
+    _TRICK_GXDS_ROUTE_TABLE_TRICK_ID_COLUMN_INDEX: int,
+    _TRICK_GXDS_ROUTE_TABLE_TRIGGER_ID_COLUMN_INDEX: int
+})
 
 _TRICK_GXDS_TRICK_TABLE_ID_COLUMN_INDEX: Final[int] = 0
 _TRICK_GXDS_TRICK_TABLE_NAME_COLUMN_INDEX: Final[int] = 1
@@ -144,6 +189,24 @@ _TRICK_GXDS_TRICK_TABLE_VELOCITY_COLUMN_INDEX: Final[int] = 3
 _TRICK_GXDS_TRICK_TABLE_CREATE_DATE_COLUMN_INDEX: Final[int] = 4
 _TRICK_GXDS_TRICK_TABLE_AUTHOR_ID_COLUMN_INDEX: Final[int] = 5
 
+_TRICK_GXDS_TRICK_TABLE_COLUMN_NAMES: Final[dict[int, str]] = MappingProxy({
+    _TRICK_GXDS_TRICK_TABLE_ID_COLUMN_INDEX: 'id',
+    _TRICK_GXDS_TRICK_TABLE_NAME_COLUMN_INDEX: 'name',
+    _TRICK_GXDS_TRICK_TABLE_POINTS_COLUMN_INDEX: 'points',
+    _TRICK_GXDS_TRICK_TABLE_VELOCITY_COLUMN_INDEX: 'is_pre_speed_locked',
+    _TRICK_GXDS_TRICK_TABLE_CREATE_DATE_COLUMN_INDEX: 'create_date',
+    _TRICK_GXDS_TRICK_TABLE_AUTHOR_ID_COLUMN_INDEX: 'author_id'
+})
+
+_TRICK_GXDS_TRICK_TABLE_COLUMN_TYPES: Final[dict[int, Callable[[Any], Any]]] = MappingProxy({
+    _TRICK_GXDS_TRICK_TABLE_ID_COLUMN_INDEX: int,
+    _TRICK_GXDS_TRICK_TABLE_NAME_COLUMN_INDEX: str,
+    _TRICK_GXDS_TRICK_TABLE_POINTS_COLUMN_INDEX: int,
+    _TRICK_GXDS_TRICK_TABLE_VELOCITY_COLUMN_INDEX: lambda x: not _str_to_bool(x),
+    _TRICK_GXDS_TRICK_TABLE_CREATE_DATE_COLUMN_INDEX: str,
+    _TRICK_GXDS_TRICK_TABLE_AUTHOR_ID_COLUMN_INDEX: int
+})
+
 _TRICK_GXDS_TRIGGER_TABLE_ID_COLUMN_INDEX: Final[int] = 0
 _TRICK_GXDS_TRIGGER_TABLE_NAME_COLUMN_INDEX: Final[int] = 1
 _TRICK_GXDS_TRIGGER_TABLE_ALT_NAME_COLUMN_INDEX: Final[int] = 2
@@ -151,6 +214,26 @@ _TRICK_GXDS_TRIGGER_TABLE_X_COLUMN_INDEX: Final[int] = 3
 _TRICK_GXDS_TRIGGER_TABLE_Y_COLUMN_INDEX: Final[int] = 4
 _TRICK_GXDS_TRIGGER_TABLE_Z_COLUMN_INDEX: Final[int] = 5
 _TRICK_GXDS_TRIGGER_TABLE_IMAGE_URL_COLUMN_INDEX: Final[int] = 6
+
+_TRICK_GXDS_TRIGGER_TABLE_COLUMN_NAMES: Final[dict[int, str]] = MappingProxy({
+    _TRICK_GXDS_TRIGGER_TABLE_ID_COLUMN_INDEX: 'id',
+    _TRICK_GXDS_TRIGGER_TABLE_NAME_COLUMN_INDEX: 'name',
+    _TRICK_GXDS_TRIGGER_TABLE_ALT_NAME_COLUMN_INDEX: 'alt_name',
+    _TRICK_GXDS_TRIGGER_TABLE_X_COLUMN_INDEX: 'x',
+    _TRICK_GXDS_TRIGGER_TABLE_Y_COLUMN_INDEX: 'y',
+    _TRICK_GXDS_TRIGGER_TABLE_Z_COLUMN_INDEX: 'z',
+    _TRICK_GXDS_TRIGGER_TABLE_IMAGE_URL_COLUMN_INDEX: 'image_url'
+})
+
+_TRICK_GXDS_TRIGGER_TABLE_COLUMN_TYPES: Final[dict[int, Callable[[Any], Any]]] = MappingProxy({
+    _TRICK_GXDS_TRIGGER_TABLE_ID_COLUMN_INDEX: int,
+    _TRICK_GXDS_TRIGGER_TABLE_NAME_COLUMN_INDEX: str,
+    _TRICK_GXDS_TRIGGER_TABLE_ALT_NAME_COLUMN_INDEX: str,
+    _TRICK_GXDS_TRIGGER_TABLE_X_COLUMN_INDEX: float,
+    _TRICK_GXDS_TRIGGER_TABLE_Y_COLUMN_INDEX: float,
+    _TRICK_GXDS_TRIGGER_TABLE_Z_COLUMN_INDEX: float,
+    _TRICK_GXDS_TRIGGER_TABLE_IMAGE_URL_COLUMN_INDEX: str
+})
 
 _TRICK_GXDS_TRIGGER_NAMES: Final[dict[str, Optional[str]]] = MappingProxy({
     't_spawn': 'T-Spawn (G: 0)',  # @CONFIRMED
@@ -510,6 +593,63 @@ def _get_url_json(url: Optional[str]) -> Optional[Any]:
         .json()
 
 
+def _str_to_bool(
+    val: Optional[Any],
+) -> bool:
+    if val is None:
+        return False
+
+    if isinstance(val, bool):
+        return val
+
+    lower_val = str(val) \
+        .lower()
+
+    if lower_val in _BOOL_TRUE_NAMES:
+        return True
+
+    if lower_val in _BOOL_FALSE_NAMES:
+        return False
+
+    raise ValueError(f'Couldn\'t convert "{val}" to a boolean value')
+
+
+def _table_to_json(
+    table_rows: Optional[list[tuple[Any, ...]]],
+    table_column_names: Optional[dict[int, str]],
+    table_column_types: Optional[dict[int, Callable[[Any], Any]]]
+) -> Optional[Any]:
+    if not table_rows \
+            or not table_column_names \
+            or not table_column_types:
+        return None
+
+    table_json: Optional[list[dict[str, Any]]] = []
+    for table_row in table_rows:
+        row_json: dict[str, Any] = {}
+        for column_id, column_name in table_column_names.items():
+            column_value: Optional[Any] = str(table_row[column_id]) \
+                .strip()
+
+            if column_value:
+                column_type: Callable[[Any], Any] = table_column_types[column_id]
+                column_value = column_type(column_value)
+            else:
+                column_value = None
+
+            row_json[column_name] = column_value
+
+        if not row_json:
+            continue
+
+        table_json.append(row_json)
+
+    if not table_json:
+        return None
+
+    return table_json
+
+
 def _dump_json(
     file_path: Optional[str],
     file_name: Optional[str],
@@ -709,7 +849,9 @@ def _trick_gxds_merge_data(
         if sift_entries and use_new_points_system:
             trick_points = _TRICK_SURF_TIER_POINTS_LIMITS_NEW[_TRICK_SURF_TIER_POINTS_LIMITS_NEW_LENGTH - trick_tier]
 
-        trick_name: str = trick_row[_TRICK_GXDS_TRICK_TABLE_NAME_COLUMN_INDEX]
+        trick_name: str = trick_row[_TRICK_GXDS_TRICK_TABLE_NAME_COLUMN_INDEX] \
+            .strip()
+
         if sift_entries and title_case_trick_names:
             trick_name = string.capwords(trick_name)
 
@@ -785,6 +927,34 @@ def _trick_gxds_dump_data(
     if not trigger_table_rows:
         return False
 
+    # TrickGxds' player table JSON object.
+    player_table_json: Final[Optional[Any]] \
+        = _table_to_json(player_table_rows, _TRICK_GXDS_PLAYER_TABLE_COLUMN_NAMES, _TRICK_GXDS_PLAYER_TABLE_COLUMN_TYPES)
+
+    if not player_table_json:
+        return False
+
+    # TrickGxds' route table JSON object.
+    route_table_json: Final[Optional[Any]] \
+        = _table_to_json(route_table_rows, _TRICK_GXDS_ROUTE_TABLE_COLUMN_NAMES, _TRICK_GXDS_ROUTE_TABLE_COLUMN_TYPES)
+
+    if not route_table_json:
+        return False
+
+    # TrickGxds' trick table JSON object.
+    trick_table_json: Final[Optional[Any]] \
+        = _table_to_json(trick_table_rows, _TRICK_GXDS_TRICK_TABLE_COLUMN_NAMES, _TRICK_GXDS_TRICK_TABLE_COLUMN_TYPES)
+
+    if not trick_table_json:
+        return False
+
+    # TrickGxds' trigger table JSON object.
+    trigger_table_json: Final[Optional[Any]] \
+        = _table_to_json(trigger_table_rows, _TRICK_GXDS_TRIGGER_TABLE_COLUMN_NAMES, _TRICK_GXDS_TRIGGER_TABLE_COLUMN_TYPES)
+
+    if not trigger_table_json:
+        return False
+
     # TrickGxds' merged JSON w/ original entries.
     original_json: Final[Optional[Any]] \
         = _trick_gxds_merge_data(
@@ -796,6 +966,9 @@ def _trick_gxds_dump_data(
             title_case_trick_names,
             sift_entries=False,
         )
+
+    if not original_json:
+        return False
 
     # TrickGxds' merged JSON w/ sifted entries.
     sifted_json: Final[Optional[Any]] \
@@ -809,7 +982,14 @@ def _trick_gxds_dump_data(
             sift_entries=True
         )
 
-    return _dump_json(_DUMP_UNIFIED_PATH, _DUMP_UNIFIED_ORIGINAL_NAME, original_json) \
+    if not sifted_json:
+        return False
+
+    return _dump_json(_DUMP_TRICK_GXDS_PATH, _TRICK_GXDS_PLAYER_TABLE_NAME, player_table_json) \
+        and _dump_json(_DUMP_TRICK_GXDS_PATH, _TRICK_GXDS_ROUTE_TABLE_NAME, route_table_json) \
+        and _dump_json(_DUMP_TRICK_GXDS_PATH, _TRICK_GXDS_TRICK_TABLE_NAME, trick_table_json) \
+        and _dump_json(_DUMP_TRICK_GXDS_PATH, _TRICK_GXDS_TRIGGER_TABLE_NAME, trigger_table_json) \
+        and _dump_json(_DUMP_UNIFIED_PATH, _DUMP_UNIFIED_ORIGINAL_NAME, original_json) \
         and _dump_json(_DUMP_UNIFIED_PATH, _DUMP_UNIFIED_SIFTED_NAME, sifted_json)
 
 
@@ -825,27 +1005,6 @@ def _trick_surf_dump_data(
         title_case_trick_names = _DEFAULT_TRICK_SURF_TITLE_CASE_NAMES
 
     return False
-
-
-def _str_to_bool(
-    val: Optional[Any],
-) -> bool:
-    if val is None:
-        return False
-
-    if isinstance(val, bool):
-        return val
-
-    lower_val = str(val) \
-        .lower()
-
-    if lower_val in _BOOL_TRUE_NAMES:
-        return True
-
-    if lower_val in _BOOL_FALSE_NAMES:
-        return False
-
-    raise ValueError(f'Couldn\'t convert "{val}" to a boolean value')
 
 
 def _main() -> None:
