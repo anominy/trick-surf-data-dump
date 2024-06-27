@@ -30,7 +30,6 @@ import re
 import os
 import json
 import shutil
-import string
 import ciso8601
 import time
 
@@ -614,6 +613,39 @@ def _str_to_bool(
     raise ValueError(f'Couldn\'t convert "{val}" to a boolean value')
 
 
+def _str_to_title(
+    val: Optional[Any]
+) -> Optional[str]:
+    if val is None:
+        return None
+
+    val = str(val)
+
+    words: Final[list[str]] = re.split(_REGEX_WHITESPACE_CHARS, val, flags=_REGEX_MULTILINE_FLAG)
+    if not words:
+        return None
+
+    words_count: Final[int] = len(words)
+    for i in range(words_count):
+        word: str = words[i]
+        if not word:
+            continue
+
+        word_len: int = len(word)
+
+        word = word[0]
+        if word_len <= 2 \
+                or not words[i][1].isdigit():
+            word = word.upper()
+
+        if word_len > 1:
+            word += words[i][1:]
+
+        words[i] = word
+
+    return ' '.join(words)
+
+
 def _table_to_json(
     table_rows: Optional[list[tuple[Any, ...]]],
     table_column_names: Optional[dict[int, str]],
@@ -853,7 +885,7 @@ def _trick_gxds_merge_data(
             .strip()
 
         if sift_entries and title_case_trick_names:
-            trick_name = string.capwords(trick_name)
+            trick_name = _str_to_title(trick_name)
 
         trick_pre_speed_lock: bool = not int(trick_row[_TRICK_GXDS_TRICK_TABLE_VELOCITY_COLUMN_INDEX]) == 1
         trick_date: str = trick_row[_TRICK_GXDS_TRICK_TABLE_CREATE_DATE_COLUMN_INDEX]
