@@ -71,7 +71,7 @@ SUCCESS :: TrickGxds :: Created & wrote data dumps to JSON files
 ### Dumping TrickSurf's Data
 Run `python src/main.py --dump-trick-surf` and it will dump everything it can to the [/trick-surf/](./trick-surf) directory.
 Be careful, dumping TrickSurf's API is an expensive operation, don't panic if it takes a long period of time, just wait
-or interrupt execution using <kbd>CTRL</kbd>+<kbd>C</kbd>.
+or interrupt execution using <kbd>CTRL+C</kbd>.
 ```text
 SUCCESS :: TrickSurf :: Created & wrote data dumps to JSON files
 ```
