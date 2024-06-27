@@ -47,6 +47,10 @@ _REGEX_MULTILINE_FLAG: Final[RegexFlag] = re.MULTILINE
 # language=PythonRegExp
 _REGEX_WHITESPACE_CHARS: Final[str] = '\\s|\t|\n|\r|\v|\f'
 
+_STRING_ENCODE_ERROR_STRICT: Final[str] = 'strict'
+_STRING_ENCODE_ERROR_REPLACE: Final[str] = 'replace'
+_STRING_ENCODE_ERROR_IGNORE: Final[str] = 'ignore'
+
 _CURRENT_PATH: Final[str] = os.path.dirname(__file__)
 _PARENT_PATH: Final[str] = os.path.join(_CURRENT_PATH, '..')
 _LICENSE_PATH: Final[str] = os.path.join(_PARENT_PATH, 'COPYING')
@@ -81,6 +85,20 @@ _DUMP_TRICK_SURF_DIRECTORY_NAME: Final[str] = 'trick-surf'
 _DUMP_UNIFIED_PATH: Final[str] = os.path.join(_PARENT_PATH, _DUMP_UNIFIED_DIRECTORY_NAME)
 _DUMP_TRICK_GXDS_PATH: Final[str] = os.path.join(_PARENT_PATH, _DUMP_TRICK_GXDS_DIRECTORY_NAME)
 _DUMP_TRICK_SURF_PATH: Final[str] = os.path.join(_PARENT_PATH, _DUMP_TRICK_SURF_DIRECTORY_NAME)
+
+_DUMP_TRICK_SURF_GAMES_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'games')
+_DUMP_TRICK_SURF_MAPS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'maps')
+_DUMP_TRICK_SURF_PLAYERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'players')
+_DUMP_TRICK_SURF_SERVERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'servers')
+_DUMP_TRICK_SURF_EVENTS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'events')
+
+_DUMP_TRICK_SURF_MAPS_MAP_ID_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_PATH, '%d')
+_DUMP_TRICK_SURF_GAMES_GAME_ID_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_PATH, '%d')
+_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_PATH, 'maps')
+_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_PATH, '%d')
+_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_PATH, 'tricks')
+_DUMP_TRICK_SURF_MAPS_MAP_ID_TRIGGERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_MAP_ID_PATH, 'triggers')
+_DUMP_TRICK_SURF_MAPS_MAP_ID_TELEPORTS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_MAP_ID_PATH, 'teleports')
 
 _DUMP_UNIFIED_NAME: Final[str] = 'ski2-gxds-tricks'
 _DUMP_UNIFIED_ORIGINAL_NAME: Final[str] = f'{_DUMP_UNIFIED_NAME}~original'
@@ -518,18 +536,170 @@ _TRICK_SURF_TIER_POINTS_LIMITS_OLD_LENGTH: Final[int] = len(_TRICK_SURF_TIER_POI
 _TRICK_SURF_TIER_POINTS_LIMITS_NEW_LENGTH: Final[int] = len(_TRICK_SURF_TIER_POINTS_LIMITS_NEW)
 
 
+_TRICK_SURF_API_BASE_URL: Final[str] = 'https://api.trick.surf/'
+
+_TRICK_SURF_API_GAMES_ENDPOINT_NAME: Final[str] = 'games'
+_TRICK_SURF_API_MAPS_ENDPOINT_NAME: Final[str] = 'maps'
+_TRICK_SURF_API_MAP_TRICKS_ENDPOINT_NAME: Final[str] = 'tricks'
+_TRICK_SURF_API_MAP_TRIGGERS_ENDPOINT_NAME: Final[str] = 'triggers'
+_TRICK_SURF_API_MAP_TELEPORTS_ENDPOINT_NAME: Final[str] = 'teleports'
+_TRICK_SURF_API_PLAYERS_ENDPOINT_NAME: Final[str] = 'players'
+_TRICK_SURF_API_SERVERS_ENDPOINT_NAME: Final[str] = 'servers'
+_TRICK_SURF_API_EVENTS_ENDPOINT_NAME: Final[str] = 'events'
+
+_TRICK_SURF_API_GAMES_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}'
+_TRICK_SURF_API_MAPS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}'
+_TRICK_SURF_API_MAP_TRICKS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_TRICKS_ENDPOINT_NAME}'
+_TRICK_SURF_API_MAP_TRIGGERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_TRIGGERS_ENDPOINT_NAME}'
+_TRICK_SURF_API_MAP_TELEPORTS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_TELEPORTS_ENDPOINT_NAME}'
+_TRICK_SURF_API_PLAYERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_PLAYERS_ENDPOINT_NAME}'
+_TRICK_SURF_API_SERVERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_SERVERS_ENDPOINT_NAME}'
+_TRICK_SURF_API_EVENTS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_EVENTS_ENDPOINT_NAME}'
+
+_TRICK_SURF_GAME_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_GAME_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+
+_TRICK_SURF_MAP_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_MAP_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_MAP_JSON_AUTHOR_NAME_FIELD_NAME: Final[str] = 'author'
+_TRICK_SURF_MAP_JSON_CONNECTIONS_FIELD_NAME: Final[str] = 'connections'
+_TRICK_SURF_MAP_JSON_TIME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_MAP_JSON_DATE_FIELD_NAME: Final[str] = 'date'
+_TRICK_SURF_MAP_JSON_LAST_CONNECT_FIELD_NAME: Final[str] = 'last_connect'
+_TRICK_SURF_MAP_JSON_IMAGE_URL_FIELD_NAME: Final[str] = 'image_url'
+_TRICK_SURF_MAP_JSON_TRICK_COUNT_FIELD_NAME: Final[str] = 'trick_count'
+
+_TRICK_SURF_MAP_TRICK_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_MAP_TRICK_JSON_MAP_ID_FIELD_NAME: Final[str] = 'map_id'
+_TRICK_SURF_MAP_TRICK_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_MAP_TRICK_JSON_CREATE_DATE_FIELD_NAME: Final[str] = 'date'
+_TRICK_SURF_MAP_TRICK_JSON_UPDATE_DATE_FIELD_NAME: Final[str] = 'last_updated'
+_TRICK_SURF_MAP_TRICK_JSON_AUTHOR_NAME_FIELD_NAME: Final[str] = 'author'
+_TRICK_SURF_MAP_TRICK_JSON_AUTHOR_ID_FIELD_NAME: Final[str] = 'author_id'
+_TRICK_SURF_MAP_TRICK_JSON_UPDATE_AUTHOR_ID_FIELD_NAME: Final[str] = 'last_updated_author_id'
+_TRICK_SURF_MAP_TRICK_JSON_IS_ACTIVE_FIELD_NAME: Final[str] = 'active'
+_TRICK_SURF_MAP_TRICK_JSON_POINTS_FIELD_NAME: Final[str] = 'points'
+_TRICK_SURF_MAP_TRICK_JSON_TIER_FIELD_NAME: Final[str] = 'tier'
+_TRICK_SURF_MAP_TRICK_JSON_MIN_SPEED_FIELD_NAME: Final[str] = 'min_velocity'
+_TRICK_SURF_MAP_TRICK_JSON_MAX_PRE_SPEED_FIELD_NAME: Final[str] = 'max_prestrafe'
+_TRICK_SURF_MAP_TRICK_JSON_MAX_DURATION_FIELD_NAME: Final[str] = 'max_duration'
+_TRICK_SURF_MAP_TRICK_JSON_MAX_JUMP_COUNT_FIELD_NAME: Final[str] = 'max_jumps'
+_TRICK_SURF_MAP_TRICK_JSON_IS_START_JUMP_DISALLOWED_FIELD_NAME: Final[str] = 'no_jump'
+_TRICK_SURF_MAP_TRICK_JSON_IS_HIDDEN_FIELD_NAME: Final[str] = 'hidden'
+_TRICK_SURF_MAP_TRICK_JSON_COMPLETE_COUNT_FIELD_NAME: Final[str] = 'completions'
+_TRICK_SURF_MAP_TRICK_JSON_COMPLETE_PLAYER_COUNT_FIELD_NAME: Final[str] = 'playersCompleted'
+_TRICK_SURF_MAP_TRICK_JSON_TRIGGER_SEQUENCE_FIELD_NAME: Final[str] = 'trick_sequence'
+
+_TRICK_SURF_MAP_TRICK_SEQUENCE_TRIGGER_JSON_ID_FIELD_NAME: Final[str] = 'trigger_id'
+_TRICK_SURF_MAP_TRICK_SEQUENCE_TRIGGER_JSON_ORDER_FIELD_NAME: Final[str] = 'order'
+_TRICK_SURF_MAP_TRICK_SEQUENCE_TRIGGER_JSON_IS_PASSTHROUGH_FIELD_NAME: Final[str] = 'passthrough'
+
+_TRICK_SURF_MAP_TRIGGER_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_MAP_TRIGGER_JSON_MAP_ID_FIELD_NAME: Final[str] = 'map_id'
+_TRICK_SURF_MAP_TRIGGER_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_MAP_TRIGGER_JSON_IS_PASSTHROUGH_FIELD_NAME: Final[str] = 'passthrough'
+_TRICK_SURF_MAP_TRIGGER_JSON_IMAGE_URL_FIELD_NAME: Final[str] = 'image_url'
+_TRICK_SURF_MAP_TRIGGER_JSON_TRICK_COUNT_FIELD_NAME: Final[str] = 'trick_count'
+
+_TRICK_SURF_MAP_TELEPORT_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_MAP_TELEPORT_JSON_MAP_ID_FIELD_NAME: Final[str] = 'map_id'
+_TRICK_SURF_MAP_TELEPORT_JSON_TRIGGER_ID_FIELD_NAME: Final[str] = 'trigger_id'
+_TRICK_SURF_MAP_TELEPORT_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_MAP_TELEPORT_JSON_CREATE_TIMESTAMP_FIELD_NAME: Final[str] = 'date'
+_TRICK_SURF_MAP_TELEPORT_JSON_ORDER_FIELD_NAME: Final[str] = 'order'
+_TRICK_SURF_MAP_TELEPORT_JSON_X_FIELD_NAME: Final[str] = 'origin_x'
+_TRICK_SURF_MAP_TELEPORT_JSON_Y_FIELD_NAME: Final[str] = 'origin_y'
+_TRICK_SURF_MAP_TELEPORT_JSON_Z_FIELD_NAME: Final[str] = 'origin_z'
+_TRICK_SURF_MAP_TELEPORT_JSON_ANGLE_X_FIELD_NAME: Final[str] = 'angles_x'
+_TRICK_SURF_MAP_TELEPORT_JSON_ANGLE_Y_FIELD_NAME: Final[str] = 'angles_y'
+_TRICK_SURF_MAP_TELEPORT_JSON_ANGLE_Z_FIELD_NAME: Final[str] = 'angles_z'
+_TRICK_SURF_MAP_TELEPORT_JSON_VELOCITY_X_FIELD_NAME: Final[str] = 'velocity_x'
+_TRICK_SURF_MAP_TELEPORT_JSON_VELOCITY_Y_FIELD_NAME: Final[str] = 'velocity_y'
+_TRICK_SURF_MAP_TELEPORT_JSON_VELOCITY_Z_FIELD_NAME: Final[str] = 'velocity_z'
+_TRICK_SURF_MAP_TELEPORT_JSON_IS_ACTIVE_FIELD_NAME: Final[str] = 'active'
+
+_TRICK_SURF_PLAYER_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_PLAYER_JSON_STEAM_ID2_FIELD_NAME: Final[str] = 'steamid'
+_TRICK_SURF_PLAYER_JSON_STEAM_ID64_FIELD_NAME: Final[str] = 'steamid64'
+_TRICK_SURF_PLAYER_JSON_AVATAR_URL_FIELD_NAME: Final[str] = 'avatar_url'
+_TRICK_SURF_PLAYER_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_PLAYER_JSON_COUNTRY_FIELD_NAME: Final[str] = 'country'
+_TRICK_SURF_PLAYER_JSON_COUNTRY_CODE_FIELD_NAME: Final[str] = 'country_code'
+_TRICK_SURF_PLAYER_JSON_VIP_LEVEL_FIELD_NAME: Final[str] = 'vip_level'
+_TRICK_SURF_PLAYER_JSON_FIRST_SERVER_JOIN_DATE_FIELD_NAME: Final[str] = 'first_connect'
+_TRICK_SURF_PLAYER_JSON_LAST_SERVER_JOIN_DATE_FIELD_NAME: Final[str] = 'last_connect'
+_TRICK_SURF_PLAYER_JSON_TIME_ALIVE_FIELD_NAME: Final[str] = 'time_alive'
+_TRICK_SURF_PLAYER_JSON_TIME_SPECTATE_FIELD_NAMED: Final[str] = 'time_specate'
+_TRICK_SURF_PLAYER_JSON_ROLE_FIELD_NAME: Final[str] = 'role'
+
+_TRICK_SURF_SERVER_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_SERVER_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_SERVER_JSON_GAME_ID_FIELD_NAME: Final[str] = 'game_id'
+_TRICK_SURF_SERVER_JSON_CREATE_TIMESTAMP_FIELD_NAME: Final[str] = 'date'
+_TRICK_SURF_SERVER_JSON_IP_FIELD_NAME: Final[str] = 'server_ip'
+_TRICK_SURF_SERVER_JSON_IS_WHITELIST_FIELD_NAME: Final[str] = 'whitelist'
+_TRICK_SURF_SERVER_JSON_IS_RECORDS_ACTIVATED_FIELD_NAME: Final[str] = 'records'
+_TRICK_SURF_SERVER_JSON_IS_PRIVATE_FIELD_NAME: Final[str] = 'private'
+_TRICK_SURF_SERVER_JSON_ONLINE_PLAYER_COUNT_FIELD_NAME: Final[str] = 'players_online'
+_TRICK_SURF_SERVER_JSON_MAP_FIELD_NAME: Final[str] = 'map'
+_TRICK_SURF_SERVER_JSON_GAME_NAME_FIELD_NAME: Final[str] = 'gameName'
+_TRICK_SURF_SERVER_JSON_PLAYER_COUNT_LIMIT_FIELD_NAME: Final[str] = 'maxNumberOfPlayers'
+_TRICK_SURF_SERVER_JSON_PLAYER_COUNT_FIELD_NAME: Final[str] = 'numberOfPlayers'
+_TRICK_SURF_SERVER_JSON_IS_PASSWORD_REQUIRED_FIELD_NAME: Final[str] = 'passwordRequired'
+_TRICK_SURF_SERVER_JSON_PLAYERS_FIELD_NAME: Final[str] = 'players'
+
+_TRICK_SURF_SERVER_MAP_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_SERVER_MAP_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+
+_TRICK_SURF_SERVER_PLAYER_JSON_ID_FIELD_NAME: Final[str] = 'player_id'
+_TRICK_SURF_SERVER_PLAYER_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_SERVER_PLAYER_JSON_AVATAR_URL_FIELD_NAME: Final[str] = 'avatar_url'
+
+_TRICK_SURF_EVENT_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_EVENT_JSON_TYPE_ID_FIELD_NAME: Final[str] = 'event_type_id'
+_TRICK_SURF_EVENT_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_EVENT_JSON_START_DATE_FIELD_NAME: Final[str] = 'date'
+_TRICK_SURF_EVENT_JSON_END_DATE_FIELD_NAME: Final[str] = 'end_date'
+_TRICK_SURF_EVENT_JSON_GOAL_COUNT_FIELD_NAME: Final[str] = 'goal'
+_TRICK_SURF_EVENT_JSON_GOAL_NAME_FIELD_NAME: Final[str] = 'goal_name'
+_TRICK_SURF_EVENT_JSON_DESCRIPTION_HTML_FIELD_NAME: Final[str] = 'description'
+_TRICK_SURF_EVENT_JSON_IMAGE_URL_FIELD_NAME: Final[str] = 'image_url'
+_TRICK_SURF_EVENT_JSON_PROGRESS_FIELD_NAME: Final[str] = 'progress'
+_TRICK_SURF_EVENT_JSON_PROGRESS_TOP_FIELD_NAME: Final[str] = 'progressTop'
+_TRICK_SURF_EVENT_JSON_TIME_TOP_FIELD_NAME: Final[str] = 'timeTop'
+_TRICK_SURF_EVENT_JSON_SPEED_TOP_FIELD_NAME: Final[str] = 'speedTop'
+_TRICK_SURF_EVENT_JSON_TRICKS_FIELD_NAME: Final[str] = 'tricks'
+
+_TRICK_SURF_EVENT_PROGRESS_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
+_TRICK_SURF_EVENT_PROGRESS_JSON_PROGRESS_FIELD_NAME: Final[str] = 'progress'
+_TRICK_SURF_EVENT_PROGRESS_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
+
+_TRICK_SURF_EVENT_TIME_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
+_TRICK_SURF_EVENT_TIME_JSON_TIME_FIELD_NAME: Final[str] = 'total_time'
+_TRICK_SURF_EVENT_TIME_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
+
+_TRICK_SURF_EVENT_SPEED_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
+_TRICK_SURF_EVENT_SPEED_JSON_SPEED_FIELD_NAME: Final[str] = 'total_speed'
+_TRICK_SURF_EVENT_SPEED_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
+
+_TRICK_SURF_EVENT_TRICK_JSON_MAP_ID_FIELD_NAME: Final[str] = 'map_id'
+_TRICK_SURF_EVENT_TRICK_JSON_MAP_NAME_FIELD_NAME: Final[str] = 'map_name'
+_TRICK_SURF_EVENT_TRICK_JSON_TRICK_ID_FIELD_NAME: Final[str] = 'trick_id'
+_TRICK_SURF_EVENT_TRICK_JSON_COMPLETE_COUNT_FIELD_NAME: Final[str] = 'event_completions'
+_TRICK_SURF_EVENT_TRICK_JSON_COMPLETE_PLAYER_COUNT_FIELD_NAME: Final[str] = 'event_player_completions'
+_TRICK_SURF_EVENT_TRICK_JSON_TRICK_FIELD_NAME: Final[str] = 'trick'
+
 _DEFAULT_TRICK_GXDS_SIFT_ENTRIES: Final[bool] = True
 _DEFAULT_TRICK_GXDS_USE_NEW_POINTS_SYSTEM: Final[bool] = False
 _DEFAULT_TRICK_GXDS_TITLE_CASE_NAMES: Final[bool] = False
 
-_DEFAULT_TRICK_SURF_USE_NEW_POINTS_SYSTEM: Final[bool] = False
-_DEFAULT_TRICK_SURF_TITLE_CASE_NAMES: Final[bool] = False
-
 
 _JSON_INDENT: Final[int] = 4
 _JSON_SEPARATORS: Final[tuple[str, str]] = (',', ':')
+_JSON_ENSURE_ASCII: Final[bool] = False
 
 _ESCAPE_ENCODING: Final[str] = 'unicode-escape'
+_ESCAPE_ENCODING_ERROR: Final[str] = _STRING_ENCODE_ERROR_REPLACE
 
 
 _ARGUMENT_POINTS_SYSTEM_OLD: Final[str] = 'old'
@@ -545,25 +715,19 @@ _BOOL_TRUE_NAMES: Final[tuple[str, ...]] = ('y', 'yes', 't', 'true', 'on', '1')
 _BOOL_FALSE_NAMES: Final[tuple[str, ...]] = ('n', 'no', 'f', 'false', 'off', '0')
 
 _CHOICES_ARGUMENT_POINTS_SYSTEM: Final[tuple[str, ...]] = (_ARGUMENT_POINTS_SYSTEM_OLD, _ARGUMENT_POINTS_SYSTEM_NEW)
-_CHOICES_ARGUMENT_TRICK_GXDS_POINTS_SYSTEM: Final[tuple[str, ...]] = _CHOICES_ARGUMENT_POINTS_SYSTEM
-_CHOICES_ARGUMENT_TRICK_SURF_POINTS_SYSTEM: Final[tuple[str, ...]] = _CHOICES_ARGUMENT_POINTS_SYSTEM
-_CHOICES_ARGUMENT_TITLE_CASE_TRICK_NAMES: Final[tuple[bool, ...]] = _BOOL_VALUES
-_CHOICES_ARGUMENT_TRICK_GXDS_TITLE_CASE_TRICK_NAMES: Final[tuple[bool, ...]] = _BOOL_VALUES
-_CHOICES_ARGUMENT_TRICK_SURF_TITLE_CASE_TRICK_NAMES: Final[tuple[bool, ...]] = _BOOL_VALUES
+_CHOICES_ARGUMENT_UNIFIED_POINTS_SYSTEM: Final[tuple[str, ...]] = _CHOICES_ARGUMENT_POINTS_SYSTEM
+_CHOICES_ARGUMENT_UNIFIED_TITLE_NAMES: Final[tuple[bool, ...]] = _BOOL_VALUES
 
 _DEFAULT_ARGUMENT_LICENSE: Final[bool] = False
 _DEFAULT_ARGUMENT_DUMP_TRICK_GXDS_DATA: Final[bool] = False
 _DEFAULT_ARGUMENT_DUMP_TRICK_SURF_DATA: Final[bool] = False
-_DEFAULT_ARGUMENT_POINTS_SYSTEM: Final[Optional[str]] = None
-_DEFAULT_ARGUMENT_TRICK_GXDS_POINTS_SYSTEM: Final[Optional[str]] = None
-_DEFAULT_ARGUMENT_TRICK_SURF_POINTS_SYSTEM: Final[Optional[str]] = None
-_DEFAULT_ARGUMENT_TITLE_CASE_TRICK_NAMES: Final[Optional[bool]] = None
-_DEFAULT_ARGUMENT_TRICK_GXDS_TITLE_CASE_TRICK_NAMES: Final[Optional[bool]] = None
-_DEFAULT_ARGUMENT_TRICK_SURF_TITLE_CASE_TRICK_NAMES: Final[Optional[bool]] = None
+_DEFAULT_ARGUMENT_UNIFIED_POINTS_SYSTEM: Final[Optional[str]] = None
+_DEFAULT_ARGUMENT_UNIFIED_TITLE_NAMES: Final[Optional[bool]] = _DEFAULT_TRICK_GXDS_TITLE_CASE_NAMES
 
 _CONST_ARGUMENT_LICENSE: Final[bool] = not _DEFAULT_ARGUMENT_LICENSE
 _CONST_ARGUMENT_DUMP_TRICK_GXDS_DATA: Final[bool] = not _DEFAULT_ARGUMENT_DUMP_TRICK_GXDS_DATA
 _CONST_ARGUMENT_DUMP_TRICK_SURF_DATA: Final[bool] = not _DEFAULT_ARGUMENT_DUMP_TRICK_SURF_DATA
+_CONST_ARGUMENT_UNIFIED_TITLE_NAMES: Final[bool] = not _DEFAULT_ARGUMENT_UNIFIED_TITLE_NAMES
 
 
 def _unescape(s: Optional[str]) -> Optional[str]:
@@ -571,9 +735,9 @@ def _unescape(s: Optional[str]) -> Optional[str]:
         return s
 
     # Fix unicode escaped characters.
-    return s.encode(_ESCAPE_ENCODING) \
+    return s.encode(_ESCAPE_ENCODING, errors=_ESCAPE_ENCODING_ERROR) \
         .replace(b'\\\\u', b'\\u') \
-        .decode(_ESCAPE_ENCODING)
+        .decode(_ESCAPE_ENCODING, errors=_ESCAPE_ENCODING_ERROR)
 
 
 def _get_url_text(url: Optional[str]) -> Optional[str]:
@@ -710,10 +874,10 @@ def _dump_json(
     dump_path: Final[str] = os.path.join(file_path, file_name)
 
     with open(dump_path + _DUMP_JSON_FILE_EXT, _OPEN_FILE_WRITE_FLAG, encoding=_DUMP_JSON_FILE_ENCODING) as file:
-        file.write(_unescape(json.dumps(json_object, indent=_JSON_INDENT)))
+        file.write(_unescape(json.dumps(json_object, ensure_ascii=_JSON_ENSURE_ASCII, indent=_JSON_INDENT)))
 
     with open(dump_path + _DUMP_JSON_FILE_MIN_EXT, _OPEN_FILE_WRITE_FLAG, encoding=_DUMP_JSON_FILE_ENCODING) as file:
-        file.write(_unescape(json.dumps(json_object, separators=_JSON_SEPARATORS)))
+        file.write(_unescape(json.dumps(json_object, ensure_ascii=_JSON_ENSURE_ASCII, separators=_JSON_SEPARATORS)))
 
     return True
 
@@ -1025,18 +1189,145 @@ def _trick_gxds_dump_data(
         and _dump_json(_DUMP_UNIFIED_PATH, _DUMP_UNIFIED_SIFTED_NAME, sifted_json)
 
 
-# noinspection PyUnusedLocal
-def _trick_surf_dump_data(
-    use_new_points_system: Optional[bool] = None,
-    title_case_trick_names: Optional[bool] = None
-) -> bool:
-    if use_new_points_system is None:
-        use_new_points_system = _DEFAULT_TRICK_SURF_USE_NEW_POINTS_SYSTEM
+def _trick_surf_dump_data() -> bool:
+    games_json: Final[Optional[Any]] \
+        = _get_url_json(_TRICK_SURF_API_GAMES_URL)
 
-    if title_case_trick_names is None:
-        title_case_trick_names = _DEFAULT_TRICK_SURF_TITLE_CASE_NAMES
+    if not games_json:
+        return False
 
-    return False
+    maps_json: Final[Optional[Any]] \
+        = _get_url_json(_TRICK_SURF_API_MAPS_URL)
+
+    if not maps_json:
+        return False
+
+    players_json: Final[Optional[Any]] \
+        = _get_url_json(_TRICK_SURF_API_PLAYERS_URL)
+
+    if not players_json:
+        return False
+
+    servers_json: Final[Optional[Any]] \
+        = _get_url_json(_TRICK_SURF_API_SERVERS_URL)
+
+    if not servers_json:
+        return False
+
+    events_json: Final[Optional[Any]] \
+        = _get_url_json(_TRICK_SURF_API_EVENTS_URL)
+
+    if not events_json:
+        return False
+
+    game_map_tricks_json: Final[dict[int, Optional[dict[int, Optional[Any]]]]] = {}
+    for game_json in games_json:
+        game_id: int = int(game_json[_TRICK_SURF_GAME_JSON_ID_FIELD_NAME])
+
+        game_map_tricks_json[game_id] = {}
+        for map_json in maps_json:
+            map_id: int = int(map_json[_TRICK_SURF_MAP_JSON_ID_FIELD_NAME])
+
+            game_map_tricks_json[game_id][map_id] = _get_url_json(_TRICK_SURF_API_MAP_TRICKS_URL % (game_id, map_id))
+            if not game_map_tricks_json[game_id][map_id]:
+                game_map_tricks_json[game_id][map_id] = None
+
+        if not game_map_tricks_json[game_id]:
+            game_map_tricks_json[game_id] = None
+
+    map_triggers_json: Final[dict[int, Optional[Any]]] = {}
+    map_teleports_json: Final[dict[int, Optional[Any]]] = {}
+    for map_json in maps_json:
+        map_id: int = int(map_json[_TRICK_SURF_MAP_JSON_ID_FIELD_NAME])
+
+        map_triggers_json[map_id] = _get_url_json(_TRICK_SURF_API_MAP_TRIGGERS_URL % map_id)
+        if not map_triggers_json[map_id]:
+            map_triggers_json[map_id] = None
+
+        map_teleports_json[map_id] = _get_url_json(_TRICK_SURF_API_MAP_TELEPORTS_URL % map_id)
+        if not map_teleports_json[map_id]:
+            map_teleports_json[map_id] = None
+
+    is_success: bool = _dump_json(_DUMP_TRICK_SURF_GAMES_PATH, None, games_json) \
+        and _dump_json(_DUMP_TRICK_SURF_MAPS_PATH, None, maps_json) \
+        and _dump_json(_DUMP_TRICK_SURF_PLAYERS_PATH, None, players_json) \
+        and _dump_json(_DUMP_TRICK_SURF_SERVERS_PATH, None, servers_json) \
+        and _dump_json(_DUMP_TRICK_SURF_EVENTS_PATH, None, events_json)
+
+    if not is_success:
+        return False
+
+    for game_json in games_json:
+        game_id: int = int(game_json[_TRICK_SURF_GAME_JSON_ID_FIELD_NAME])
+        is_success = _dump_json(_DUMP_TRICK_SURF_GAMES_PATH, str(game_id), game_json)
+        if not is_success:
+            return False
+
+    for map_json in maps_json:
+        map_id: int = int(map_json[_TRICK_SURF_MAP_JSON_ID_FIELD_NAME])
+        is_success = _dump_json(_DUMP_TRICK_SURF_MAPS_PATH, str(map_id), map_json)
+        if not is_success:
+            return False
+
+    for player_json in players_json:
+        player_id: int = int(player_json[_TRICK_SURF_PLAYER_JSON_ID_FIELD_NAME])
+        is_success = _dump_json(_DUMP_TRICK_SURF_PLAYERS_PATH, str(player_id), player_json)
+        if not is_success:
+            return False
+
+    for server_json in servers_json:
+        server_id: int = int(server_json[_TRICK_SURF_SERVER_JSON_ID_FIELD_NAME])
+        is_success = _dump_json(_DUMP_TRICK_SURF_SERVERS_PATH, str(server_id), server_json)
+        if not is_success:
+            return False
+
+    for event_json in events_json:
+        event_id: int = int(event_json[_TRICK_SURF_EVENT_JSON_ID_FIELD_NAME])
+        is_success = _dump_json(_DUMP_TRICK_SURF_EVENTS_PATH, str(event_id), event_json)
+        if not is_success:
+            return False
+
+    for game_id, map_tricks_json in game_map_tricks_json.items():
+        for map_id, tricks_json in map_tricks_json.items():
+            dump_path: str = _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_PATH % (game_id, map_id)
+
+            is_success = _dump_json(dump_path, None, tricks_json)
+            if not is_success:
+                return False
+
+            for trick_json in tricks_json:
+                trick_id: int = int(trick_json[_TRICK_SURF_MAP_TRICK_JSON_ID_FIELD_NAME])
+                is_success = _dump_json(dump_path, str(trick_id), trick_json)
+                if not is_success:
+                    return False
+
+    for map_id, triggers_json in map_triggers_json.items():
+        dump_path: str = _DUMP_TRICK_SURF_MAPS_MAP_ID_TRIGGERS_PATH % map_id
+
+        is_success = _dump_json(dump_path, None, triggers_json)
+        if not is_success:
+            return False
+
+        for trigger_json in triggers_json:
+            trigger_id: int = int(trigger_json[_TRICK_SURF_MAP_TRIGGER_JSON_ID_FIELD_NAME])
+            is_success = _dump_json(dump_path, str(trigger_id), trigger_json)
+            if not is_success:
+                return False
+
+    for map_id, teleports_json in map_teleports_json.items():
+        dump_path: str = _DUMP_TRICK_SURF_MAPS_MAP_ID_TELEPORTS_PATH % map_id
+
+        is_success = _dump_json(dump_path, None, teleports_json)
+        if not is_success:
+            return False
+
+        for teleport_json in teleports_json:
+            teleport_id: int = int(teleport_json[_TRICK_SURF_MAP_TELEPORT_JSON_ID_FIELD_NAME])
+            is_success = _dump_json(dump_path, str(teleport_id), teleport_json)
+            if not is_success:
+                return False
+
+    return True
 
 
 def _main() -> None:
@@ -1053,78 +1344,39 @@ def _main() -> None:
     )
 
     arg_parser.add_argument(
-        '--dump-trick-gxds-data',
+        '--dump-trick-gxds',
         help='dump trick gxds data to json files',
-        dest='is_dump_trick_gxds_data_flag',
+        dest='is_dump_trick_gxds_flag',
         action='store_const',
         const=_CONST_ARGUMENT_DUMP_TRICK_GXDS_DATA,
         default=_DEFAULT_ARGUMENT_DUMP_TRICK_GXDS_DATA
     )
 
     arg_parser.add_argument(
-        '--dump-trick-surf-data',
+        '--dump-trick-surf',
         help='dump trick surf data to json files',
-        dest='is_dump_trick_surf_data_flag',
+        dest='is_dump_trick_surf_flag',
         action='store_const',
         const=_CONST_ARGUMENT_DUMP_TRICK_SURF_DATA,
         default=_DEFAULT_ARGUMENT_DUMP_TRICK_SURF_DATA
     )
 
     arg_parser.add_argument(
-        '--points-system',
-        help='type of points system to use for all data dump',
-        dest='points_system',
+        '--unified-points-system',
+        help='type of points system to use for unified~sifted data dump',
+        dest='unified_points_system',
         action='store',
-        choices=_CHOICES_ARGUMENT_POINTS_SYSTEM,
-        default=_DEFAULT_ARGUMENT_POINTS_SYSTEM
+        choices=_CHOICES_ARGUMENT_UNIFIED_POINTS_SYSTEM,
+        default=_DEFAULT_ARGUMENT_UNIFIED_POINTS_SYSTEM
     )
 
     arg_parser.add_argument(
-        '--trick-gxds-points-system',
-        help='type of points system to use for trick gxds data dumps',
-        dest='trick_gxds_points_system',
-        action='store',
-        choices=_CHOICES_ARGUMENT_TRICK_GXDS_POINTS_SYSTEM,
-        default=_DEFAULT_ARGUMENT_TRICK_GXDS_POINTS_SYSTEM
-    )
-
-    arg_parser.add_argument(
-        '--trick-surf-points-system',
-        help='type of points system to use for trick surf data dumps',
-        dest='trick_surf_points_system',
-        action='store',
-        choices=_CHOICES_ARGUMENT_TRICK_SURF_POINTS_SYSTEM,
-        default=_DEFAULT_ARGUMENT_TRICK_SURF_POINTS_SYSTEM
-    )
-
-    arg_parser.add_argument(
-        '--title-case-trick-names',
-        type=_str_to_bool,
-        help='convert trick names to title case for all data dumps',
-        dest='title_case_trick_names',
-        action='store',
-        choices=_CHOICES_ARGUMENT_TITLE_CASE_TRICK_NAMES,
-        default=_DEFAULT_ARGUMENT_TITLE_CASE_TRICK_NAMES
-    )
-
-    arg_parser.add_argument(
-        '--trick-gxds-title-case-trick-names',
-        type=_str_to_bool,
-        help='convert trick names to title case for trick gxds data dumps',
-        dest='trick_gxds_title_case_trick_names',
-        action='store',
-        choices=_CHOICES_ARGUMENT_TRICK_GXDS_TITLE_CASE_TRICK_NAMES,
-        default=_DEFAULT_ARGUMENT_TRICK_GXDS_TITLE_CASE_TRICK_NAMES
-    )
-
-    arg_parser.add_argument(
-        '--trick-surf-title-case-trick-names',
-        type=_str_to_bool,
-        help='convert trick names to title case for trick surf data dumps',
-        dest='trick_surf_title_case_trick_names',
-        action='store',
-        choices=_CHOICES_ARGUMENT_TRICK_SURF_TITLE_CASE_TRICK_NAMES,
-        default=_DEFAULT_ARGUMENT_TRICK_SURF_TITLE_CASE_TRICK_NAMES
+        '--unified-title-names',
+        help='convert trick names to title case for unified~sifted data dump',
+        dest='is_unified_title_names_flag',
+        action='store_const',
+        const=_CONST_ARGUMENT_UNIFIED_TITLE_NAMES,
+        default=_DEFAULT_ARGUMENT_UNIFIED_TITLE_NAMES
     )
 
     args: Final[ArgumentNamespace] = arg_parser.parse_args()
@@ -1142,57 +1394,21 @@ def _main() -> None:
 
         return
 
-    use_new_points_system: Final[Optional[bool]] \
-        = _NEW_POINTS_SYSTEM_BOOL.get(args.points_system)
-
-    if use_new_points_system is not None:
-        if args.trick_gxds_points_system is None:
-            args.trick_gxds_points_system = args.points_system
-
-        if args.trick_surf_points_system is None:
-            args.trick_surf_points_system = args.points_system
-
-    trick_gxds_use_new_points_system: Final[Optional[bool]] \
-        = _NEW_POINTS_SYSTEM_BOOL.get(args.trick_gxds_points_system)
-
-    trick_surf_use_new_points_system: Final[Optional[bool]] \
-        = _NEW_POINTS_SYSTEM_BOOL.get(args.trick_surf_points_system)
-
-    if args.title_case_trick_names is not None:
-        if args.trick_gxds_title_case_trick_names is None:
-            args.trick_gxds_title_case_trick_names = args.title_case_trick_names
-
-        if args.trick_surf_title_case_trick_names is None:
-            args.trick_surf_title_case_trick_names = args.title_case_trick_names
-
-    trick_gxds_title_case_trick_names: Final[Optional[bool]] = \
-        args.trick_gxds_title_case_trick_names
-
-    trick_surf_title_case_trick_names: Final[Optional[bool]] = \
-        args.trick_surf_title_case_trick_names
+    use_new_points_system: Final[Optional[bool]] = _NEW_POINTS_SYSTEM_BOOL.get(args.unified_points_system)
+    title_case_trick_names: Final[Optional[bool]] = args.is_unified_title_names_flag
 
     # noinspection PyUnusedLocal
     is_success: Optional[bool] = None
 
-    if args.is_dump_trick_gxds_data_flag:
-        is_success \
-            = _trick_gxds_dump_data(
-                trick_gxds_use_new_points_system,
-                trick_gxds_title_case_trick_names
-            )
-
+    if args.is_dump_trick_gxds_flag:
+        is_success = _trick_gxds_dump_data(use_new_points_system, title_case_trick_names)
         if is_success:
             print(_SUCCESS_MESSAGE_DUMP_TRICK_GXDS_DATA, file=_STD_OUT_STREAM)
         else:
             print(_FAILURE_MESSAGE_DUMP_TRICK_GXDS_DATA, file=_STD_ERR_STREAM)
 
-    if args.is_dump_trick_surf_data_flag:
-        is_success \
-            = _trick_surf_dump_data(
-                trick_surf_use_new_points_system,
-                trick_surf_title_case_trick_names
-            )
-
+    if args.is_dump_trick_surf_flag:
+        is_success = _trick_surf_dump_data()
         if is_success:
             print(_SUCCESS_MESSAGE_DUMP_TRICK_SURF_DATA, file=_STD_OUT_STREAM)
         else:
