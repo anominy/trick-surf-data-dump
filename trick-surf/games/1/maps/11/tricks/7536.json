@@ -1,0 +1,78 @@
+{
+    "id": 7536,
+    "map_id": 11,
+    "name": "Philadelphia",
+    "date": "2023-05-08T18:39:03.000Z",
+    "last_updated": "2024-04-13T16:53:19.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated_author_id": 480,
+    "active": 1,
+    "points": 1275,
+    "tier": 7,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 2,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 9,
+    "playersCompleted": 8,
+    "trick_sequence": [
+        {
+            "trigger_id": 1975,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1965,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1957,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1948,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1827,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1826,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1907,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1838,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2009,
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2046,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2019,
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

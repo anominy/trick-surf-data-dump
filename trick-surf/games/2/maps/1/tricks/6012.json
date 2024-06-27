@@ -1,0 +1,48 @@
+{
+    "id": 6012,
+    "map_id": 1,
+    "name": "Duke's Flawlecopter",
+    "date": "2022-08-24T15:58:32.000Z",
+    "last_updated": "2022-11-02T15:48:05.000Z",
+    "author": "Façade",
+    "author_id": 2,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 1800,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 5,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 69,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 6,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

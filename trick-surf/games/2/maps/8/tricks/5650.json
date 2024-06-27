@@ -1,0 +1,43 @@
+{
+    "id": 5650,
+    "map_id": 8,
+    "name": "W Trick",
+    "date": "2022-06-10T04:44:42.000Z",
+    "last_updated": "2022-06-13T05:02:39.000Z",
+    "author": "chief",
+    "author_id": 75,
+    "last_updated_author_id": 75,
+    "active": 1,
+    "points": 400,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 685,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 704,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1067,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

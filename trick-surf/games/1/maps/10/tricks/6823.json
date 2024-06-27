@@ -1,0 +1,48 @@
+{
+    "id": 6823,
+    "map_id": 10,
+    "name": "The Bullet",
+    "date": "2023-01-21T09:49:54.000Z",
+    "last_updated": "2024-06-18T09:24:52.000Z",
+    "author": "ryuko // talk soon <3",
+    "author_id": 4963,
+    "last_updated_author_id": 147,
+    "active": 1,
+    "points": 1200,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 38,
+    "playersCompleted": 7,
+    "trick_sequence": [
+        {
+            "trigger_id": 1479,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1463,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1462,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1226,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1273,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

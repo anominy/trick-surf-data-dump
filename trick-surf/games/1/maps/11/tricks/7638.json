@@ -1,0 +1,73 @@
+{
+    "id": 7638,
+    "map_id": 11,
+    "name": "Some Icarus Spell",
+    "date": "2023-06-01T14:35:06.000Z",
+    "last_updated": null,
+    "author": "discount",
+    "author_id": 5482,
+    "last_updated_author_id": 103,
+    "active": 1,
+    "points": 650,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": 2,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 14,
+    "playersCompleted": 5,
+    "trick_sequence": [
+        {
+            "trigger_id": 1935,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2387,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2389,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2388,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2289,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2204,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2053,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1920,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2080,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2136,
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

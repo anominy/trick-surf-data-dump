@@ -1,0 +1,73 @@
+{
+    "id": 8446,
+    "map_id": 12,
+    "name": "Figure Eight",
+    "date": "2023-12-02T20:20:00.000Z",
+    "last_updated": null,
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated_author_id": 103,
+    "active": 1,
+    "points": 150,
+    "tier": 2,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 0,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 135,
+    "playersCompleted": 22,
+    "trick_sequence": [
+        {
+            "trigger_id": 2570,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2574,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2844,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2869,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2975,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2844,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2869,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2974,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2844,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2577,
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": 4852,
+    "map_id": 7,
+    "name": "Hard Shotgun Slope Walk",
+    "date": "2021-09-09T11:36:07.000Z",
+    "last_updated": "2022-10-01T19:08:44.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 1800,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 635,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 631,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 647,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 632,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 631,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 631,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 606,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 632,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 855,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 594,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 846,
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

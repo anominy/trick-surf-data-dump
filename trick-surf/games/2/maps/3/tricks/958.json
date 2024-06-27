@@ -1,0 +1,73 @@
+{
+    "id": 958,
+    "map_id": 3,
+    "name": "Super Hard Hollywood",
+    "date": "2022-01-01T21:00:00.000Z",
+    "last_updated": "2022-01-25T23:14:37.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 46,
+    "active": 1,
+    "points": 2300,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 3,
+    "playersCompleted": 3,
+    "trick_sequence": [
+        {
+            "trigger_id": 262,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 279,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 230,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 245,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 231,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 245,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 240,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 934,
+            "order": 8,
+            "passthrough": 1
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "id": 8855,
+    "map_id": 12,
+    "name": "Walk the Planck",
+    "date": "2024-01-20T03:47:34.000Z",
+    "last_updated": "2024-01-21T04:19:19.000Z",
+    "author": "freakacele",
+    "author_id": 169,
+    "last_updated_author_id": 169,
+    "active": 1,
+    "points": 1000,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 5,
+    "playersCompleted": 3,
+    "trick_sequence": [
+        {
+            "trigger_id": 2830,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2829,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2874,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3091,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2829,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2534,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3081,
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 5114,
+    "map_id": 5,
+    "name": "pop UP",
+    "date": "2022-02-05T09:04:10.000Z",
+    "last_updated": "2022-02-05T09:04:29.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated_author_id": 181,
+    "active": 1,
+    "points": 150,
+    "tier": 2,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 428,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 940,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 441,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 428,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 940,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 440,
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

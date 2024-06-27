@@ -1,0 +1,63 @@
+{
+    "id": 8568,
+    "map_id": 12,
+    "name": "Battery Leakage",
+    "date": "2023-12-25T14:40:51.000Z",
+    "last_updated": null,
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "points": 1235,
+    "tier": 7,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 6,
+    "playersCompleted": 5,
+    "trick_sequence": [
+        {
+            "trigger_id": 2451,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2454,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2744,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2831,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2762,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2574,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2582,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2895,
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

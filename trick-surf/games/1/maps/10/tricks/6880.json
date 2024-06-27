@@ -1,0 +1,43 @@
+{
+    "id": 6880,
+    "map_id": 10,
+    "name": "Three to Four",
+    "date": "2023-01-27T13:29:13.000Z",
+    "last_updated": "2024-02-22T15:08:13.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "points": 200,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 240,
+    "playersCompleted": 35,
+    "trick_sequence": [
+        {
+            "trigger_id": 1209,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2220,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1771,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1212,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

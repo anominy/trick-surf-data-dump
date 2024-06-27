@@ -1,0 +1,83 @@
+{
+    "id": 9867,
+    "map_id": 10,
+    "name": "Backtrack",
+    "date": "2024-05-03T16:23:08.000Z",
+    "last_updated": null,
+    "author": "william",
+    "author_id": 347,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "points": 1200,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 2,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 7,
+    "playersCompleted": 5,
+    "trick_sequence": [
+        {
+            "trigger_id": 1434,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1435,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1436,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1438,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1440,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1507,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1438,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1491,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1480,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1435,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1436,
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1740,
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

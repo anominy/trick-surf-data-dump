@@ -1,0 +1,68 @@
+{
+    "id": 873,
+    "map_id": 3,
+    "name": "Albtraum's G4",
+    "date": "2022-01-01T21:00:00.000Z",
+    "last_updated": "2022-01-07T19:22:18.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 209,
+    "active": 1,
+    "points": 950,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 40,
+    "playersCompleted": 13,
+    "trick_sequence": [
+        {
+            "trigger_id": 267,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 268,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 225,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 221,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 266,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 219,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 240,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 226,
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

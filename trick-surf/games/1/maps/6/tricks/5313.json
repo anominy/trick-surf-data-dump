@@ -1,0 +1,48 @@
+{
+    "id": 5313,
+    "map_id": 6,
+    "name": "Double Return",
+    "date": "2022-03-31T17:51:04.000Z",
+    "last_updated": "2022-03-31T17:58:33.000Z",
+    "author": "Addicted",
+    "author_id": 209,
+    "last_updated_author_id": 209,
+    "active": 1,
+    "points": 1000,
+    "tier": 5,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 19,
+    "playersCompleted": 16,
+    "trick_sequence": [
+        {
+            "trigger_id": 559,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 537,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 558,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 537,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 558,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "id": 7598,
+    "map_id": 11,
+    "name": "Concussion",
+    "date": "2023-05-22T07:37:40.000Z",
+    "last_updated": null,
+    "author": "william",
+    "author_id": 347,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "points": 275,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 1,
+    "hidden": 0,
+    "completions": 23,
+    "playersCompleted": 10,
+    "trick_sequence": [
+        {
+            "trigger_id": 2046,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2048,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1899,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2026,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2284,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2041,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2032,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2041,
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2151,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1859,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2079,
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

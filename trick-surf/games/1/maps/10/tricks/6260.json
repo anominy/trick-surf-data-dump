@@ -1,0 +1,48 @@
+{
+    "id": 6260,
+    "map_id": 10,
+    "name": "Off-Griddy!",
+    "date": "2022-10-30T22:11:11.000Z",
+    "last_updated": "2022-12-14T21:26:34.000Z",
+    "author": "twitch.tv/txcks",
+    "author_id": 53,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "points": 1000,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 174,
+    "playersCompleted": 31,
+    "trick_sequence": [
+        {
+            "trigger_id": 2178,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1742,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1679,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1263,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1430,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 9834,
+    "map_id": 8,
+    "name": "Cure for Obesity",
+    "date": "2024-04-30T22:22:20.000Z",
+    "last_updated": null,
+    "author": "solar fields",
+    "author_id": 1159,
+    "last_updated_author_id": 406,
+    "active": 1,
+    "points": 1150,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 0,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 13,
+    "playersCompleted": 5,
+    "trick_sequence": [
+        {
+            "trigger_id": 754,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 683,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1027,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 743,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 731,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 685,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

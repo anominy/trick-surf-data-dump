@@ -1,0 +1,43 @@
+{
+    "id": 6547,
+    "map_id": 1,
+    "name": "Tobe Go Home to awp water from awp",
+    "date": "2022-12-18T03:21:10.000Z",
+    "last_updated": null,
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 1500,
+    "tier": 5,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 10,
+    "playersCompleted": 7,
+    "trick_sequence": [
+        {
+            "trigger_id": 1,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 35,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 61,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 4,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

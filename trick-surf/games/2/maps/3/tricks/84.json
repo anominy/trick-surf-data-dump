@@ -1,0 +1,33 @@
+{
+    "id": 84,
+    "map_id": 3,
+    "name": "sky to box",
+    "date": "2022-01-01T21:00:00.000Z",
+    "last_updated": "2022-01-04T15:53:27.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 209,
+    "active": 1,
+    "points": 50,
+    "tier": 1,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 146,
+    "playersCompleted": 61,
+    "trick_sequence": [
+        {
+            "trigger_id": 252,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 208,
+            "order": 1,
+            "passthrough": 0
+        }
+    ]
+}

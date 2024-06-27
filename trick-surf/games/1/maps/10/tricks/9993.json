@@ -1,0 +1,58 @@
+{
+    "id": 9993,
+    "map_id": 10,
+    "name": "Delphinium",
+    "date": "2024-05-19T12:46:56.000Z",
+    "last_updated": "2024-06-18T13:09:24.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated_author_id": 18519,
+    "active": 1,
+    "points": 1225,
+    "tier": 7,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 5,
+    "playersCompleted": 4,
+    "trick_sequence": [
+        {
+            "trigger_id": 1479,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1480,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1435,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1436,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1345,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1435,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1479,
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

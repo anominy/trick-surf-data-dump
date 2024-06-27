@@ -1,0 +1,83 @@
+{
+    "id": 8740,
+    "map_id": 12,
+    "name": "Spine Splash",
+    "date": "2024-01-10T20:56:03.000Z",
+    "last_updated": "2024-01-10T21:01:14.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated_author_id": 103,
+    "active": 1,
+    "points": 300,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 4,
+    "no_jump": 1,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 3129,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3119,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3100,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3162,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2911,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2913,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2628,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2913,
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2626,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2628,
+            "order": 7,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2756,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2932,
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

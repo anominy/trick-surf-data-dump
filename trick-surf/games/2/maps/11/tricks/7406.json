@@ -1,0 +1,53 @@
+{
+    "id": 7406,
+    "map_id": 11,
+    "name": "TripleHeadTwister5000",
+    "date": "2023-04-16T13:57:12.000Z",
+    "last_updated": "2023-05-20T18:31:02.000Z",
+    "author": "Paul",
+    "author_id": 8969,
+    "last_updated_author_id": 103,
+    "active": 1,
+    "points": 225,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 0,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 2184,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2020,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1784,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2088,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2020,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1929,
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

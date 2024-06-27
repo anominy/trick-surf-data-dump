@@ -1,0 +1,93 @@
+{
+    "id": 10456,
+    "map_id": 3,
+    "name": "River's Edge",
+    "date": "2024-06-18T07:47:34.000Z",
+    "last_updated": null,
+    "author": "jessetooler",
+    "author_id": 4561,
+    "last_updated_author_id": 4561,
+    "active": 1,
+    "points": 10000,
+    "tier": 8,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 252,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 266,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 240,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 256,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 260,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 240,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 261,
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 229,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 226,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 240,
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 219,
+            "order": 11,
+            "passthrough": 0
+        }
+    ]
+}

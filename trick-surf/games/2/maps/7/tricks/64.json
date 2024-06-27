@@ -1,0 +1,58 @@
+{
+    "id": 64,
+    "map_id": 7,
+    "name": "Shotty Bender",
+    "date": "2021-08-16T18:00:00.000Z",
+    "last_updated": "2022-08-05T03:05:36.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 2000,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 633,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 631,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 647,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 631,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 641,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 605,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 610,
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

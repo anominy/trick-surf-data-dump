@@ -1,0 +1,43 @@
+{
+    "id": 3223,
+    "map_id": 1,
+    "name": "Awp over main to Chrome",
+    "date": "2020-12-22T00:00:00.000Z",
+    "last_updated": "2021-03-30T05:16:08.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 5,
+    "active": 1,
+    "points": 175,
+    "tier": 2,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 1,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 31,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 4,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 6,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

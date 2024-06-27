@@ -1,0 +1,33 @@
+{
+    "id": 5690,
+    "map_id": 8,
+    "name": "Jail Strafe from Box",
+    "date": "2022-06-18T22:25:19.000Z",
+    "last_updated": "2023-06-29T23:54:06.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated_author_id": 1,
+    "active": 1,
+    "points": 500,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 0,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 277,
+    "playersCompleted": 36,
+    "trick_sequence": [
+        {
+            "trigger_id": 690,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 743,
+            "order": 1,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": 555,
+    "map_id": 3,
+    "name": "Sneaky Climb",
+    "date": "2022-01-01T21:00:00.000Z",
+    "last_updated": "2022-01-28T22:57:44.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 209,
+    "active": 1,
+    "points": 500,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 14,
+    "playersCompleted": 11,
+    "trick_sequence": [
+        {
+            "trigger_id": 262,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 245,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 240,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 934,
+            "order": 4,
+            "passthrough": 1
+        }
+    ]
+}

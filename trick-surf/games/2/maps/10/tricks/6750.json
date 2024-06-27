@@ -1,0 +1,73 @@
+{
+    "id": 6750,
+    "map_id": 10,
+    "name": "Subway Missed Stop",
+    "date": "2023-01-16T11:59:54.000Z",
+    "last_updated": "2024-03-01T02:17:33.000Z",
+    "author": "discount",
+    "author_id": 5482,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "points": 600,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 1586,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1585,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1301,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1308,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1380,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3184,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1382,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2175,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1236,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1266,
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

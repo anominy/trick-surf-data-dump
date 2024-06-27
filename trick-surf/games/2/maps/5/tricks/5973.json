@@ -1,0 +1,38 @@
+{
+    "id": 5973,
+    "map_id": 5,
+    "name": "Plunge",
+    "date": "2022-08-13T12:28:32.000Z",
+    "last_updated": "2022-08-13T23:18:51.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 400,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 442,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 405,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 403,
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

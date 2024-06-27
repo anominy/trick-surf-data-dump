@@ -1,0 +1,48 @@
+{
+    "id": 2684,
+    "map_id": 8,
+    "name": "Long Wrap from Jail",
+    "date": "2022-05-05T18:00:00.000Z",
+    "last_updated": "2023-10-14T12:59:35.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 100,
+    "tier": 2,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 692,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 704,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 654,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 704,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

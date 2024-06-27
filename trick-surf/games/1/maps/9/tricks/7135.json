@@ -1,0 +1,48 @@
+{
+    "id": 7135,
+    "map_id": 9,
+    "name": "Hard Masog Return",
+    "date": "2023-02-24T18:00:00.000Z",
+    "last_updated": "2023-06-30T21:22:04.000Z",
+    "author": "IrynStyl",
+    "author_id": 2076,
+    "last_updated_author_id": 103,
+    "active": 1,
+    "points": 1050,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 10,
+    "playersCompleted": 10,
+    "trick_sequence": [
+        {
+            "trigger_id": 2363,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 811,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 813,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 808,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 811,
+            "order": 3,
+            "passthrough": 2
+        }
+    ]
+}

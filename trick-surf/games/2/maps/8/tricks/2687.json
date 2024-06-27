@@ -1,0 +1,38 @@
+{
+    "id": 2687,
+    "map_id": 8,
+    "name": "Cloud Wrap",
+    "date": "2022-05-05T18:00:00.000Z",
+    "last_updated": "2023-10-14T12:56:29.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 135,
+    "tier": 2,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 676,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 653,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

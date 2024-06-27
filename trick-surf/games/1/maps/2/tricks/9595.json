@@ -1,0 +1,43 @@
+{
+    "id": 9595,
+    "map_id": 2,
+    "name": "Flick Roof Core",
+    "date": "2024-04-14T06:24:32.000Z",
+    "last_updated": "2024-04-14T11:28:23.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated_author_id": 10,
+    "active": 1,
+    "points": 3775,
+    "tier": 8,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 1,
+    "playersCompleted": 1,
+    "trick_sequence": [
+        {
+            "trigger_id": 154,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 143,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 143,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 120,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

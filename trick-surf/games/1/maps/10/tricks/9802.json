@@ -1,0 +1,48 @@
+{
+    "id": 9802,
+    "map_id": 10,
+    "name": "Last Steps!",
+    "date": "2024-04-29T08:12:15.000Z",
+    "last_updated": "2024-04-29T08:16:13.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated_author_id": 10,
+    "active": 1,
+    "points": 1000,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 55,
+    "playersCompleted": 19,
+    "trick_sequence": [
+        {
+            "trigger_id": 1601,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1558,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1560,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1545,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1220,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 10072,
+    "map_id": 10,
+    "name": "serious King moment",
+    "date": "2024-06-01T06:47:36.000Z",
+    "last_updated": "2024-06-01T06:48:54.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated_author_id": 10,
+    "active": 1,
+    "points": 1225,
+    "tier": 7,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 2,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 33,
+    "playersCompleted": 7,
+    "trick_sequence": [
+        {
+            "trigger_id": 1215,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1221,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1206,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1769,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

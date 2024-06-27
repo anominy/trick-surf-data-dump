@@ -1,0 +1,88 @@
+{
+    "id": 9165,
+    "map_id": 10,
+    "name": "Death Spiral",
+    "date": "2024-03-04T22:52:39.000Z",
+    "last_updated": "2024-03-04T23:08:51.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "points": 1275,
+    "tier": 7,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 1,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 1586,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1595,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1587,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1267,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2211,
+            "order": 3,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 1274,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2211,
+            "order": 4,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 1207,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1771,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1670,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1238,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1380,
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1359,
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

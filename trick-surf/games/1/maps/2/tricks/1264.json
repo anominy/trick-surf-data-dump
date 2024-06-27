@@ -1,0 +1,48 @@
+{
+    "id": 1264,
+    "map_id": 2,
+    "name": "Duke Hop",
+    "date": "2020-12-25T21:00:00.000Z",
+    "last_updated": "2021-03-07T21:47:29.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 23,
+    "active": 1,
+    "points": 250,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 406,
+    "playersCompleted": 37,
+    "trick_sequence": [
+        {
+            "trigger_id": 85,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 84,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 100,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 82,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 183,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

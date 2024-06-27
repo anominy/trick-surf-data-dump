@@ -1,0 +1,68 @@
+{
+    "id": 7113,
+    "map_id": 9,
+    "name": "Tower Defense",
+    "date": "2023-02-24T18:00:00.000Z",
+    "last_updated": "2023-02-24T22:08:45.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 450,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 829,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 834,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 818,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 802,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2356,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 802,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 818,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 834,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 829,
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

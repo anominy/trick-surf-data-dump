@@ -1,0 +1,43 @@
+{
+    "id": 8017,
+    "map_id": 8,
+    "name": "Witchcraft",
+    "date": "2023-10-13T19:31:33.000Z",
+    "last_updated": null,
+    "author": "Witch",
+    "author_id": 1386,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 500,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 62,
+    "playersCompleted": 18,
+    "trick_sequence": [
+        {
+            "trigger_id": 696,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 648,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

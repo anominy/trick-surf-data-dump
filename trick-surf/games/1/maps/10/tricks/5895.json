@@ -1,0 +1,78 @@
+{
+    "id": 5895,
+    "map_id": 10,
+    "name": "Roundabout",
+    "date": "2022-10-28T18:00:00.000Z",
+    "last_updated": "2022-10-28T21:20:36.000Z",
+    "author": "pretzL & Friends",
+    "author_id": null,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 75,
+    "tier": 1,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 1,
+    "hidden": 0,
+    "completions": 115,
+    "playersCompleted": 62,
+    "trick_sequence": [
+        {
+            "trigger_id": 1557,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1435,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1438,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1439,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1440,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1438,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1439,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1438,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1440,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1438,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1756,
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

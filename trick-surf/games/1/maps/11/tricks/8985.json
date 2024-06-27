@@ -1,0 +1,143 @@
+{
+    "id": 8985,
+    "map_id": 11,
+    "name": "Euthanasia Coaster",
+    "date": "2024-02-16T16:55:13.000Z",
+    "last_updated": "2024-02-16T17:00:45.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "points": 1200,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 2,
+    "playersCompleted": 2,
+    "trick_sequence": [
+        {
+            "trigger_id": 1831,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1836,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1829,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1943,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1829,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2405,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1862,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1855,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1984,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2151,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1935,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1807,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1798,
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2404,
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2077,
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1798,
+            "order": 11,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1798,
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1800,
+            "order": 12,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2404,
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2000,
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1798,
+            "order": 14,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1791,
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2290,
+            "order": 15,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1981,
+            "order": 16,
+            "passthrough": 0
+        }
+    ]
+}

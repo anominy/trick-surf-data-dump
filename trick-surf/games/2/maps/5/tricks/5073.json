@@ -1,0 +1,53 @@
+{
+    "id": 5073,
+    "map_id": 5,
+    "name": "Medium Jump Around Pillar",
+    "date": "2022-01-31T16:16:40.000Z",
+    "last_updated": "2022-11-22T21:31:55.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 200,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 461,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 956,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 947,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 943,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 946,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 442,
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

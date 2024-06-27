@@ -1,0 +1,73 @@
+{
+    "id": 387,
+    "map_id": 3,
+    "name": "habreszona",
+    "date": "2022-01-01T21:00:00.000Z",
+    "last_updated": "2022-01-20T22:17:45.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 209,
+    "active": 1,
+    "points": 350,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 9,
+    "playersCompleted": 9,
+    "trick_sequence": [
+        {
+            "trigger_id": 227,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 240,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 243,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 935,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 209,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 935,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 211,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 240,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 249,
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

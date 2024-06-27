@@ -1,0 +1,73 @@
+{
+    "id": 9733,
+    "map_id": 3,
+    "name": "the definition of fun",
+    "date": "2024-04-21T21:57:12.000Z",
+    "last_updated": null,
+    "author": "ANC Chairman",
+    "author_id": 15261,
+    "last_updated_author_id": 15261,
+    "active": 1,
+    "points": 1000,
+    "tier": 5,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 6,
+    "playersCompleted": 4,
+    "trick_sequence": [
+        {
+            "trigger_id": 252,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 247,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 208,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 240,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 255,
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

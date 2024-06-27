@@ -1,0 +1,38 @@
+{
+    "id": 4832,
+    "map_id": 7,
+    "name": "Jelly Flex",
+    "date": "2021-09-05T13:35:30.000Z",
+    "last_updated": "2021-09-05T13:35:59.000Z",
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated_author_id": 48,
+    "active": 1,
+    "points": 475,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": 7,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 35,
+    "playersCompleted": 20,
+    "trick_sequence": [
+        {
+            "trigger_id": 616,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 614,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 613,
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

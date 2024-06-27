@@ -1,0 +1,88 @@
+{
+    "id": 934,
+    "map_id": 3,
+    "name": "Maddafakka",
+    "date": "2022-01-01T21:00:00.000Z",
+    "last_updated": "2022-01-28T22:42:58.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 209,
+    "active": 1,
+    "points": 1500,
+    "tier": 5,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 5,
+    "playersCompleted": 5,
+    "trick_sequence": [
+        {
+            "trigger_id": 252,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 266,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 240,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 934,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 201,
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 934,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 927,
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "order": 7,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 252,
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "order": 8,
+            "passthrough": 1
+        }
+    ]
+}

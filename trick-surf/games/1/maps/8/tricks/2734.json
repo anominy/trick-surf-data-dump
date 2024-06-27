@@ -1,0 +1,48 @@
+{
+    "id": 2734,
+    "map_id": 8,
+    "name": "Double Banana Wrap",
+    "date": "2022-05-05T18:00:00.000Z",
+    "last_updated": "2023-10-26T19:17:32.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated_author_id": 103,
+    "active": 1,
+    "points": 250,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 1,
+    "completions": 3455,
+    "playersCompleted": 131,
+    "trick_sequence": [
+        {
+            "trigger_id": 652,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 653,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 722,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 653,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

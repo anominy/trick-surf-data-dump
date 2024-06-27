@@ -1,0 +1,48 @@
+{
+    "id": 6001,
+    "map_id": 1,
+    "name": "2HigH C-walks Home",
+    "date": "2022-08-19T21:11:00.000Z",
+    "last_updated": null,
+    "author": "dimy",
+    "author_id": 174,
+    "last_updated_author_id": null,
+    "active": 1,
+    "points": 650,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 47,
+    "playersCompleted": 10,
+    "trick_sequence": [
+        {
+            "trigger_id": 4,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 61,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 35,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 61,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 6,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

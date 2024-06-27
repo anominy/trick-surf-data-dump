@@ -1,0 +1,53 @@
+{
+    "id": 2645,
+    "map_id": 5,
+    "name": "Elevate",
+    "date": "2022-01-31T12:00:00.000Z",
+    "last_updated": "2022-11-03T01:06:31.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 800,
+    "tier": 5,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 473,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 457,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 461,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 405,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 444,
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

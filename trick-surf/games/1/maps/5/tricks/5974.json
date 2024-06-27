@@ -1,0 +1,43 @@
+{
+    "id": 5974,
+    "map_id": 5,
+    "name": "Precise",
+    "date": "2022-08-13T12:29:18.000Z",
+    "last_updated": "2022-08-13T23:20:44.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "points": 600,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 7,
+    "playersCompleted": 5,
+    "trick_sequence": [
+        {
+            "trigger_id": 442,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 405,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 403,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 905,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

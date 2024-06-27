@@ -1,0 +1,43 @@
+{
+    "id": 4869,
+    "map_id": 7,
+    "name": "Bend Around Main",
+    "date": "2021-09-09T18:57:17.000Z",
+    "last_updated": "2021-09-09T19:02:56.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated_author_id": 1,
+    "active": 1,
+    "points": 75,
+    "tier": 1,
+    "min_velocity": null,
+    "max_prestrafe": null,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 606,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 602,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 621,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 606,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

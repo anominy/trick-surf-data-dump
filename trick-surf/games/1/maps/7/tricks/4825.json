@@ -1,0 +1,48 @@
+{
+    "id": 4825,
+    "map_id": 7,
+    "name": "Jail Break",
+    "date": "2021-09-05T12:39:18.000Z",
+    "last_updated": null,
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated_author_id": null,
+    "active": 1,
+    "points": 160,
+    "tier": 2,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 63,
+    "playersCompleted": 28,
+    "trick_sequence": [
+        {
+            "trigger_id": 611,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 612,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 636,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 612,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 636,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}
