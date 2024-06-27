@@ -635,7 +635,7 @@ def _str_to_title(
 
         word = word[0]
         if word_len <= 2 \
-                or not words[i][1].isdigit():
+                or (not words[i][1].isdigit() and not words[i][1].isupper()):
             word = word.upper()
 
         if word_len > 1:
