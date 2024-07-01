@@ -4,7 +4,7 @@
 # Trick Surf Data Dump
 ## About
 This project contains database dumps of [TrickGxds' SQL tables][trick-gxds-sql-tables-url]
-that were published in the late of 2022 and data retrieved from [TrickSurf API][trick-surf-api-url].
+that were published in the late of 2022 and data received from the [TrickSurf API][trick-surf-api-url].
 There are several types of data you can find — TrickGxds' raw SQL dumps of database,
 TrickGxds' SQL dumps of database converted to JSON files w/ friendly column names,
 TrickGxds' JSON dumps of tricks for their \`surf_ski_2\` CS:GO map, which is also present in CS:S recently,
