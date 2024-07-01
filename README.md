@@ -14,6 +14,13 @@ The sifted version contains only tricks that could be added to the CS:S version 
 also title cased trick names, fixed player names, and mapped trigger names to those used on CS:S TrickSurf.
 
 
+## Update Frequency
+The TrickGxds' original & unified data dumps won't be updated since it's an already dead project
+and those things here only for historical reasons & ability to add new tricks for other future projects.
+The TrickSurf API data dumps are updated weekly at 12:00 a.m. on Tuesday using GitHub Actions,
+a description of the workflow can be found in the [update-action.yml](./.github/workflows/update-action.yml) file.
+
+
 ## Structure & Data Paths
 ### TrickGxds' Database Raw Data
 + `/trick-gxds/<players|routes|tricks|triggers><.json|.min.json|.sql>`
