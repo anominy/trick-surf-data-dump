@@ -64,18 +64,17 @@ all needed packages to run the [main.py](./src/main.py) file.
 Run `python src/main.py --dump-trick-gxds --unified-points-system=old --unified-title-names` and
 it will dump everything it can to the [/trick-gxds/](./trick-gxds) & [/unified/](./unified) directories.
 
-```text
-SUCCESS :: TrickGxds :: Created & wrote data dumps to JSON files
-```
++ `SUCCESS :: TrickGxds :: Created & wrote data dumps to JSON files`
++ `-- FAILURE :: TrickGxds :: Couldn't create & write data dumps to JSON files`
+
 
 ### Dumping TrickSurf's Data
 Run `python src/main.py --dump-trick-surf` and it will dump everything it can to the [/trick-surf/](./trick-surf) directory.
 Be careful, dumping TrickSurf's API is an expensive operation, don't panic if it takes a long period of time, just wait
 or interrupt execution using <kbd>CTRL+C</kbd>.
-```text
-SUCCESS :: TrickSurf :: Created & wrote data dumps to JSON files
-```
 
++ `SUCCESS :: TrickSurf :: Created & wrote data dumps to JSON files`
++ `-- FAILURE :: TrickSurf :: Couldn't create & write data dumps to JSON files`
 
 ## Setting Development Environment
 Follow this [documentation](https://docs.python.org/3/library/venv.html) to
