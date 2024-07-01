@@ -24,6 +24,7 @@ a description of the workflow can be found in the [update-action.yml](./.github/
 ## Structure & Data Paths
 ### TrickGxds' Database Raw Data
 + `/trick-gxds/<players|routes|tricks|triggers><.json|.min.json|.sql>`
++ `/trick-gxds/ski2-tricks.txt`
 
 ### TrickGxds' Database Unified Data
 + `/unified/ski2-gxds-tricks~<original|sifted><.json|.min.json>`
