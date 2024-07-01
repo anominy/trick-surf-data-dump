@@ -23,6 +23,7 @@ from argparse import ArgumentParser, Namespace as ArgumentNamespace
 from subprocess import Popen
 from re import RegexFlag
 from datetime import datetime
+from requests import Response
 
 import sys
 import requests
@@ -741,20 +742,33 @@ def _unescape(s: Optional[str]) -> Optional[str]:
         .decode(_ESCAPE_ENCODING, errors=_ESCAPE_ENCODING_ERROR)
 
 
-def _get_url_text(url: Optional[str]) -> Optional[str]:
+def _get_url_response(url: Optional[str]) -> Optional[Response]:
     if not url:
         return None
 
-    return requests.get(url) \
-        .text
+    response: Final[Response] = requests.get(url)
+    response.raise_for_status()
+
+    if response.status_code == 204:
+        return None
+
+    return response
+
+
+def _get_url_text(url: Optional[str]) -> Optional[str]:
+    response: Final[Response] = _get_url_response(url)
+    if response is None:
+        return None
+
+    return response.text
 
 
 def _get_url_json(url: Optional[str]) -> Optional[Any]:
-    if not url:
+    response: Final[Response] = _get_url_response(url)
+    if response is None:
         return None
 
-    return requests.get(url) \
-        .json()
+    return response.json()
 
 
 def _str_to_bool(
