@@ -7,23 +7,16 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 1,
+    "players_online": 0,
     "map": {
-        "id": 10,
-        "name": "tsurf_concretejungle",
-        "target_name": "tsurf_concretejungle_b15",
-        "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
+        "id": 12,
+        "name": "tsurf_appreciation",
+        "target_name": "tsurf_appreciation_b09",
+        "image_url": "https://media.trick.surf/tsurf_appreciation.png"
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 1,
+    "numberOfPlayers": 0,
     "passwordRequired": false,
-    "players": [
-        {
-            "player_id": 1929,
-            "name": "fatlonzo",
-            "avatar_url": "https://avatars.steamstatic.com/2a5ba07120143a39d1f2b0e37c096fac3d0fab6e_full.jpg",
-            "server_id": 17
-        }
-    ]
+    "players": []
 }

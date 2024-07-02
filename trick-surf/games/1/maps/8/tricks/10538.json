@@ -1,0 +1,38 @@
+{
+    "id": 10538,
+    "map_id": 8,
+    "name": "High Weird Jump",
+    "date": "2024-06-30T23:20:45.000Z",
+    "last_updated": null,
+    "author": "neposeda",
+    "author_id": 10483,
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "points": 600,
+    "tier": 4,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 1,
+    "no_jump": 1,
+    "hidden": 0,
+    "completions": 7,
+    "playersCompleted": 3,
+    "trick_sequence": [
+        {
+            "trigger_id": 783,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 779,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3211,
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

@@ -30,11 +30,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1563,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1562,
             "order": 1,
             "passthrough": 1
@@ -85,14 +80,14 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1563,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1762,
             "order": 2,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1210,
-            "order": 2,
-            "passthrough": 1
         },
         {
             "trigger_id": 1209,
@@ -165,24 +160,14 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1210,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1754,
             "order": 3,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1191,
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1446,
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1611,
-            "order": 3,
-            "passthrough": 1
         },
         {
             "trigger_id": 1660,
@@ -240,19 +225,24 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1191,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1446,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1611,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1755,
             "order": 4,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1380,
-            "order": 4,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1310,
-            "order": 4,
-            "passthrough": 1
         },
         {
             "trigger_id": 1379,
@@ -305,19 +295,19 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1380,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1310,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1763,
             "order": 5,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1344,
-            "order": 5,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1299,
-            "order": 5,
-            "passthrough": 1
         },
         {
             "trigger_id": 1256,
@@ -385,14 +375,19 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1344,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1299,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1761,
             "order": 6,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1484,
-            "order": 6,
-            "passthrough": 1
         },
         {
             "trigger_id": 1343,
@@ -466,6 +461,11 @@
         },
         {
             "trigger_id": 1479,
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1484,
             "order": 6,
             "passthrough": 1
         }
