@@ -3,7 +3,7 @@
     "map_id": 3,
     "name": "King's Unsafe Space",
     "date": "2024-05-27T00:47:10.000Z",
-    "last_updated": null,
+    "last_updated": "2024-07-07T17:59:42.000Z",
     "author": "jessetooler",
     "author_id": 4561,
     "last_updated_author_id": 4561,
@@ -45,18 +45,18 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 206,
+            "trigger_id": 240,
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 240,
-            "order": 6,
-            "passthrough": 0
+            "trigger_id": 206,
+            "order": 5,
+            "passthrough": 1
         },
         {
             "trigger_id": 286,
-            "order": 7,
+            "order": 6,
             "passthrough": 0
         }
     ]

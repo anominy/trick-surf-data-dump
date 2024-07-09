@@ -1,15 +1,15 @@
 {
     "id": 10266,
     "map_id": 8,
-    "name": "I love ST",
+    "name": "Panache",
     "date": "2024-06-15T00:53:46.000Z",
-    "last_updated": null,
+    "last_updated": "2024-07-06T16:01:29.000Z",
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 750,
-    "tier": 4,
+    "points": 1000,
+    "tier": 6,
     "min_velocity": null,
     "max_prestrafe": 406,
     "max_duration": null,
@@ -30,18 +30,23 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 716,
+            "trigger_id": 723,
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 700,
+            "trigger_id": 716,
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 675,
+            "trigger_id": 700,
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 598,
+            "order": 5,
             "passthrough": 0
         }
     ]

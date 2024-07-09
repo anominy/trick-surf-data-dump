@@ -496,8 +496,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 2,
-        "playersCompleted": 2,
+        "completions": 3,
+        "playersCompleted": 3,
         "trick_sequence": [
             {
                 "trigger_id": 345,
@@ -607,8 +607,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 707,
-        "playersCompleted": 116,
+        "completions": 718,
+        "playersCompleted": 118,
         "trick_sequence": [
             {
                 "trigger_id": 345,
@@ -1589,8 +1589,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 2133,
-        "playersCompleted": 83,
+        "completions": 2142,
+        "playersCompleted": 85,
         "trick_sequence": [
             {
                 "trigger_id": 288,
@@ -1705,8 +1705,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 120,
-        "playersCompleted": 40,
+        "completions": 121,
+        "playersCompleted": 41,
         "trick_sequence": [
             {
                 "trigger_id": 373,
@@ -1916,31 +1916,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 397,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 346,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 396,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 318,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 395,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 305,
                 "order": 1,
                 "passthrough": 1
@@ -1977,6 +1952,31 @@
             },
             {
                 "trigger_id": 350,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 397,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 346,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 396,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 318,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 395,
                 "order": 1,
                 "passthrough": 1
             }
@@ -4013,8 +4013,8 @@
         "max_jumps": 1,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 5,
-        "playersCompleted": 5,
+        "completions": 6,
+        "playersCompleted": 6,
         "trick_sequence": [
             {
                 "trigger_id": 291,
@@ -4280,8 +4280,8 @@
         "max_jumps": 4,
         "no_jump": 1,
         "hidden": 0,
-        "completions": 297,
-        "playersCompleted": 101,
+        "completions": 308,
+        "playersCompleted": 102,
         "trick_sequence": [
             {
                 "trigger_id": 342,
@@ -5084,6 +5084,54 @@
             },
             {
                 "trigger_id": 357,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10599,
+        "map_id": 4,
+        "name": "Fixation",
+        "date": "2024-07-06T22:58:40.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 5,
+        "playersCompleted": 3,
+        "trick_sequence": [
+            {
+                "trigger_id": 288,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 308,
                 "order": 4,
                 "passthrough": 0
             }
@@ -7828,8 +7876,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 441,
-        "playersCompleted": 55,
+        "completions": 442,
+        "playersCompleted": 56,
         "trick_sequence": [
             {
                 "trigger_id": 288,
@@ -8355,8 +8403,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 164,
-        "playersCompleted": 33,
+        "completions": 165,
+        "playersCompleted": 34,
         "trick_sequence": [
             {
                 "trigger_id": 327,
@@ -9461,8 +9509,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 108,
-        "playersCompleted": 43,
+        "completions": 109,
+        "playersCompleted": 44,
         "trick_sequence": [
             {
                 "trigger_id": 291,
@@ -9996,8 +10044,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 25,
-        "playersCompleted": 22,
+        "completions": 26,
+        "playersCompleted": 23,
         "trick_sequence": [
             {
                 "trigger_id": 401,
@@ -11517,8 +11565,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 7,
-        "playersCompleted": 6,
+        "completions": 8,
+        "playersCompleted": 7,
         "trick_sequence": [
             {
                 "trigger_id": 1107,
@@ -11862,7 +11910,7 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 141,
+        "completions": 142,
         "playersCompleted": 31,
         "trick_sequence": [
             {
@@ -12658,8 +12706,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 12,
-        "playersCompleted": 8,
+        "completions": 13,
+        "playersCompleted": 9,
         "trick_sequence": [
             {
                 "trigger_id": 325,
@@ -12968,8 +13016,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 20,
-        "playersCompleted": 7,
+        "completions": 21,
+        "playersCompleted": 8,
         "trick_sequence": [
             {
                 "trigger_id": 320,
@@ -14069,8 +14117,8 @@
         "max_jumps": 1,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 437,
-        "playersCompleted": 28,
+        "completions": 446,
+        "playersCompleted": 29,
         "trick_sequence": [
             {
                 "trigger_id": 295,
@@ -14371,8 +14419,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 228,
-        "playersCompleted": 25,
+        "completions": 229,
+        "playersCompleted": 26,
         "trick_sequence": [
             {
                 "trigger_id": 320,
@@ -15571,8 +15619,8 @@
         "max_jumps": null,
         "no_jump": 1,
         "hidden": 0,
-        "completions": 1394,
-        "playersCompleted": 226,
+        "completions": 1400,
+        "playersCompleted": 228,
         "trick_sequence": [
             {
                 "trigger_id": 324,
@@ -15697,8 +15745,8 @@
         "max_jumps": 0,
         "no_jump": 1,
         "hidden": 0,
-        "completions": 80,
-        "playersCompleted": 35,
+        "completions": 81,
+        "playersCompleted": 36,
         "trick_sequence": [
             {
                 "trigger_id": 324,
@@ -15765,8 +15813,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 806,
-        "playersCompleted": 165,
+        "completions": 808,
+        "playersCompleted": 166,
         "trick_sequence": [
             {
                 "trigger_id": 327,
@@ -15876,8 +15924,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 594,
-        "playersCompleted": 137,
+        "completions": 596,
+        "playersCompleted": 138,
         "trick_sequence": [
             {
                 "trigger_id": 333,
@@ -15982,8 +16030,8 @@
         "max_jumps": 0,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 298,
-        "playersCompleted": 40,
+        "completions": 299,
+        "playersCompleted": 41,
         "trick_sequence": [
             {
                 "trigger_id": 333,
@@ -16025,8 +16073,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 1202,
-        "playersCompleted": 107,
+        "completions": 1259,
+        "playersCompleted": 108,
         "trick_sequence": [
             {
                 "trigger_id": 338,
@@ -16083,8 +16131,8 @@
         "max_jumps": 2,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 4,
-        "playersCompleted": 4,
+        "completions": 5,
+        "playersCompleted": 5,
         "trick_sequence": [
             {
                 "trigger_id": 338,
@@ -16219,8 +16267,8 @@
         "max_jumps": null,
         "no_jump": 1,
         "hidden": 0,
-        "completions": 250,
-        "playersCompleted": 111,
+        "completions": 251,
+        "playersCompleted": 112,
         "trick_sequence": [
             {
                 "trigger_id": 342,
@@ -16418,8 +16466,8 @@
         "max_jumps": null,
         "no_jump": 1,
         "hidden": 0,
-        "completions": 415,
-        "playersCompleted": 108,
+        "completions": 417,
+        "playersCompleted": 109,
         "trick_sequence": [
             {
                 "trigger_id": 345,
@@ -16703,7 +16751,7 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 610,
+        "completions": 614,
         "playersCompleted": 40,
         "trick_sequence": [
             {
@@ -17575,8 +17623,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 3,
-        "playersCompleted": 3,
+        "completions": 4,
+        "playersCompleted": 4,
         "trick_sequence": [
             {
                 "trigger_id": 345,
@@ -17883,6 +17931,64 @@
             {
                 "trigger_id": 317,
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10600,
+        "map_id": 4,
+        "name": "Trade Winds",
+        "date": "2024-07-06T23:20:08.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 3,
+        "playersCompleted": 2,
+        "trick_sequence": [
+            {
+                "trigger_id": 320,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 310,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -18668,8 +18774,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 8,
-        "playersCompleted": 7,
+        "completions": 9,
+        "playersCompleted": 8,
         "trick_sequence": [
             {
                 "trigger_id": 320,
@@ -19487,6 +19593,54 @@
             {
                 "trigger_id": 333,
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10586,
+        "map_id": 4,
+        "name": "Whisper",
+        "date": "2024-07-06T00:39:33.000Z",
+        "last_updated": "2024-07-06T00:40:18.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 20,
+        "playersCompleted": 4,
+        "trick_sequence": [
+            {
+                "trigger_id": 333,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 378,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 321,
+                "order": 4,
                 "passthrough": 0
             }
         ]

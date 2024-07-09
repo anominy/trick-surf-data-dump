@@ -1916,6 +1916,21 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 305,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 296,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 294,
                 "order": 1,
                 "passthrough": 1
@@ -1962,21 +1977,6 @@
             },
             {
                 "trigger_id": 395,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 305,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 388,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 296,
                 "order": 1,
                 "passthrough": 1
             }
@@ -5084,6 +5084,54 @@
             },
             {
                 "trigger_id": 357,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10599,
+        "map_id": 4,
+        "name": "Fixation",
+        "date": "2024-07-06T22:58:40.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 288,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 308,
                 "order": 4,
                 "passthrough": 0
             }
@@ -17888,6 +17936,64 @@
         ]
     },
     {
+        "id": 10600,
+        "map_id": 4,
+        "name": "Trade Winds",
+        "date": "2024-07-06T23:20:08.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 320,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 310,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2384,
         "map_id": 4,
         "name": "Trax Walk",
@@ -19487,6 +19593,54 @@
             {
                 "trigger_id": 333,
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10586,
+        "map_id": 4,
+        "name": "Whisper",
+        "date": "2024-07-06T00:39:33.000Z",
+        "last_updated": "2024-07-06T00:40:18.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 333,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 378,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 321,
+                "order": 4,
                 "passthrough": 0
             }
         ]

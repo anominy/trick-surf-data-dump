@@ -11638,12 +11638,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 935,
+                "trigger_id": 934,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 935,
                 "order": 3,
                 "passthrough": 1
             },
@@ -26765,12 +26765,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 272,
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 272,
+                "trigger_id": 933,
                 "order": 1,
                 "passthrough": 1
             },
@@ -28962,12 +28962,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 271,
+                "trigger_id": 2304,
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2304,
+                "trigger_id": 271,
                 "order": 2,
                 "passthrough": 1
             },
@@ -29463,12 +29463,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 209,
+                "trigger_id": 211,
                 "order": 9,
                 "passthrough": 2
             },
             {
-                "trigger_id": 211,
+                "trigger_id": 209,
                 "order": 9,
                 "passthrough": 2
             },
@@ -36523,7 +36523,7 @@
         "map_id": 3,
         "name": "King's Unsafe Space",
         "date": "2024-05-27T00:47:10.000Z",
-        "last_updated": null,
+        "last_updated": "2024-07-07T17:59:42.000Z",
         "author": "jessetooler",
         "author_id": 4561,
         "last_updated_author_id": 4561,
@@ -36565,18 +36565,18 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 206,
+                "trigger_id": 240,
                 "order": 5,
                 "passthrough": 0
             },
             {
-                "trigger_id": 240,
-                "order": 6,
-                "passthrough": 0
+                "trigger_id": 206,
+                "order": 5,
+                "passthrough": 1
             },
             {
                 "trigger_id": 286,
-                "order": 7,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -41807,12 +41807,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 219,
+                "trigger_id": 217,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 217,
+                "trigger_id": 219,
                 "order": 3,
                 "passthrough": 1
             },
@@ -59780,13 +59780,13 @@
         "map_id": 3,
         "name": "River's Edge",
         "date": "2024-06-18T07:47:34.000Z",
-        "last_updated": null,
+        "last_updated": "2024-07-06T11:07:03.000Z",
         "author": "jessetooler",
         "author_id": 4561,
         "last_updated_author_id": 4561,
         "active": 1,
         "points": 10000,
-        "tier": 8,
+        "tier": 9,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -67253,12 +67253,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
@@ -77037,6 +77037,54 @@
         ]
     },
     {
+        "id": 10602,
+        "map_id": 3,
+        "name": "VRise",
+        "date": "2024-07-07T04:02:20.000Z",
+        "last_updated": null,
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 1500,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 284,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 231,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 922,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 861,
         "map_id": 3,
         "name": "Waave Hole",
@@ -77115,6 +77163,74 @@
             {
                 "trigger_id": 217,
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10590,
+        "map_id": 3,
+        "name": "wait theres a room here?",
+        "date": "2024-07-06T10:23:10.000Z",
+        "last_updated": null,
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 2000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2291,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2295,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 226,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 280,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 930,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 258,
+                "order": 8,
                 "passthrough": 0
             }
         ]

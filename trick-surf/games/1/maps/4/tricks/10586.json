@@ -1,0 +1,48 @@
+{
+    "id": 10586,
+    "map_id": 4,
+    "name": "Whisper",
+    "date": "2024-07-06T00:39:33.000Z",
+    "last_updated": "2024-07-06T00:40:18.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated_author_id": 147,
+    "active": 1,
+    "points": 300,
+    "tier": 3,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 20,
+    "playersCompleted": 4,
+    "trick_sequence": [
+        {
+            "trigger_id": 333,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 395,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 318,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 378,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 321,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

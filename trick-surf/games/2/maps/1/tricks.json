@@ -19340,12 +19340,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 46,
+                "trigger_id": 47,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 47,
+                "trigger_id": 46,
                 "order": 3,
                 "passthrough": 1
             }
@@ -20846,6 +20846,89 @@
             {
                 "trigger_id": 45,
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10568,
+        "map_id": 1,
+        "name": "Crossover Nothing Is Impossible Twist over spawn wall",
+        "date": "2024-07-03T17:41:20.000Z",
+        "last_updated": "2024-07-04T20:01:01.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 4600,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 41,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 837,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 33,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "order": 11,
                 "passthrough": 0
             }
         ]
@@ -51540,6 +51623,502 @@
         ]
     },
     {
+        "id": 10569,
+        "map_id": 1,
+        "name": "Hard Mushroom Chrome",
+        "date": "2024-07-03T17:53:15.000Z",
+        "last_updated": null,
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 3000,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 4,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10572,
+        "map_id": 1,
+        "name": "Hard Mushroom Easy Exy Rise",
+        "date": "2024-07-03T17:58:50.000Z",
+        "last_updated": null,
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 4000,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 41,
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10573,
+        "map_id": 1,
+        "name": "Hard Mushroom Easy Flogan Rise",
+        "date": "2024-07-03T18:00:33.000Z",
+        "last_updated": null,
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 4000,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10571,
+        "map_id": 1,
+        "name": "Hard Mushroom Easy Psycho",
+        "date": "2024-07-03T17:56:42.000Z",
+        "last_updated": null,
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 3000,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10574,
+        "map_id": 1,
+        "name": "Hard Mushroom Easy Rise",
+        "date": "2024-07-03T18:11:41.000Z",
+        "last_updated": null,
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 3000,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10570,
+        "map_id": 1,
+        "name": "Hard Mushroom Step-Up",
+        "date": "2024-07-03T17:54:54.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 3000,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 4,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10566,
+        "map_id": 1,
+        "name": "Hard Mushroom Tip",
+        "date": "2024-07-03T17:34:17.000Z",
+        "last_updated": "2024-07-03T17:36:34.000Z",
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 3000,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4343,
         "map_id": 1,
         "name": "Hard Nightmare",
@@ -64376,6 +64955,84 @@
             },
             {
                 "trigger_id": 26,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10567,
+        "map_id": 1,
+        "name": "Nothing Is Impossible Twist around back",
+        "date": "2024-07-03T17:38:08.000Z",
+        "last_updated": null,
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 4750,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 41,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
                 "order": 9,
                 "passthrough": 0
             },
