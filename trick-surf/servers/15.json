@@ -7,7 +7,7 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 1,
+    "players_online": 4,
     "map": {
         "id": 10,
         "name": "tsurf_concretejungle",
@@ -16,13 +16,31 @@
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 1,
+    "numberOfPlayers": 4,
     "passwordRequired": false,
     "players": [
         {
-            "player_id": 260,
-            "name": "pod spidami",
-            "avatar_url": "https://avatars.steamstatic.com/2422571e4ce5efddbd53bd339a4c4b150d4767ff_full.jpg",
+            "player_id": 20400,
+            "name": ".rnj",
+            "avatar_url": "https://avatars.steamstatic.com/9c27f9ec8b1a34daf84c3a473c8cf5515eb1e0ac_full.jpg",
+            "server_id": 15
+        },
+        {
+            "player_id": 17974,
+            "name": "CrazyTroll",
+            "avatar_url": "https://avatars.steamstatic.com/fb9c36c36e54b8ca5f2e1cbd89c06574d1348af0_full.jpg",
+            "server_id": 15
+        },
+        {
+            "player_id": 147,
+            "name": "influx",
+            "avatar_url": "https://avatars.steamstatic.com/db1a0e64d37ecd991ff3b05ef29f167d016fc279_full.jpg",
+            "server_id": 15
+        },
+        {
+            "player_id": 4820,
+            "name": "hunter",
+            "avatar_url": "https://avatars.steamstatic.com/3ca39e12e1f263c574cf1780139a67d4508a98cb_full.jpg",
             "server_id": 15
         }
     ]

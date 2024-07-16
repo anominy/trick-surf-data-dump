@@ -8,7 +8,7 @@
         "whitelist": 0,
         "records": 1,
         "private": 0,
-        "players_online": 0,
+        "players_online": 2,
         "map": {
             "id": 1,
             "name": "tsurf_skyworld",
@@ -17,9 +17,22 @@
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 0,
+        "numberOfPlayers": 2,
         "passwordRequired": false,
-        "players": []
+        "players": [
+            {
+                "player_id": 70,
+                "name": "Dr Mulped",
+                "avatar_url": "https://avatars.steamstatic.com/8c6e67ed1e5b538b2110a3a74d9d695b2e3e0a8e_full.jpg",
+                "server_id": 12
+            },
+            {
+                "player_id": 123,
+                "name": "Natsu",
+                "avatar_url": "https://avatars.steamstatic.com/ec1a296bc89c81350be9050c8a7f98d4cfabf213_full.jpg",
+                "server_id": 12
+            }
+        ]
     },
     {
         "id": 13,
@@ -43,9 +56,9 @@
         "passwordRequired": false,
         "players": [
             {
-                "player_id": 11429,
-                "name": "taatul",
-                "avatar_url": "https://avatars.steamstatic.com/14a3b286500b4e0204156a0d0730e405a2368c4a_full.jpg",
+                "player_id": 25969,
+                "name": "el gato es vago",
+                "avatar_url": "https://avatars.steamstatic.com/7d7bd23b6a42c6e638dbb632587436d7a11aa4ed_full.jpg",
                 "server_id": 13
             }
         ]
@@ -59,7 +72,7 @@
         "whitelist": 0,
         "records": 1,
         "private": 0,
-        "players_online": 1,
+        "players_online": 4,
         "map": {
             "id": 10,
             "name": "tsurf_concretejungle",
@@ -68,13 +81,31 @@
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 1,
+        "numberOfPlayers": 4,
         "passwordRequired": false,
         "players": [
             {
-                "player_id": 260,
-                "name": "pod spidami",
-                "avatar_url": "https://avatars.steamstatic.com/2422571e4ce5efddbd53bd339a4c4b150d4767ff_full.jpg",
+                "player_id": 20400,
+                "name": ".rnj",
+                "avatar_url": "https://avatars.steamstatic.com/9c27f9ec8b1a34daf84c3a473c8cf5515eb1e0ac_full.jpg",
+                "server_id": 15
+            },
+            {
+                "player_id": 17974,
+                "name": "CrazyTroll",
+                "avatar_url": "https://avatars.steamstatic.com/fb9c36c36e54b8ca5f2e1cbd89c06574d1348af0_full.jpg",
+                "server_id": 15
+            },
+            {
+                "player_id": 147,
+                "name": "influx",
+                "avatar_url": "https://avatars.steamstatic.com/db1a0e64d37ecd991ff3b05ef29f167d016fc279_full.jpg",
+                "server_id": 15
+            },
+            {
+                "player_id": 4820,
+                "name": "hunter",
+                "avatar_url": "https://avatars.steamstatic.com/3ca39e12e1f263c574cf1780139a67d4508a98cb_full.jpg",
                 "server_id": 15
             }
         ]
@@ -88,7 +119,7 @@
         "whitelist": 0,
         "records": 1,
         "private": 0,
-        "players_online": 4,
+        "players_online": 1,
         "map": {
             "id": 8,
             "name": "tsurf_ski_2",
@@ -97,31 +128,13 @@
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 4,
+        "numberOfPlayers": 1,
         "passwordRequired": false,
         "players": [
             {
-                "player_id": 1390,
-                "name": "kuwi",
-                "avatar_url": "https://avatars.steamstatic.com/daf094c2067f84941e9dd76f3cbaae389bb9f6d4_full.jpg",
-                "server_id": 16
-            },
-            {
-                "player_id": 25029,
-                "name": "taniga",
-                "avatar_url": "https://avatars.steamstatic.com/d956bc4013e234d687e01e910297bd80cde68345_full.jpg",
-                "server_id": 16
-            },
-            {
                 "player_id": 1524,
-                "name": "defense",
+                "name": "noa",
                 "avatar_url": "https://avatars.steamstatic.com/f0afab503fb2802a5daf8a0a599d6453ab833c30_full.jpg",
-                "server_id": 16
-            },
-            {
-                "player_id": 6763,
-                "name": "synq_",
-                "avatar_url": "https://avatars.steamstatic.com/61a730d491e89435e2264bd290b275164e58c2b8_full.jpg",
                 "server_id": 16
             }
         ]
@@ -159,10 +172,10 @@
         "private": 0,
         "players_online": 0,
         "map": {
-            "id": 7,
-            "name": "tsurf_buck-wild",
-            "target_name": "tsurf_buck-wild",
-            "image_url": "https://media.trick.surf/tsurf_buck-wild.png"
+            "id": 10,
+            "name": "tsurf_concretejungle",
+            "target_name": "tsurf_concretejungle_b15",
+            "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -181,10 +194,10 @@
         "private": 0,
         "players_online": 0,
         "map": {
-            "id": 8,
-            "name": "tsurf_ski_2",
-            "target_name": "tsurf_ski_2_gxds03",
-            "image_url": "https://media.trick.surf/tsurf_ski_2_gxds.jpg"
+            "id": 10,
+            "name": "tsurf_concretejungle",
+            "target_name": "tsurf_concretejungle_b15",
+            "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -203,10 +216,10 @@
         "private": 0,
         "players_online": 0,
         "map": {
-            "id": 11,
-            "name": "tsurf_instantdeath",
-            "target_name": "tsurf_instantdeath_b08",
-            "image_url": "https://media.trick.surf/tsurf_instantdeath.png"
+            "id": 12,
+            "name": "tsurf_appreciation",
+            "target_name": "tsurf_appreciation_b09",
+            "image_url": "https://media.trick.surf/tsurf_appreciation.png"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -225,10 +238,10 @@
         "private": 0,
         "players_online": 0,
         "map": {
-            "id": 6,
-            "name": "tsurf_machine",
-            "target_name": "tsurf_machine_b07",
-            "image_url": "https://media.trick.surf/tsurf_machine.jpg"
+            "id": 12,
+            "name": "tsurf_appreciation",
+            "target_name": "tsurf_appreciation_b09",
+            "image_url": "https://media.trick.surf/tsurf_appreciation.png"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,

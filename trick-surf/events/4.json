@@ -25,8 +25,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 0,
-                "first_connect": 1720527843808,
-                "last_connect": 1720527843808,
+                "first_connect": 1721132617496,
+                "last_connect": 1721132617496,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": ""
@@ -41,12 +41,12 @@
                 "steamid": "STEAM_0:1:435841877",
                 "steamid64": "76561198831949483",
                 "avatar_url": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b_full.jpg",
-                "name": "toemuncher#synqfan",
+                "name": "toeth fairy",
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 0,
-                "first_connect": 1720527843808,
-                "last_connect": 1720527843808,
+                "first_connect": 1721132617496,
+                "last_connect": 1721132617496,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": ""
@@ -65,8 +65,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 1,
-                "first_connect": 1720527843809,
-                "last_connect": 1720527843809,
+                "first_connect": 1721132617496,
+                "last_connect": 1721132617496,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -87,8 +87,8 @@
                 "country": "Canada",
                 "country_code": "CA",
                 "vip_level": 1,
-                "first_connect": 1720527843810,
-                "last_connect": 1720527843810,
+                "first_connect": 1721132617496,
+                "last_connect": 1721132617496,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -107,8 +107,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 0,
-                "first_connect": 1720527843810,
-                "last_connect": 1720527843810,
+                "first_connect": 1721132617497,
+                "last_connect": 1721132617497,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": ""
@@ -127,8 +127,8 @@
                 "country": "Czechia",
                 "country_code": "CZ",
                 "vip_level": 1,
-                "first_connect": 1720527843811,
-                "last_connect": 1720527843811,
+                "first_connect": 1721132617497,
+                "last_connect": 1721132617497,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -136,6 +136,51 @@
         }
     ],
     "tricks": [
+        {
+            "map_id": 10,
+            "map_name": "tsurf_concretejungle",
+            "trick_id": 9421,
+            "event_player_completions": 35,
+            "event_completions": 609,
+            "trick": {
+                "id": 9421,
+                "map_id": 10,
+                "name": "Science Experiment #11",
+                "date": "2024-03-29T07:06:37.000Z",
+                "last_updated": "2024-04-19T23:45:43.000Z",
+                "author": "Steve",
+                "author_id": 10,
+                "last_updated_author_id": 14724,
+                "active": 1,
+                "points": 5,
+                "tier": 1,
+                "min_velocity": null,
+                "max_prestrafe": 406,
+                "max_duration": null,
+                "max_jumps": null,
+                "no_jump": 0,
+                "hidden": 1,
+                "completions": 1983,
+                "playersCompleted": 75,
+                "trick_sequence": [
+                    {
+                        "trigger_id": 1316,
+                        "order": 0,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1380,
+                        "order": 1,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1315,
+                        "order": 2,
+                        "passthrough": 0
+                    }
+                ]
+            }
+        },
         {
             "map_id": 10,
             "map_name": "tsurf_concretejungle",
@@ -160,8 +205,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 3773,
-                "playersCompleted": 92,
+                "completions": 3814,
+                "playersCompleted": 95,
                 "trick_sequence": [
                     {
                         "trigger_id": 1458,
@@ -205,8 +250,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 4749,
-                "playersCompleted": 133,
+                "completions": 4772,
+                "playersCompleted": 135,
                 "trick_sequence": [
                     {
                         "trigger_id": 1273,
@@ -310,8 +355,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 3009,
-                "playersCompleted": 120,
+                "completions": 3051,
+                "playersCompleted": 126,
                 "trick_sequence": [
                     {
                         "trigger_id": 1307,
@@ -360,8 +405,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 1191,
-                "playersCompleted": 105,
+                "completions": 1192,
+                "playersCompleted": 106,
                 "trick_sequence": [
                     {
                         "trigger_id": 1493,
@@ -465,8 +510,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 2846,
-                "playersCompleted": 156,
+                "completions": 2849,
+                "playersCompleted": 158,
                 "trick_sequence": [
                     {
                         "trigger_id": 1493,
@@ -565,8 +610,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 2280,
-                "playersCompleted": 142,
+                "completions": 2283,
+                "playersCompleted": 143,
                 "trick_sequence": [
                     {
                         "trigger_id": 1235,
@@ -615,8 +660,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 5846,
-                "playersCompleted": 560,
+                "completions": 5872,
+                "playersCompleted": 569,
                 "trick_sequence": [
                     {
                         "trigger_id": 1601,
@@ -641,51 +686,6 @@
                     {
                         "trigger_id": 1202,
                         "order": 4,
-                        "passthrough": 0
-                    }
-                ]
-            }
-        },
-        {
-            "map_id": 10,
-            "map_name": "tsurf_concretejungle",
-            "trick_id": 9421,
-            "event_player_completions": 35,
-            "event_completions": 609,
-            "trick": {
-                "id": 9421,
-                "map_id": 10,
-                "name": "Science Experiment #11",
-                "date": "2024-03-29T07:06:37.000Z",
-                "last_updated": "2024-04-19T23:45:43.000Z",
-                "author": "Steve",
-                "author_id": 10,
-                "last_updated_author_id": 14724,
-                "active": 1,
-                "points": 5,
-                "tier": 1,
-                "min_velocity": null,
-                "max_prestrafe": 406,
-                "max_duration": null,
-                "max_jumps": null,
-                "no_jump": 0,
-                "hidden": 1,
-                "completions": 1977,
-                "playersCompleted": 74,
-                "trick_sequence": [
-                    {
-                        "trigger_id": 1316,
-                        "order": 0,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1380,
-                        "order": 1,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1315,
-                        "order": 2,
                         "passthrough": 0
                     }
                 ]

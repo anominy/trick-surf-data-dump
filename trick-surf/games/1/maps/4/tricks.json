@@ -1916,21 +1916,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 305,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 388,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 296,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 294,
                 "order": 1,
                 "passthrough": 1
@@ -1977,6 +1962,21 @@
             },
             {
                 "trigger_id": 395,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 305,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 296,
                 "order": 1,
                 "passthrough": 1
             }
@@ -2978,6 +2978,79 @@
             {
                 "trigger_id": 337,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10616,
+        "map_id": 4,
+        "name": "City Angels",
+        "date": "2024-07-10T21:46:51.000Z",
+        "last_updated": "2024-07-10T22:40:29.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1150,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 3,
+        "playersCompleted": 2,
+        "trick_sequence": [
+            {
+                "trigger_id": 338,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 388,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 396,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 397,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 352,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 364,
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -6487,8 +6560,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 7,
-        "playersCompleted": 6,
+        "completions": 8,
+        "playersCompleted": 7,
         "trick_sequence": [
             {
                 "trigger_id": 291,
@@ -13016,8 +13089,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 21,
-        "playersCompleted": 8,
+        "completions": 22,
+        "playersCompleted": 9,
         "trick_sequence": [
             {
                 "trigger_id": 320,
@@ -18996,8 +19069,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 7,
-        "playersCompleted": 6,
+        "completions": 8,
+        "playersCompleted": 7,
         "trick_sequence": [
             {
                 "trigger_id": 288,

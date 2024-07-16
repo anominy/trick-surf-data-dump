@@ -7,7 +7,7 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 0,
+    "players_online": 2,
     "map": {
         "id": 1,
         "name": "tsurf_skyworld",
@@ -16,7 +16,20 @@
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 0,
+    "numberOfPlayers": 2,
     "passwordRequired": false,
-    "players": []
+    "players": [
+        {
+            "player_id": 70,
+            "name": "Dr Mulped",
+            "avatar_url": "https://avatars.steamstatic.com/8c6e67ed1e5b538b2110a3a74d9d695b2e3e0a8e_full.jpg",
+            "server_id": 12
+        },
+        {
+            "player_id": 123,
+            "name": "Natsu",
+            "avatar_url": "https://avatars.steamstatic.com/ec1a296bc89c81350be9050c8a7f98d4cfabf213_full.jpg",
+            "server_id": 12
+        }
+    ]
 }
