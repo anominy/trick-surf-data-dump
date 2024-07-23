@@ -3,10 +3,10 @@
     "map_id": 6,
     "name": "Hard Silsa's Mistress",
     "date": "2022-03-09T22:32:19.000Z",
-    "last_updated": "2024-01-07T16:46:31.000Z",
+    "last_updated": "2024-07-17T18:47:18.000Z",
     "author": "Addicted",
     "author_id": 209,
-    "last_updated_author_id": 103,
+    "last_updated_author_id": 92,
     "active": 1,
     "points": 3750,
     "tier": 8,
@@ -16,8 +16,8 @@
     "max_jumps": null,
     "no_jump": 0,
     "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 6,
+    "completions": 14,
+    "playersCompleted": 8,
     "trick_sequence": [
         {
             "trigger_id": 558,
@@ -40,9 +40,19 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 991,
+            "order": 3,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 562,
             "order": 4,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 991,
+            "order": 4,
+            "passthrough": 1
         },
         {
             "trigger_id": 560,

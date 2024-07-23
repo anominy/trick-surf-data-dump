@@ -483,13 +483,13 @@
         "map_id": 4,
         "name": "Against All Logic",
         "date": "2024-01-13T19:44:29.000Z",
-        "last_updated": "2024-01-13T19:48:24.000Z",
-        "author": "Liquidator",
+        "last_updated": "2024-07-22T00:03:08.000Z",
+        "author": "Liqye",
         "author_id": 1137,
-        "last_updated_author_id": 1137,
+        "last_updated_author_id": 147,
         "active": 1,
-        "points": 1250,
-        "tier": 7,
+        "points": 1100,
+        "tier": 6,
         "min_velocity": null,
         "max_prestrafe": null,
         "max_duration": null,
@@ -638,6 +638,74 @@
             {
                 "trigger_id": 340,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10668,
+        "map_id": 4,
+        "name": "Back On Track startpos 2",
+        "date": "2024-07-20T22:54:53.000Z",
+        "last_updated": "2024-07-20T22:57:40.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 400,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 291,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 358,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 379,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 367,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 352,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1083,
+                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -1916,36 +1984,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 346,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 396,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 318,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 395,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 305,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 388,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 296,
                 "order": 1,
                 "passthrough": 1
@@ -1977,6 +2015,36 @@
             },
             {
                 "trigger_id": 397,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 346,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 396,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 318,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 395,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 305,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
                 "order": 1,
                 "passthrough": 1
             }
@@ -12646,6 +12714,69 @@
         ]
     },
     {
+        "id": 10669,
+        "map_id": 4,
+        "name": "Raspberry Tea",
+        "date": "2024-07-20T23:24:43.000Z",
+        "last_updated": null,
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 315,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 358,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 379,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 358,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 292,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1152,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6605,
         "map_id": 4,
         "name": "Rattlesnake",
@@ -19405,6 +19536,54 @@
             {
                 "trigger_id": 391,
                 "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10664,
+        "map_id": 4,
+        "name": "War Crime",
+        "date": "2024-07-19T17:58:48.000Z",
+        "last_updated": "2024-07-20T23:29:21.000Z",
+        "author": "toeth fairy",
+        "author_id": 12379,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 900,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1176,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 352,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 300,
+                "order": 4,
                 "passthrough": 0
             }
         ]

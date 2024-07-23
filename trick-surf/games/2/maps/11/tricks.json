@@ -1838,17 +1838,17 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2016,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2391,
                 "order": 2,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2390,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2016,
                 "order": 2,
                 "passthrough": 1
             }
@@ -16579,11 +16579,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2288,
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2287,
                 "order": 8,
                 "passthrough": 2
@@ -16595,6 +16590,11 @@
             },
             {
                 "trigger_id": 2285,
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2288,
                 "order": 8,
                 "passthrough": 2
             }
