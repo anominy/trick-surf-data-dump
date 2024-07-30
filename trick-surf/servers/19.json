@@ -7,7 +7,7 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 0,
+    "players_online": 1,
     "map": {
         "id": 4,
         "name": "tsurf_parc_colore",
@@ -16,7 +16,14 @@
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 0,
+    "numberOfPlayers": 1,
     "passwordRequired": false,
-    "players": []
+    "players": [
+        {
+            "player_id": 480,
+            "name": "Formal",
+            "avatar_url": "https://avatars.steamstatic.com/f0aa221ad7b2fd61bb5474994f1478ee3fe2f530_full.jpg",
+            "server_id": 19
+        }
+    ]
 }

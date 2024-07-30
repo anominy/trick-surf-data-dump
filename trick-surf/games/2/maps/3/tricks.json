@@ -11716,12 +11716,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 935,
+                "trigger_id": 934,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 935,
                 "order": 3,
                 "passthrough": 1
             },
@@ -28853,6 +28853,79 @@
         ]
     },
     {
+        "id": 10710,
+        "map_id": 3,
+        "name": "Hard J-Tour",
+        "date": "2024-07-25T07:21:33.000Z",
+        "last_updated": null,
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 2000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 263,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 243,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 238,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 933,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 934,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 251,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 933,
+                "order": 6,
+                "passthrough": 1
+            }
+        ]
+    },
+    {
         "id": 733,
         "map_id": 3,
         "name": "Hard Kruel Hop",
@@ -29541,12 +29614,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 209,
+                "trigger_id": 211,
                 "order": 9,
                 "passthrough": 2
             },
             {
-                "trigger_id": 211,
+                "trigger_id": 209,
                 "order": 9,
                 "passthrough": 2
             },
@@ -34049,6 +34122,79 @@
                 "trigger_id": 217,
                 "order": 14,
                 "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10709,
+        "map_id": 3,
+        "name": "J-Tour",
+        "date": "2024-07-25T07:10:29.000Z",
+        "last_updated": "2024-07-25T07:25:58.000Z",
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 800,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 263,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 243,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 238,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 933,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 934,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 250,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 933,
+                "order": 6,
+                "passthrough": 1
             }
         ]
     },
@@ -64365,12 +64511,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
@@ -77209,12 +77355,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 935,
+                "trigger_id": 934,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 935,
                 "order": 3,
                 "passthrough": 1
             },

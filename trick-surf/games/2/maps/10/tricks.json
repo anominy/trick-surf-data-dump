@@ -5768,6 +5768,21 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 1563,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1562,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1270,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1561,
                 "order": 1,
                 "passthrough": 1
@@ -5808,24 +5823,29 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1563,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1562,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1270,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1762,
                 "order": 2,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1211,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1634,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1210,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1209,
+                "order": 2,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1208,
@@ -5838,12 +5858,12 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1589,
+                "trigger_id": 1207,
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1207,
+                "trigger_id": 1589,
                 "order": 2,
                 "passthrough": 1
             },
@@ -5863,12 +5883,12 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1635,
+                "trigger_id": 1212,
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1212,
+                "trigger_id": 1635,
                 "order": 2,
                 "passthrough": 1
             },
@@ -5883,54 +5903,9 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1634,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1211,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1210,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1209,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1754,
                 "order": 3,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1189,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1444,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1443,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1193,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1192,
-                "order": 3,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1314,
@@ -5978,39 +5953,34 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1189,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1444,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1443,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1193,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1192,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1755,
                 "order": 4,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1307,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1384,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1383,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1432,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1382,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1431,
-                "order": 4,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1381,
@@ -6043,9 +6013,79 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1307,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1384,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1383,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1432,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1382,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1431,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1763,
                 "order": 5,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1300,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1493,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1257,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1418,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1344,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1299,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1256,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1417,
+                "order": 5,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1685,
@@ -6083,49 +6123,39 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1300,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1493,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1418,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1257,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1344,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1299,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1417,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1256,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1761,
                 "order": 6,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1479,
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1484,
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1343,
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1483,
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1239,
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1642,
+                "order": 6,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1340,
@@ -6138,12 +6168,12 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1641,
+                "trigger_id": 1238,
                 "order": 6,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1238,
+                "trigger_id": 1641,
                 "order": 6,
                 "passthrough": 1
             },
@@ -6174,36 +6204,6 @@
             },
             {
                 "trigger_id": 1337,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1479,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1484,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1343,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1483,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1642,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1239,
                 "order": 6,
                 "passthrough": 1
             }
@@ -6239,41 +6239,6 @@
                 "trigger_id": 1760,
                 "order": 1,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1673,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1703,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1672,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1678,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2178,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1677,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1724,
-                "order": 1,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1662,
@@ -6321,9 +6286,69 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1673,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1703,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1672,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1678,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2178,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1677,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1724,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1756,
                 "order": 2,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1196,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1279,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1195,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1194,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1404,
+                "order": 2,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1403,
@@ -6356,34 +6381,49 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1196,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1279,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1195,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1194,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1404,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1758,
                 "order": 3,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1516,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1544,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1658,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1515,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1543,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1721,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1656,
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1514,
+                "order": 3,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1542,
@@ -6446,49 +6486,39 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1516,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1544,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1658,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1515,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1543,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1721,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1656,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1514,
-                "order": 3,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1757,
                 "order": 4,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1595,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1411,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1722,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1586,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1409,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1288,
+                "order": 4,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1287,
@@ -6531,39 +6561,39 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1595,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1411,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1722,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1586,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1409,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1288,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1759,
                 "order": 5,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1439,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1388,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1438,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1387,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1437,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1552,
+                "order": 5,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1263,
@@ -6602,36 +6632,6 @@
             },
             {
                 "trigger_id": 1440,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1439,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1388,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1438,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1387,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1437,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1552,
                 "order": 5,
                 "passthrough": 1
             }
@@ -6785,381 +6785,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1209,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1403,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1557,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1669,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1314,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1513,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1634,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1758,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1266,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1434,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1586,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1679,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1189,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1347,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1545,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1654,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1765,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1279,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1443,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1724,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1207,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1400,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1556,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1667,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1308,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1493,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1620,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1757,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1263,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1431,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1585,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1677,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1345,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1543,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1652,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1763,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1278,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1440,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1599,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1722,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1199,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1387,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1555,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1666,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2178,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1307,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1482,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1619,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1756,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1256,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1430,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1570,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1675,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1344,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1542,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1641,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1762,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1277,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1439,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1597,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1720,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1196,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1384,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1554,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1663,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2177,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1301,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1480,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1617,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1755,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1238,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1417,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1562,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1673,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1340,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1518,
                 "order": 1,
                 "passthrough": 1
@@ -7175,7 +6800,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1275,
+                "trigger_id": 1340,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7195,7 +6820,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1194,
+                "trigger_id": 1275,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7220,7 +6845,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1299,
+                "trigger_id": 1194,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7240,7 +6865,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1233,
+                "trigger_id": 1299,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7260,7 +6885,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1338,
+                "trigger_id": 1233,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7280,7 +6905,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1269,
+                "trigger_id": 1338,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7300,7 +6925,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1192,
+                "trigger_id": 1269,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7325,7 +6950,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1286,
+                "trigger_id": 1192,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7345,7 +6970,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1212,
+                "trigger_id": 1286,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7365,7 +6990,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1337,
+                "trigger_id": 1212,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7385,7 +7010,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1267,
+                "trigger_id": 1337,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7405,7 +7030,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1190,
+                "trigger_id": 1267,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7430,7 +7055,7 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1284,
+                "trigger_id": 1190,
                 "order": 1,
                 "passthrough": 1
             },
@@ -7441,6 +7066,381 @@
             },
             {
                 "trigger_id": 1602,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1284,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1403,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1557,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1669,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1209,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1513,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1634,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1758,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1314,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1434,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1586,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1679,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1266,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1347,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1545,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1654,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1765,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1189,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1443,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1724,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1279,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1400,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1556,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1667,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1207,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1493,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1620,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1757,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1308,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1431,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1585,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1677,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1263,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1543,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1652,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1763,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1345,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1440,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1599,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1722,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1278,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1387,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1555,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1666,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2178,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1199,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1482,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1619,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1756,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1307,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1430,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1570,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1675,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1256,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1542,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1641,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1762,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1344,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1439,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1597,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1720,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1277,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1384,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1554,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1663,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2177,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1196,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1480,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1617,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1755,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1301,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1417,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1562,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1673,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1238,
                 "order": 1,
                 "passthrough": 1
             }
@@ -68382,17 +68382,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 1305,
+                "order": 10,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1304,
                 "order": 10,
                 "passthrough": 1
             },
             {
                 "trigger_id": 1569,
-                "order": 10,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1305,
                 "order": 10,
                 "passthrough": 1
             },
@@ -72023,6 +72023,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3201,
+                "order": 8,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 3200,
                 "order": 8,
                 "passthrough": 2
@@ -72034,11 +72039,6 @@
             },
             {
                 "trigger_id": 2233,
-                "order": 8,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3201,
                 "order": 8,
                 "passthrough": 2
             }
@@ -87631,10 +87631,10 @@
         "map_id": 10,
         "name": "Droptop",
         "date": "2024-02-23T08:22:33.000Z",
-        "last_updated": "2024-05-05T13:47:41.000Z",
+        "last_updated": "2024-07-28T02:35:55.000Z",
         "author": "Steve",
         "author_id": 10,
-        "last_updated_author_id": 18519,
+        "last_updated_author_id": 10,
         "active": 1,
         "points": 1225,
         "tier": 7,
@@ -117147,13 +117147,13 @@
         "map_id": 10,
         "name": "Precision Hops",
         "date": "2024-04-16T12:58:14.000Z",
-        "last_updated": "2024-04-18T19:58:09.000Z",
+        "last_updated": "2024-07-28T06:10:13.000Z",
         "author": "nex",
         "author_id": 18519,
         "last_updated_author_id": 18519,
         "active": 1,
-        "points": 1285,
-        "tier": 7,
+        "points": 1300,
+        "tier": 8,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -138803,13 +138803,13 @@
         "map_id": 10,
         "name": "Port Wine Derby",
         "date": "2024-05-19T09:49:50.000Z",
-        "last_updated": null,
+        "last_updated": "2024-07-25T12:38:39.000Z",
         "author": "discount",
         "author_id": 5482,
-        "last_updated_author_id": 147,
+        "last_updated_author_id": 4820,
         "active": 1,
-        "points": 499,
-        "tier": 3,
+        "points": 700,
+        "tier": 4,
         "min_velocity": null,
         "max_prestrafe": null,
         "max_duration": null,
@@ -138851,13 +138851,13 @@
         "map_id": 10,
         "name": "Camembert",
         "date": "2024-05-19T09:54:51.000Z",
-        "last_updated": null,
+        "last_updated": "2024-07-24T00:28:35.000Z",
         "author": "discount",
         "author_id": 5482,
-        "last_updated_author_id": 147,
+        "last_updated_author_id": 4820,
         "active": 1,
-        "points": 450,
-        "tier": 3,
+        "points": 750,
+        "tier": 4,
         "min_velocity": null,
         "max_prestrafe": null,
         "max_duration": null,
@@ -141554,6 +141554,16 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3199,
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2232,
+                "order": 3,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 3198,
                 "order": 3,
                 "passthrough": 2
@@ -141595,16 +141605,6 @@
             },
             {
                 "trigger_id": 2233,
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3199,
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2232,
                 "order": 3,
                 "passthrough": 2
             }
@@ -142354,12 +142354,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1374,
+                "trigger_id": 1362,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1362,
+                "trigger_id": 1374,
                 "order": 3,
                 "passthrough": 1
             },
@@ -142374,12 +142374,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1374,
+                "trigger_id": 1362,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1362,
+                "trigger_id": 1374,
                 "order": 5,
                 "passthrough": 1
             },
@@ -147125,13 +147125,13 @@
         "map_id": 10,
         "name": "Cabernet Cheddar",
         "date": "2024-06-17T15:08:51.000Z",
-        "last_updated": null,
+        "last_updated": "2024-07-26T07:24:36.000Z",
         "author": "discount",
         "author_id": 5482,
-        "last_updated_author_id": 347,
+        "last_updated_author_id": 4820,
         "active": 1,
-        "points": 650,
-        "tier": 4,
+        "points": 800,
+        "tier": 5,
         "min_velocity": null,
         "max_prestrafe": null,
         "max_duration": null,
@@ -147546,15 +147546,15 @@
         "map_id": 10,
         "name": "Crazy",
         "date": "2024-06-18T10:57:57.000Z",
-        "last_updated": "2024-06-29T19:18:30.000Z",
+        "last_updated": "2024-07-28T19:33:37.000Z",
         "author": "nex",
         "author_id": 18519,
-        "last_updated_author_id": 18519,
+        "last_updated_author_id": 147,
         "active": 1,
         "points": 1400,
         "tier": 8,
         "min_velocity": null,
-        "max_prestrafe": null,
+        "max_prestrafe": 406,
         "max_duration": null,
         "max_jumps": null,
         "no_jump": 0,
@@ -153112,6 +153112,3658 @@
             {
                 "trigger_id": 1607,
                 "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10683,
+        "map_id": 10,
+        "name": "Clownfish Remix",
+        "date": "2024-07-23T15:28:52.000Z",
+        "last_updated": "2024-07-23T15:46:49.000Z",
+        "author": "nex",
+        "author_id": 18519,
+        "last_updated_author_id": 18519,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1279,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1194,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1256,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1753,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1587,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1274,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1504,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1670,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1212,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1771,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1723,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1746,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1308,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1504,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2209,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1607,
+                "order": 16,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10688,
+        "map_id": 10,
+        "name": "eatin a burger wit no honey mustard",
+        "date": "2024-07-23T21:28:39.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 350,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1563,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1562,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1605,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1606,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1605,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1606,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1588,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1562,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10689,
+        "map_id": 10,
+        "name": "got cups on my ears",
+        "date": "2024-07-23T21:30:50.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 75,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1225,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1212,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1670,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1465,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1445,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1382,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3171,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10690,
+        "map_id": 10,
+        "name": "shit i left the stove running",
+        "date": "2024-07-23T21:32:10.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 50,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1279,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1278,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1278,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1677,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1194,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1279,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10691,
+        "map_id": 10,
+        "name": "cheeseburger",
+        "date": "2024-07-23T21:40:53.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 150,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1307,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1284,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1308,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1400,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1431,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1382,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2210,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3170,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1308,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1307,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10692,
+        "map_id": 10,
+        "name": "!tele 2 crane surf",
+        "date": "2024-07-23T21:42:38.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 200,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": null,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1396,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1663,
+                "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10693,
+        "map_id": 10,
+        "name": "ЖЮП",
+        "date": "2024-07-23T21:44:35.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 350,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1610,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1720,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1518,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1516,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1443,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1445,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10694,
+        "map_id": 10,
+        "name": "xnopyt",
+        "date": "2024-07-23T21:48:10.000Z",
+        "last_updated": "2024-07-23T22:49:02.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 200,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 0,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1462,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1463,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1482,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1496,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1445,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1236,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1209,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1207,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1589,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10700,
+        "map_id": 10,
+        "name": "Dread",
+        "date": "2024-07-24T16:25:00.000Z",
+        "last_updated": "2024-07-24T16:56:47.000Z",
+        "author": "nex",
+        "author_id": 18519,
+        "last_updated_author_id": 18519,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 5,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1733,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1569,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1208,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1209,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1266,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1753,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1607,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1597,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1569,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1305,
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10707,
+        "map_id": 10,
+        "name": "Meltdown",
+        "date": "2024-07-24T17:20:50.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 900,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 3,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1254,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1248,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1253,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1243,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1196,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1197,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1269,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1637,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1738,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3170,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1637,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1636,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1273,
+                "order": 12,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10708,
+        "map_id": 10,
+        "name": "Spiraling",
+        "date": "2024-07-24T23:52:39.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 4,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1663,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1662,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1711,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1694,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1685,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1699,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1688,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1682,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1675,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1704,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1468,
+                "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10711,
+        "map_id": 10,
+        "name": "Pinkeye",
+        "date": "2024-07-25T09:55:17.000Z",
+        "last_updated": "2024-07-25T10:57:00.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 4820,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 13,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1655,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2233,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1511,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3181,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1379,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1755,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1314,
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 19,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "order": 20,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1753,
+                "order": 21,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1303,
+                "order": 22,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3171,
+                "order": 23,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10712,
+        "map_id": 10,
+        "name": "Sainz",
+        "date": "2024-07-25T11:19:09.000Z",
+        "last_updated": "2024-07-25T11:37:21.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 975,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 4,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1550,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1759,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1602,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1554,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1289,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1524,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2398,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1734,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1315,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10718,
+        "map_id": 10,
+        "name": "Precipice",
+        "date": "2024-07-25T18:46:54.000Z",
+        "last_updated": null,
+        "author": "Liqye",
+        "author_id": 1137,
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "points": 1240,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1543,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1588,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1308,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1269,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1545,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1622,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10727,
+        "map_id": 10,
+        "name": "Cilvia",
+        "date": "2024-07-26T02:17:01.000Z",
+        "last_updated": "2024-07-26T03:10:16.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 5,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1663,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1662,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1711,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1694,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1685,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1705,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1692,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1652,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2178,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1646,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1654,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2234,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1737,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1610,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2235,
+                "order": 15,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10728,
+        "map_id": 10,
+        "name": "2am summer night",
+        "date": "2024-07-26T02:26:46.000Z",
+        "last_updated": "2024-07-26T02:36:39.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 7,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1533,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1523,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1552,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1206,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1221,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1465,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1476,
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10729,
+        "map_id": 10,
+        "name": "Schewpid's Rampology",
+        "date": "2024-07-26T03:17:21.000Z",
+        "last_updated": "2024-07-26T03:30:26.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 500,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1601,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1558,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1560,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1207,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1209,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2208,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1382,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1716,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1739,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3185,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1382,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3186,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1382,
+                "order": 12,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3171,
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10730,
+        "map_id": 10,
+        "name": "Mint",
+        "date": "2024-07-26T03:25:55.000Z",
+        "last_updated": "2024-07-29T16:41:05.000Z",
+        "author": "iamronaldo776",
+        "author_id": 2962,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 1300,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1770,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1212,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1190,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1443,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1445,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1660,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1610,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1192,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1670,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1523,
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10731,
+        "map_id": 10,
+        "name": "not enough 1 rampers",
+        "date": "2024-07-26T08:36:43.000Z",
+        "last_updated": null,
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 975,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1189,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1190,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1770,
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10732,
+        "map_id": 10,
+        "name": "PEN Blackstar",
+        "date": "2024-07-26T08:53:34.000Z",
+        "last_updated": "2024-07-28T15:58:52.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 1375,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1434,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1435,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1436,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1345,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1479,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10733,
+        "map_id": 10,
+        "name": "PRI Blackstar",
+        "date": "2024-07-26T08:54:33.000Z",
+        "last_updated": "2024-07-28T15:58:38.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 975,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1434,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1435,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1436,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1345,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1448,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10734,
+        "map_id": 10,
+        "name": "3am summer night",
+        "date": "2024-07-26T09:46:35.000Z",
+        "last_updated": "2024-07-26T10:26:59.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1070,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 8,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1533,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1523,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2397,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1206,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1671,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1780,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1456,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1475,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10735,
+        "map_id": 10,
+        "name": "5am .x spawns in",
+        "date": "2024-07-26T10:48:10.000Z",
+        "last_updated": "2024-07-28T00:49:19.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1325,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 7,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1671,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1780,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1456,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1475,
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10736,
+        "map_id": 10,
+        "name": "Hard Hawkeye",
+        "date": "2024-07-26T11:07:01.000Z",
+        "last_updated": null,
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1100,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 13,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1540,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1655,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2233,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1510,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1750,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1379,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1755,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1307,
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1206,
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1221,
+                "order": 19,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1222,
+                "order": 20,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 21,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 22,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1447,
+                "order": 23,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10737,
+        "map_id": 10,
+        "name": "Hard Deadeye",
+        "date": "2024-07-26T11:09:31.000Z",
+        "last_updated": null,
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 950,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 8,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1540,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1655,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2233,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1510,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1750,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1485,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1679,
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10738,
+        "map_id": 10,
+        "name": "Hard Pinkeye",
+        "date": "2024-07-26T11:13:29.000Z",
+        "last_updated": null,
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1260,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 11,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1540,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1655,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2233,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1511,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3181,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1379,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1755,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1314,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1753,
+                "order": 19,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1303,
+                "order": 20,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3171,
+                "order": 21,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10739,
+        "map_id": 10,
+        "name": "Blackeye",
+        "date": "2024-07-26T11:34:21.000Z",
+        "last_updated": "2024-07-28T00:57:56.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1275,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 13,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1655,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2233,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1511,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3181,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1379,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1755,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1314,
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 19,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "order": 20,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 21,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10740,
+        "map_id": 10,
+        "name": "Spiraling Remix",
+        "date": "2024-07-26T11:46:47.000Z",
+        "last_updated": "2024-07-26T11:53:44.000Z",
+        "author": "hunter",
+        "author_id": 4820,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 5,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1663,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1662,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1711,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1694,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1685,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1699,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1686,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1665,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1691,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1675,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1689,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1704,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1691,
+                "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10751,
+        "map_id": 10,
+        "name": "Guff Gringle",
+        "date": "2024-07-26T23:53:27.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 4820,
+        "active": 1,
+        "points": 150,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1324,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1340,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1337,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1238,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1670,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1192,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1634,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2402,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1751,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10752,
+        "map_id": 10,
+        "name": "no idea",
+        "date": "2024-07-27T03:11:37.000Z",
+        "last_updated": "2024-07-27T03:15:18.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 5,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1235,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1190,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1460,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2393,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1444,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1467,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1470,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1465,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1193,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10756,
+        "map_id": 10,
+        "name": "Tell Me",
+        "date": "2024-07-27T10:10:09.000Z",
+        "last_updated": "2024-07-27T10:18:33.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 700,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 11,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1663,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1765,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1710,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1763,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1479,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1437,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1448,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1307,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1401,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1770,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1307,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1231,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1379,
+                "order": 17,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10757,
+        "map_id": 10,
+        "name": "Why Worry",
+        "date": "2024-07-27T11:11:57.000Z",
+        "last_updated": "2024-07-27T11:21:51.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 900,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1532,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1545,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1207,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1670,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1536,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10758,
+        "map_id": 10,
+        "name": "4am summer night",
+        "date": "2024-07-27T21:11:44.000Z",
+        "last_updated": "2024-07-28T00:49:01.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1290,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 7,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1671,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1780,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1456,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1478,
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10759,
+        "map_id": 10,
+        "name": "Losteye",
+        "date": "2024-07-28T01:05:45.000Z",
+        "last_updated": "2024-07-28T01:10:48.000Z",
+        "author": "nex",
+        "author_id": 18519,
+        "last_updated_author_id": 18519,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 10,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1544,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1655,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1323,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1460,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1460,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1468,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1470,
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10760,
+        "map_id": 10,
+        "name": "Doofenshmirtz",
+        "date": "2024-07-28T02:05:37.000Z",
+        "last_updated": "2024-07-28T02:18:21.000Z",
+        "author": "nex",
+        "author_id": 18519,
+        "last_updated_author_id": 18519,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 2,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1601,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1558,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1597,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1273,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1207,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1209,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1771,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1209,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1771,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1378,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10761,
+        "map_id": 10,
+        "name": "Kinter",
+        "date": "2024-07-28T02:09:05.000Z",
+        "last_updated": "2024-07-28T02:19:57.000Z",
+        "author": "influx, hunter & king",
+        "author_id": null,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 6,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1415,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1416,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1317,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1344,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1352,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1380,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3184,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3188,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3185,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1399,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1716,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1380,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1353,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1353,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1429,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1427,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1387,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1429,
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1380,
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1213,
+                "order": 19,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1398,
+                "order": 20,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10762,
+        "map_id": 10,
+        "name": "Tele Frenzy",
+        "date": "2024-07-28T03:43:36.000Z",
+        "last_updated": null,
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 900,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 11,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1279,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1278,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1301,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1293,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2208,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1314,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1754,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1266,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1753,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1206,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1379,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1755,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1661,
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1669,
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 19,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1426,
+                "order": 20,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10763,
+        "map_id": 10,
+        "name": "Blender",
+        "date": "2024-07-28T18:35:01.000Z",
+        "last_updated": null,
+        "author": "nex",
+        "author_id": 18519,
+        "last_updated_author_id": 18519,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 7,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1415,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1416,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1414,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1413,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1413,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1224,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1774,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1762,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1486,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1340,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1445,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 101,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1339,
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10764,
+        "map_id": 10,
+        "name": "Denver Luna",
+        "date": "2024-07-28T23:25:52.000Z",
+        "last_updated": "2024-07-28T23:33:19.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 3,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1279,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1277,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1292,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1301,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1599,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1587,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1504,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2397,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1209,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2397,
+                "order": 9,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2208,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1492,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10765,
+        "map_id": 10,
+        "name": "DDoS Loop",
+        "date": "2024-07-29T00:15:17.000Z",
+        "last_updated": "2024-07-29T00:20:28.000Z",
+        "author": "ᴸˢKahvo",
+        "author_id": 105,
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "points": 1270,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 2,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1235,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1190,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1443,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1445,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1465,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1238,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1192,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1465,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1445,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1443,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1718,
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10766,
+        "map_id": 10,
+        "name": "Not Deadeye",
+        "date": "2024-07-29T08:46:27.000Z",
+        "last_updated": "2024-07-29T13:52:51.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 150,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1599,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1599,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1600,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1584,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1289,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10767,
+        "map_id": 10,
+        "name": "Jaquice",
+        "date": "2024-07-29T08:46:29.000Z",
+        "last_updated": "2024-07-29T08:50:57.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 4820,
+        "active": 1,
+        "points": 150,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1601,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1558,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1560,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2396,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1641,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1610,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1616,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10768,
+        "map_id": 10,
+        "name": "Strange World",
+        "date": "2024-07-29T21:27:54.000Z",
+        "last_updated": null,
+        "author": "nex",
+        "author_id": 18519,
+        "last_updated_author_id": 18519,
+        "active": 1,
+        "points": 1275,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1601,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1558,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1775,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1597,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1733,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2217,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10769,
+        "map_id": 10,
+        "name": "Whisper",
+        "date": "2024-07-29T23:10:43.000Z",
+        "last_updated": null,
+        "author": "nex",
+        "author_id": 18519,
+        "last_updated_author_id": 18519,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1601,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1558,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1561,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1545,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1543,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1551,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1209,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2208,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1476,
+                "order": 9,
                 "passthrough": 0
             }
         ]
