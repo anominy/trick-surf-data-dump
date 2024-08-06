@@ -2645,11 +2645,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3049,
-                "order": 17,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2512,
                 "order": 17,
                 "passthrough": 1
@@ -2661,6 +2656,11 @@
             },
             {
                 "trigger_id": 3060,
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3049,
                 "order": 17,
                 "passthrough": 1
             },
@@ -2995,12 +2995,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2831,
+                "trigger_id": 2961,
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2961,
+                "trigger_id": 2831,
                 "order": 3,
                 "passthrough": 2
             },
@@ -4199,6 +4199,84 @@
             {
                 "trigger_id": 2792,
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10816,
+        "map_id": 12,
+        "name": "Beginners Guide to Dizziness",
+        "date": "2024-08-05T00:05:36.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 150,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2792,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2784,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2426,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2845,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2426,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3148,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3150,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2521,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2426,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2425,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2428,
+                "order": 10,
                 "passthrough": 0
             }
         ]
@@ -12605,6 +12683,89 @@
         ]
     },
     {
+        "id": 10783,
+        "map_id": 12,
+        "name": "Dream Days",
+        "date": "2024-07-31T22:57:18.000Z",
+        "last_updated": "2024-07-31T23:59:48.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3037,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2675,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2662,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3001,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2868,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3091,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2885,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2838,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2998,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2829,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2959,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2659,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8652,
         "map_id": 12,
         "name": "Dropdown",
@@ -13939,17 +14100,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2475,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2474,
                 "order": 4,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2482,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2475,
                 "order": 4,
                 "passthrough": 1
             }
@@ -19184,12 +19345,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2864,
+                "trigger_id": 2652,
                 "order": 7,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2652,
+                "trigger_id": 2864,
                 "order": 7,
                 "passthrough": 2
             },
@@ -21892,6 +22053,84 @@
         ]
     },
     {
+        "id": 10819,
+        "map_id": 12,
+        "name": "KITTYUUHH",
+        "date": "2024-08-05T00:09:59.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2539,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2540,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2610,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2846,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3146,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2649,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2652,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2807,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3145,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2536,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2422,
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 9565,
         "map_id": 12,
         "name": "Knights of Cydonia",
@@ -24245,6 +24484,84 @@
             {
                 "trigger_id": 2932,
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10797,
+        "map_id": 12,
+        "name": "Lonerism",
+        "date": "2024-08-02T15:23:18.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2826,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2420,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2414,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2430,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2976,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2903,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2831,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2937,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2662,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2580,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3096,
+                "order": 10,
                 "passthrough": 0
             }
         ]
@@ -26896,6 +27213,94 @@
         ]
     },
     {
+        "id": 10784,
+        "map_id": 12,
+        "name": "Nightmare Nights",
+        "date": "2024-07-31T23:07:17.000Z",
+        "last_updated": "2024-08-02T15:05:08.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3037,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2675,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2662,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3001,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2868,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3091,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2885,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2838,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2998,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2829,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2959,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2847,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2664,
+                "order": 12,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8859,
         "map_id": 12,
         "name": "Nightmares",
@@ -29476,17 +29881,17 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3024,
-                "order": 7,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 3032,
                 "order": 7,
                 "passthrough": 1
             },
             {
                 "trigger_id": 3030,
+                "order": 7,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3024,
                 "order": 7,
                 "passthrough": 1
             }
@@ -35667,6 +36072,44 @@
         ]
     },
     {
+        "id": 10818,
+        "map_id": 12,
+        "name": "Slope Assisted DBhop",
+        "date": "2024-08-05T00:07:57.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2817,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2801,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2565,
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8380,
         "map_id": 12,
         "name": "Slurp",
@@ -37360,12 +37803,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3124,
+                "trigger_id": 3080,
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3080,
+                "trigger_id": 3124,
                 "order": 2,
                 "passthrough": 1
             },
@@ -39866,6 +40309,64 @@
                 "trigger_id": 2603,
                 "order": 7,
                 "passthrough": 1
+            }
+        ]
+    },
+    {
+        "id": 10817,
+        "map_id": 12,
+        "name": "Swing Swing, Swingaling",
+        "date": "2024-08-05T00:06:58.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2491,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2489,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2420,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2484,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2486,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2484,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2519,
+                "order": 6,
+                "passthrough": 0
             }
         ]
     },

@@ -7,23 +7,16 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 1,
+    "players_online": 0,
     "map": {
-        "id": 8,
-        "name": "tsurf_ski_2",
-        "target_name": "tsurf_ski_2_gxds04",
-        "image_url": "https://media.trick.surf/tsurf_ski_2_gxds.jpg"
+        "id": 1,
+        "name": "tsurf_skyworld",
+        "target_name": "tsurf_skyworld",
+        "image_url": "https://media.trick.surf/tsurf_skyworld.jpg"
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 1,
+    "numberOfPlayers": 0,
     "passwordRequired": false,
-    "players": [
-        {
-            "player_id": 6763,
-            "name": "synq_",
-            "avatar_url": "https://avatars.steamstatic.com/61a730d491e89435e2264bd290b275164e58c2b8_full.jpg",
-            "server_id": 17
-        }
-    ]
+    "players": []
 }

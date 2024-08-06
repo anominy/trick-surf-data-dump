@@ -1020,6 +1020,84 @@
         ]
     },
     {
+        "id": 10788,
+        "map_id": 11,
+        "name": "anUndergroundTour",
+        "date": "2024-08-01T14:56:35.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 500,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2184,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2098,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2054,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1937,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1796,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2206,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1912,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1849,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2407,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1895,
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7419,
         "map_id": 11,
         "name": "Apauling",
@@ -1838,17 +1916,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2016,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2391,
                 "order": 2,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2390,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2016,
                 "order": 2,
                 "passthrough": 1
             }
@@ -2115,17 +2193,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2390,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2016,
                 "order": 2,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2391,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2390,
                 "order": 2,
                 "passthrough": 1
             }
@@ -6158,12 +6236,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1891,
+                "trigger_id": 1889,
                 "order": 8,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1889,
+                "trigger_id": 1891,
                 "order": 8,
                 "passthrough": 1
             },
@@ -7616,12 +7694,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1829,
+                "trigger_id": 2405,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2405,
+                "trigger_id": 1829,
                 "order": 3,
                 "passthrough": 1
             },
@@ -9605,6 +9683,94 @@
             {
                 "trigger_id": 2103,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10789,
+        "map_id": 11,
+        "name": "Hairy Balls",
+        "date": "2024-08-01T14:59:58.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 200,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2026,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1898,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2283,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2284,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2046,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2388,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1857,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2155,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2151,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2154,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2150,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2388,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1959,
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -16544,22 +16710,22 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2287,
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2286,
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2285,
                 "order": 5,
                 "passthrough": 2
             },
             {
                 "trigger_id": 2288,
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2287,
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2286,
                 "order": 5,
                 "passthrough": 2
             },
@@ -16579,6 +16745,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2287,
+                "order": 8,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2286,
                 "order": 8,
                 "passthrough": 2
@@ -16590,11 +16761,6 @@
             },
             {
                 "trigger_id": 2288,
-                "order": 8,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2287,
                 "order": 8,
                 "passthrough": 2
             }
@@ -19168,6 +19334,74 @@
             },
             {
                 "trigger_id": 1820,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10771,
+        "map_id": 11,
+        "name": "spunch bop",
+        "date": "2024-07-30T17:19:49.000Z",
+        "last_updated": "2024-07-30T17:23:00.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1895,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1898,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2046,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2154,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2151,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1909,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1920,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1929,
                 "order": 8,
                 "passthrough": 0
             }

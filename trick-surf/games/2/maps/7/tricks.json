@@ -8820,6 +8820,59 @@
         ]
     },
     {
+        "id": 10814,
+        "map_id": 7,
+        "name": "Target Strafe to Jail Wall",
+        "date": "2024-08-04T23:58:53.000Z",
+        "last_updated": null,
+        "author": "skin",
+        "author_id": 24229,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 200,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 4,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 633,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 643,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 641,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 627,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 638,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 847,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 17,
         "map_id": 7,
         "name": "Tele Yump",
@@ -8974,6 +9027,64 @@
             {
                 "trigger_id": 639,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10786,
+        "map_id": 7,
+        "name": "this map is so bland",
+        "date": "2024-08-01T14:49:58.000Z",
+        "last_updated": null,
+        "author": "skin",
+        "author_id": 24229,
+        "last_updated_author_id": 347,
+        "active": 1,
+        "points": 50,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": null,
+        "max_duration": null,
+        "max_jumps": 2,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 609,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 608,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 617,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 641,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 627,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 638,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 847,
+                "order": 6,
                 "passthrough": 0
             }
         ]

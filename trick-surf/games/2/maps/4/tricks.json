@@ -1984,31 +1984,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 296,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 294,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 358,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 398,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 292,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 350,
                 "order": 1,
                 "passthrough": 1
@@ -2045,6 +2020,31 @@
             },
             {
                 "trigger_id": 388,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 296,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 294,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 358,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 398,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 292,
                 "order": 1,
                 "passthrough": 1
             }
@@ -3860,6 +3860,49 @@
             {
                 "trigger_id": 339,
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10835,
+        "map_id": 4,
+        "name": "Did You Catch That?",
+        "date": "2024-08-05T15:21:31.000Z",
+        "last_updated": "2024-08-05T15:21:45.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 50,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 333,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 397,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1161,
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -7864,6 +7907,69 @@
         ]
     },
     {
+        "id": 10838,
+        "map_id": 4,
+        "name": "Kai Cenat Egg.",
+        "date": "2024-08-05T15:25:18.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 50,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1186,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 397,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 398,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 384,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 380,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 363,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5806,
         "map_id": 4,
         "name": "Kickflip",
@@ -8207,6 +8313,54 @@
             {
                 "trigger_id": 1113,
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10836,
+        "map_id": 4,
+        "name": "Let's Watch That Again.",
+        "date": "2024-08-05T15:22:47.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 50,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1186,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 388,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 388,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 340,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -9202,6 +9356,74 @@
             {
                 "trigger_id": 342,
                 "order": 12,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10796,
+        "map_id": 4,
+        "name": "Mason's Cute",
+        "date": "2024-08-02T12:21:15.000Z",
+        "last_updated": null,
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 775,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 3,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 342,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 341,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 341,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1122,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1084,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 342,
+                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -10944,6 +11166,64 @@
             {
                 "trigger_id": 333,
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10837,
+        "map_id": 4,
+        "name": "Oh God, It's The...",
+        "date": "2024-08-05T15:23:55.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1186,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 321,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 385,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -14830,6 +15110,84 @@
             {
                 "trigger_id": 333,
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10834,
+        "map_id": 4,
+        "name": "Schewpid's Railslide",
+        "date": "2024-08-05T15:20:05.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 401,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1083,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 379,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 358,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 292,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 388,
+                "order": 10,
                 "passthrough": 0
             }
         ]
@@ -19059,6 +19417,59 @@
         ]
     },
     {
+        "id": 10795,
+        "map_id": 4,
+        "name": "Unit Hoard",
+        "date": "2024-08-02T11:29:00.000Z",
+        "last_updated": "2024-08-02T11:54:24.000Z",
+        "author": "Steve",
+        "author_id": 10,
+        "last_updated_author_id": 10,
+        "active": 1,
+        "points": 1290,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 365,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1073,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2403,
         "map_id": 4,
         "name": "V for Vendetta",
@@ -20734,6 +21145,89 @@
             {
                 "trigger_id": 391,
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10790,
+        "map_id": 4,
+        "name": "∇⋅B = 0",
+        "date": "2024-08-01T15:01:34.000Z",
+        "last_updated": "2024-08-01T15:07:30.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 500,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 391,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 352,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 352,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 352,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 352,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1135,
+                "order": 11,
                 "passthrough": 0
             }
         ]

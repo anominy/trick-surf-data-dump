@@ -7,28 +7,22 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 2,
+    "players_online": 1,
     "map": {
-        "id": 1,
-        "name": "tsurf_skyworld",
-        "target_name": "tsurf_skyworld",
-        "image_url": "https://media.trick.surf/tsurf_skyworld.jpg"
+        "id": 2,
+        "name": "tsurf_japan_ptad",
+        "target_name": "tsurf_japan_ptad_b04",
+        "image_url": "https://media.trick.surf/tsurf_japan_ptad.png"
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 2,
+    "numberOfPlayers": 1,
     "passwordRequired": false,
     "players": [
         {
-            "player_id": 4140,
-            "name": "Mason",
-            "avatar_url": "https://avatars.steamstatic.com/5cf951d73eb444312cc34727650bea79d1c868c1_full.jpg",
-            "server_id": 13
-        },
-        {
-            "player_id": 123,
-            "name": "Natsu",
-            "avatar_url": "https://avatars.steamstatic.com/ec1a296bc89c81350be9050c8a7f98d4cfabf213_full.jpg",
+            "player_id": 458,
+            "name": "Tricky",
+            "avatar_url": "https://avatars.steamstatic.com/7817784de8634abce8ef412f6189fd769e78be4e_full.jpg",
             "server_id": 13
         }
     ]
