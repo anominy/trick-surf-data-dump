@@ -2104,8 +2104,8 @@
         "max_jumps": 3,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 0,
-        "playersCompleted": 0,
+        "completions": 1,
+        "playersCompleted": 1,
         "trick_sequence": [
             {
                 "trigger_id": 820,
@@ -2739,8 +2739,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 14,
-        "playersCompleted": 13,
+        "completions": 19,
+        "playersCompleted": 14,
         "trick_sequence": [
             {
                 "trigger_id": 823,
@@ -4290,7 +4290,7 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 76,
+        "completions": 77,
         "playersCompleted": 12,
         "trick_sequence": [
             {
@@ -5295,12 +5295,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2337,
+                "trigger_id": 2336,
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2336,
+                "trigger_id": 2337,
                 "order": 2,
                 "passthrough": 1
             }
@@ -7217,7 +7217,7 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 1,
-        "completions": 2058,
+        "completions": 2060,
         "playersCompleted": 100,
         "trick_sequence": [
             {
@@ -8318,7 +8318,7 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 1070,
+        "completions": 1083,
         "playersCompleted": 94,
         "trick_sequence": [
             {
@@ -9007,17 +9007,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 822,
+                "order": 6,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 820,
                 "order": 6,
                 "passthrough": 1
             },
             {
                 "trigger_id": 819,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 822,
                 "order": 6,
                 "passthrough": 1
             },

@@ -1,0 +1,43 @@
+{
+    "id": 10893,
+    "map_id": 12,
+    "name": "King Corn",
+    "date": "2024-08-12T01:11:36.000Z",
+    "last_updated": "2024-08-12T21:58:57.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated_author_id": 10,
+    "active": 1,
+    "points": 1350,
+    "tier": 8,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 3157,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2426,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3107,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2780,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

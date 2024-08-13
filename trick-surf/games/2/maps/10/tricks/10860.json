@@ -1,0 +1,38 @@
+{
+    "id": 10860,
+    "map_id": 10,
+    "name": "The Duck",
+    "date": "2024-08-08T23:52:58.000Z",
+    "last_updated": "2024-08-10T20:30:44.000Z",
+    "author": "duckhead",
+    "author_id": 27068,
+    "last_updated_author_id": 10,
+    "active": 1,
+    "points": 1300,
+    "tier": 8,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 1493,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1345,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1313,
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

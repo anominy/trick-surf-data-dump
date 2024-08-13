@@ -1,0 +1,33 @@
+{
+    "id": 10908,
+    "map_id": 10,
+    "name": "Influx Strafe",
+    "date": "2024-08-13T05:07:11.000Z",
+    "last_updated": "2024-08-13T05:24:51.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated_author_id": 147,
+    "active": 1,
+    "points": 90,
+    "tier": 1,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 1,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 1460,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1470,
+            "order": 1,
+            "passthrough": 0
+        }
+    ]
+}

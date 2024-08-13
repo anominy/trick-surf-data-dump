@@ -1916,17 +1916,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2390,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2016,
                 "order": 2,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2391,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2390,
                 "order": 2,
                 "passthrough": 1
             }
@@ -2193,17 +2193,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2391,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2390,
                 "order": 2,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2016,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2391,
                 "order": 2,
                 "passthrough": 1
             }
@@ -7522,6 +7522,94 @@
             {
                 "trigger_id": 2060,
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10906,
+        "map_id": 11,
+        "name": "Easy Zephyros",
+        "date": "2024-08-13T04:27:17.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2021,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2204,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2088,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1877,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2000,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2147,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1935,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1877,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2088,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2204,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1872,
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -16710,22 +16798,22 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2285,
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2288,
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2287,
                 "order": 5,
                 "passthrough": 2
             },
             {
                 "trigger_id": 2286,
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2288,
                 "order": 5,
                 "passthrough": 2
             },
@@ -23831,6 +23919,94 @@
             {
                 "trigger_id": 2139,
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10907,
+        "map_id": 11,
+        "name": "Zephyros",
+        "date": "2024-08-13T04:29:06.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1160,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2021,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2204,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2088,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1877,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2000,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2147,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1935,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1877,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2088,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2204,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2021,
+                "order": 12,
                 "passthrough": 0
             }
         ]
