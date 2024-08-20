@@ -3,7 +3,7 @@
     "map_id": 8,
     "name": "Ocho Rios to San Juan",
     "date": "2024-08-11T16:49:29.000Z",
-    "last_updated": "2024-08-11T17:01:04.000Z",
+    "last_updated": "2024-08-13T18:08:03.000Z",
     "author": "synq_",
     "author_id": 6763,
     "last_updated_author_id": 147,
@@ -48,6 +48,11 @@
             "trigger_id": 763,
             "order": 5,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 776,
+            "order": 5,
+            "passthrough": 2
         }
     ]
 }

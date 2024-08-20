@@ -536,13 +536,13 @@
         "map_id": 4,
         "name": "At The End, There's Nothing",
         "date": "2024-01-13T19:41:19.000Z",
-        "last_updated": null,
-        "author": "ᴛꜱ ٠ lockedd",
+        "last_updated": "2024-08-14T15:28:44.000Z",
+        "author": "lockedd",
         "author_id": 180,
-        "last_updated_author_id": 180,
+        "last_updated_author_id": 18519,
         "active": 1,
-        "points": 600,
-        "tier": 4,
+        "points": 1000,
+        "tier": 6,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -1984,6 +1984,31 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 296,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 294,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 358,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 398,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 292,
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 350,
                 "order": 1,
                 "passthrough": 1
@@ -2020,31 +2045,6 @@
             },
             {
                 "trigger_id": 388,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 296,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 294,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 358,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 398,
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 292,
                 "order": 1,
                 "passthrough": 1
             }
@@ -6654,6 +6654,54 @@
         ]
     },
     {
+        "id": 10957,
+        "map_id": 4,
+        "name": "Golden Nitrus Rise",
+        "date": "2024-08-17T05:04:15.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 900,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 327,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 328,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 342,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5768,
         "map_id": 4,
         "name": "Gooseberry Circuit",
@@ -10609,6 +10657,54 @@
             {
                 "trigger_id": 367,
                 "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10956,
+        "map_id": 4,
+        "name": "Nitrus Rise",
+        "date": "2024-08-17T05:03:14.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 400,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 330,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 328,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 342,
+                "order": 4,
                 "passthrough": 0
             }
         ]

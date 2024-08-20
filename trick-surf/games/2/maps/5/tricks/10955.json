@@ -1,0 +1,48 @@
+{
+    "id": 10955,
+    "map_id": 5,
+    "name": "Catwalk Race",
+    "date": "2024-08-17T05:00:15.000Z",
+    "last_updated": "2024-08-19T04:25:52.000Z",
+    "author": "Schewpid",
+    "author_id": 25977,
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "points": 5,
+    "tier": 1,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 2,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 937,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 418,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 418,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 937,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

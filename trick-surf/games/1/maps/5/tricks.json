@@ -3249,6 +3249,54 @@
         ]
     },
     {
+        "id": 10955,
+        "map_id": 5,
+        "name": "Catwalk Race",
+        "date": "2024-08-17T05:00:15.000Z",
+        "last_updated": "2024-08-19T04:25:52.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 5,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 2,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 1,
+        "playersCompleted": 1,
+        "trick_sequence": [
+            {
+                "trigger_id": 937,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 418,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 418,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 937,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2495,
         "map_id": 5,
         "name": "Catwalk Whop",
@@ -11452,7 +11500,7 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 546,
+        "completions": 559,
         "playersCompleted": 28,
         "trick_sequence": [
             {
@@ -12050,7 +12098,7 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 1,
-        "completions": 6021,
+        "completions": 6022,
         "playersCompleted": 209,
         "trick_sequence": [
             {
@@ -12931,8 +12979,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 88,
-        "playersCompleted": 26,
+        "completions": 94,
+        "playersCompleted": 27,
         "trick_sequence": [
             {
                 "trigger_id": 459,
@@ -18027,8 +18075,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 255,
-        "playersCompleted": 49,
+        "completions": 256,
+        "playersCompleted": 50,
         "trick_sequence": [
             {
                 "trigger_id": 458,
@@ -18214,8 +18262,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 1,
-        "completions": 3637,
-        "playersCompleted": 145,
+        "completions": 3638,
+        "playersCompleted": 146,
         "trick_sequence": [
             {
                 "trigger_id": 461,
@@ -18570,8 +18618,8 @@
         "max_jumps": null,
         "no_jump": 0,
         "hidden": 0,
-        "completions": 131,
-        "playersCompleted": 22,
+        "completions": 136,
+        "playersCompleted": 23,
         "trick_sequence": [
             {
                 "trigger_id": 474,

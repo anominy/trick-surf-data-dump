@@ -25,8 +25,8 @@
                 "country": "Israel",
                 "country_code": "IL",
                 "vip_level": 1,
-                "first_connect": 1723551893839,
-                "last_connect": 1723551893839,
+                "first_connect": 1724156676734,
+                "last_connect": 1724156676734,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -45,8 +45,8 @@
                 "country": "Germany",
                 "country_code": "DE",
                 "vip_level": 0,
-                "first_connect": 1723551893839,
-                "last_connect": 1723551893839,
+                "first_connect": 1724156676734,
+                "last_connect": 1724156676734,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": ""
@@ -65,8 +65,8 @@
                 "country": "Australia",
                 "country_code": "AU",
                 "vip_level": 1,
-                "first_connect": 1723551893839,
-                "last_connect": 1723551893839,
+                "first_connect": 1724156676734,
+                "last_connect": 1724156676734,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -87,8 +87,8 @@
                 "country": "Belgium",
                 "country_code": "BE",
                 "vip_level": 1,
-                "first_connect": 1723551893839,
-                "last_connect": 1723551893839,
+                "first_connect": 1724156676734,
+                "last_connect": 1724156676734,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -107,8 +107,8 @@
                 "country": "Sweden",
                 "country_code": "SE",
                 "vip_level": 1,
-                "first_connect": 1723551893840,
-                "last_connect": 1723551893840,
+                "first_connect": 1724156676735,
+                "last_connect": 1724156676735,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -127,8 +127,8 @@
                 "country": "Sweden",
                 "country_code": "SE",
                 "vip_level": 0,
-                "first_connect": 1723551893840,
-                "last_connect": 1723551893840,
+                "first_connect": 1724156676735,
+                "last_connect": 1724156676735,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": ""
@@ -160,8 +160,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 0,
-                "completions": 429,
-                "playersCompleted": 107,
+                "completions": 432,
+                "playersCompleted": 109,
                 "trick_sequence": [
                     {
                         "trigger_id": 1235,
@@ -225,8 +225,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 0,
-                "completions": 695,
-                "playersCompleted": 169,
+                "completions": 714,
+                "playersCompleted": 172,
                 "trick_sequence": [
                     {
                         "trigger_id": 1279,
@@ -290,8 +290,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 0,
-                "completions": 356,
-                "playersCompleted": 111,
+                "completions": 360,
+                "playersCompleted": 114,
                 "trick_sequence": [
                     {
                         "trigger_id": 1279,
@@ -326,76 +326,6 @@
                     {
                         "trigger_id": 1685,
                         "order": 5,
-                        "passthrough": 0
-                    }
-                ]
-            }
-        },
-        {
-            "map_id": 10,
-            "map_name": "tsurf_concretejungle",
-            "trick_id": 6432,
-            "event_player_completions": 44,
-            "event_completions": 253,
-            "trick": {
-                "id": 6432,
-                "map_id": 10,
-                "name": "simple dimple",
-                "date": "2022-11-30T18:52:18.000Z",
-                "last_updated": "2022-12-14T21:38:13.000Z",
-                "author": "Gengis Khan",
-                "author_id": 4072,
-                "last_updated_author_id": 347,
-                "active": 1,
-                "points": 150,
-                "tier": 2,
-                "min_velocity": null,
-                "max_prestrafe": 406,
-                "max_duration": null,
-                "max_jumps": 1,
-                "no_jump": 0,
-                "hidden": 0,
-                "completions": 383,
-                "playersCompleted": 70,
-                "trick_sequence": [
-                    {
-                        "trigger_id": 1601,
-                        "order": 0,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1558,
-                        "order": 1,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1560,
-                        "order": 2,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1533,
-                        "order": 3,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1610,
-                        "order": 4,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1654,
-                        "order": 5,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1656,
-                        "order": 6,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1525,
-                        "order": 7,
                         "passthrough": 0
                     }
                 ]
@@ -464,6 +394,76 @@
         {
             "map_id": 10,
             "map_name": "tsurf_concretejungle",
+            "trick_id": 6432,
+            "event_player_completions": 44,
+            "event_completions": 253,
+            "trick": {
+                "id": 6432,
+                "map_id": 10,
+                "name": "simple dimple",
+                "date": "2022-11-30T18:52:18.000Z",
+                "last_updated": "2022-12-14T21:38:13.000Z",
+                "author": "Gengis Khan",
+                "author_id": 4072,
+                "last_updated_author_id": 347,
+                "active": 1,
+                "points": 150,
+                "tier": 2,
+                "min_velocity": null,
+                "max_prestrafe": 406,
+                "max_duration": null,
+                "max_jumps": 1,
+                "no_jump": 0,
+                "hidden": 0,
+                "completions": 384,
+                "playersCompleted": 71,
+                "trick_sequence": [
+                    {
+                        "trigger_id": 1601,
+                        "order": 0,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1558,
+                        "order": 1,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1560,
+                        "order": 2,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1533,
+                        "order": 3,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1610,
+                        "order": 4,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1654,
+                        "order": 5,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1656,
+                        "order": 6,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1525,
+                        "order": 7,
+                        "passthrough": 0
+                    }
+                ]
+            }
+        },
+        {
+            "map_id": 10,
+            "map_name": "tsurf_concretejungle",
             "trick_id": 6523,
             "event_player_completions": 42,
             "event_completions": 126,
@@ -485,8 +485,8 @@
                 "max_jumps": null,
                 "no_jump": 1,
                 "hidden": 0,
-                "completions": 179,
-                "playersCompleted": 58,
+                "completions": 180,
+                "playersCompleted": 59,
                 "trick_sequence": [
                     {
                         "trigger_id": 1599,
