@@ -16,8 +16,8 @@
     "max_jumps": null,
     "no_jump": 0,
     "hidden": 0,
-    "completions": 666,
-    "playersCompleted": 104,
+    "completions": 669,
+    "playersCompleted": 107,
     "trick_sequence": [
         {
             "trigger_id": 291,
@@ -28,6 +28,36 @@
             "trigger_id": 368,
             "order": 1,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 398,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 292,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 350,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 397,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 346,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 396,
+            "order": 1,
+            "passthrough": 1
         },
         {
             "trigger_id": 318,
@@ -61,36 +91,6 @@
         },
         {
             "trigger_id": 358,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 398,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 292,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 350,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 397,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 346,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 396,
             "order": 1,
             "passthrough": 1
         }

@@ -90,16 +90,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1211,
-            "order": 2,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1634,
-            "order": 2,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1210,
             "order": 2,
             "passthrough": 1
@@ -161,6 +151,16 @@
         },
         {
             "trigger_id": 1587,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1211,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1634,
             "order": 2,
             "passthrough": 1
         },
@@ -245,11 +245,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1381,
-            "order": 4,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1380,
             "order": 4,
             "passthrough": 1
@@ -305,14 +300,14 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1381,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1763,
             "order": 5,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1300,
-            "order": 5,
-            "passthrough": 1
         },
         {
             "trigger_id": 1493,
@@ -385,14 +380,14 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1300,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1761,
             "order": 6,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1479,
-            "order": 6,
-            "passthrough": 1
         },
         {
             "trigger_id": 1484,
@@ -466,6 +461,11 @@
         },
         {
             "trigger_id": 1337,
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1479,
             "order": 6,
             "passthrough": 1
         }

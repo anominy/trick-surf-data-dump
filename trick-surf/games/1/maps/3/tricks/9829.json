@@ -3,10 +3,10 @@
     "map_id": 3,
     "name": "Demonic G4",
     "date": "2024-04-30T19:42:43.000Z",
-    "last_updated": "2024-05-16T01:59:51.000Z",
+    "last_updated": "2024-08-27T05:31:22.000Z",
     "author": "ANC Chairman",
     "author_id": 15261,
-    "last_updated_author_id": 15261,
+    "last_updated_author_id": 4561,
     "active": 1,
     "points": 3250,
     "tier": 7,
@@ -68,6 +68,11 @@
             "trigger_id": 240,
             "order": 9,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 3273,
+            "order": 9,
+            "passthrough": 2
         },
         {
             "trigger_id": 229,

@@ -16,8 +16,8 @@
     "max_jumps": 0,
     "no_jump": 0,
     "hidden": 0,
-    "completions": 82,
-    "playersCompleted": 35,
+    "completions": 84,
+    "playersCompleted": 36,
     "trick_sequence": [
         {
             "trigger_id": 1895,
@@ -35,17 +35,17 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 2391,
-            "order": 2,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 2390,
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 2016,
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2391,
             "order": 2,
             "passthrough": 1
         }

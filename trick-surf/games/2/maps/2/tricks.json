@@ -8618,6 +8618,119 @@
         ]
     },
     {
+        "id": 11005,
+        "map_id": 2,
+        "name": "Be home by 9",
+        "date": "2024-08-20T14:13:05.000Z",
+        "last_updated": null,
+        "author": "Oscar",
+        "author_id": 1554,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 3500,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 9,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 155,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 128,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 136,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 136,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 128,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 970,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 154,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 128,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 136,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 136,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 128,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 155,
+                "order": 17,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 1336,
         "map_id": 2,
         "name": "Beaver Canon",
@@ -69672,13 +69785,13 @@
         "map_id": 2,
         "name": "Stone-Hearted",
         "date": "2022-10-11T00:51:36.000Z",
-        "last_updated": "2022-10-11T18:16:14.000Z",
-        "author": "KingYoshi",
+        "last_updated": "2024-08-25T18:02:27.000Z",
+        "author": "KingYoshi // solidsurf.info",
         "author_id": 457,
-        "last_updated_author_id": 457,
+        "last_updated_author_id": 147,
         "active": 1,
-        "points": 2000,
-        "tier": 6,
+        "points": 1500,
+        "tier": 5,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -69730,6 +69843,74 @@
             },
             {
                 "trigger_id": 103,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11047,
+        "map_id": 2,
+        "name": "Stone-Hearted Cat",
+        "date": "2024-08-25T18:01:00.000Z",
+        "last_updated": null,
+        "author": "cat?!",
+        "author_id": 26049,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 2300,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 88,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 93,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 179,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 96,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 188,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 186,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 188,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 160,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 90,
                 "order": 8,
                 "passthrough": 0
             }

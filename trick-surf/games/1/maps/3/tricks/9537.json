@@ -3,10 +3,10 @@
     "map_id": 3,
     "name": "Silly Double Tap",
     "date": "2024-04-09T03:22:08.000Z",
-    "last_updated": "2024-04-09T03:36:55.000Z",
+    "last_updated": "2024-08-22T08:34:07.000Z",
     "author": "ANC Chairman",
     "author_id": 15261,
-    "last_updated_author_id": 15261,
+    "last_updated_author_id": 4561,
     "active": 1,
     "points": 2510,
     "tier": 7,
@@ -50,6 +50,11 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 3273,
+            "order": 4,
+            "passthrough": 2
+        },
+        {
             "trigger_id": 229,
             "order": 5,
             "passthrough": 0
@@ -83,6 +88,11 @@
             "trigger_id": 240,
             "order": 10,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 3273,
+            "order": 10,
+            "passthrough": 2
         },
         {
             "trigger_id": 229,

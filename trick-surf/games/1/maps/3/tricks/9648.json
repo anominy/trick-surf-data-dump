@@ -3,10 +3,10 @@
     "map_id": 3,
     "name": "G13000",
     "date": "2024-04-17T23:48:50.000Z",
-    "last_updated": "2024-04-18T00:16:54.000Z",
+    "last_updated": "2024-08-22T08:29:21.000Z",
     "author": "ANC Chairman",
     "author_id": 15261,
-    "last_updated_author_id": 15261,
+    "last_updated_author_id": 4561,
     "active": 1,
     "points": 2500,
     "tier": 7,
@@ -78,6 +78,11 @@
             "trigger_id": 240,
             "order": 11,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 3273,
+            "order": 11,
+            "passthrough": 2
         },
         {
             "trigger_id": 229,

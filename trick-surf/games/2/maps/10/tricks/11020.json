@@ -1,0 +1,48 @@
+{
+    "id": 11020,
+    "map_id": 10,
+    "name": "Steppingstone",
+    "date": "2024-08-21T15:13:15.000Z",
+    "last_updated": null,
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "points": 1000,
+    "tier": 6,
+    "min_velocity": 0,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": 1,
+    "no_jump": 1,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 1663,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1765,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1235,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1209,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1189,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

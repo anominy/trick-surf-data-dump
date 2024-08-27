@@ -2583,6 +2583,104 @@
         ]
     },
     {
+        "id": 11098,
+        "map_id": 3,
+        "name": "4TSception",
+        "date": "2024-08-27T10:17:55.000Z",
+        "last_updated": "2024-08-27T10:25:00.000Z",
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 4000,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 252,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 259,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 266,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 226,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 251,
+                "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 111,
         "map_id": 3,
         "name": "636",
@@ -2905,15 +3003,15 @@
         "map_id": 3,
         "name": "A Trick borziy Can't Do",
         "date": "2023-02-21T19:35:03.000Z",
-        "last_updated": "2023-02-22T08:07:22.000Z",
-        "author": "trikz_shineska",
+        "last_updated": "2024-08-22T08:18:54.000Z",
+        "author": "sonki",
         "author_id": 259,
-        "last_updated_author_id": 406,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 1000,
         "tier": 5,
         "min_velocity": null,
-        "max_prestrafe": 406,
+        "max_prestrafe": 398,
         "max_duration": null,
         "max_jumps": null,
         "no_jump": 0,
@@ -4297,10 +4395,10 @@
         "map_id": 3,
         "name": "ANC ATS",
         "date": "2024-03-30T22:58:25.000Z",
-        "last_updated": "2024-03-31T00:33:56.000Z",
+        "last_updated": "2024-08-22T08:29:46.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 2510,
         "tier": 7,
@@ -4357,6 +4455,11 @@
                 "trigger_id": 240,
                 "order": 7,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 7,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -11670,6 +11773,49 @@
         ]
     },
     {
+        "id": 11018,
+        "map_id": 3,
+        "name": "D1000",
+        "date": "2024-08-21T11:53:09.000Z",
+        "last_updated": null,
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 200,
+        "tier": 1,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 915,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3272,
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 502,
         "map_id": 3,
         "name": "darude sandstorm",
@@ -11913,10 +12059,10 @@
         "map_id": 3,
         "name": "Darxor's Survival",
         "date": "2023-02-11T03:40:43.000Z",
-        "last_updated": "2023-02-11T20:49:36.000Z",
+        "last_updated": "2024-08-27T03:41:20.000Z",
         "author": "Darxor",
         "author_id": 731,
-        "last_updated_author_id": 46,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 900,
         "tier": 4,
@@ -11985,9 +12131,19 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 930,
+                "order": 8,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 922,
                 "order": 9,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 930,
+                "order": 9,
+                "passthrough": 1
             },
             {
                 "trigger_id": 274,
@@ -12046,10 +12202,10 @@
         "map_id": 3,
         "name": "Demonic G4",
         "date": "2024-04-30T19:42:43.000Z",
-        "last_updated": "2024-05-16T01:59:51.000Z",
+        "last_updated": "2024-08-27T05:31:22.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 3250,
         "tier": 7,
@@ -12111,6 +12267,11 @@
                 "trigger_id": 240,
                 "order": 9,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 9,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -19327,10 +19488,10 @@
         "map_id": 3,
         "name": "Flawless Obliterates Olsson",
         "date": "2022-01-01T21:00:00.000Z",
-        "last_updated": "2023-02-18T17:44:02.000Z",
+        "last_updated": "2024-08-25T05:42:41.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated_author_id": 480,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 1800,
         "tier": 6,
@@ -19377,6 +19538,11 @@
                 "trigger_id": 280,
                 "order": 4,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 268,
+                "order": 4,
+                "passthrough": 1
             },
             {
                 "trigger_id": 202,
@@ -24317,10 +24483,10 @@
         "map_id": 3,
         "name": "G13000",
         "date": "2024-04-17T23:48:50.000Z",
-        "last_updated": "2024-04-18T00:16:54.000Z",
+        "last_updated": "2024-08-22T08:29:21.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 2500,
         "tier": 7,
@@ -24392,6 +24558,11 @@
                 "trigger_id": 240,
                 "order": 11,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 11,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -24826,10 +24997,10 @@
         "map_id": 3,
         "name": "G3000 to G5000",
         "date": "2024-05-03T04:52:20.000Z",
-        "last_updated": null,
+        "last_updated": "2024-08-22T08:28:51.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 1600,
         "tier": 6,
@@ -24881,6 +25052,11 @@
                 "trigger_id": 240,
                 "order": 7,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 7,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -25088,10 +25264,10 @@
         "map_id": 3,
         "name": "G3000 x3",
         "date": "2022-01-01T21:00:00.000Z",
-        "last_updated": null,
+        "last_updated": "2024-08-22T08:31:13.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated_author_id": null,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 999,
         "tier": 4,
@@ -25145,6 +25321,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 7,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 8,
                 "passthrough": 0
@@ -25165,6 +25346,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 11,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 12,
                 "passthrough": 0
@@ -25181,10 +25367,10 @@
         "map_id": 3,
         "name": "G3000 x4",
         "date": "2024-05-04T21:52:24.000Z",
-        "last_updated": null,
+        "last_updated": "2024-08-22T08:31:37.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 1605,
         "tier": 6,
@@ -25238,6 +25424,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 7,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 8,
                 "passthrough": 0
@@ -25258,6 +25449,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 11,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 12,
                 "passthrough": 0
@@ -25276,6 +25472,11 @@
                 "trigger_id": 240,
                 "order": 15,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 15,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -28972,12 +29173,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
@@ -32738,10 +32939,10 @@
         "map_id": 3,
         "name": "Illegal Double Tap",
         "date": "2024-04-09T03:23:20.000Z",
-        "last_updated": "2024-04-10T04:50:09.000Z",
+        "last_updated": "2024-08-22T08:33:22.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 3700,
         "tier": 8,
@@ -32785,6 +32986,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 4,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 5,
                 "passthrough": 0
@@ -32818,6 +33024,11 @@
                 "trigger_id": 240,
                 "order": 10,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 10,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -34189,6 +34400,87 @@
             {
                 "trigger_id": 217,
                 "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11028,
+        "map_id": 3,
+        "name": "J-Hop",
+        "date": "2024-08-22T11:20:11.000Z",
+        "last_updated": null,
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 400,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 205,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3270,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 233,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11030,
+        "map_id": 3,
+        "name": "J-Strafe",
+        "date": "2024-08-22T11:43:02.000Z",
+        "last_updated": "2024-08-22T23:11:01.000Z",
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 800,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3271,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 233,
+                "order": 1,
                 "passthrough": 0
             }
         ]
@@ -47272,12 +47564,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2304,
+                "trigger_id": 271,
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 271,
+                "trigger_id": 2304,
                 "order": 2,
                 "passthrough": 1
             },
@@ -60068,99 +60360,6 @@
         ]
     },
     {
-        "id": 10456,
-        "map_id": 3,
-        "name": "River's Edge",
-        "date": "2024-06-18T07:47:34.000Z",
-        "last_updated": "2024-07-06T11:07:03.000Z",
-        "author": "jessetooler",
-        "author_id": 4561,
-        "last_updated_author_id": 4561,
-        "active": 1,
-        "points": 10000,
-        "tier": 9,
-        "min_velocity": null,
-        "max_prestrafe": 406,
-        "max_duration": null,
-        "max_jumps": null,
-        "no_jump": 0,
-        "hidden": 0,
-        "completions": 0,
-        "playersCompleted": 0,
-        "trick_sequence": [
-            {
-                "trigger_id": 252,
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 259,
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 266,
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 240,
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 229,
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 256,
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 260,
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 240,
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 261,
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 229,
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 226,
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 240,
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 229,
-                "order": 10,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 219,
-                "order": 11,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 7043,
         "map_id": 3,
         "name": "RK's G3",
@@ -63384,10 +63583,10 @@
         "map_id": 3,
         "name": "Seemingly Impossible G4000",
         "date": "2024-03-30T08:18:31.000Z",
-        "last_updated": "2024-04-05T07:29:57.000Z",
+        "last_updated": "2024-08-22T08:32:23.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 1600,
         "tier": 6,
@@ -63431,6 +63630,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 4,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 5,
                 "passthrough": 0
@@ -63447,10 +63651,10 @@
         "map_id": 3,
         "name": "Seemingly Impossible Rebound",
         "date": "2024-04-05T07:29:22.000Z",
-        "last_updated": "2024-04-05T07:30:04.000Z",
+        "last_updated": "2024-08-22T08:32:35.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 3222,
         "tier": 7,
@@ -63494,6 +63698,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 4,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 5,
                 "passthrough": 0
@@ -63525,10 +63734,10 @@
         "map_id": 3,
         "name": "Seemingly Impossible Rebound For Noobs",
         "date": "2024-04-05T07:24:23.000Z",
-        "last_updated": null,
+        "last_updated": "2024-08-22T08:32:47.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 2222,
         "tier": 6,
@@ -63570,6 +63779,11 @@
                 "trigger_id": 240,
                 "order": 4,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 4,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -64343,12 +64557,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
@@ -64645,10 +64859,10 @@
         "map_id": 3,
         "name": "Silly Double Tap",
         "date": "2024-04-09T03:22:08.000Z",
-        "last_updated": "2024-04-09T03:36:55.000Z",
+        "last_updated": "2024-08-22T08:34:07.000Z",
         "author": "ANC Chairman",
         "author_id": 15261,
-        "last_updated_author_id": 15261,
+        "last_updated_author_id": 4561,
         "active": 1,
         "points": 2510,
         "tier": 7,
@@ -64692,6 +64906,11 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3273,
+                "order": 4,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 229,
                 "order": 5,
                 "passthrough": 0
@@ -64725,6 +64944,11 @@
                 "trigger_id": 240,
                 "order": 10,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3273,
+                "order": 10,
+                "passthrough": 2
             },
             {
                 "trigger_id": 229,
@@ -64883,6 +65107,102 @@
             {
                 "trigger_id": 208,
                 "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11031,
+        "map_id": 3,
+        "name": "Sky3",
+        "date": "2024-08-23T00:43:16.000Z",
+        "last_updated": "2024-08-23T00:44:49.000Z",
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 800,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": null,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 257,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 252,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 217,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11032,
+        "map_id": 3,
+        "name": "Sky4",
+        "date": "2024-08-23T00:46:49.000Z",
+        "last_updated": null,
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 1500,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": null,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 257,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 252,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 226,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -67545,12 +67865,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },

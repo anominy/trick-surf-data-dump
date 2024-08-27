@@ -36125,6 +36125,94 @@
         ]
     },
     {
+        "id": 11009,
+        "map_id": 1,
+        "name": "Egyptian Bogroll Skittles",
+        "date": "2024-08-20T19:23:57.000Z",
+        "last_updated": null,
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 4000,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 32,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "order": 12,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 3863,
         "map_id": 1,
         "name": "Egyptian Deagle to awp box from strafe",
@@ -38174,6 +38262,79 @@
                 "trigger_id": 1,
                 "order": 9,
                 "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11059,
+        "map_id": 1,
+        "name": "Every Unit Counts",
+        "date": "2024-08-26T19:03:15.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": 20,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 22,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 21,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 19,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 17,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 34,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 8,
+                "passthrough": 1
             }
         ]
     },
@@ -41919,6 +42080,79 @@
             {
                 "trigger_id": 45,
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11008,
+        "map_id": 1,
+        "name": "Flogan V Skittles",
+        "date": "2024-08-20T19:20:23.000Z",
+        "last_updated": null,
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 2500,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 32,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -78113,154 +78347,6 @@
         ]
     },
     {
-        "id": 7587,
-        "map_id": 1,
-        "name": "Roee Rise",
-        "date": "2023-05-20T23:04:47.000Z",
-        "last_updated": "2024-06-30T03:28:42.000Z",
-        "author": "rore",
-        "author_id": 74,
-        "last_updated_author_id": 406,
-        "active": 1,
-        "points": 5200,
-        "tier": 9,
-        "min_velocity": null,
-        "max_prestrafe": 406,
-        "max_duration": null,
-        "max_jumps": null,
-        "no_jump": 0,
-        "hidden": 0,
-        "completions": 0,
-        "playersCompleted": 0,
-        "trick_sequence": [
-            {
-                "trigger_id": 48,
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "order": 10,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "order": 11,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "order": 12,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "order": 13,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "order": 14,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "order": 15,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "order": 16,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "order": 17,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "order": 18,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "order": 19,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "order": 20,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "order": 21,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "order": 22,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 15,
-                "order": 23,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 27,
-                "order": 24,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 3284,
         "map_id": 1,
         "name": "Saran Wrap",
@@ -94232,6 +94318,64 @@
         ]
     },
     {
+        "id": 11058,
+        "map_id": 1,
+        "name": "Underhang",
+        "date": "2024-08-26T19:00:47.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 41,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 28,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 39,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4237,
         "map_id": 1,
         "name": "V Authentic's Parachute",
@@ -100821,6 +100965,154 @@
             {
                 "trigger_id": 6,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 7587,
+        "map_id": 1,
+        "name": "x6 Rise",
+        "date": "2023-05-20T23:04:47.000Z",
+        "last_updated": "2024-08-23T14:58:01.000Z",
+        "author": "rore",
+        "author_id": 74,
+        "last_updated_author_id": 457,
+        "active": 1,
+        "points": 5200,
+        "tier": 9,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 48,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 19,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "order": 20,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "order": 21,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "order": 22,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "order": 23,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "order": 24,
                 "passthrough": 0
             }
         ]

@@ -2900,39 +2900,6 @@
         ]
     },
     {
-        "id": 10926,
-        "map_id": 8,
-        "name": "Angle Injury Strafes",
-        "date": "2024-08-15T02:47:43.000Z",
-        "last_updated": "2024-08-15T19:02:34.000Z",
-        "author": "Schewpid",
-        "author_id": 25977,
-        "last_updated_author_id": 147,
-        "active": 1,
-        "points": 300,
-        "tier": 2,
-        "min_velocity": null,
-        "max_prestrafe": 406,
-        "max_duration": null,
-        "max_jumps": 1,
-        "no_jump": 0,
-        "hidden": 1,
-        "completions": 0,
-        "playersCompleted": 0,
-        "trick_sequence": [
-            {
-                "trigger_id": 661,
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 718,
-                "order": 1,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 10216,
         "map_id": 8,
         "name": "Angry Wasp",
@@ -3337,6 +3304,39 @@
             {
                 "trigger_id": 3256,
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10926,
+        "map_id": 8,
+        "name": "Ankle Injury Strafes",
+        "date": "2024-08-15T02:47:43.000Z",
+        "last_updated": "2024-08-24T02:28:40.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 300,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 0,
+        "hidden": 1,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 661,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 718,
+                "order": 1,
                 "passthrough": 0
             }
         ]
@@ -7314,6 +7314,127 @@
         ]
     },
     {
+        "id": 11043,
+        "map_id": 8,
+        "name": "Bananarang",
+        "date": "2024-08-24T03:54:11.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 780,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1063,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 653,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 692,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11060,
+        "map_id": 8,
+        "name": "Bananaranime Return",
+        "date": "2024-08-26T19:04:26.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 800,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 783,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 653,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 650,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 780,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10173,
         "map_id": 8,
         "name": "Bashnya Insanity Drop",
@@ -8085,10 +8206,10 @@
         "map_id": 8,
         "name": "Bhop_SKI",
         "date": "2022-05-05T18:00:00.000Z",
-        "last_updated": "2024-03-28T15:54:24.000Z",
+        "last_updated": "2024-08-23T08:39:23.000Z",
         "author": "bog",
         "author_id": 131,
-        "last_updated_author_id": 1137,
+        "last_updated_author_id": 147,
         "active": 1,
         "points": 5,
         "tier": 1,
@@ -8097,7 +8218,7 @@
         "max_duration": null,
         "max_jumps": 3,
         "no_jump": 0,
-        "hidden": 0,
+        "hidden": 1,
         "completions": 0,
         "playersCompleted": 0,
         "trick_sequence": [
@@ -8123,10 +8244,10 @@
         "map_id": 8,
         "name": "Bhop_SKI_v2",
         "date": "2022-05-05T18:00:00.000Z",
-        "last_updated": "2024-06-28T23:03:16.000Z",
+        "last_updated": "2024-08-23T08:47:31.000Z",
         "author": "bog",
         "author_id": 131,
-        "last_updated_author_id": 1,
+        "last_updated_author_id": 147,
         "active": 1,
         "points": 5,
         "tier": 1,
@@ -8135,7 +8256,7 @@
         "max_duration": null,
         "max_jumps": 4,
         "no_jump": 0,
-        "hidden": 0,
+        "hidden": 1,
         "completions": 0,
         "playersCompleted": 0,
         "trick_sequence": [
@@ -8171,10 +8292,10 @@
         "map_id": 8,
         "name": "Bhop_SKI_v3",
         "date": "2024-08-17T06:59:46.000Z",
-        "last_updated": null,
+        "last_updated": "2024-08-23T08:48:56.000Z",
         "author": "nextir",
         "author_id": 2994,
-        "last_updated_author_id": 2994,
+        "last_updated_author_id": 147,
         "active": 1,
         "points": 5,
         "tier": 1,
@@ -8183,7 +8304,7 @@
         "max_duration": null,
         "max_jumps": 4,
         "no_jump": 0,
-        "hidden": 0,
+        "hidden": 1,
         "completions": 0,
         "playersCompleted": 0,
         "trick_sequence": [
@@ -11111,6 +11232,59 @@
             {
                 "trigger_id": 747,
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11096,
+        "map_id": 8,
+        "name": "Bria",
+        "date": "2024-08-27T08:34:18.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 747,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 735,
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -20927,6 +21101,59 @@
         ]
     },
     {
+        "id": 5455,
+        "map_id": 8,
+        "name": "Double Harder Lupkes",
+        "date": "2022-05-08T09:54:32.000Z",
+        "last_updated": "2024-08-23T06:43:48.000Z",
+        "author": "bog",
+        "author_id": 131,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1375,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 692,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 756,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7348,
         "map_id": 8,
         "name": "Double High Lupkes",
@@ -22607,6 +22834,64 @@
             {
                 "trigger_id": 1044,
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11042,
+        "map_id": 8,
+        "name": "Easy Bananarang",
+        "date": "2024-08-24T03:53:13.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 100,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 780,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1063,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 653,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 742,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -25064,6 +25349,54 @@
         ]
     },
     {
+        "id": 11097,
+        "map_id": 8,
+        "name": "Empire Ants",
+        "date": "2024-08-27T09:05:08.000Z",
+        "last_updated": "2024-08-27T09:05:38.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 648,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 675,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10315,
         "map_id": 8,
         "name": "Empty",
@@ -25675,6 +26008,89 @@
         ]
     },
     {
+        "id": 11004,
+        "map_id": 8,
+        "name": "Ethereal",
+        "date": "2024-08-20T14:01:56.000Z",
+        "last_updated": null,
+        "author": "sonki",
+        "author_id": 259,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 881,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3234,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3230,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3234,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3232,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1051,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3266,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 680,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10564,
         "map_id": 8,
         "name": "Euphoria Return",
@@ -25743,6 +26159,84 @@
             {
                 "trigger_id": 738,
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11019,
+        "map_id": 8,
+        "name": "Euphoria Walk",
+        "date": "2024-08-21T14:30:15.000Z",
+        "last_updated": null,
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 500,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 747,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "order": 10,
                 "passthrough": 0
             }
         ]
@@ -27711,6 +28205,64 @@
         ]
     },
     {
+        "id": 11034,
+        "map_id": 8,
+        "name": "Final Reach",
+        "date": "2024-08-23T12:22:47.000Z",
+        "last_updated": "2024-08-23T12:28:19.000Z",
+        "author": "Autumn Melancholy",
+        "author_id": 1159,
+        "last_updated_author_id": 1159,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": 14,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3238,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 707,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 710,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3262,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 955,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5651,
         "map_id": 8,
         "name": "Fire in the Hole",
@@ -28052,6 +28604,69 @@
             {
                 "trigger_id": 676,
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11011,
+        "map_id": 8,
+        "name": "Flavalanche",
+        "date": "2024-08-20T23:27:42.000Z",
+        "last_updated": "2024-08-21T00:23:25.000Z",
+        "author": "Flawless",
+        "author_id": 26256,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 685,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 721,
+                "order": 7,
                 "passthrough": 0
             }
         ]
@@ -28945,12 +29560,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 743,
+                "trigger_id": 683,
                 "order": 6,
                 "passthrough": 1
             },
             {
-                "trigger_id": 683,
+                "trigger_id": 743,
                 "order": 6,
                 "passthrough": 1
             }
@@ -29101,6 +29716,54 @@
             {
                 "trigger_id": 648,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11037,
+        "map_id": 8,
+        "name": "For Meowra ^_^",
+        "date": "2024-08-23T14:45:20.000Z",
+        "last_updated": "2024-08-24T18:45:21.000Z",
+        "author": "Autumn Melancholy",
+        "author_id": 1159,
+        "last_updated_author_id": 1159,
+        "active": 1,
+        "points": 1250,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": 10,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3238,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 707,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 710,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 737,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -30456,6 +31119,69 @@
             {
                 "trigger_id": 756,
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11040,
+        "map_id": 8,
+        "name": "Funky Zolomon",
+        "date": "2024-08-24T02:30:42.000Z",
+        "last_updated": "2024-08-24T02:36:42.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 200,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 692,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 667,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 666,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 734,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 749,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 793,
+                "order": 7,
                 "passthrough": 0
             }
         ]
@@ -32477,6 +33203,64 @@
             {
                 "trigger_id": 3214,
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11026,
+        "map_id": 8,
+        "name": "Granite",
+        "date": "2024-08-22T01:00:12.000Z",
+        "last_updated": "2024-08-22T13:27:28.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3254,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3252,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 648,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -36414,13 +37198,13 @@
         "map_id": 8,
         "name": "Hard Klubnika",
         "date": "2024-06-13T06:46:27.000Z",
-        "last_updated": "2024-06-29T13:18:06.000Z",
+        "last_updated": "2024-08-21T00:57:07.000Z",
         "author": "Pelmeshka",
         "author_id": 440,
-        "last_updated_author_id": 457,
+        "last_updated_author_id": 147,
         "active": 1,
-        "points": 700,
-        "tier": 4,
+        "points": 1000,
+        "tier": 6,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -39604,6 +40388,69 @@
         ]
     },
     {
+        "id": 11051,
+        "map_id": 8,
+        "name": "HardTekk",
+        "date": "2024-08-26T11:34:38.000Z",
+        "last_updated": null,
+        "author": "yymths",
+        "author_id": 1524,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 692,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 763,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5598,
         "map_id": 8,
         "name": "Hate me",
@@ -41146,6 +41993,54 @@
             {
                 "trigger_id": 768,
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11035,
+        "map_id": 8,
+        "name": "Holed in One",
+        "date": "2024-08-23T13:21:18.000Z",
+        "last_updated": null,
+        "author": "Autumn Melancholy",
+        "author_id": 1159,
+        "last_updated_author_id": 1159,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3223,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3262,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 765,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 763,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -49355,6 +50250,89 @@
         ]
     },
     {
+        "id": 10542,
+        "map_id": 8,
+        "name": "L2 Rune Township",
+        "date": "2024-07-01T05:35:05.000Z",
+        "last_updated": "2024-08-23T06:44:47.000Z",
+        "author": "sonki",
+        "author_id": 259,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 1,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3234,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3230,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3234,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2968,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3266,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 680,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7973,
         "map_id": 8,
         "name": "L2 The Ant Nest",
@@ -51407,6 +52385,74 @@
         ]
     },
     {
+        "id": 11033,
+        "map_id": 8,
+        "name": "Live",
+        "date": "2024-08-23T06:49:04.000Z",
+        "last_updated": "2024-08-23T07:00:03.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 768,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 707,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3236,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3225,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 778,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5568,
         "map_id": 8,
         "name": "Locked Up",
@@ -53248,6 +54294,44 @@
         ]
     },
     {
+        "id": 11049,
+        "map_id": 8,
+        "name": "Main to Sign from Jail Booster Tip",
+        "date": "2024-08-26T05:58:31.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 689,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2671,
         "map_id": 8,
         "name": "Main Wrap",
@@ -54909,13 +55993,13 @@
         "map_id": 8,
         "name": "Milf Splash",
         "date": "2024-06-11T21:36:56.000Z",
-        "last_updated": null,
+        "last_updated": "2024-08-21T00:45:22.000Z",
         "author": "KingYoshi // solidsurf.info",
         "author_id": 457,
-        "last_updated_author_id": 457,
+        "last_updated_author_id": 147,
         "active": 1,
-        "points": 700,
-        "tier": 4,
+        "points": 1000,
+        "tier": 6,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -57239,12 +58323,12 @@
         "map_id": 8,
         "name": "Neuse's Inf Walk",
         "date": "2024-07-12T01:25:54.000Z",
-        "last_updated": null,
+        "last_updated": "2024-08-21T02:13:52.000Z",
         "author": "influx",
         "author_id": 147,
         "last_updated_author_id": 147,
         "active": 1,
-        "points": 1225,
+        "points": 1275,
         "tier": 7,
         "min_velocity": null,
         "max_prestrafe": 406,
@@ -58902,14 +59986,14 @@
         ]
     },
     {
-        "id": 11000,
+        "id": 11002,
         "map_id": 8,
-        "name": "Obey The Walrus",
-        "date": "2024-08-20T11:32:40.000Z",
+        "name": "Obey The Warlus",
+        "date": "2024-08-20T13:44:00.000Z",
         "last_updated": null,
-        "author": "FORMULATOR",
-        "author_id": 480,
-        "last_updated_author_id": 480,
+        "author": "surfacc",
+        "author_id": 13870,
+        "last_updated_author_id": 2994,
         "active": 1,
         "points": 600,
         "tier": 4,
@@ -63025,6 +64109,64 @@
         ]
     },
     {
+        "id": 11044,
+        "map_id": 8,
+        "name": "Pro Bananarang",
+        "date": "2024-08-24T03:55:02.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 700,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 780,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1063,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 653,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 696,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5695,
         "map_id": 8,
         "name": "Pro King's Banana Return",
@@ -63709,6 +64851,64 @@
             {
                 "trigger_id": 714,
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11038,
+        "map_id": 8,
+        "name": "Pudge Line",
+        "date": "2024-08-23T18:10:15.000Z",
+        "last_updated": null,
+        "author": "2021pccxr",
+        "author_id": 1390,
+        "last_updated_author_id": 1159,
+        "active": 1,
+        "points": 1275,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": null,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 760,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -69684,6 +70884,54 @@
         ]
     },
     {
+        "id": 11036,
+        "map_id": 8,
+        "name": "Schewpid's Centrum",
+        "date": "2024-08-23T13:24:43.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 1159,
+        "active": 1,
+        "points": 550,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 692,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10275,
         "map_id": 8,
         "name": "Scoopity Poop",
@@ -72480,6 +73728,69 @@
         ]
     },
     {
+        "id": 11048,
+        "map_id": 8,
+        "name": "Solar Flare",
+        "date": "2024-08-26T05:57:39.000Z",
+        "last_updated": "2024-08-26T17:43:51.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 692,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 657,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2856,
         "map_id": 8,
         "name": "Somebody gag KingW",
@@ -72778,6 +74089,137 @@
         ]
     },
     {
+        "id": 11045,
+        "map_id": 8,
+        "name": "Soundfall",
+        "date": "2024-08-24T16:18:43.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1225,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3259,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3262,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3221,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3245,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11041,
+        "map_id": 8,
+        "name": "Soundshower",
+        "date": "2024-08-24T02:50:58.000Z",
+        "last_updated": "2024-08-24T03:22:36.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3259,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3262,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3221,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 936,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1044,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7772,
         "map_id": 8,
         "name": "soup",
@@ -72850,13 +74292,13 @@
         "map_id": 8,
         "name": "Spaghetti and Death",
         "date": "2024-06-04T20:24:58.000Z",
-        "last_updated": "2024-06-04T20:45:44.000Z",
+        "last_updated": "2024-08-21T17:58:52.000Z",
         "author": "Parta",
         "author_id": 385,
-        "last_updated_author_id": 347,
+        "last_updated_author_id": 457,
         "active": 1,
-        "points": 1300,
-        "tier": 8,
+        "points": 1250,
+        "tier": 7,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -75063,6 +76505,44 @@
         ]
     },
     {
+        "id": 11062,
+        "map_id": 8,
+        "name": "Strafe Exam",
+        "date": "2024-08-26T19:06:14.000Z",
+        "last_updated": "2024-08-27T08:48:28.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 400,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 670,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2966,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8300,
         "map_id": 8,
         "name": "Strafe Goddess",
@@ -75096,6 +76576,39 @@
             {
                 "trigger_id": 793,
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11061,
+        "map_id": 8,
+        "name": "Strafe Lessons",
+        "date": "2024-08-26T19:05:07.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 100,
+        "tier": 2,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 670,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 1,
                 "passthrough": 0
             }
         ]
@@ -78269,6 +79782,69 @@
         ]
     },
     {
+        "id": 11050,
+        "map_id": 8,
+        "name": "Tekk",
+        "date": "2024-08-26T11:34:10.000Z",
+        "last_updated": null,
+        "author": "yymths",
+        "author_id": 1524,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 800,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 692,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10297,
         "map_id": 8,
         "name": "Telepad Stretch",
@@ -79047,6 +80623,64 @@
             {
                 "trigger_id": 782,
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11027,
+        "map_id": 8,
+        "name": "THE SACRED LINAMENT OF JUDGEMENT",
+        "date": "2024-08-22T03:49:23.000Z",
+        "last_updated": "2024-08-22T20:01:27.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 747,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3229,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 675,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -82263,6 +83897,69 @@
         ]
     },
     {
+        "id": 5456,
+        "map_id": 8,
+        "name": "Triple Lupkes",
+        "date": "2022-05-08T09:56:09.000Z",
+        "last_updated": "2024-08-23T06:44:06.000Z",
+        "author": "Sokaries",
+        "author_id": 1412,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1350,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 692,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 747,
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7376,
         "map_id": 8,
         "name": "Triple Main to Sign from Jail",
@@ -82838,6 +84535,82 @@
             {
                 "trigger_id": 690,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11007,
+        "map_id": 8,
+        "name": "True Drop and Impossible rise",
+        "date": "2024-08-20T17:21:27.000Z",
+        "last_updated": null,
+        "author": "сисич 2.0",
+        "author_id": 14446,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 1300,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 780,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 648,
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11006,
+        "map_id": 8,
+        "name": "Truly Impossible Spawn Return",
+        "date": "2024-08-20T14:32:44.000Z",
+        "last_updated": null,
+        "author": "Meowra",
+        "author_id": 12573,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 1325,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3215,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1065,
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -91390,6 +93163,94 @@
             {
                 "trigger_id": 696,
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11001,
+        "map_id": 8,
+        "name": "Войс Тян Райз",
+        "date": "2024-08-20T13:33:56.000Z",
+        "last_updated": "2024-08-20T13:36:45.000Z",
+        "author": "sonki",
+        "author_id": 259,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1200,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3234,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3230,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3234,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3232,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1051,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3266,
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 680,
+                "order": 12,
                 "passthrough": 0
             }
         ]

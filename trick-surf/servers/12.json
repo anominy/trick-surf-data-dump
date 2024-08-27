@@ -7,16 +7,23 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 0,
+    "players_online": 1,
     "map": {
-        "id": 11,
-        "name": "tsurf_instantdeath",
-        "target_name": "tsurf_instantdeath_b08",
-        "image_url": "https://media.trick.surf/tsurf_instantdeath.png"
+        "id": 2,
+        "name": "tsurf_japan_ptad",
+        "target_name": "tsurf_japan_ptad_b04",
+        "image_url": "https://media.trick.surf/tsurf_japan_ptad.png"
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 0,
+    "numberOfPlayers": 1,
     "passwordRequired": false,
-    "players": []
+    "players": [
+        {
+            "player_id": 2668,
+            "name": "Pozy",
+            "avatar_url": "https://avatars.steamstatic.com/4615a43fc5b45e0a43723048b63f57a89a1efa30_full.jpg",
+            "server_id": 12
+        }
+    ]
 }

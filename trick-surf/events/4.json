@@ -25,8 +25,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 1,
-                "first_connect": 1724156677730,
-                "last_connect": 1724156677730,
+                "first_connect": 1724761438170,
+                "last_connect": 1724761438170,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -45,8 +45,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 0,
-                "first_connect": 1724156677730,
-                "last_connect": 1724156677730,
+                "first_connect": 1724761438170,
+                "last_connect": 1724761438170,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": ""
@@ -61,12 +61,12 @@
                 "steamid": "STEAM_0:1:104877921",
                 "steamid64": "76561198170021571",
                 "avatar_url": "https://avatars.steamstatic.com/f0aa221ad7b2fd61bb5474994f1478ee3fe2f530_full.jpg",
-                "name": "FORMULATOR",
+                "name": "Formal",
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 1,
-                "first_connect": 1724156677730,
-                "last_connect": 1724156677730,
+                "first_connect": 1724761438170,
+                "last_connect": 1724761438170,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -87,8 +87,8 @@
                 "country": "Canada",
                 "country_code": "CA",
                 "vip_level": 1,
-                "first_connect": 1724156677730,
-                "last_connect": 1724156677730,
+                "first_connect": 1724761438170,
+                "last_connect": 1724761438170,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -107,8 +107,8 @@
                 "country": "United States",
                 "country_code": "US",
                 "vip_level": 1,
-                "first_connect": 1724156677731,
-                "last_connect": 1724156677731,
+                "first_connect": 1724761438171,
+                "last_connect": 1724761438171,
                 "time_alive": 0,
                 "time_spectate": 0,
                 "role": "VIP"
@@ -126,16 +126,211 @@
                 "name": "zblunq",
                 "country": "Czechia",
                 "country_code": "CZ",
-                "vip_level": 1,
-                "first_connect": 1724156677731,
-                "last_connect": 1724156677731,
+                "vip_level": 0,
+                "first_connect": 1724761438171,
+                "last_connect": 1724761438171,
                 "time_alive": 0,
                 "time_spectate": 0,
-                "role": "VIP"
+                "role": ""
             }
         }
     ],
     "tricks": [
+        {
+            "map_id": 10,
+            "map_name": "tsurf_concretejungle",
+            "trick_id": 9421,
+            "event_player_completions": 35,
+            "event_completions": 609,
+            "trick": {
+                "id": 9421,
+                "map_id": 10,
+                "name": "Science Experiment #11",
+                "date": "2024-03-29T07:06:37.000Z",
+                "last_updated": "2024-04-19T23:45:43.000Z",
+                "author": "Steve",
+                "author_id": 10,
+                "last_updated_author_id": 14724,
+                "active": 1,
+                "points": 5,
+                "tier": 1,
+                "min_velocity": null,
+                "max_prestrafe": 406,
+                "max_duration": null,
+                "max_jumps": null,
+                "no_jump": 0,
+                "hidden": 1,
+                "completions": 2288,
+                "playersCompleted": 87,
+                "trick_sequence": [
+                    {
+                        "trigger_id": 1316,
+                        "order": 0,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1380,
+                        "order": 1,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1315,
+                        "order": 2,
+                        "passthrough": 0
+                    }
+                ]
+            }
+        },
+        {
+            "map_id": 10,
+            "map_name": "tsurf_concretejungle",
+            "trick_id": 9039,
+            "event_player_completions": 34,
+            "event_completions": 672,
+            "trick": {
+                "id": 9039,
+                "map_id": 10,
+                "name": "Science Experiment #10",
+                "date": "2024-02-22T09:38:12.000Z",
+                "last_updated": "2024-06-13T06:22:52.000Z",
+                "author": "Steve",
+                "author_id": 10,
+                "last_updated_author_id": 1363,
+                "active": 1,
+                "points": 5,
+                "tier": 1,
+                "min_velocity": null,
+                "max_prestrafe": 406,
+                "max_duration": null,
+                "max_jumps": null,
+                "no_jump": 0,
+                "hidden": 1,
+                "completions": 3929,
+                "playersCompleted": 106,
+                "trick_sequence": [
+                    {
+                        "trigger_id": 1458,
+                        "order": 0,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1457,
+                        "order": 1,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1456,
+                        "order": 2,
+                        "passthrough": 0
+                    }
+                ]
+            }
+        },
+        {
+            "map_id": 10,
+            "map_name": "tsurf_concretejungle",
+            "trick_id": 7916,
+            "event_player_completions": 41,
+            "event_completions": 1322,
+            "trick": {
+                "id": 7916,
+                "map_id": 10,
+                "name": "Science Experiment #9",
+                "date": "2023-08-06T01:30:02.000Z",
+                "last_updated": "2024-04-19T23:46:22.000Z",
+                "author": "Steve",
+                "author_id": 10,
+                "last_updated_author_id": 14724,
+                "active": 1,
+                "points": 5,
+                "tier": 1,
+                "min_velocity": null,
+                "max_prestrafe": 406,
+                "max_duration": 5.5,
+                "max_jumps": null,
+                "no_jump": 0,
+                "hidden": 1,
+                "completions": 5154,
+                "playersCompleted": 147,
+                "trick_sequence": [
+                    {
+                        "trigger_id": 1273,
+                        "order": 0,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1267,
+                        "order": 1,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1304,
+                        "order": 2,
+                        "passthrough": 0
+                    }
+                ]
+            }
+        },
+        {
+            "map_id": 10,
+            "map_name": "tsurf_concretejungle",
+            "trick_id": 7912,
+            "event_player_completions": 42,
+            "event_completions": 2099,
+            "trick": {
+                "id": 7912,
+                "map_id": 10,
+                "name": "Science Experiment #8",
+                "date": "2023-08-05T14:32:51.000Z",
+                "last_updated": "2024-06-28T22:57:57.000Z",
+                "author": "Steve",
+                "author_id": 10,
+                "last_updated_author_id": 18519,
+                "active": 0,
+                "points": 5,
+                "tier": 1,
+                "min_velocity": null,
+                "max_prestrafe": 406,
+                "max_duration": null,
+                "max_jumps": 1,
+                "no_jump": 0,
+                "hidden": 1,
+                "completions": 13216,
+                "playersCompleted": 115,
+                "trick_sequence": [
+                    {
+                        "trigger_id": 1279,
+                        "order": 0,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1194,
+                        "order": 1,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1745,
+                        "order": 2,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1256,
+                        "order": 3,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1753,
+                        "order": 4,
+                        "passthrough": 0
+                    },
+                    {
+                        "trigger_id": 1587,
+                        "order": 5,
+                        "passthrough": 0
+                    }
+                ]
+            }
+        },
         {
             "map_id": 10,
             "map_name": "tsurf_concretejungle",
@@ -160,8 +355,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 3147,
-                "playersCompleted": 132,
+                "completions": 3164,
+                "playersCompleted": 133,
                 "trick_sequence": [
                     {
                         "trigger_id": 1307,
@@ -260,7 +455,7 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 1657,
+                "completions": 1671,
                 "playersCompleted": 105,
                 "trick_sequence": [
                     {
@@ -315,7 +510,7 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 3264,
+                "completions": 3265,
                 "playersCompleted": 175,
                 "trick_sequence": [
                     {
@@ -465,8 +660,8 @@
                 "max_jumps": null,
                 "no_jump": 0,
                 "hidden": 1,
-                "completions": 6284,
-                "playersCompleted": 628,
+                "completions": 6314,
+                "playersCompleted": 633,
                 "trick_sequence": [
                     {
                         "trigger_id": 1601,
@@ -491,201 +686,6 @@
                     {
                         "trigger_id": 1202,
                         "order": 4,
-                        "passthrough": 0
-                    }
-                ]
-            }
-        },
-        {
-            "map_id": 10,
-            "map_name": "tsurf_concretejungle",
-            "trick_id": 9421,
-            "event_player_completions": 35,
-            "event_completions": 609,
-            "trick": {
-                "id": 9421,
-                "map_id": 10,
-                "name": "Science Experiment #11",
-                "date": "2024-03-29T07:06:37.000Z",
-                "last_updated": "2024-04-19T23:45:43.000Z",
-                "author": "Steve",
-                "author_id": 10,
-                "last_updated_author_id": 14724,
-                "active": 1,
-                "points": 5,
-                "tier": 1,
-                "min_velocity": null,
-                "max_prestrafe": 406,
-                "max_duration": null,
-                "max_jumps": null,
-                "no_jump": 0,
-                "hidden": 1,
-                "completions": 2254,
-                "playersCompleted": 87,
-                "trick_sequence": [
-                    {
-                        "trigger_id": 1316,
-                        "order": 0,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1380,
-                        "order": 1,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1315,
-                        "order": 2,
-                        "passthrough": 0
-                    }
-                ]
-            }
-        },
-        {
-            "map_id": 10,
-            "map_name": "tsurf_concretejungle",
-            "trick_id": 9039,
-            "event_player_completions": 34,
-            "event_completions": 672,
-            "trick": {
-                "id": 9039,
-                "map_id": 10,
-                "name": "Science Experiment #10",
-                "date": "2024-02-22T09:38:12.000Z",
-                "last_updated": "2024-06-13T06:22:52.000Z",
-                "author": "Steve",
-                "author_id": 10,
-                "last_updated_author_id": 1363,
-                "active": 1,
-                "points": 5,
-                "tier": 1,
-                "min_velocity": null,
-                "max_prestrafe": 406,
-                "max_duration": null,
-                "max_jumps": null,
-                "no_jump": 0,
-                "hidden": 1,
-                "completions": 3929,
-                "playersCompleted": 106,
-                "trick_sequence": [
-                    {
-                        "trigger_id": 1458,
-                        "order": 0,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1457,
-                        "order": 1,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1456,
-                        "order": 2,
-                        "passthrough": 0
-                    }
-                ]
-            }
-        },
-        {
-            "map_id": 10,
-            "map_name": "tsurf_concretejungle",
-            "trick_id": 7916,
-            "event_player_completions": 41,
-            "event_completions": 1322,
-            "trick": {
-                "id": 7916,
-                "map_id": 10,
-                "name": "Science Experiment #9",
-                "date": "2023-08-06T01:30:02.000Z",
-                "last_updated": "2024-04-19T23:46:22.000Z",
-                "author": "Steve",
-                "author_id": 10,
-                "last_updated_author_id": 14724,
-                "active": 1,
-                "points": 5,
-                "tier": 1,
-                "min_velocity": null,
-                "max_prestrafe": 406,
-                "max_duration": 5.5,
-                "max_jumps": null,
-                "no_jump": 0,
-                "hidden": 1,
-                "completions": 5147,
-                "playersCompleted": 147,
-                "trick_sequence": [
-                    {
-                        "trigger_id": 1273,
-                        "order": 0,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1267,
-                        "order": 1,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1304,
-                        "order": 2,
-                        "passthrough": 0
-                    }
-                ]
-            }
-        },
-        {
-            "map_id": 10,
-            "map_name": "tsurf_concretejungle",
-            "trick_id": 7912,
-            "event_player_completions": 42,
-            "event_completions": 2099,
-            "trick": {
-                "id": 7912,
-                "map_id": 10,
-                "name": "Science Experiment #8",
-                "date": "2023-08-05T14:32:51.000Z",
-                "last_updated": "2024-06-28T22:57:57.000Z",
-                "author": "Steve",
-                "author_id": 10,
-                "last_updated_author_id": 18519,
-                "active": 0,
-                "points": 5,
-                "tier": 1,
-                "min_velocity": null,
-                "max_prestrafe": 406,
-                "max_duration": null,
-                "max_jumps": 1,
-                "no_jump": 0,
-                "hidden": 1,
-                "completions": 13216,
-                "playersCompleted": 115,
-                "trick_sequence": [
-                    {
-                        "trigger_id": 1279,
-                        "order": 0,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1194,
-                        "order": 1,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1745,
-                        "order": 2,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1256,
-                        "order": 3,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1753,
-                        "order": 4,
-                        "passthrough": 0
-                    },
-                    {
-                        "trigger_id": 1587,
-                        "order": 5,
                         "passthrough": 0
                     }
                 ]
