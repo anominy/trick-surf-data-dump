@@ -1,0 +1,53 @@
+{
+    "id": 11143,
+    "map_id": 13,
+    "name": "HNS Wet Dream V2",
+    "date": "2024-08-28T08:30:19.000Z",
+    "last_updated": "2024-08-31T17:15:04.000Z",
+    "author": "Autumn Melancholy",
+    "author_id": 1159,
+    "last_updated_author_id": 1159,
+    "active": 1,
+    "points": 800,
+    "tier": 5,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 3490,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3420,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3422,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3422,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3420,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3490,
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

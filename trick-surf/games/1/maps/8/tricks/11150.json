@@ -1,0 +1,48 @@
+{
+    "id": 11150,
+    "map_id": 8,
+    "name": "PTSD",
+    "date": "2024-08-28T08:57:08.000Z",
+    "last_updated": "2024-08-28T09:01:41.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated_author_id": 147,
+    "active": 1,
+    "points": 1150,
+    "tier": 6,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 1,
+    "hidden": 0,
+    "completions": 7,
+    "playersCompleted": 5,
+    "trick_sequence": [
+        {
+            "trigger_id": 918,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3018,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3246,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 763,
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 11128,
+    "map_id": 13,
+    "name": "Faucet Return",
+    "date": "2024-08-28T08:15:21.000Z",
+    "last_updated": null,
+    "author": "Schewpid",
+    "author_id": 25977,
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "points": 100,
+    "tier": 2,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 59,
+    "playersCompleted": 28,
+    "trick_sequence": [
+        {
+            "trigger_id": 3498,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3312,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3312,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3498,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 11187,
+    "map_id": 13,
+    "name": "Mini Return",
+    "date": "2024-08-30T00:04:38.000Z",
+    "last_updated": "2024-08-30T00:11:00.000Z",
+    "author": "CrazyTroll",
+    "author_id": 17974,
+    "last_updated_author_id": 147,
+    "active": 1,
+    "points": 800,
+    "tier": 5,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 0,
+    "playersCompleted": 0,
+    "trick_sequence": [
+        {
+            "trigger_id": 3335,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3491,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3335,
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

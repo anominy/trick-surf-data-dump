@@ -8795,54 +8795,6 @@
         ]
     },
     {
-        "id": 10812,
-        "map_id": 8,
-        "name": "Blackpink lisa marry me",
-        "date": "2024-08-04T23:53:45.000Z",
-        "last_updated": null,
-        "author": "skin",
-        "author_id": 24229,
-        "last_updated_author_id": 2994,
-        "active": 1,
-        "points": 150,
-        "tier": 1,
-        "min_velocity": null,
-        "max_prestrafe": null,
-        "max_duration": null,
-        "max_jumps": null,
-        "no_jump": 0,
-        "hidden": 0,
-        "completions": 0,
-        "playersCompleted": 0,
-        "trick_sequence": [
-            {
-                "trigger_id": 1023,
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 652,
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 653,
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 683,
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 109,
-                "order": 4,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 10398,
         "map_id": 8,
         "name": "Blame me",
@@ -25353,13 +25305,13 @@
         "map_id": 8,
         "name": "Empire Ants",
         "date": "2024-08-27T09:05:08.000Z",
-        "last_updated": "2024-08-27T09:05:38.000Z",
+        "last_updated": "2024-09-02T12:23:23.000Z",
         "author": "influx",
         "author_id": 147,
-        "last_updated_author_id": 147,
+        "last_updated_author_id": 10899,
         "active": 1,
-        "points": 1000,
-        "tier": 6,
+        "points": 900,
+        "tier": 5,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -32075,6 +32027,54 @@
             {
                 "trigger_id": 755,
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11257,
+        "map_id": 8,
+        "name": "Ghost Town",
+        "date": "2024-09-01T14:48:33.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 600,
+        "tier": 4,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1065,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 683,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3262,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3244,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 736,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -45082,6 +45082,59 @@
         ]
     },
     {
+        "id": 11263,
+        "map_id": 8,
+        "name": "Inferno",
+        "date": "2024-09-02T08:10:09.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3254,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3252,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 936,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3240,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8264,
         "map_id": 8,
         "name": "Infinity Rise",
@@ -45554,6 +45607,122 @@
             {
                 "trigger_id": 714,
                 "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11226,
+        "map_id": 8,
+        "name": "Invincible",
+        "date": "2024-08-30T10:10:28.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1250,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 696,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1034,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 700,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 598,
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11227,
+        "map_id": 8,
+        "name": "Invisible",
+        "date": "2024-08-30T10:11:17.000Z",
+        "last_updated": null,
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 900,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 696,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1034,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 700,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 675,
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -47454,6 +47623,64 @@
         ]
     },
     {
+        "id": 11180,
+        "map_id": 8,
+        "name": "kakoy je cursed klasniy",
+        "date": "2024-08-29T20:59:03.000Z",
+        "last_updated": null,
+        "author": "pick me girl",
+        "author_id": 1390,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1050,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3223,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3262,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 737,
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2738,
         "map_id": 8,
         "name": "Kano",
@@ -47840,6 +48067,44 @@
             {
                 "trigger_id": 3249,
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11192,
+        "map_id": 8,
+        "name": "Karnaval",
+        "date": "2024-08-30T07:48:17.000Z",
+        "last_updated": "2024-08-30T08:17:16.000Z",
+        "author": "[⌬Klue™]Таполька",
+        "author_id": 9069,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1250,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3213,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -64856,6 +65121,54 @@
         ]
     },
     {
+        "id": 11150,
+        "map_id": 8,
+        "name": "PTSD",
+        "date": "2024-08-28T08:57:08.000Z",
+        "last_updated": "2024-08-28T09:01:41.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 1150,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 918,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3018,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3246,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 763,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11038,
         "map_id": 8,
         "name": "Pudge Line",
@@ -65869,6 +66182,54 @@
         ]
     },
     {
+        "id": 9113,
+        "map_id": 8,
+        "name": "Railmeladder",
+        "date": "2024-03-01T19:24:53.000Z",
+        "last_updated": "2024-09-01T14:52:41.000Z",
+        "author": "colt",
+        "author_id": 10622,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 1000,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": 2,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 753,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 741,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 756,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 793,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 680,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5504,
         "map_id": 8,
         "name": "Rambo",
@@ -66597,13 +66958,13 @@
         "map_id": 8,
         "name": "Recicle",
         "date": "2024-06-16T03:36:25.000Z",
-        "last_updated": "2024-06-16T15:11:20.000Z",
+        "last_updated": "2024-08-29T01:11:29.000Z",
         "author": "KingYoshi // solidsurf.info",
         "author_id": 457,
-        "last_updated_author_id": 457,
+        "last_updated_author_id": 147,
         "active": 1,
-        "points": 700,
-        "tier": 4,
+        "points": 1225,
+        "tier": 7,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -80208,10 +80569,10 @@
         "map_id": 8,
         "name": "The Death Of Samantha",
         "date": "2024-07-26T18:59:42.000Z",
-        "last_updated": null,
-        "author": "skin",
+        "last_updated": "2024-08-29T00:16:13.000Z",
+        "author": "Skintheunicorn",
         "author_id": 24229,
-        "last_updated_author_id": 457,
+        "last_updated_author_id": 480,
         "active": 1,
         "points": 650,
         "tier": 4,
@@ -80225,78 +80586,73 @@
         "playersCompleted": 0,
         "trick_sequence": [
             {
-                "trigger_id": 861,
+                "trigger_id": 898,
                 "order": 0,
                 "passthrough": 0
             },
             {
-                "trigger_id": 898,
+                "trigger_id": 672,
                 "order": 1,
                 "passthrough": 0
             },
             {
-                "trigger_id": 672,
+                "trigger_id": 3249,
                 "order": 2,
                 "passthrough": 0
             },
             {
-                "trigger_id": 3249,
+                "trigger_id": 3252,
                 "order": 3,
                 "passthrough": 0
             },
             {
-                "trigger_id": 3252,
+                "trigger_id": 1051,
                 "order": 4,
                 "passthrough": 0
             },
             {
-                "trigger_id": 1051,
+                "trigger_id": 653,
                 "order": 5,
                 "passthrough": 0
             },
             {
-                "trigger_id": 653,
+                "trigger_id": 678,
                 "order": 6,
                 "passthrough": 0
             },
             {
-                "trigger_id": 678,
+                "trigger_id": 676,
                 "order": 7,
                 "passthrough": 0
             },
             {
-                "trigger_id": 676,
+                "trigger_id": 720,
                 "order": 8,
                 "passthrough": 0
             },
             {
-                "trigger_id": 720,
+                "trigger_id": 654,
                 "order": 9,
                 "passthrough": 0
             },
             {
-                "trigger_id": 654,
+                "trigger_id": 785,
                 "order": 10,
                 "passthrough": 0
             },
             {
-                "trigger_id": 785,
+                "trigger_id": 3252,
                 "order": 11,
                 "passthrough": 0
             },
             {
-                "trigger_id": 3252,
+                "trigger_id": 1051,
                 "order": 12,
                 "passthrough": 0
             },
             {
-                "trigger_id": 1051,
-                "order": 13,
-                "passthrough": 0
-            },
-            {
                 "trigger_id": 900,
-                "order": 14,
+                "order": 13,
                 "passthrough": 0
             }
         ]
@@ -81856,6 +82212,39 @@
         ]
     },
     {
+        "id": 11181,
+        "map_id": 8,
+        "name": "Tool Assisted Strafes",
+        "date": "2024-08-29T20:59:52.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 1300,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1044,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8166,
         "map_id": 8,
         "name": "Top Drop In The Starlight",
@@ -82912,6 +83301,54 @@
             },
             {
                 "trigger_id": 762,
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11116,
+        "map_id": 8,
+        "name": "Trauma",
+        "date": "2024-08-28T06:35:14.000Z",
+        "last_updated": "2024-08-28T06:54:01.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 147,
+        "active": 1,
+        "points": 950,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 1,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 918,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3018,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3246,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 769,
                 "order": 4,
                 "passthrough": 0
             }
