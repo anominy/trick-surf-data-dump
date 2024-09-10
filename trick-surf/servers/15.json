@@ -7,7 +7,7 @@
     "whitelist": 0,
     "records": 1,
     "private": 0,
-    "players_online": 0,
+    "players_online": 1,
     "map": {
         "id": 10,
         "name": "tsurf_concretejungle",
@@ -16,7 +16,14 @@
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 0,
+    "numberOfPlayers": 1,
     "passwordRequired": false,
-    "players": []
+    "players": [
+        {
+            "player_id": 259,
+            "name": "sonki",
+            "avatar_url": "https://avatars.steamstatic.com/71f65f17a3efbb234ef45fb52d0bdae948cf0411_full.jpg",
+            "server_id": 15
+        }
+    ]
 }

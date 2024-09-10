@@ -2837,22 +2837,22 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3060,
-                "order": 17,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 3049,
-                "order": 17,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2512,
                 "order": 17,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2860,
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3060,
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3049,
                 "order": 17,
                 "passthrough": 1
             },
@@ -3187,12 +3187,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2961,
+                "trigger_id": 2831,
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2831,
+                "trigger_id": 2961,
                 "order": 3,
                 "passthrough": 2
             },
@@ -9729,11 +9729,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2652,
-                "order": 3,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2864,
                 "order": 3,
                 "passthrough": 2
@@ -9745,6 +9740,11 @@
             },
             {
                 "trigger_id": 2883,
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2652,
                 "order": 3,
                 "passthrough": 2
             },
@@ -15031,17 +15031,17 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2474,
-                "order": 4,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2482,
                 "order": 4,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2475,
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2474,
                 "order": 4,
                 "passthrough": 1
             }
@@ -40492,12 +40492,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2709,
+                "trigger_id": 3123,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3123,
+                "trigger_id": 2709,
                 "order": 3,
                 "passthrough": 1
             },
@@ -47062,17 +47062,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2510,
+                "order": 5,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2637,
                 "order": 5,
                 "passthrough": 2
             },
             {
                 "trigger_id": 2922,
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2510,
                 "order": 5,
                 "passthrough": 2
             },
@@ -47417,17 +47417,17 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2864,
-                "order": 7,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2922,
                 "order": 7,
                 "passthrough": 2
             },
             {
                 "trigger_id": 2883,
+                "order": 7,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2864,
                 "order": 7,
                 "passthrough": 2
             },

@@ -1,0 +1,43 @@
+{
+    "id": 11323,
+    "map_id": 1,
+    "name": "so cute",
+    "date": "2024-09-06T11:06:14.000Z",
+    "last_updated": "2024-09-06T11:06:35.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated_author_id": 147,
+    "active": 1,
+    "points": 100,
+    "tier": 1,
+    "min_velocity": null,
+    "max_prestrafe": 406,
+    "max_duration": null,
+    "max_jumps": null,
+    "no_jump": 0,
+    "hidden": 0,
+    "completions": 7,
+    "playersCompleted": 3,
+    "trick_sequence": [
+        {
+            "trigger_id": 22,
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 23,
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 35,
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

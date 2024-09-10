@@ -30,16 +30,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1662,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2177,
-            "order": 1,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1676,
             "order": 1,
             "passthrough": 1
@@ -106,6 +96,16 @@
         },
         {
             "trigger_id": 1724,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1662,
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2177,
             "order": 1,
             "passthrough": 1
         },
@@ -280,11 +280,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1595,
-            "order": 4,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1411,
             "order": 4,
             "passthrough": 1
@@ -350,19 +345,14 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1595,
+            "order": 4,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1759,
             "order": 5,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1439,
-            "order": 5,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1388,
-            "order": 5,
-            "passthrough": 1
         },
         {
             "trigger_id": 1438,
@@ -421,6 +411,16 @@
         },
         {
             "trigger_id": 1440,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1439,
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1388,
             "order": 5,
             "passthrough": 1
         }
