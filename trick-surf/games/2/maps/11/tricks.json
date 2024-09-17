@@ -2193,17 +2193,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2016,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2391,
                 "order": 2,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2390,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2016,
                 "order": 2,
                 "passthrough": 1
             }
@@ -2510,6 +2510,49 @@
             {
                 "trigger_id": 1939,
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11398,
+        "map_id": 11,
+        "name": "Blinker",
+        "date": "2024-09-13T17:07:26.000Z",
+        "last_updated": null,
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "points": 300,
+        "tier": 3,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 2026,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1898,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1898,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1895,
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -4911,17 +4954,17 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2016,
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2391,
                 "order": 2,
                 "passthrough": 1
             },
             {
                 "trigger_id": 2390,
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2016,
                 "order": 2,
                 "passthrough": 1
             }
@@ -5512,7 +5555,7 @@
         "map_id": 11,
         "name": "Deep dip II",
         "date": "2024-05-03T23:12:05.000Z",
-        "last_updated": null,
+        "last_updated": "2024-09-16T11:44:10.000Z",
         "author": "Tricky",
         "author_id": 458,
         "last_updated_author_id": 480,
@@ -5534,9 +5577,19 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2020,
+                "order": 0,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2021,
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1929,
@@ -7782,12 +7835,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1829,
+                "trigger_id": 2405,
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2405,
+                "trigger_id": 1829,
                 "order": 3,
                 "passthrough": 1
             },
@@ -16798,22 +16851,22 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2287,
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2286,
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2285,
                 "order": 5,
                 "passthrough": 2
             },
             {
                 "trigger_id": 2288,
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2287,
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2286,
                 "order": 5,
                 "passthrough": 2
             },
@@ -16833,22 +16886,22 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2286,
-                "order": 8,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2285,
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2288,
                 "order": 8,
                 "passthrough": 2
             },
             {
                 "trigger_id": 2287,
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2286,
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
                 "order": 8,
                 "passthrough": 2
             }
@@ -19253,7 +19306,7 @@
         "map_id": 11,
         "name": "Spine Chill",
         "date": "2024-04-30T01:22:09.000Z",
-        "last_updated": "2024-05-03T23:11:04.000Z",
+        "last_updated": "2024-09-16T11:47:16.000Z",
         "author": "Tricky",
         "author_id": 458,
         "last_updated_author_id": 480,
@@ -19275,9 +19328,19 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2020,
+                "order": 0,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2021,
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1929,

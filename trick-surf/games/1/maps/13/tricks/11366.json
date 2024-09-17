@@ -3,10 +3,10 @@
     "map_id": 13,
     "name": "Highrise",
     "date": "2024-09-10T10:04:43.000Z",
-    "last_updated": null,
+    "last_updated": "2024-09-10T14:40:53.000Z",
     "author": "FISHMAN",
     "author_id": 49,
-    "last_updated_author_id": 2994,
+    "last_updated_author_id": 147,
     "active": 1,
     "points": 950,
     "tier": 5,
@@ -16,8 +16,8 @@
     "max_jumps": null,
     "no_jump": 0,
     "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
+    "completions": 10,
+    "playersCompleted": 7,
     "trick_sequence": [
         {
             "trigger_id": 3554,
@@ -25,28 +25,33 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 3473,
+            "trigger_id": 3337,
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3511,
+            "trigger_id": 3473,
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3482,
+            "trigger_id": 3511,
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3315,
+            "trigger_id": 3482,
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3431,
+            "trigger_id": 3315,
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3431,
+            "order": 6,
             "passthrough": 0
         }
     ]

@@ -60360,6 +60360,99 @@
         ]
     },
     {
+        "id": 10456,
+        "map_id": 3,
+        "name": "River's Edge",
+        "date": "2024-06-18T07:47:34.000Z",
+        "last_updated": "2024-09-11T04:05:30.000Z",
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 10000,
+        "tier": 9,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 252,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 259,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 266,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 256,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 260,
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 240,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 261,
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 229,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 226,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 219,
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7043,
         "map_id": 3,
         "name": "RK's G3",
@@ -64557,12 +64650,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
@@ -64675,12 +64768,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
@@ -64793,12 +64886,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
@@ -67236,13 +67329,13 @@
         "map_id": 3,
         "name": "Sonki G4000",
         "date": "2023-02-16T18:42:54.000Z",
-        "last_updated": "2023-02-17T00:08:05.000Z",
-        "author": "trikz_shineska",
+        "last_updated": "2024-09-14T21:36:20.000Z",
+        "author": "sonki",
         "author_id": 259,
-        "last_updated_author_id": 480,
+        "last_updated_author_id": 15261,
         "active": 1,
-        "points": 400,
-        "tier": 3,
+        "points": 1001,
+        "tier": 4,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -67865,12 +67958,12 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
+                "trigger_id": 933,
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
+                "trigger_id": 934,
                 "order": 5,
                 "passthrough": 1
             },
@@ -72897,6 +72990,74 @@
             },
             {
                 "trigger_id": 226,
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11379,
+        "map_id": 3,
+        "name": "The ATS G5",
+        "date": "2024-09-11T04:07:25.000Z",
+        "last_updated": null,
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated_author_id": 4561,
+        "active": 1,
+        "points": 6000,
+        "tier": 9,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 252,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 259,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 266,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 255,
                 "order": 8,
                 "passthrough": 0
             }

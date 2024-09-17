@@ -2011,13 +2011,13 @@
         "map_id": 8,
         "name": "Akasha",
         "date": "2024-06-13T14:26:30.000Z",
-        "last_updated": "2024-06-13T14:36:58.000Z",
+        "last_updated": "2024-09-10T23:50:27.000Z",
         "author": "william",
         "author_id": 347,
-        "last_updated_author_id": 347,
+        "last_updated_author_id": 480,
         "active": 1,
-        "points": 1275,
-        "tier": 7,
+        "points": 1200,
+        "tier": 6,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -4952,17 +4952,17 @@
         ]
     },
     {
-        "id": 5706,
+        "id": 10300,
         "map_id": 8,
         "name": "Aurora",
-        "date": "2022-06-19T20:35:38.000Z",
-        "last_updated": "2023-10-13T17:23:10.000Z",
-        "author": "Anti-Cheat | Autostrafing detect",
+        "date": "2024-06-16T01:51:22.000Z",
+        "last_updated": "2024-09-14T00:42:27.000Z",
+        "author": "thousand years voyage",
         "author_id": 416,
         "last_updated_author_id": 457,
         "active": 1,
-        "points": 950,
-        "tier": 5,
+        "points": 1250,
+        "tier": 7,
         "min_velocity": null,
         "max_prestrafe": 406,
         "max_duration": null,
@@ -4998,7 +4998,7 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 692,
+                "trigger_id": 690,
                 "order": 5,
                 "passthrough": 0
             }
@@ -8833,6 +8833,64 @@
             {
                 "trigger_id": 598,
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11374,
+        "map_id": 8,
+        "name": "Blank Pages",
+        "date": "2024-09-11T01:01:51.000Z",
+        "last_updated": "2024-09-12T11:22:13.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "points": 1010,
+        "tier": 6,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 780,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 745,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -22786,6 +22844,59 @@
             {
                 "trigger_id": 1044,
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 5706,
+        "map_id": 8,
+        "name": "Easy Aurora",
+        "date": "2022-06-19T20:35:38.000Z",
+        "last_updated": "2024-09-14T00:41:53.000Z",
+        "author": "thousand years voyage",
+        "author_id": 416,
+        "last_updated_author_id": 457,
+        "active": 1,
+        "points": 950,
+        "tier": 5,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 780,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 692,
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -45859,6 +45970,84 @@
         ]
     },
     {
+        "id": 11372,
+        "map_id": 8,
+        "name": "Ishvara",
+        "date": "2024-09-10T23:51:14.000Z",
+        "last_updated": "2024-09-11T00:07:19.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 1300,
+        "tier": 8,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3259,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 692,
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5537,
         "map_id": 8,
         "name": "It never ends",
@@ -54712,10 +54901,10 @@
         "map_id": 8,
         "name": "Main Wrap from Jail",
         "date": "2022-05-05T18:00:00.000Z",
-        "last_updated": "2023-10-21T13:46:09.000Z",
+        "last_updated": "2024-09-11T09:02:19.000Z",
         "author": "bog",
         "author_id": 131,
-        "last_updated_author_id": 457,
+        "last_updated_author_id": 480,
         "active": 1,
         "points": 100,
         "tier": 2,
@@ -54739,13 +54928,18 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 655,
+                "trigger_id": 709,
                 "order": 2,
                 "passthrough": 0
             },
             {
-                "trigger_id": 709,
+                "trigger_id": 655,
                 "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -72129,6 +72323,84 @@
         ]
     },
     {
+        "id": 11373,
+        "map_id": 8,
+        "name": "Shunya",
+        "date": "2024-09-10T23:56:19.000Z",
+        "last_updated": null,
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated_author_id": 480,
+        "active": 1,
+        "points": 1266,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 3259,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 689,
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8276,
         "map_id": 8,
         "name": "Siesta Time",
@@ -85040,59 +85312,6 @@
         ]
     },
     {
-        "id": 10300,
-        "map_id": 8,
-        "name": "True Aurora",
-        "date": "2024-06-16T01:51:22.000Z",
-        "last_updated": null,
-        "author": "XLVIA",
-        "author_id": 416,
-        "last_updated_author_id": 457,
-        "active": 1,
-        "points": 1250,
-        "tier": 7,
-        "min_velocity": null,
-        "max_prestrafe": 406,
-        "max_duration": null,
-        "max_jumps": null,
-        "no_jump": 0,
-        "hidden": 0,
-        "completions": 0,
-        "playersCompleted": 0,
-        "trick_sequence": [
-            {
-                "trigger_id": 780,
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 652,
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 706,
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 727,
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 743,
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 690,
-                "order": 5,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 11007,
         "map_id": 8,
         "name": "True Drop and Impossible rise",
@@ -85832,6 +86051,74 @@
             {
                 "trigger_id": 768,
                 "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11390,
+        "map_id": 8,
+        "name": "Typhoon",
+        "date": "2024-09-12T12:36:10.000Z",
+        "last_updated": "2024-09-12T12:49:47.000Z",
+        "author": "sink",
+        "author_id": 6763,
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "points": 1250,
+        "tier": 7,
+        "min_velocity": null,
+        "max_prestrafe": 406,
+        "max_duration": null,
+        "max_jumps": null,
+        "no_jump": 0,
+        "hidden": 0,
+        "completions": 0,
+        "playersCompleted": 0,
+        "trick_sequence": [
+            {
+                "trigger_id": 1048,
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 787,
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3246,
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1025,
+                "order": 8,
                 "passthrough": 0
             }
         ]

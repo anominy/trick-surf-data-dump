@@ -3,10 +3,10 @@
     "map_id": 8,
     "name": "Main Wrap from Jail",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-21T13:46:09.000Z",
+    "last_updated": "2024-09-11T09:02:19.000Z",
     "author": "bog",
     "author_id": 131,
-    "last_updated_author_id": 457,
+    "last_updated_author_id": 480,
     "active": 1,
     "points": 100,
     "tier": 2,
@@ -30,13 +30,18 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 655,
+            "trigger_id": 709,
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
+            "trigger_id": 655,
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "order": 4,
             "passthrough": 0
         }
     ]
