@@ -100,6 +100,7 @@ _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_PATH: Final[str] = os.path.joi
 _DUMP_TRICK_SURF_MAPS_MAP_ID_TRIGGERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_MAP_ID_PATH, 'triggers')
 _DUMP_TRICK_SURF_MAPS_MAP_ID_TELEPORTS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_MAP_ID_PATH, 'teleports')
 _DUMP_TRICK_SURF_GAMES_GAME_ID_EVENTS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_PATH, "events")
+_DUMP_TRICK_SURF_GAMES_GAME_ID_PLAYERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_PATH, "players")
 # _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_RANKINGS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_PATH, 'rankings')
 _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_TRICK_ID_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_PATH, '%d')
 # _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_TRICK_ID_RANKINGS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_TRICK_ID_PATH, 'rankings')
@@ -561,6 +562,7 @@ _TRICK_SURF_API_MAP_TELEPORTS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TR
 _TRICK_SURF_API_PLAYERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_PLAYERS_ENDPOINT_NAME}'
 _TRICK_SURF_API_SERVERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_SERVERS_ENDPOINT_NAME}'
 _TRICK_SURF_API_GAME_EVENTS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_EVENTS_ENDPOINT_NAME}'
+_TRICK_SURF_API_GAME_PLAYERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_PLAYERS_ENDPOINT_NAME}'
 # _TRICK_SURF_API_MAP_RANKINGS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_RANKINGS_ENDPOINT_NAME}'
 # _TRICK_SURF_API_MAP_TRICK_RANKINGS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_TRICKS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_RANKINGS_ENDPOINT_NAME}'
 
@@ -1323,6 +1325,14 @@ def _trick_surf_dump_data() -> bool:
         if not game_events_json[game_id]:
             game_events_json[game_id] = None
 
+    game_players_json: Final[dict[int, Optional[Any]]] = {}
+    for game_json in games_json:
+        game_id: int = int(game_json[_TRICK_SURF_GAME_JSON_ID_FIELD_NAME])
+
+        game_players_json[game_id] = _get_url_json(_TRICK_SURF_API_GAME_PLAYERS_URL % game_id)
+        if not game_players_json[game_id]:
+            game_players_json[game_id] = None
+
     is_success: bool = _dump_json(_DUMP_TRICK_SURF_GAMES_PATH, None, games_json) \
         and _dump_json(_DUMP_TRICK_SURF_MAPS_PATH, None, maps_json) \
         and _dump_json(_DUMP_TRICK_SURF_PLAYERS_PATH, None, players_json) \
@@ -1422,6 +1432,19 @@ def _trick_surf_dump_data() -> bool:
         for event_json in events_json:
             event_id: int = int(event_json[_TRICK_SURF_GAME_EVENT_JSON_ID_FIELD_NAME])
             is_success = _dump_json(dump_path, str(event_id), event_json)
+            if not is_success:
+                return False
+
+    for game_id, players_json in game_players_json.items():
+        dump_path: str = _DUMP_TRICK_SURF_GAMES_GAME_ID_PLAYERS_PATH % game_id
+
+        is_success = _dump_json(dump_path, None, players_json)
+        if not is_success:
+            return False
+
+        for player_json in players_json:
+            player_id: int = int(player_json[_TRICK_SURF_PLAYER_JSON_ID_FIELD_NAME])
+            is_success = _dump_json(dump_path, str(player_id), player_json)
             if not is_success:
                 return False
 

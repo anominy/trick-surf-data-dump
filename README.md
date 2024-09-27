@@ -31,8 +31,9 @@ a description of the workflow can be found in the [update-action.yml](./.github/
 
 ### TrickSurf's API Raw Data
 + `/trick-surf/<events|games|maps|players|servers><.json|.min.json>`
-+ `/trick-surf/games/<game-id>/events<.json|.min.json>`
++ `/trick-surf/games/<game-id>/<events|players><.json|.min.json>`
 + `/trick-surf/games/<game-id>/events/<event-id><.json|.min.json>`
++ `/trick-surf/games/<game-id>/players/<player-id><.json|.min.json>`
 + `/trick-surf/games/<game-id><.json|.min.json>`
 + `/trick-surf/games/<game-id>/maps/<map-id>/tricks<.json|.min.json>`
 + `/trick-surf/games/<game-id>/maps/<map-id>/tricks/<trick-id><.json|.min.json>`
