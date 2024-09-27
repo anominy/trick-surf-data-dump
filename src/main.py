@@ -91,7 +91,6 @@ _DUMP_TRICK_SURF_GAMES_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'g
 _DUMP_TRICK_SURF_MAPS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'maps')
 _DUMP_TRICK_SURF_PLAYERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'players')
 _DUMP_TRICK_SURF_SERVERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'servers')
-_DUMP_TRICK_SURF_EVENTS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_PATH, 'events')
 
 _DUMP_TRICK_SURF_MAPS_MAP_ID_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_PATH, '%d')
 _DUMP_TRICK_SURF_GAMES_GAME_ID_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_PATH, '%d')
@@ -100,9 +99,11 @@ _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_PATH: Final[str] = os.path.join(_DUMP
 _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_PATH, 'tricks')
 _DUMP_TRICK_SURF_MAPS_MAP_ID_TRIGGERS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_MAP_ID_PATH, 'triggers')
 _DUMP_TRICK_SURF_MAPS_MAP_ID_TELEPORTS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_MAPS_MAP_ID_PATH, 'teleports')
+_DUMP_TRICK_SURF_GAMES_GAME_ID_EVENTS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_PATH, "events")
 # _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_RANKINGS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_PATH, 'rankings')
 _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_TRICK_ID_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_PATH, '%d')
 # _DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_TRICK_ID_RANKINGS_PATH: Final[str] = os.path.join(_DUMP_TRICK_SURF_GAMES_GAME_ID_MAPS_MAP_ID_TRICKS_TRICK_ID_PATH, 'rankings')
+
 
 _DUMP_UNIFIED_NAME: Final[str] = 'ski2-gxds-tricks'
 _DUMP_UNIFIED_ORIGINAL_NAME: Final[str] = f'{_DUMP_UNIFIED_NAME}~original'
@@ -559,7 +560,7 @@ _TRICK_SURF_API_MAP_TRIGGERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRI
 _TRICK_SURF_API_MAP_TELEPORTS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_TELEPORTS_ENDPOINT_NAME}'
 _TRICK_SURF_API_PLAYERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_PLAYERS_ENDPOINT_NAME}'
 _TRICK_SURF_API_SERVERS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_SERVERS_ENDPOINT_NAME}'
-_TRICK_SURF_API_EVENTS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_EVENTS_ENDPOINT_NAME}'
+_TRICK_SURF_API_GAME_EVENTS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_EVENTS_ENDPOINT_NAME}'
 # _TRICK_SURF_API_MAP_RANKINGS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_RANKINGS_ENDPOINT_NAME}'
 # _TRICK_SURF_API_MAP_TRICK_RANKINGS_URL: Final[str] = f'{_TRICK_SURF_API_BASE_URL}{_TRICK_SURF_API_GAMES_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAPS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_TRICKS_ENDPOINT_NAME}/%d/{_TRICK_SURF_API_MAP_RANKINGS_ENDPOINT_NAME}'
 
@@ -637,7 +638,7 @@ _TRICK_SURF_PLAYER_JSON_VIP_LEVEL_FIELD_NAME: Final[str] = 'vip_level'
 _TRICK_SURF_PLAYER_JSON_FIRST_SERVER_JOIN_DATE_FIELD_NAME: Final[str] = 'first_connect'
 _TRICK_SURF_PLAYER_JSON_LAST_SERVER_JOIN_DATE_FIELD_NAME: Final[str] = 'last_connect'
 _TRICK_SURF_PLAYER_JSON_TIME_ALIVE_FIELD_NAME: Final[str] = 'time_alive'
-_TRICK_SURF_PLAYER_JSON_TIME_SPECTATE_FIELD_NAMED: Final[str] = 'time_specate'
+_TRICK_SURF_PLAYER_JSON_TIME_SPECTATE_FIELD_NAMED: Final[str] = 'time_spectate'
 _TRICK_SURF_PLAYER_JSON_ROLE_FIELD_NAME: Final[str] = 'role'
 
 _TRICK_SURF_SERVER_JSON_ID_FIELD_NAME: Final[str] = 'id'
@@ -663,39 +664,39 @@ _TRICK_SURF_SERVER_PLAYER_JSON_ID_FIELD_NAME: Final[str] = 'player_id'
 _TRICK_SURF_SERVER_PLAYER_JSON_NAME_FIELD_NAME: Final[str] = 'name'
 _TRICK_SURF_SERVER_PLAYER_JSON_AVATAR_URL_FIELD_NAME: Final[str] = 'avatar_url'
 
-_TRICK_SURF_EVENT_JSON_ID_FIELD_NAME: Final[str] = 'id'
-_TRICK_SURF_EVENT_JSON_TYPE_ID_FIELD_NAME: Final[str] = 'event_type_id'
-_TRICK_SURF_EVENT_JSON_NAME_FIELD_NAME: Final[str] = 'name'
-_TRICK_SURF_EVENT_JSON_START_DATE_FIELD_NAME: Final[str] = 'date'
-_TRICK_SURF_EVENT_JSON_END_DATE_FIELD_NAME: Final[str] = 'end_date'
-_TRICK_SURF_EVENT_JSON_GOAL_COUNT_FIELD_NAME: Final[str] = 'goal'
-_TRICK_SURF_EVENT_JSON_GOAL_NAME_FIELD_NAME: Final[str] = 'goal_name'
-_TRICK_SURF_EVENT_JSON_DESCRIPTION_HTML_FIELD_NAME: Final[str] = 'description'
-_TRICK_SURF_EVENT_JSON_IMAGE_URL_FIELD_NAME: Final[str] = 'image_url'
-_TRICK_SURF_EVENT_JSON_PROGRESS_FIELD_NAME: Final[str] = 'progress'
-_TRICK_SURF_EVENT_JSON_PROGRESS_TOP_FIELD_NAME: Final[str] = 'progressTop'
-_TRICK_SURF_EVENT_JSON_TIME_TOP_FIELD_NAME: Final[str] = 'timeTop'
-_TRICK_SURF_EVENT_JSON_SPEED_TOP_FIELD_NAME: Final[str] = 'speedTop'
-_TRICK_SURF_EVENT_JSON_TRICKS_FIELD_NAME: Final[str] = 'tricks'
+_TRICK_SURF_GAME_EVENT_JSON_ID_FIELD_NAME: Final[str] = 'id'
+_TRICK_SURF_GAME_EVENT_JSON_TYPE_ID_FIELD_NAME: Final[str] = 'event_type_id'
+_TRICK_SURF_GAME_EVENT_JSON_NAME_FIELD_NAME: Final[str] = 'name'
+_TRICK_SURF_GAME_EVENT_JSON_START_DATE_FIELD_NAME: Final[str] = 'date'
+_TRICK_SURF_GAME_EVENT_JSON_END_DATE_FIELD_NAME: Final[str] = 'end_date'
+_TRICK_SURF_GAME_EVENT_JSON_GOAL_COUNT_FIELD_NAME: Final[str] = 'goal'
+_TRICK_SURF_GAME_EVENT_JSON_GOAL_NAME_FIELD_NAME: Final[str] = 'goal_name'
+_TRICK_SURF_GAME_EVENT_JSON_DESCRIPTION_HTML_FIELD_NAME: Final[str] = 'description'
+_TRICK_SURF_GAME_EVENT_JSON_IMAGE_URL_FIELD_NAME: Final[str] = 'image_url'
+_TRICK_SURF_GAME_EVENT_JSON_PROGRESS_FIELD_NAME: Final[str] = 'progress'
+_TRICK_SURF_GAME_EVENT_JSON_PROGRESS_TOP_FIELD_NAME: Final[str] = 'progressTop'
+_TRICK_SURF_GAME_EVENT_JSON_TIME_TOP_FIELD_NAME: Final[str] = 'timeTop'
+_TRICK_SURF_GAME_EVENT_JSON_SPEED_TOP_FIELD_NAME: Final[str] = 'speedTop'
+_TRICK_SURF_GAME_EVENT_JSON_TRICKS_FIELD_NAME: Final[str] = 'tricks'
 
-_TRICK_SURF_EVENT_PROGRESS_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
-_TRICK_SURF_EVENT_PROGRESS_JSON_PROGRESS_FIELD_NAME: Final[str] = 'progress'
-_TRICK_SURF_EVENT_PROGRESS_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
+_TRICK_SURF_GAME_EVENT_PROGRESS_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
+_TRICK_SURF_GAME_EVENT_PROGRESS_JSON_PROGRESS_FIELD_NAME: Final[str] = 'progress'
+_TRICK_SURF_GAME_EVENT_PROGRESS_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
 
-_TRICK_SURF_EVENT_TIME_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
-_TRICK_SURF_EVENT_TIME_JSON_TIME_FIELD_NAME: Final[str] = 'total_time'
-_TRICK_SURF_EVENT_TIME_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
+_TRICK_SURF_GAME_EVENT_TIME_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
+_TRICK_SURF_GAME_EVENT_TIME_JSON_TIME_FIELD_NAME: Final[str] = 'total_time'
+_TRICK_SURF_GAME_EVENT_TIME_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
 
-_TRICK_SURF_EVENT_SPEED_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
-_TRICK_SURF_EVENT_SPEED_JSON_SPEED_FIELD_NAME: Final[str] = 'total_speed'
-_TRICK_SURF_EVENT_SPEED_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
+_TRICK_SURF_GAME_EVENT_SPEED_JSON_RANK_FIELD_NAME: Final[str] = 'rank'
+_TRICK_SURF_GAME_EVENT_SPEED_JSON_SPEED_FIELD_NAME: Final[str] = 'total_speed'
+_TRICK_SURF_GAME_EVENT_SPEED_JSON_PLAYER_FIELD_NAME: Final[str] = 'player'
 
-_TRICK_SURF_EVENT_TRICK_JSON_MAP_ID_FIELD_NAME: Final[str] = 'map_id'
-_TRICK_SURF_EVENT_TRICK_JSON_MAP_NAME_FIELD_NAME: Final[str] = 'map_name'
-_TRICK_SURF_EVENT_TRICK_JSON_TRICK_ID_FIELD_NAME: Final[str] = 'trick_id'
-_TRICK_SURF_EVENT_TRICK_JSON_COMPLETE_COUNT_FIELD_NAME: Final[str] = 'event_completions'
-_TRICK_SURF_EVENT_TRICK_JSON_COMPLETE_PLAYER_COUNT_FIELD_NAME: Final[str] = 'event_player_completions'
-_TRICK_SURF_EVENT_TRICK_JSON_TRICK_FIELD_NAME: Final[str] = 'trick'
+_TRICK_SURF_GAME_EVENT_TRICK_JSON_MAP_ID_FIELD_NAME: Final[str] = 'map_id'
+_TRICK_SURF_GAME_EVENT_TRICK_JSON_MAP_NAME_FIELD_NAME: Final[str] = 'map_name'
+_TRICK_SURF_GAME_EVENT_TRICK_JSON_TRICK_ID_FIELD_NAME: Final[str] = 'trick_id'
+_TRICK_SURF_GAME_EVENT_TRICK_JSON_COMPLETE_COUNT_FIELD_NAME: Final[str] = 'event_completions'
+_TRICK_SURF_GAME_EVENT_TRICK_JSON_COMPLETE_PLAYER_COUNT_FIELD_NAME: Final[str] = 'event_player_completions'
+_TRICK_SURF_GAME_EVENT_TRICK_JSON_TRICK_FIELD_NAME: Final[str] = 'trick'
 
 # _TRICK_SURF_MAP_TRICK_RANKING_JSON_REPETITION_FIELD_NAME: Final[str] = 'repetition'
 # _TRICK_SURF_MAP_TRICK_RANKING_JSON_TIME_DURATION_FIELD_NAME: Final[str] = 'time_duration'
@@ -1261,12 +1262,6 @@ def _trick_surf_dump_data() -> bool:
     if not servers_json:
         return False
 
-    events_json: Final[Optional[Any]] \
-        = _get_url_json(_TRICK_SURF_API_EVENTS_URL)
-
-    if not events_json:
-        return False
-
     game_map_tricks_json: Final[dict[int, Optional[dict[int, Optional[Any]]]]] = {}
     # game_map_rankings_json: Final[dict[int, Optional[dict[int, Optional[Any]]]]] = {}
     # game_map_trick_rankings_json: Final[dict[int, Optional[dict[int, Optional[dict[int, Optional[Any]]]]]]] = {}
@@ -1320,11 +1315,18 @@ def _trick_surf_dump_data() -> bool:
         if not map_teleports_json[map_id]:
             map_teleports_json[map_id] = None
 
+    game_events_json: Final[dict[int, Optional[Any]]] = {}
+    for game_json in games_json:
+        game_id: int = int(game_json[_TRICK_SURF_GAME_JSON_ID_FIELD_NAME])
+
+        game_events_json[game_id] = _get_url_json(_TRICK_SURF_API_GAME_EVENTS_URL % game_id)
+        if not game_events_json[game_id]:
+            game_events_json[game_id] = None
+
     is_success: bool = _dump_json(_DUMP_TRICK_SURF_GAMES_PATH, None, games_json) \
         and _dump_json(_DUMP_TRICK_SURF_MAPS_PATH, None, maps_json) \
         and _dump_json(_DUMP_TRICK_SURF_PLAYERS_PATH, None, players_json) \
-        and _dump_json(_DUMP_TRICK_SURF_SERVERS_PATH, None, servers_json) \
-        and _dump_json(_DUMP_TRICK_SURF_EVENTS_PATH, None, events_json)
+        and _dump_json(_DUMP_TRICK_SURF_SERVERS_PATH, None, servers_json)
 
     if not is_success:
         return False
@@ -1350,12 +1352,6 @@ def _trick_surf_dump_data() -> bool:
     for server_json in servers_json:
         server_id: int = int(server_json[_TRICK_SURF_SERVER_JSON_ID_FIELD_NAME])
         is_success = _dump_json(_DUMP_TRICK_SURF_SERVERS_PATH, str(server_id), server_json)
-        if not is_success:
-            return False
-
-    for event_json in events_json:
-        event_id: int = int(event_json[_TRICK_SURF_EVENT_JSON_ID_FIELD_NAME])
-        is_success = _dump_json(_DUMP_TRICK_SURF_EVENTS_PATH, str(event_id), event_json)
         if not is_success:
             return False
 
@@ -1413,6 +1409,19 @@ def _trick_surf_dump_data() -> bool:
         for teleport_json in teleports_json:
             teleport_id: int = int(teleport_json[_TRICK_SURF_MAP_TELEPORT_JSON_ID_FIELD_NAME])
             is_success = _dump_json(dump_path, str(teleport_id), teleport_json)
+            if not is_success:
+                return False
+
+    for game_id, events_json in game_events_json.items():
+        dump_path: str = _DUMP_TRICK_SURF_GAMES_GAME_ID_EVENTS_PATH % game_id
+
+        is_success = _dump_json(dump_path, None, events_json)
+        if not is_success:
+            return False
+
+        for event_json in events_json:
+            event_id: int = int(event_json[_TRICK_SURF_GAME_EVENT_JSON_ID_FIELD_NAME])
+            is_success = _dump_json(dump_path, str(event_id), event_json)
             if not is_success:
                 return False
 
