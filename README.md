@@ -35,7 +35,7 @@ a description of the workflow can be found in the [update-action.yml](./.github/
 + `/trick-surf/games/<game-id>/events/<event-id><.json|.min.json>`
 + `/trick-surf/games/<game-id>/players/<player-id><.json|.min.json>`
 + `/trick-surf/games/<game-id><.json|.min.json>`
-+ `/trick-surf/games/<game-id>/maps/<map-id>/tricks<.json|.min.json>`
++ `/trick-surf/games/<game-id>/maps/<map-id>/<tricks|rankings><.json|.min.json>`
 + `/trick-surf/games/<game-id>/maps/<map-id>/tricks/<trick-id><.json|.min.json>`
 + `/trick-surf/maps/<map-id><.json|.min.json>`
 + `/trick-surf/maps/<map-id>/<triggers|teleports><.json|.min.json>`
