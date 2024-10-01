@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "Window Bounce Mini Adventure",
     "date": "2024-03-18T02:23:57.000Z",
-    "last_updated": "2024-03-18T02:49:04.000Z",
     "author": "Kingaru",
     "author_id": 10,
+    "last_updated": "2024-03-18T02:49:04.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1189,
+            "name": "C Blue Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1509,
+            "name": "NW Window Beams",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1510,
+            "name": "NW Window Top",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1750,
+            "name": "W Beam 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1751,
+            "name": "W Beam 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3200,
+            "name": "W Large Pillar Gap West 1",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3198,
+            "name": "W Large Pillar Gap North 1",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1456,
+            "name": "NW Ground",
             "order": 8,
             "passthrough": 0
         }

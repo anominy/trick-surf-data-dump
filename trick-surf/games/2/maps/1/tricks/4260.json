@@ -3,64 +3,70 @@
     "map_id": 1,
     "name": "Michael's Parachute",
     "date": "2020-12-22T00:00:00.000Z",
-    "last_updated": "2024-02-22T19:06:50.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2024-02-22T19:06:50.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 41,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 27,
+            "name": "Main Ramp Slant",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 27,
+            "name": "Main Ramp Slant",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 5,
             "passthrough": 1
         },
         {
             "trigger_id": 1,
+            "name": "Awp Ramp",
             "order": 6,
             "passthrough": 0
         }

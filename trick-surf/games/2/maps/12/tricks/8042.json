@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "White Battery",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": "2023-11-08T21:02:52.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2023-11-08T21:02:52.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2451,
+            "name": "Big Battery",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2454,
+            "name": "Big Battery Ramps",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2753,
+            "name": "Snake Block",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2919,
+            "name": "West Sewer Tower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2758,
+            "name": "Snake Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2756,
+            "name": "Snake Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2936,
+            "name": "White Pool Platform",
             "order": 6,
             "passthrough": 0
         }

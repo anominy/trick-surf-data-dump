@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "S1000",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": "2022-01-31T16:38:38.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-31T16:38:38.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 115,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 205,
-    "playersCompleted": 45,
-    "trick_sequence": [
+    "completions": "205",
+    "players_completed": "46",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 477,
+            "name": "Under Pool",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 484,
+            "name": "South Pool Upper Platform",
             "order": 2,
             "passthrough": 0
         }

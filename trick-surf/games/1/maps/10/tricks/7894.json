@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Slingshot",
     "date": "2023-07-30T08:14:54.000Z",
-    "last_updated": "2023-07-30T08:19:38.000Z",
     "author": "ᴛꜱ ٠ discount",
     "author_id": 5482,
+    "last_updated": "2023-07-30T08:19:38.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 450,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 77,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "77",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2397,
+            "name": "S Under Yellow Ramp 9",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2396,
+            "name": "S Under Yellow Ramp 8",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 4,
             "passthrough": 0
         }

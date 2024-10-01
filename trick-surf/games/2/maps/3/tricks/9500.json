@@ -3,39 +3,40 @@
     "map_id": 3,
     "name": "Chairman Gap",
     "date": "2024-04-05T07:09:55.000Z",
-    "last_updated": "2024-04-05T07:12:56.000Z",
     "author": "ANC Chairman",
     "author_id": 15261,
+    "last_updated": "2024-04-05T07:12:56.000Z",
     "last_updated_author_id": 15261,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 267,
+            "name": "Supertop",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 268,
+            "name": "Supertop Push",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2305,
+            "name": "Upper Jail Stairs",
             "order": 3,
             "passthrough": 0
         }

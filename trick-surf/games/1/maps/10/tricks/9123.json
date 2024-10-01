@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "Crane Strafe 0",
     "date": "2024-03-01T23:39:07.000Z",
-    "last_updated": "2024-03-01T23:41:23.000Z",
     "author": "Aux",
     "author_id": 14724,
+    "last_updated": "2024-03-01T23:41:23.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 275,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 56,
-    "playersCompleted": 34,
-    "trick_sequence": [
+    "completions": "56",
+    "players_completed": "35",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1666,
+            "name": "W Crane Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1530,
+            "name": "S Fort Top Beam",
             "order": 2,
             "passthrough": 0
         }

@@ -3,114 +3,130 @@
     "map_id": 1,
     "name": "Take Your Time",
     "date": "2023-03-15T20:46:22.000Z",
-    "last_updated": "2024-01-26T00:47:22.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-01-26T00:47:22.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 3200,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 39,
+            "name": "Pyramid Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 14,
+            "name": "Deagle 1st Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 47,
+            "name": "Thru Deagle 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 34,
+            "name": "Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 46,
+            "name": "Thru Deagle 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 13,
+            "name": "Deagle 1st",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 15,
+            "name": "Deagle 2nd",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 17,
+            "name": "Deagle 3rd",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 19,
+            "name": "Deagle 4th",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 21,
+            "name": "Deagle 5th",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 23,
+            "name": "Deagle 6th",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 21,
+            "name": "Deagle 5th",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 19,
+            "name": "Deagle 4th",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 17,
+            "name": "Deagle 3rd",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 15,
+            "name": "Deagle 2nd",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 14,
+            "name": "Deagle 1st Top",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 46,
+            "name": "Thru Deagle 1",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 34,
+            "name": "Platform",
             "order": 18,
             "passthrough": 0
         }

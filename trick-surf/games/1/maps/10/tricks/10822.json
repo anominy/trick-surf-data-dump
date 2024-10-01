@@ -3,89 +3,100 @@
     "map_id": 10,
     "name": "Funky",
     "date": "2024-08-05T06:57:40.000Z",
-    "last_updated": null,
     "author": "LuK ♛",
     "author_id": 18949,
+    "last_updated": null,
     "last_updated_author_id": 18949,
     "active": 1,
-    "points": 1240,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 10,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "10",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1434,
+            "name": "NW Black Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1435,
+            "name": "NW Black Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1436,
+            "name": "NW Black Ramp 1 Booster",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1442,
+            "name": "NW Black Ramp 2 Spine",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1435,
+            "name": "NW Black Ramp 1",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1737,
+            "name": "W Large Pillar Gap SE",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2234,
+            "name": "W Large Pillar Gap SW",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2173,
+            "name": "N High Platform South",
             "order": 12,
             "passthrough": 0
         }

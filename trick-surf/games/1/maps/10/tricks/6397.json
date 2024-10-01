@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "King sized Beam",
     "date": "2022-11-22T21:48:12.000Z",
-    "last_updated": "2022-11-23T15:00:44.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2022-11-23T15:00:44.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 24,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "24",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1550,
+            "name": "SE Black Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1641,
+            "name": "SW Purple Ramp 6",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1726,
+            "name": "C Undergrounds Entry SW",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1192,
+            "name": "C Blue Ramp 6",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1727,
+            "name": "C Undergrounds Entry West",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1634,
+            "name": "SW Orange Ramp 6",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1751,
+            "name": "W Beam 1",
             "order": 11,
             "passthrough": 0
         }

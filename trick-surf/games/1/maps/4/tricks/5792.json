@@ -3,49 +3,52 @@
     "map_id": 4,
     "name": "Vyda's Soggy Train to Birmingham",
     "date": "2022-07-03T14:34:10.000Z",
-    "last_updated": "2022-07-03T14:43:45.000Z",
     "author": "vee gan sausageroll",
     "author_id": 174,
+    "last_updated": "2022-07-03T14:43:45.000Z",
     "last_updated_author_id": 174,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 14,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "14",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 372,
+            "name": "South Loop Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 318,
+            "name": "In-Ground Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 384,
+            "name": "Under Red Circle",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 340,
+            "name": "Stage 4 Water",
             "order": 5,
             "passthrough": 0
         }

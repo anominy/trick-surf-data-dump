@@ -3,54 +3,58 @@
     "map_id": 8,
     "name": "Run It Back",
     "date": "2022-05-22T03:52:18.000Z",
-    "last_updated": "2022-05-22T16:30:38.000Z",
     "author": "chief",
     "author_id": 75,
+    "last_updated": "2022-05-22T16:30:38.000Z",
     "last_updated_author_id": 75,
     "active": 1,
-    "points": 475,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 97,
-    "playersCompleted": 45,
-    "trick_sequence": [
+    "completions": "97",
+    "players_completed": "45",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 705,
+            "name": "Long Ramp Slant",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1050,
+            "name": "Weapons Tele Ledge",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 698,
+            "name": "Kevin Ramp",
             "order": 6,
             "passthrough": 0
         }

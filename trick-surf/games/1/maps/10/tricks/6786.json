@@ -3,84 +3,94 @@
     "map_id": 10,
     "name": "Totem Pole",
     "date": "2023-01-19T18:04:27.000Z",
-    "last_updated": "2023-01-20T09:28:05.000Z",
     "author": "discount",
     "author_id": 5482,
+    "last_updated": "2023-01-20T09:28:05.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 350,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 19,
-    "playersCompleted": 15,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1585,
+            "name": "SE Large Structure Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1746,
+            "name": "E Through White Beams Bottom",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1284,
+            "name": "E Red Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1746,
+            "name": "E Through White Beams Bottom",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1340,
+            "name": "N Purple Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1344,
+            "name": "N Teal Jumppad",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1354,
+            "name": "N Through Tower Top",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1244,
+            "name": "C Sky East Lower",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1246,
+            "name": "C Sky West Slant",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1240,
+            "name": "C Sky Between Beams",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1251,
+            "name": "C Sky East Dark Pillar",
             "order": 12,
             "passthrough": 0
         }

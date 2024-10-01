@@ -3,44 +3,46 @@
     "map_id": 8,
     "name": "Pro Banana Wrap Remix",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-21T13:50:23.000Z",
     "author": "bog",
     "author_id": 131,
+    "last_updated": "2023-10-21T13:50:23.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 1049,
-    "playersCompleted": 110,
-    "trick_sequence": [
+    "completions": "1050",
+    "players_completed": "120",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 653,
+            "name": "Behind Banana Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 656,
+            "name": "Behind Tower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 653,
+            "name": "Behind Banana Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 4,
             "passthrough": 0
         }

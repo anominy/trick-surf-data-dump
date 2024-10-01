@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "Throne of Genesis",
     "date": "2024-05-01T01:43:49.000Z",
-    "last_updated": "2024-05-03T14:22:15.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2024-05-03T14:22:15.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1285,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1564,
+            "name": "SE East Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1583,
+            "name": "SE Large Pillar Gap North",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1537,
+            "name": "S Fort Slant Top",
             "order": 8,
             "passthrough": 0
         }

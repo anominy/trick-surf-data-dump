@@ -3,34 +3,34 @@
     "map_id": 6,
     "name": "2nd Rising",
     "date": "2023-12-18T14:59:53.000Z",
-    "last_updated": null,
     "author": "LarzZz",
     "author_id": 181,
+    "last_updated": null,
     "last_updated_author_id": 181,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 84,
-    "playersCompleted": 13,
-    "trick_sequence": [
+    "completions": "84",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 553,
+            "name": "Short Deagle Ramp 1",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 558,
+            "name": "Sky Platform 2",
             "order": 2,
             "passthrough": 0
         }

@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Genesis GV70",
     "date": "2024-02-22T03:03:43.000Z",
-    "last_updated": "2024-02-22T04:39:10.000Z",
     "author": "King",
     "author_id": 10,
+    "last_updated": "2024-02-22T04:39:10.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1564,
+            "name": "SE East Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1284,
+            "name": "E Red Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1431,
+            "name": "NE White Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1426,
+            "name": "NE Undergrounds Ledge 1",
             "order": 5,
             "passthrough": 0
         }

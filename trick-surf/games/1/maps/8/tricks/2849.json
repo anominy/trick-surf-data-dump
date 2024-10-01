@@ -3,54 +3,58 @@
     "map_id": 8,
     "name": "Wasp Tuna",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 812,
-    "playersCompleted": 55,
-    "trick_sequence": [
+    "completions": "820",
+    "players_completed": "56",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 659,
+            "name": "Rear T2 Tower Wedge Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 784,
+            "name": "Triomino 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 6,
             "passthrough": 0
         }

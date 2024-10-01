@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Samantha's Gift #1",
     "date": "2024-07-25T20:37:06.000Z",
-    "last_updated": "2024-07-25T21:01:47.000Z",
     "author": "skin",
     "author_id": 24229,
+    "last_updated": "2024-07-25T21:01:47.000Z",
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 88,
-    "playersCompleted": 26,
-    "trick_sequence": [
+    "completions": "92",
+    "players_completed": "30",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3245,
+            "name": "Telepad Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3244,
+            "name": "Telepad T2 T1 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3262,
+            "name": "Weapon Lower Abyss Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 771,
+            "name": "Telepad Water",
             "order": 3,
             "passthrough": 0
         }

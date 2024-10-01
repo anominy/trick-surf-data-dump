@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Bug's Night",
     "date": "2024-04-20T16:14:37.000Z",
-    "last_updated": null,
     "author": "nex",
     "author_id": 18519,
+    "last_updated": null,
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 920,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 33,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "33",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1292,
+            "name": "E Rooftops Large Block",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1400,
+            "name": "NE Green Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1401,
+            "name": "NE Green Ramp 4 Beams",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1583,
+            "name": "SE Large Pillar Gap North",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1533,
+            "name": "S Fort Light Box",
             "order": 7,
             "passthrough": 0
         }

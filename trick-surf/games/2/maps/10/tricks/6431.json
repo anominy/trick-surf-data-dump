@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Hici Rusty Feets",
     "date": "2022-11-29T22:03:07.000Z",
-    "last_updated": "2022-12-14T19:36:18.000Z",
     "author": "Kassihici",
     "author_id": 3123,
+    "last_updated": "2022-12-14T19:36:18.000Z",
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 325,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1666,
+            "name": "W Crane Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1250,
+            "name": "C Sky Beam East",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1530,
+            "name": "S Fort Top Beam",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1218,
+            "name": "C Strip Beams Top",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1494,
+            "name": "NW Through Window",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1774,
+            "name": "NW Window Bottom",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1750,
+            "name": "W Beam 2",
             "order": 6,
             "passthrough": 0
         }

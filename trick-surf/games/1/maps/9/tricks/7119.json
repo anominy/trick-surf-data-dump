@@ -3,39 +3,40 @@
     "map_id": 9,
     "name": "Escape",
     "date": "2023-02-24T18:00:00.000Z",
-    "last_updated": "2023-02-26T17:27:59.000Z",
     "author": ".",
     "author_id": 3123,
+    "last_updated": "2023-02-26T17:27:59.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 115,
-    "playersCompleted": 33,
-    "trick_sequence": [
+    "completions": "115",
+    "players_completed": "33",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2340,
+            "name": "River Top Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 828,
+            "name": "Tower JumpPad",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 830,
+            "name": "Tower Railing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 804,
+            "name": "Ladder Armor",
             "order": 3,
             "passthrough": 0
         }

@@ -3,59 +3,64 @@
     "map_id": 2,
     "name": "Double Hail Satan",
     "date": "2021-03-09T21:26:39.000Z",
-    "last_updated": null,
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 3333,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "12",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 120,
+            "name": "Grass Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 7,
             "passthrough": 0
         }

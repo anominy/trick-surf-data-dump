@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Anteater",
     "date": "2023-02-01T13:56:37.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1434,
+            "name": "NW Black Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1345,
+            "name": "N Teal Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1347,
+            "name": "N Teal Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1359,
+            "name": "N Tower Alley Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1387,
+            "name": "NE Black Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1410,
+            "name": "NE Red Ramp 5 Platform",
             "order": 6,
             "passthrough": 0
         }

@@ -3,69 +3,76 @@
     "map_id": 5,
     "name": "Double Hard Zooters",
     "date": "2022-02-28T18:49:20.000Z",
-    "last_updated": "2022-02-28T19:44:28.000Z",
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": "2022-02-28T19:44:28.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 481,
+            "name": "Upper Curve Ramp Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 408,
+            "name": "Behind Spine Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 477,
+            "name": "Under Pool",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 438,
+            "name": "Over Pool",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 426,
+            "name": "Hub Tele Top",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 426,
+            "name": "Hub Tele Top",
             "order": 9,
             "passthrough": 0
         }

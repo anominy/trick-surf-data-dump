@@ -3,74 +3,82 @@
     "map_id": 12,
     "name": "Smooth Pill",
     "date": "2023-12-31T17:15:15.000Z",
-    "last_updated": "2024-01-10T19:23:01.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-01-10T19:23:01.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 850,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3143,
+            "name": "Spiral Tower Top Block",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2816,
+            "name": "Spiral Tower Ring Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3144,
+            "name": "Through Blue Spiral Platform Window",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3139,
+            "name": "Spiral Tower Lower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2834,
+            "name": "Through Center House",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2574,
+            "name": "Logo Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2903,
+            "name": "Vent Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2409,
+            "name": "Anti Grav",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2489,
+            "name": "Color Star Tower Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3113,
+            "name": "Pills' Block Level 2",
             "order": 10,
             "passthrough": 0
         }

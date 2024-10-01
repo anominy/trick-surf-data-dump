@@ -3,44 +3,46 @@
     "map_id": 1,
     "name": "Duke's Flawlecopter",
     "date": "2022-08-24T15:58:32.000Z",
-    "last_updated": "2022-11-02T15:48:05.000Z",
     "author": "Façade",
     "author_id": 2,
+    "last_updated": "2022-11-02T15:48:05.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1800,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "12",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 5,
+            "name": "Awp Ramp Water Slant",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1,
+            "name": "Awp Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 69,
+            "name": "Wedge 5th",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2,
+            "name": "Awp Ramp Slant",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 6,
+            "name": "Awpbox Slant",
             "order": 4,
             "passthrough": 0
         }

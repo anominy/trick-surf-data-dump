@@ -3,44 +3,46 @@
     "map_id": 8,
     "name": "40 Inch Vert",
     "date": "2022-06-25T19:21:44.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 24,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "26",
+    "players_completed": "18",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 718,
+            "name": "Mini Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 719,
+            "name": "Mini Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 683,
+            "name": "Hamburger",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 743,
+            "name": "Sriracha",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 690,
+            "name": "Jail Box 1",
             "order": 4,
             "passthrough": 0
         }

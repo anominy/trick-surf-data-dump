@@ -3,34 +3,34 @@
     "map_id": 12,
     "name": "crazy super intense trick omg",
     "date": "2024-04-14T05:04:40.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 666,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2530,
+            "name": "Green Corner",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2534,
+            "name": "Green-White Edge Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2674,
+            "name": "Pools Floor",
             "order": 2,
             "passthrough": 0
         }

@@ -3,184 +3,214 @@
     "map_id": 3,
     "name": "A Trick Trexx Can't Do",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-19T22:36:58.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-19T22:36:58.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 11,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "11",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 253,
+            "name": "Sky Corner",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 254,
+            "name": "Sky East",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 226,
+            "name": "Jailpillar Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 263,
+            "name": "Spawn Ceiling",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 262,
+            "name": "Spawn",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 225,
+            "name": "Jail Teleporter",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 12,
             "passthrough": 1
         },
         {
             "trigger_id": 276,
+            "name": "Under Jail Teleporter",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 16,
             "passthrough": 1
         },
         {
             "trigger_id": 276,
+            "name": "Under Jail Teleporter",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 20,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 20,
             "passthrough": 1
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 21,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 22,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 23,
             "passthrough": 0
         },
         {
             "trigger_id": 233,
+            "name": "Pool",
             "order": 24,
             "passthrough": 0
         },
         {
             "trigger_id": 236,
+            "name": "Pool Spawn Teleporters",
             "order": 25,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 26,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 27,
             "passthrough": 0
         },
         {
             "trigger_id": 255,
+            "name": "Sky North",
             "order": 28,
             "passthrough": 0
         }

@@ -3,69 +3,76 @@
     "map_id": 3,
     "name": "R1 Wrap to Sky",
     "date": "2023-02-18T02:56:54.000Z",
-    "last_updated": "2023-02-18T19:05:28.000Z",
     "author": "jesse",
     "author_id": 4561,
+    "last_updated": "2023-02-18T19:05:28.000Z",
     "last_updated_author_id": 46,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 238,
+            "name": "Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 201,
+            "name": "Behind Main",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 238,
+            "name": "Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 258,
+            "name": "Sky South",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 5,
             "passthrough": 1
         }

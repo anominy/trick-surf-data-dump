@@ -3,39 +3,40 @@
     "map_id": 7,
     "name": "Fast SMG",
     "date": "2021-09-04T06:59:23.000Z",
-    "last_updated": "2023-07-06T17:42:11.000Z",
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": "2023-07-06T17:42:11.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 275,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": 7,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 55,
-    "playersCompleted": 24,
-    "trick_sequence": [
+    "completions": "55",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 639,
+            "name": "Spawn Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 617,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 638,
+            "name": "SMG Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 619,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 2
         }

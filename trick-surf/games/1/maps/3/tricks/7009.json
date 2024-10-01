@@ -3,29 +3,28 @@
     "map_id": 3,
     "name": "Liquidated",
     "date": "2023-02-10T22:34:34.000Z",
-    "last_updated": null,
     "author": "Façade",
     "author_id": 2,
+    "last_updated": null,
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 2200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 86,
-    "playersCompleted": 20,
-    "trick_sequence": [
+    "completions": "90",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 233,
+            "name": "Pool",
             "order": 1,
             "passthrough": 0
         }

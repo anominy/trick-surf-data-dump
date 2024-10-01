@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Easy Akali Remix",
     "date": "2024-03-20T04:19:15.000Z",
-    "last_updated": "2024-03-20T04:30:42.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-03-20T04:30:42.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1215,
+            "name": "C Strip",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1452,
+            "name": "NW Jungle Foob Corner",
             "order": 7,
             "passthrough": 0
         }

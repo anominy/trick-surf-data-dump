@@ -3,69 +3,76 @@
     "map_id": 8,
     "name": "Pink Emotions & Wing",
     "date": "2024-04-24T17:54:41.000Z",
-    "last_updated": "2024-04-26T15:45:29.000Z",
     "author": "800",
     "author_id": 10483,
+    "last_updated": "2024-04-26T15:45:29.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 9,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "9",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 718,
+            "name": "Mini Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 719,
+            "name": "Mini Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 743,
+            "name": "Sriracha",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2968,
+            "name": "Under Sriracha",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 654,
+            "name": "Behind Long Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 710,
+            "name": "Center Wings",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 9,
             "passthrough": 0
         }

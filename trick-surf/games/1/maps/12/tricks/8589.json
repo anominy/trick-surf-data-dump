@@ -3,59 +3,64 @@
     "map_id": 12,
     "name": "Starwalk",
     "date": "2023-12-28T23:47:36.000Z",
-    "last_updated": "2023-12-28T23:48:03.000Z",
     "author": "lockedd",
     "author_id": 180,
+    "last_updated": "2023-12-28T23:48:03.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1175,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 3,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "3",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2826,
+            "name": "Star Red Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2420,
+            "name": "Back Outer Color Star Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2430,
+            "name": "Behind Logo Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2475,
+            "name": "Center Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2627,
+            "name": "North Inner Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2500,
+            "name": "East Inner Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2734,
+            "name": "Side Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2611,
+            "name": "Lower Main Tunnel Ramp Spine",
             "order": 7,
             "passthrough": 0
         }

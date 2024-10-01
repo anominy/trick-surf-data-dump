@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "Streaking in the Dark",
     "date": "2024-07-06T20:57:00.000Z",
-    "last_updated": null,
     "author": "sasu",
     "author_id": 12783,
+    "last_updated": null,
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 16,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 784,
+            "name": "Triomino 1",
             "order": 5,
             "passthrough": 0
         }

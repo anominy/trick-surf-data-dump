@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "CrazyTrolling",
     "date": "2024-06-11T15:41:03.000Z",
-    "last_updated": null,
     "author": "shprot bossman",
     "author_id": 195,
+    "last_updated": null,
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3255,
+            "name": "Tower Tree",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 936,
+            "name": "Ground Ramp Reverse",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1044,
+            "name": "Middle Awp Ground",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 918,
+            "name": "Fish Platform",
             "order": 3,
             "passthrough": 0
         }

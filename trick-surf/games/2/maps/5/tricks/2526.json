@@ -3,39 +3,40 @@
     "map_id": 5,
     "name": "Duke's Walk",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": "2024-02-01T16:53:39.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2024-02-01T16:53:39.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 483,
+            "name": "Side Pool Upper Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 413,
+            "name": "Bottom Pool",
             "order": 3,
             "passthrough": 0
         }

@@ -3,34 +3,34 @@
     "map_id": 8,
     "name": "Bhop_SKI",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2024-08-23T08:39:23.000Z",
     "author": "bog",
     "author_id": 131,
+    "last_updated": "2024-08-23T08:39:23.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 5,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 712,
+            "name": "Mario Room Entrance",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 987,
+            "name": "Mario Room Floor",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 711,
+            "name": "Mario Jail Teleporter",
             "order": 2,
             "passthrough": 0
         }

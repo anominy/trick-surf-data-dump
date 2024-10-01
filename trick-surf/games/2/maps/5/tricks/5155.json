@@ -3,29 +3,28 @@
     "map_id": 5,
     "name": "Spawn Gettin up",
     "date": "2022-02-08T14:21:10.000Z",
-    "last_updated": "2023-06-03T13:11:25.000Z",
     "author": "HONJA혼자",
     "author_id": 181,
+    "last_updated": "2023-06-03T13:11:25.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 950,
+            "name": "Under Spawn Spray",
             "order": 1,
             "passthrough": 0
         }

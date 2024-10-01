@@ -3,64 +3,70 @@
     "map_id": 4,
     "name": "Stage 1,3",
     "date": "2023-07-10T23:13:37.000Z",
-    "last_updated": null,
     "author": "Gengis Khan",
     "author_id": 4072,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 99,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 324,
+            "name": "Stage 1 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 322,
+            "name": "Stage 1 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 396,
+            "name": "West Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 397,
+            "name": "West Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 398,
+            "name": "West Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 318,
+            "name": "In-Ground Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 352,
+            "name": "Lower Ramp Entry North",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 364,
+            "name": "Purple Platform",
             "order": 8,
             "passthrough": 0
         }

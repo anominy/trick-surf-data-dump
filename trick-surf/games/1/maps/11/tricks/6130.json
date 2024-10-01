@@ -3,54 +3,58 @@
     "map_id": 11,
     "name": "To the Other Catwalk",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-20T18:28:39.000Z",
     "author": "IrynStyl",
     "author_id": 2076,
+    "last_updated": "2023-05-20T18:28:39.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 125,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 35,
-    "playersCompleted": 15,
-    "trick_sequence": [
+    "completions": "36",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1877,
+            "name": "Letter S Ramp Left",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2160,
+            "name": "Under Tape",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1946,
+            "name": "Resi Side Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2129,
+            "name": "SHORTCUT Hole",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1988,
+            "name": "SHORTCUT Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1912,
+            "name": "Mini Mega Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1975,
+            "name": "S Upper Catwalk",
             "order": 6,
             "passthrough": 0
         }

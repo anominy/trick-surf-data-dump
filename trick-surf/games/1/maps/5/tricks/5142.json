@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Pool Launch",
     "date": "2022-02-08T07:33:26.000Z",
-    "last_updated": "2022-02-08T09:09:51.000Z",
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": "2022-02-08T09:09:51.000Z",
     "last_updated_author_id": 181,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 22,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "22",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 417,
+            "name": "Butter Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 909,
+            "name": "North Spawn Tele Slants",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 464,
+            "name": "Pool",
             "order": 2,
             "passthrough": 0
         }

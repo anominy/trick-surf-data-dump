@@ -3,34 +3,34 @@
     "map_id": 11,
     "name": "Help Step-roe, I'm stuck!",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-20T17:01:28.000Z",
     "author": "wrap god",
     "author_id": 74,
+    "last_updated": "2023-05-20T17:01:28.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1877,
+            "name": "Letter S Ramp Left",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2098,
+            "name": "N Upper Catwalk Hole",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2184,
+            "name": "N Upper Catwalk Back",
             "order": 2,
             "passthrough": 0
         }

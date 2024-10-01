@@ -3,69 +3,76 @@
     "map_id": 5,
     "name": "Unit Flexer",
     "date": "2023-06-01T22:42:20.000Z",
-    "last_updated": "2023-06-02T17:44:25.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2023-06-02T17:44:25.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1280,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 458,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 428,
+            "name": "Jail Pool",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 405,
+            "name": "Back Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 947,
+            "name": "Pillar Sides",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 943,
+            "name": "Behind Pillar Large",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 411,
+            "name": "Blade Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 457,
+            "name": "South Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 422,
+            "name": "Hub",
             "order": 9,
             "passthrough": 0
         }

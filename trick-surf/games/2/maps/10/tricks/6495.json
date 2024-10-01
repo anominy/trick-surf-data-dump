@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Xiao's Nyooooooom",
     "date": "2022-12-08T20:10:21.000Z",
-    "last_updated": "2022-12-14T22:07:42.000Z",
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": "2022-12-14T22:07:42.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1277,
+            "name": "E Large Structure Booster North",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1417,
+            "name": "NE Teal Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1240,
+            "name": "C Sky Between Beams",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1512,
+            "name": "NW Jungle Xiao Ledge",
             "order": 7,
             "passthrough": 0
         }

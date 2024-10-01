@@ -3,34 +3,34 @@
     "map_id": 3,
     "name": "eXy-up-Broskie",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-24T16:45:04.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-24T16:45:04.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 222,
-    "playersCompleted": 47,
-    "trick_sequence": [
+    "completions": "222",
+    "players_completed": "54",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 273,
+            "name": "Top Tele Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 238,
+            "name": "Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 1,
             "passthrough": 1
         }

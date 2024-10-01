@@ -3,54 +3,58 @@
     "map_id": 7,
     "name": "Phat Palme",
     "date": "2024-07-13T14:13:57.000Z",
-    "last_updated": null,
     "author": "fatlonzo",
     "author_id": 1929,
+    "last_updated": null,
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 609,
+            "name": "Buy Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 608,
+            "name": "Buy Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 606,
+            "name": "Bent Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 635,
+            "name": "Shotgun Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 617,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 623,
+            "name": "Over Spawn",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 591,
+            "name": "Aug Top",
             "order": 6,
             "passthrough": 0
         }

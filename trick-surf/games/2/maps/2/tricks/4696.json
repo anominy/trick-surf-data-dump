@@ -3,69 +3,76 @@
     "map_id": 2,
     "name": "Vortex from spawn",
     "date": "2021-03-19T04:23:41.000Z",
-    "last_updated": null,
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 2500,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 120,
+            "name": "Grass Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 124,
+            "name": "Hole",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 164,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 164,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 160,
+            "name": "Stone Wall",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 83,
+            "name": "Castle House Platform",
             "order": 9,
             "passthrough": 0
         }

@@ -3,89 +3,100 @@
     "map_id": 2,
     "name": "Double Fragged",
     "date": "2021-03-09T01:49:28.000Z",
-    "last_updated": "2021-03-09T02:01:07.000Z",
     "author": "Frag",
     "author_id": 1,
+    "last_updated": "2021-03-09T02:01:07.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 1500,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 88,
-    "playersCompleted": 24,
-    "trick_sequence": [
+    "completions": "91",
+    "players_completed": "25",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 182,
+            "name": "Superhouse Floor 3 Ramp Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 173,
+            "name": "Superhouse Floor 2 Ramp Sides",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 169,
+            "name": "Superhouse Floor 1 Window Sides",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 173,
+            "name": "Superhouse Floor 2 Ramp Sides",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 169,
+            "name": "Superhouse Floor 1 Window Sides",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 171,
+            "name": "Superhouse Floor 2 Platform",
             "order": 13,
             "passthrough": 0
         }

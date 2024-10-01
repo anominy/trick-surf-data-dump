@@ -3,39 +3,40 @@
     "map_id": 3,
     "name": "Heaven And Hell",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-29T22:56:38.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-29T22:56:38.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 64,
-    "playersCompleted": 20,
-    "trick_sequence": [
+    "completions": "64",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 233,
+            "name": "Pool",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 235,
+            "name": "Pool Slants",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 934,
+            "name": "Main Ramp Boost",
             "order": 2,
             "passthrough": 1
         }

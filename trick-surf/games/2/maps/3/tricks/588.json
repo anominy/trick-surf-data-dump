@@ -3,79 +3,88 @@
     "map_id": 3,
     "name": "Sonic's Pro JailSpin",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-19T22:33:38.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-19T22:33:38.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 218,
+            "name": "Jail Ceiling Water",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 212,
+            "name": "Bridge",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 212,
+            "name": "Bridge",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 276,
+            "name": "Under Jail Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 212,
+            "name": "Bridge",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 267,
+            "name": "Supertop",
             "order": 9,
             "passthrough": 0
         }

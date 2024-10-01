@@ -3,114 +3,130 @@
     "map_id": 2,
     "name": "Anti-Malaysian Dubble Trubble",
     "date": "2021-03-09T22:56:54.000Z",
-    "last_updated": null,
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 2500,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 29,
-    "playersCompleted": 22,
-    "trick_sequence": [
+    "completions": "29",
+    "players_completed": "22",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 98,
+            "name": "Castle Shotgun Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 168,
+            "name": "Superhouse Floor 1 Window Rear",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 186,
+            "name": "Superramp Sides",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 176,
+            "name": "Superhouse Floor 2 Window Front",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 170,
+            "name": "Superhouse Floor 2 Hole",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 164,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 186,
+            "name": "Superramp Sides",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 176,
+            "name": "Superhouse Floor 2 Window Front",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 170,
+            "name": "Superhouse Floor 2 Hole",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 170,
+            "name": "Superhouse Floor 2 Hole",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 171,
+            "name": "Superhouse Floor 2 Platform",
             "order": 18,
             "passthrough": 0
         }

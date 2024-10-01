@@ -3,114 +3,130 @@
     "map_id": 4,
     "name": "Under Where",
     "date": "2022-07-01T23:43:45.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 22,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "22",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 345,
+            "name": "Stage 6 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 344,
+            "name": "Stage 6 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 371,
+            "name": "South Loop",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 365,
+            "name": "Red Circle",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 363,
+            "name": "Platform Elbows",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 380,
+            "name": "Under Green Circle",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 384,
+            "name": "Under Red Circle",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 397,
+            "name": "West Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 396,
+            "name": "West Ramp 1",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 381,
+            "name": "Under Stage 1",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 292,
+            "name": "Bonus Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 358,
+            "name": "North Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 379,
+            "name": "Under Cannon Pillar Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 296,
+            "name": "Cannon Ramp",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 383,
+            "name": "Under Purple Platform",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 378,
+            "name": "Under Blue Platform",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 355,
+            "name": "Middle Hole Grid",
             "order": 18,
             "passthrough": 0
         }

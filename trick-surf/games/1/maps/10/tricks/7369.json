@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "I Miss My Wife",
     "date": "2023-03-31T14:04:37.000Z",
-    "last_updated": "2023-03-31T14:07:59.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-03-31T14:07:59.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 850,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 19,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1413,
+            "name": "NE Lower Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1318,
+            "name": "N High Light Pillar",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1317,
+            "name": "N High Dark Pillar",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1321,
+            "name": "N High Pillar",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1324,
+            "name": "N High Slant",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1335,
+            "name": "N North Hole Platform",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1335,
+            "name": "N North Hole Platform",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1336,
+            "name": "N North Hole Slants",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1332,
+            "name": "N Low Gray Box",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1423,
+            "name": "NE Undergrounds Floor",
             "order": 11,
             "passthrough": 0
         }

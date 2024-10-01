@@ -1,0 +1,50 @@
+{
+    "id": 11461,
+    "map_id": 8,
+    "name": "Illuminati Confirmed Bog's Trifecta",
+    "date": "2024-09-24T00:56:36.000Z",
+    "author": "Schewpid",
+    "author_id": 25977,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "points": 1500,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 747,
+            "name": "T-Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 700,
+            "name": "Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 598,
+            "name": "Elevator Hole Tip",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

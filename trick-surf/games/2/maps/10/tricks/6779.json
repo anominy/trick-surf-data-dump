@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Phenomenon",
     "date": "2023-01-18T15:47:14.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1242,
+            "name": "C Sky East Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1196,
+            "name": "C Green Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1199,
+            "name": "C Green Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1400,
+            "name": "NE Green Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1199,
+            "name": "C Green Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1384,
+            "name": "N White Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2222,
+            "name": "NW West Wall North",
             "order": 6,
             "passthrough": 0
         }

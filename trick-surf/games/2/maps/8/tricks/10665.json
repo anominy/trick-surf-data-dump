@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Humburgur",
     "date": "2024-07-19T19:04:32.000Z",
-    "last_updated": "2024-07-19T19:10:53.000Z",
     "author": "nextir",
     "author_id": 2994,
+    "last_updated": "2024-07-19T19:10:53.000Z",
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 754,
+            "name": "Hamburger Slant",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3268,
+            "name": "Prayge Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 683,
+            "name": "Hamburger",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 694,
+            "name": "Jail Side Rail",
             "order": 3,
             "passthrough": 0
         }

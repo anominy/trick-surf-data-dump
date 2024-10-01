@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "LEONCHIK 15 BANOK",
     "date": "2024-06-11T21:11:01.000Z",
-    "last_updated": "2024-06-15T00:52:15.000Z",
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
+    "last_updated": "2024-06-15T00:52:15.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 718,
+            "name": "Mini Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 719,
+            "name": "Mini Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3222,
+            "name": "T1 Middle Lower Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3242,
+            "name": "T2 Tower Box",
             "order": 5,
             "passthrough": 0
         }

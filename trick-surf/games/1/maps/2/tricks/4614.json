@@ -3,54 +3,58 @@
     "map_id": 2,
     "name": "Roof Coreception",
     "date": "2021-03-08T22:37:28.000Z",
-    "last_updated": "2021-03-08T23:37:28.000Z",
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": "2021-03-08T23:37:28.000Z",
     "last_updated_author_id": 5,
     "active": 1,
-    "points": 3000,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 21,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "21",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 154,
+            "name": "Spawn Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 121,
+            "name": "Grass Spawn Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 154,
+            "name": "Spawn Roof",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 121,
+            "name": "Grass Spawn Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 152,
+            "name": "Spawn House Ramp",
             "order": 6,
             "passthrough": 0
         }

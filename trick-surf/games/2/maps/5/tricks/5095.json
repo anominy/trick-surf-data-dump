@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Legacy Core",
     "date": "2022-02-01T19:31:33.000Z",
-    "last_updated": "2022-02-01T21:09:19.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2022-02-01T21:09:19.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 470,
+            "name": "Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 458,
+            "name": "Spawn",
             "order": 2,
             "passthrough": 0
         }

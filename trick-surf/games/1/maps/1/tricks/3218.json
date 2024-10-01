@@ -3,44 +3,46 @@
     "map_id": 1,
     "name": "Pyramid to deagle hop",
     "date": "2020-12-22T00:00:00.000Z",
-    "last_updated": "2022-08-04T01:20:30.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-08-04T01:20:30.000Z",
     "last_updated_author_id": 5,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 59,
-    "playersCompleted": 45,
-    "trick_sequence": [
+    "completions": "59",
+    "players_completed": "47",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 46,
+            "name": "Thru Deagle 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 34,
+            "name": "Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 25,
+            "name": "Deagle Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         }

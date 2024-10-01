@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "Eggplant",
     "date": "2024-02-15T22:55:41.000Z",
-    "last_updated": "2024-02-16T03:41:51.000Z",
     "author": "Queen",
     "author_id": 10,
+    "last_updated": "2024-02-16T03:41:51.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 94,
-    "playersCompleted": 30,
-    "trick_sequence": [
+    "completions": "142",
+    "players_completed": "31",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1355,
+            "name": "N Top Ground",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1333,
+            "name": "N Lower Ground",
             "order": 2,
             "passthrough": 0
         }

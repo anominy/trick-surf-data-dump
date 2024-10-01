@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Pulse",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2024-06-11T19:02:25.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2024-06-11T19:02:25.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 663,
+            "name": "Center Wedge Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 728,
+            "name": "Right Wing",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 771,
+            "name": "Telepad Water",
             "order": 3,
             "passthrough": 0
         }

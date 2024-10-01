@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Who let Liq cook?",
     "date": "2024-02-14T23:57:44.000Z",
-    "last_updated": "2024-04-28T11:42:46.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-04-28T11:42:46.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1345,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 2,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "2",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1321,
+            "name": "N High Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1340,
+            "name": "N Purple Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1307,
+            "name": "E White Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1528,
+            "name": "S Large Box 1",
             "order": 10,
             "passthrough": 0
         }

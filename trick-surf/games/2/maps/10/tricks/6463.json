@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "€£$ For Noclip",
     "date": "2022-12-04T21:54:54.000Z",
-    "last_updated": "2022-12-14T19:29:06.000Z",
     "author": "Kassihici",
     "author_id": 3123,
+    "last_updated": "2022-12-14T19:29:06.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 90,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1582,
+            "name": "SE High Pillar Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1621,
+            "name": "SW Grass",
             "order": 2,
             "passthrough": 0
         }

@@ -3,189 +3,220 @@
     "map_id": 2,
     "name": "The Journey",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": "2021-03-07T21:53:56.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2021-03-07T21:53:56.000Z",
     "last_updated_author_id": 23,
     "active": 1,
-    "points": 675,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "12",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 155,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 88,
+            "name": "Castle Platform",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 100,
+            "name": "Castle Stairs Inside",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 98,
+            "name": "Castle Shotgun Platform",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 170,
+            "name": "Superhouse Floor 2 Hole",
             "order": 20,
             "passthrough": 0
         },
         {
             "trigger_id": 164,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 21,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 22,
             "passthrough": 0
         },
         {
             "trigger_id": 186,
+            "name": "Superramp Sides",
             "order": 23,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 24,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 25,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 26,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 27,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 28,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 29,
             "passthrough": 0
         },
         {
             "trigger_id": 168,
+            "name": "Superhouse Floor 1 Window Rear",
             "order": 30,
             "passthrough": 0
         },
         {
             "trigger_id": 186,
+            "name": "Superramp Sides",
             "order": 31,
             "passthrough": 0
         },
         {
             "trigger_id": 170,
+            "name": "Superhouse Floor 2 Hole",
             "order": 32,
             "passthrough": 0
         },
         {
             "trigger_id": 171,
+            "name": "Superhouse Floor 2 Platform",
             "order": 33,
             "passthrough": 0
         }

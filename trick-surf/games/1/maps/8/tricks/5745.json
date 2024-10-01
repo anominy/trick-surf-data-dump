@@ -3,34 +3,34 @@
     "map_id": 8,
     "name": "Good at Rampstrafes",
     "date": "2022-06-25T20:50:25.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 24,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "24",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1026,
+            "name": "Fish Hook Wedge Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 774,
+            "name": "Through T2 Back Right",
             "order": 2,
             "passthrough": 0
         }

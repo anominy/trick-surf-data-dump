@@ -3,74 +3,82 @@
     "map_id": 8,
     "name": "L2 Valakas' Lair",
     "date": "2024-03-31T17:51:12.000Z",
-    "last_updated": "2024-04-14T23:04:20.000Z",
     "author": "sonki",
     "author_id": 259,
+    "last_updated": "2024-04-14T23:04:20.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1300,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 2,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "3",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 987,
+            "name": "Mario Room Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 715,
+            "name": "Mario Tower Teleporter",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 678,
+            "name": "Fish Hook Wedge",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 764,
+            "name": "T2 Right Wing",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 683,
+            "name": "Hamburger",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1054,
+            "name": "Behind Bonus Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 725,
+            "name": "Bonus Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1064,
+            "name": "Bonus Ramp Tip",
             "order": 9,
             "passthrough": 1
         }

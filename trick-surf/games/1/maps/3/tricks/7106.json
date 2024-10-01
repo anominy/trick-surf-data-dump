@@ -3,49 +3,52 @@
     "map_id": 3,
     "name": "borziy stop playing trikz",
     "date": "2023-02-22T07:44:24.000Z",
-    "last_updated": null,
     "author": "trikz_shineska",
     "author_id": 259,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 21,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "21",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 205,
+            "name": "Behind Waterfall Pocket",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 929,
+            "name": "Around Waterfall",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 249,
+            "name": "Sign Level 1",
             "order": 5,
             "passthrough": 0
         }

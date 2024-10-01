@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "any⁒ hard",
     "date": "2023-01-05T01:37:30.000Z",
-    "last_updated": "2024-05-17T22:42:14.000Z",
     "author": "Daxen",
     "author_id": 1642,
+    "last_updated": "2024-05-17T22:42:14.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 197,
-    "playersCompleted": 52,
-    "trick_sequence": [
+    "completions": "197",
+    "players_completed": "52",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1641,
+            "name": "SW Purple Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1640,
+            "name": "SW Purple Platform",
             "order": 4,
             "passthrough": 0
         }

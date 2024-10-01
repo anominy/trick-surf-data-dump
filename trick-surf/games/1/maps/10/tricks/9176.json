@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Idle Musings of a Madman",
     "date": "2024-03-05T23:13:20.000Z",
-    "last_updated": null,
     "author": "Aux",
     "author_id": 14724,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 720,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 5,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "5",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1667,
+            "name": "W Crane Top Sides",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1420,
+            "name": "NE Through Crane Box",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1756,
+            "name": "NE Green Teleporter",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1513,
+            "name": "NW Yellow Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1668,
+            "name": "NW Jungle Between Beams",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1431,
+            "name": "NE White Ramp 2",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1756,
+            "name": "NE Green Teleporter",
             "order": 7,
             "passthrough": 0
         }

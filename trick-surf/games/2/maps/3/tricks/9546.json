@@ -3,89 +3,100 @@
     "map_id": 3,
     "name": "Survival G5000",
     "date": "2024-04-10T04:10:46.000Z",
-    "last_updated": "2024-04-10T04:10:58.000Z",
     "author": "LOL",
     "author_id": 3654,
+    "last_updated": "2024-04-10T04:10:58.000Z",
     "last_updated_author_id": 15261,
     "active": 1,
-    "points": 2399,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 227,
+            "name": "Lower Main Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 924,
+            "name": "Xdream Pool Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 234,
+            "name": "Pool Skyplate Tele",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 233,
+            "name": "Pool",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 218,
+            "name": "Jail Ceiling Water",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 261,
+            "name": "Skyplate",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 5,
             "passthrough": 1
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 6,
             "passthrough": 1
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 255,
+            "name": "Sky North",
             "order": 9,
             "passthrough": 0
         }

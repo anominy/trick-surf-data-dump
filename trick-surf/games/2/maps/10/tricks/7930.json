@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Turn Around",
     "date": "2023-08-17T19:02:06.000Z",
-    "last_updated": null,
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1359,
+            "name": "N Tower Alley Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1496,
+            "name": "NW Undergrounds Entry Top",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1377,
+            "name": "N Upper Ground",
             "order": 4,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Stratified",
     "date": "2023-05-19T02:39:14.000Z",
-    "last_updated": null,
     "author": "King",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 999,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1231,
+            "name": "C Strip Upper",
             "order": 6,
             "passthrough": 0
         }

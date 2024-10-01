@@ -3,39 +3,40 @@
     "map_id": 12,
     "name": "Smol",
     "date": "2023-12-02T20:20:43.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 62,
-    "playersCompleted": 18,
-    "trick_sequence": [
+    "completions": "62",
+    "players_completed": "18",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2861,
+            "name": "Trapezium Ramps Top Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2511,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2946,
+            "name": "White-Red Edge Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2927,
+            "name": "White Corner Block",
             "order": 3,
             "passthrough": 0
         }

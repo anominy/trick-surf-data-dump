@@ -3,119 +3,136 @@
     "map_id": 11,
     "name": "Double Chromatic",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-19T22:13:15.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2023-05-19T22:13:15.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 22,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "22",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1895,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1898,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2206,
+            "name": "Tucksy's Back Door",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1978,
+            "name": "S Wedge",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2066,
+            "name": "W L Side",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1988,
+            "name": "SHORTCUT Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2129,
+            "name": "SHORTCUT Hole",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1935,
+            "name": "Pre Loop Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2207,
+            "name": "Tucksy's Front Hole",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1978,
+            "name": "S Wedge",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2066,
+            "name": "W L Side",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1988,
+            "name": "SHORTCUT Ramp",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 2129,
+            "name": "SHORTCUT Hole",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1935,
+            "name": "Pre Loop Ramp",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 2207,
+            "name": "Tucksy's Front Hole",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1838,
+            "name": "Facade's Ramp",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 2086,
+            "name": "Kinda East Ledge",
             "order": 19,
             "passthrough": 0
         }

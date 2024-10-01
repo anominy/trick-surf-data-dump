@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Floor Is Lava 5",
     "date": "2022-10-31T23:08:33.000Z",
-    "last_updated": "2022-12-14T19:31:15.000Z",
     "author": "Fizu",
     "author_id": 1164,
+    "last_updated": "2022-12-14T19:31:15.000Z",
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 19,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1582,
+            "name": "SE High Pillar Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1557,
+            "name": "SE Bonus 5 Teleporter",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1435,
+            "name": "NW Black Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1763,
+            "name": "W Teal Teleporter",
             "order": 5,
             "passthrough": 0
         }

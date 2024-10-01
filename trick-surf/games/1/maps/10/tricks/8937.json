@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "Smurfing",
     "date": "2024-02-09T07:11:58.000Z",
-    "last_updated": "2024-02-09T07:13:11.000Z",
     "author": "ᴛꜱ ٠ King Wizard",
     "author_id": 10,
+    "last_updated": "2024-02-09T07:13:11.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 775,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 27,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "27",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1235,
+            "name": "C Strip West Light Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1494,
+            "name": "NW Through Window",
             "order": 2,
             "passthrough": 2
         },
         {
             "trigger_id": 2234,
+            "name": "W Large Pillar Gap SW",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2233,
+            "name": "W Large Pillar Gap South",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1233,
+            "name": "C Strip West",
             "order": 7,
             "passthrough": 0
         }

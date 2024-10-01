@@ -3,84 +3,94 @@
     "map_id": 10,
     "name": "My First Wrap But Extended and Harder!",
     "date": "2024-03-16T21:20:04.000Z",
-    "last_updated": null,
     "author": "Kingaru",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 5,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "5",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1734,
+            "name": "SE Large Pillar Gap West",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2398,
+            "name": "SE Large Pillar Gap South",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1284,
+            "name": "E Red Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1283,
+            "name": "E Lower Ground",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1382,
+            "name": "N White Ramp 4",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2394,
+            "name": "NW Under Park Roof",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1470,
+            "name": "NW Park Ouma Block",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1629,
+            "name": "SW Lower Ledge Corner",
             "order": 12,
             "passthrough": 0
         }

@@ -3,64 +3,70 @@
     "map_id": 8,
     "name": "A trip to Kevin Ramp",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-12T23:28:00.000Z",
     "author": "bog",
     "author_id": 131,
+    "last_updated": "2023-10-12T23:28:00.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 74,
-    "playersCompleted": 31,
-    "trick_sequence": [
+    "completions": "77",
+    "players_completed": "33",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 728,
+            "name": "Right Wing",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 699,
+            "name": "Kevin Ramp Tip",
             "order": 8,
             "passthrough": 0
         }

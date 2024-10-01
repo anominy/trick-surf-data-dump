@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Ryuko's Amazing Trick",
     "date": "2023-01-10T18:39:41.000Z",
-    "last_updated": "2023-01-10T18:46:01.000Z",
     "author": "RK",
     "author_id": 4963,
+    "last_updated": "2023-01-10T18:46:01.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 350,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1458,
+            "name": "NW Ground Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1224,
+            "name": "C Strip Top",
             "order": 5,
             "passthrough": 0
         }

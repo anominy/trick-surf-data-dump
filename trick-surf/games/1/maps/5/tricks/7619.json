@@ -3,49 +3,52 @@
     "map_id": 5,
     "name": "Fish Story",
     "date": "2023-05-26T15:23:19.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1260,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 422,
+            "name": "Hub",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 417,
+            "name": "Butter Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 457,
+            "name": "South Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 452,
+            "name": "South Pool",
             "order": 5,
             "passthrough": 0
         }

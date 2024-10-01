@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "Fried Toothpick",
     "date": "2024-01-26T21:31:04.000Z",
-    "last_updated": "2024-01-26T22:49:33.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-01-26T22:49:33.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2597,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2546,
+            "name": "Hanging Sky Orange Ramp Spine",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3044,
+            "name": "Left White Tower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3014,
+            "name": "Left Gravity Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2545,
+            "name": "Hanging Sky Orange Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2775,
+            "name": "South Sewer Tower Headsurf Platform",
             "order": 6,
             "passthrough": 0
         }

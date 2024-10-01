@@ -3,84 +3,94 @@
     "map_id": 12,
     "name": "Blazing Fast",
     "date": "2024-01-10T20:40:14.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 6,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 8,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2950,
+            "name": "william's Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2821,
+            "name": "Star Cyan Tunnel",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2823,
+            "name": "Star Green Tunnel",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2863,
+            "name": "Under Battery Connector Cable",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2741,
+            "name": "Small Battery",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2902,
+            "name": "Vent Headsurf Teleport",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2620,
+            "name": "Name Towers Platform",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2546,
+            "name": "Hanging Sky Orange Ramp Spine",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2424,
+            "name": "Balu's Platform",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2458,
+            "name": "Bottom Spiral Stairs",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2590,
+            "name": "Lower Spiral Stairs",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2817,
+            "name": "Spiral Tower Top",
             "order": 12,
             "passthrough": 0
         }

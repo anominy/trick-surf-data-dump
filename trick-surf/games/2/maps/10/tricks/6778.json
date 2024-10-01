@@ -3,84 +3,94 @@
     "map_id": 10,
     "name": "Construction Day",
     "date": "2023-01-18T12:54:17.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1025,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 8,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1255,
+            "name": "C Sky East Box",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 12,
             "passthrough": 0
         }

@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Daffodil",
     "date": "2024-03-22T14:42:09.000Z",
-    "last_updated": "2024-03-22T14:42:44.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-03-22T14:42:44.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 29,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "29",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1505,
+            "name": "NW West Pillar Lower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1518,
+            "name": "NW Yellow Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1516,
+            "name": "NW Yellow Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1245,
+            "name": "C Sky Roof",
             "order": 3,
             "passthrough": 0
         }

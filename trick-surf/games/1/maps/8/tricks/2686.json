@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "Q-Through",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-21T13:59:24.000Z",
     "author": "Darth Elmo",
     "author_id": 133,
+    "last_updated": "2023-10-21T13:59:24.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 125,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 441,
-    "playersCompleted": 106,
-    "trick_sequence": [
+    "completions": "443",
+    "players_completed": "120",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 672,
+            "name": "Elevator",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 674,
+            "name": "Elevator Exit",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 780,
+            "name": "Tower Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 730,
+            "name": "Scout Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 729,
+            "name": "Scout Hole",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 650,
+            "name": "Banana Hole",
             "order": 5,
             "passthrough": 0
         }

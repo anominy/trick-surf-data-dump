@@ -3,69 +3,76 @@
     "map_id": 3,
     "name": "Box walk",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-20T22:14:19.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-20T22:14:19.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 450,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 21,
-    "playersCompleted": 15,
-    "trick_sequence": [
+    "completions": "21",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 208,
+            "name": "Box Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 243,
+            "name": "Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 935,
+            "name": "Ramp 4 Boost",
             "order": 1,
             "passthrough": 1
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 935,
+            "name": "Ramp 4 Boost",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 233,
+            "name": "Pool",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 235,
+            "name": "Pool Slants",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 243,
+            "name": "Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 935,
+            "name": "Ramp 4 Boost",
             "order": 6,
             "passthrough": 1
         }

@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Out The Woodwork",
     "date": "2023-01-07T23:48:43.000Z",
-    "last_updated": "2023-03-02T06:57:04.000Z",
     "author": "RK",
     "author_id": 4963,
+    "last_updated": "2023-03-02T06:57:04.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1665,
+            "name": "W Crane Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1720,
+            "name": "W Yellow Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1697,
+            "name": "W Tower Block",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1720,
+            "name": "W Yellow Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1505,
+            "name": "NW West Pillar Lower",
             "order": 4,
             "passthrough": 0
         }

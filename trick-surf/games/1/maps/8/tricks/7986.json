@@ -3,59 +3,64 @@
     "map_id": 8,
     "name": "Corner God",
     "date": "2023-09-28T07:01:17.000Z",
-    "last_updated": "2024-04-20T23:20:07.000Z",
     "author": "Parta",
     "author_id": 385,
+    "last_updated": "2024-04-20T23:20:07.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 1235,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 663,
+            "name": "Center Wedge Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 710,
+            "name": "Center Wings",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 760,
+            "name": "T2 Center Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 738,
+            "name": "Ski Sign",
             "order": 5,
             "passthrough": 0
         }

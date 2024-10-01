@@ -3,144 +3,166 @@
     "map_id": 2,
     "name": "Double Hard Satan Loop",
     "date": "2021-03-18T02:59:34.000Z",
-    "last_updated": "2021-03-18T04:27:21.000Z",
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": "2021-03-18T04:27:21.000Z",
     "last_updated_author_id": 5,
     "active": 1,
-    "points": 2222,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 5,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "5",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 120,
+            "name": "Grass Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 132,
+            "name": "House 1 Floor 2 Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 132,
+            "name": "House 1 Floor 2 Ramp",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 132,
+            "name": "House 1 Floor 2 Ramp",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 20,
             "passthrough": 0
         },
         {
             "trigger_id": 132,
+            "name": "House 1 Floor 2 Ramp",
             "order": 21,
             "passthrough": 0
         },
         {
             "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 22,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 23,
             "passthrough": 0
         },
         {
             "trigger_id": 84,
+            "name": "Castle House Ramp",
             "order": 24,
             "passthrough": 0
         }

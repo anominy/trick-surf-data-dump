@@ -3,54 +3,58 @@
     "map_id": 7,
     "name": "Guava Grande",
     "date": "2021-09-02T10:34:15.000Z",
-    "last_updated": "2021-09-02T10:45:17.000Z",
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": "2021-09-02T10:45:17.000Z",
     "last_updated_author_id": 48,
     "active": 1,
-    "points": 1950,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 43,
-    "playersCompleted": 20,
-    "trick_sequence": [
+    "completions": "43",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 591,
+            "name": "Aug Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 628,
+            "name": "Scout Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 627,
+            "name": "Rifle Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 628,
+            "name": "Scout Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 619,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 628,
+            "name": "Scout Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 857,
+            "name": "Rifle Ramp",
             "order": 6,
             "passthrough": 0
         }

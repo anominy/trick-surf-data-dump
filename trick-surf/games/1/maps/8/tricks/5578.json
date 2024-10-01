@@ -3,64 +3,70 @@
     "map_id": 8,
     "name": "Hiking",
     "date": "2022-05-26T17:57:06.000Z",
-    "last_updated": null,
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 137,
-    "playersCompleted": 39,
-    "trick_sequence": [
+    "completions": "138",
+    "players_completed": "40",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 738,
+            "name": "Ski Sign",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 784,
+            "name": "Triomino 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 8,
             "passthrough": 0
         }

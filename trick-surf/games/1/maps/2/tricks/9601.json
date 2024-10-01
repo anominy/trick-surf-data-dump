@@ -3,59 +3,64 @@
     "map_id": 2,
     "name": "King's Glide",
     "date": "2024-04-15T04:20:28.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 3000,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 88,
+            "name": "Castle Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 93,
+            "name": "Castle Push",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 139,
+            "name": "House 2 Floor 2 Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 82,
+            "name": "Castle Gap",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 83,
+            "name": "Castle House Platform",
             "order": 7,
             "passthrough": 0
         }

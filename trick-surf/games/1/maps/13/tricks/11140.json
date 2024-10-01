@@ -3,34 +3,34 @@
     "map_id": 13,
     "name": "Climber",
     "date": "2024-08-28T08:27:52.000Z",
-    "last_updated": "2024-08-31T17:13:19.000Z",
     "author": "Autumn Melancholy",
     "author_id": 1159,
+    "last_updated": "2024-08-31T17:13:19.000Z",
     "last_updated_author_id": 1159,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 96,
-    "playersCompleted": 38,
-    "trick_sequence": [
+    "completions": "136",
+    "players_completed": "39",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3413,
+            "name": "Spawn Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3346,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3447,
+            "name": "T2 Ladder",
             "order": 2,
             "passthrough": 0
         }

@@ -3,74 +3,82 @@
     "map_id": 9,
     "name": "chief's less epic rise",
     "date": "2023-03-03T23:12:44.000Z",
-    "last_updated": "2024-04-08T14:04:09.000Z",
     "author": "chief",
     "author_id": 75,
+    "last_updated": "2024-04-08T14:04:09.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 21,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "21",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 820,
+            "name": "Spawn LvL 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 809,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 802,
+            "name": "Infinite Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2356,
+            "name": "Infinite TP",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2317,
+            "name": "Infinite Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 802,
+            "name": "Infinite Ramp",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 799,
+            "name": "Bottom Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2347,
+            "name": "Top TP",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 815,
+            "name": "Nova Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2342,
+            "name": "Spawn Ramp Slant",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 825,
+            "name": "Top Platform",
             "order": 9,
             "passthrough": 0
         }

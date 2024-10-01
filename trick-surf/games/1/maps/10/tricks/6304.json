@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Beans",
     "date": "2022-11-02T16:52:02.000Z",
-    "last_updated": "2022-12-14T19:13:23.000Z",
     "author": "twitch.tv/txcks",
     "author_id": 53,
+    "last_updated": "2022-12-14T19:13:23.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 31,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "31",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1578,
+            "name": "SE High Pillar Booster North",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1518,
+            "name": "NW Yellow Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1196,
+            "name": "C Green Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1293,
+            "name": "E East Wall Lower",
             "order": 3,
             "passthrough": 0
         }

@@ -3,44 +3,46 @@
     "map_id": 12,
     "name": "Reflection",
     "date": "2023-11-13T18:56:04.000Z",
-    "last_updated": "2023-11-16T16:37:43.000Z",
     "author": "XiaoLucy",
     "author_id": 103,
+    "last_updated": "2023-11-16T16:37:43.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 140,
-    "playersCompleted": 33,
-    "trick_sequence": [
+    "completions": "140",
+    "players_completed": "39",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2424,
+            "name": "Balu's Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2426,
+            "name": "Balu's Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2521,
+            "name": "Front Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2409,
+            "name": "Anti Grav",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2609,
+            "name": "Lower Main Tunnel Connector",
             "order": 4,
             "passthrough": 0
         }

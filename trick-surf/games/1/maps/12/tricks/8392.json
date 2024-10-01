@@ -3,49 +3,52 @@
     "map_id": 12,
     "name": "Dunkin'",
     "date": "2023-11-19T18:43:53.000Z",
-    "last_updated": "2023-11-19T18:55:26.000Z",
     "author": "oski",
     "author_id": 194,
+    "last_updated": "2023-11-19T18:55:26.000Z",
     "last_updated_author_id": 75,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 15,
-    "playersCompleted": 13,
-    "trick_sequence": [
+    "completions": "15",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2539,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2540,
+            "name": "Grey Tower Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2610,
+            "name": "Lower Main Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2849,
+            "name": "Through Spiral Loop",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2471,
+            "name": "Center House Holes",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2748,
+            "name": "Small Center Back Right Corner",
             "order": 5,
             "passthrough": 0
         }

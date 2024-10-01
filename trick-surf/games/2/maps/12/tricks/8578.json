@@ -3,49 +3,52 @@
     "map_id": 12,
     "name": "Pinksaw Redemption",
     "date": "2023-12-25T17:10:00.000Z",
-    "last_updated": "2024-04-11T00:50:20.000Z",
     "author": "Kingaru",
     "author_id": 10,
+    "last_updated": "2024-04-11T00:50:20.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1300,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2666,
+            "name": "Pink Pool Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2937,
+            "name": "White Pool Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2571,
+            "name": "Logo Platform",
             "order": 5,
             "passthrough": 0
         }

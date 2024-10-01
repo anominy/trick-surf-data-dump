@@ -3,94 +3,106 @@
     "map_id": 12,
     "name": "Serious Ghol",
     "date": "2024-01-16T06:42:56.000Z",
-    "last_updated": "2024-01-16T08:06:44.000Z",
     "author": "Formal",
     "author_id": 480,
+    "last_updated": "2024-01-16T08:06:44.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 5,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2577,
+            "name": "Logo Teleporter Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2563,
+            "name": "Right Logo Teleporter Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2563,
+            "name": "Right Logo Teleporter Boost",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2564,
+            "name": "Right Logo Teleporter Slide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2562,
+            "name": "Right Logo Teleporter",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2552,
+            "name": "Inner Teleport",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2801,
+            "name": "Spiral Name Connector Slide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2857,
+            "name": "Top Spiral Stairs",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2890,
+            "name": "Under Top Spiral Stairs",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2616,
+            "name": "Middle Spiral Stairs",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3146,
+            "name": "Through Red Spiral Platform Window",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 3117,
+            "name": "Red Spiral Platform Window Block",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 3145,
+            "name": "Through Checkered Spiral Platform Window",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 2796,
+            "name": "Spiral Flower Pot Floor",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 2779,
+            "name": "South Spiral Tower Entrance",
             "order": 13,
             "passthrough": 2
         }

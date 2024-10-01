@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Drugs",
     "date": "2023-02-11T05:46:33.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 363,
-    "playersCompleted": 58,
-    "trick_sequence": [
+    "completions": "364",
+    "players_completed": "58",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1525,
+            "name": "S Ground North",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1533,
+            "name": "S Fort Light Box",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1608,
+            "name": "SE Upper Ground",
             "order": 4,
             "passthrough": 0
         }

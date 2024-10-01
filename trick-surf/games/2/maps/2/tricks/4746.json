@@ -3,94 +3,106 @@
     "map_id": 2,
     "name": "King of the Castle",
     "date": "2021-05-11T22:18:27.000Z",
-    "last_updated": "2022-08-05T02:06:24.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2022-08-05T02:06:24.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 555,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 126,
+            "name": "Hole Shotgun",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 190,
+            "name": "Superramp Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 164,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 173,
+            "name": "Superhouse Floor 2 Ramp Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 132,
+            "name": "House 1 Floor 2 Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 14,
             "passthrough": 0
         }

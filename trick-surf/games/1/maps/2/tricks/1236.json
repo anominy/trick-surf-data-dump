@@ -3,34 +3,34 @@
     "map_id": 2,
     "name": "Canon Ball",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 193,
-    "playersCompleted": 56,
-    "trick_sequence": [
+    "completions": "193",
+    "players_completed": "60",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 131,
+            "name": "House 1 Floor 2 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 197,
+            "name": "Water Sides",
             "order": 2,
             "passthrough": 0
         }

@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Free;",
     "date": "2023-01-10T21:47:30.000Z",
-    "last_updated": "2023-07-26T15:15:18.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-07-26T15:15:18.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 32,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "32",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1235,
+            "name": "C Strip West Light Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1457,
+            "name": "NW Ground Slide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1496,
+            "name": "NW Undergrounds Entry Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1496,
+            "name": "NW Undergrounds Entry Top",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1457,
+            "name": "NW Ground Slide",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1379,
+            "name": "N White Platform",
             "order": 10,
             "passthrough": 0
         }

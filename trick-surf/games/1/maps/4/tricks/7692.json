@@ -3,54 +3,58 @@
     "map_id": 4,
     "name": "Velociraptor",
     "date": "2023-06-15T14:24:49.000Z",
-    "last_updated": "2023-06-15T14:30:51.000Z",
     "author": "ᴛꜱ٠ King ",
     "author_id": 10,
+    "last_updated": "2023-06-15T14:30:51.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 16,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "16",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 338,
+            "name": "Stage 4 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 296,
+            "name": "Cannon Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 358,
+            "name": "North Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 296,
+            "name": "Cannon Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 358,
+            "name": "North Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1084,
+            "name": "Funbox Top Slant",
             "order": 6,
             "passthrough": 0
         }

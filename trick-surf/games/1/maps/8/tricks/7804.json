@@ -3,54 +3,58 @@
     "map_id": 8,
     "name": "Kingdom Of Souls",
     "date": "2023-07-10T20:18:15.000Z",
-    "last_updated": "2023-11-07T18:18:02.000Z",
     "author": "зима",
     "author_id": 406,
+    "last_updated": "2023-11-07T18:18:02.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1300,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 696,
+            "name": "Jail Wall",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 684,
+            "name": "Healbot Ladder",
             "order": 6,
             "passthrough": 0
         }

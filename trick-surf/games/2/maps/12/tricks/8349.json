@@ -3,59 +3,64 @@
     "map_id": 12,
     "name": "uonder's Rise",
     "date": "2023-11-10T18:40:41.000Z",
-    "last_updated": "2023-11-10T19:06:04.000Z",
     "author": "uonder",
     "author_id": 6919,
+    "last_updated": "2023-11-10T19:06:04.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2667,
+            "name": "Pink Pool Roof Block",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2946,
+            "name": "White-Red Edge Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2511,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2861,
+            "name": "Trapezium Ramps Top Floor",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2946,
+            "name": "White-Red Edge Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2724,
+            "name": "Right Beam Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2666,
+            "name": "Pink Pool Roof",
             "order": 7,
             "passthrough": 0
         }

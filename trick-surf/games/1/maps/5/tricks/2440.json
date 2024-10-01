@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Jail Pool Wrap",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": "2023-06-02T17:59:09.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2023-06-02T17:59:09.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 306,
-    "playersCompleted": 67,
-    "trick_sequence": [
+    "completions": "306",
+    "players_completed": "76",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 428,
+            "name": "Jail Pool",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 408,
+            "name": "Behind Spine Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 2,
             "passthrough": 0
         }

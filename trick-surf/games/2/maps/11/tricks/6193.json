@@ -3,29 +3,28 @@
     "map_id": 11,
     "name": "Cap Jump",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-19T18:44:09.000Z",
     "author": "IrynStyl",
     "author_id": 2076,
+    "last_updated": "2023-05-19T18:44:09.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1908,
+            "name": "Mini Mega End Cap",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1896,
+            "name": "Main Ramp Back",
             "order": 1,
             "passthrough": 0
         }

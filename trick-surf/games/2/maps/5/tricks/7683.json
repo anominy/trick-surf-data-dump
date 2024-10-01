@@ -3,64 +3,70 @@
     "map_id": 5,
     "name": "Sayt's Lucker",
     "date": "2023-06-11T20:04:06.000Z",
-    "last_updated": "2023-06-11T20:05:36.000Z",
     "author": "Sayt ✿",
     "author_id": 8905,
+    "last_updated": "2023-06-11T20:05:36.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 458,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 449,
+            "name": "Side Pool Through Floor",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 446,
+            "name": "Side Pool",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 465,
+            "name": "Through Awp Hole",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 449,
+            "name": "Side Pool Through Floor",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 446,
+            "name": "Side Pool",
             "order": 8,
             "passthrough": 0
         }

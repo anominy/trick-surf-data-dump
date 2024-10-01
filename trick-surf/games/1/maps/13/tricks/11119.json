@@ -3,49 +3,52 @@
     "map_id": 13,
     "name": "Easy Pike",
     "date": "2024-08-28T08:05:32.000Z",
-    "last_updated": "2024-08-30T18:07:50.000Z",
     "author": "Schewpid",
     "author_id": 25977,
+    "last_updated": "2024-08-30T18:07:50.000Z",
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 239,
-    "playersCompleted": 36,
-    "trick_sequence": [
+    "completions": "248",
+    "players_completed": "38",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3498,
+            "name": "Tower Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3312,
+            "name": "Faucet Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3461,
+            "name": "Through E Monkey",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3526,
+            "name": "Monkey Tail Inner Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3472,
+            "name": "Through Monkey",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3343,
+            "name": "Lowest Stairs",
             "order": 5,
             "passthrough": 0
         }

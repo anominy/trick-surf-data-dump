@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Awp Sign Rise",
     "date": "2022-05-06T22:46:30.000Z",
-    "last_updated": null,
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 648,
+            "name": "Awp Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 678,
+            "name": "Fish Hook Wedge",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 782,
+            "name": "Tower Sign",
             "order": 3,
             "passthrough": 0
         }

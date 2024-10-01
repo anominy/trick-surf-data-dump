@@ -3,74 +3,82 @@
     "map_id": 11,
     "name": "Secreter Rise",
     "date": "2023-07-11T17:51:11.000Z",
-    "last_updated": "2023-07-11T18:06:19.000Z",
     "author": "ᴛꜱ٠ Xiao",
     "author_id": 103,
+    "last_updated": "2023-07-11T18:06:19.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 5,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1919,
+            "name": "N Deck",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1885,
+            "name": "Long Ass Slide",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1920,
+            "name": "N Tramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1885,
+            "name": "Long Ass Slide",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 1927,
+            "name": "Over High Ass Rail",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1880,
+            "name": "Letter S Ramp Right",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2022,
+            "name": "The Longest Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2023,
+            "name": "The Longest Ramp End",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2147,
+            "name": "Through Loop",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1918,
+            "name": "N Box Roller",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1982,
+            "name": "Secreter Tape Floor",
             "order": 9,
             "passthrough": 0
         }

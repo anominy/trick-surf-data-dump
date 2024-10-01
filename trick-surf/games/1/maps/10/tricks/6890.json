@@ -3,114 +3,130 @@
     "map_id": 10,
     "name": "Wuthering Heights",
     "date": "2023-01-28T01:28:58.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 10,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "10",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1663,
+            "name": "W Crane Box Pink Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1662,
+            "name": "W Crane Box Booster West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1711,
+            "name": "W Tower Top Hole",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1689,
+            "name": "W Through Tower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1694,
+            "name": "W Tower Beams 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1706,
+            "name": "W Tower Through Floor 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1693,
+            "name": "W Tower Beams 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1682,
+            "name": "W Short Tower Beams 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2208,
+            "name": "C Strip Top Over Beam",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1206,
+            "name": "C Strip Lower",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1612,
+            "name": "SW Broken Pillar Slant 2",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1677,
+            "name": "W Pink Ramp 3",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1675,
+            "name": "W Pink Ramp 2",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1686,
+            "name": "W Through Crane",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1665,
+            "name": "W Crane Platform",
             "order": 18,
             "passthrough": 0
         }

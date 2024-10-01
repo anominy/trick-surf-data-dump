@@ -3,74 +3,82 @@
     "map_id": 8,
     "name": "Locked Up",
     "date": "2022-05-24T21:53:21.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 192,
-    "playersCompleted": 74,
-    "trick_sequence": [
+    "completions": "193",
+    "players_completed": "75",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1052,
+            "name": "Letter T Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 695,
+            "name": "Jail Teleporter",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 696,
+            "name": "Jail Wall",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 688,
+            "name": "Jail Booster",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 678,
+            "name": "Fish Hook Wedge",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 656,
+            "name": "Behind Tower",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 696,
+            "name": "Jail Wall",
             "order": 10,
             "passthrough": 0
         }

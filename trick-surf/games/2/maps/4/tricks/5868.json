@@ -3,74 +3,82 @@
     "map_id": 4,
     "name": "Llama's Climb",
     "date": "2022-07-11T13:25:09.000Z",
-    "last_updated": null,
     "author": "the boris",
     "author_id": 174,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 327,
+            "name": "Stage 2 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 328,
+            "name": "Stage 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 305,
+            "name": "East Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 352,
+            "name": "Lower Ramp Entry North",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 388,
+            "name": "V Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 292,
+            "name": "Bonus Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 291,
+            "name": "Bonus Platform",
             "order": 10,
             "passthrough": 0
         }

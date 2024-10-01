@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Tru3talent",
     "date": "2024-05-20T23:19:06.000Z",
-    "last_updated": "2024-05-20T23:19:14.000Z",
     "author": "Tricky",
     "author_id": 458,
+    "last_updated": "2024-05-20T23:19:14.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1230,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 27,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "27",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1252,
+            "name": "C Sky East Gray Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1264,
+            "name": "E Brown Beam 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1722,
+            "name": "E Red Slant",
             "order": 3,
             "passthrough": 0
         }

@@ -3,49 +3,52 @@
     "map_id": 12,
     "name": "Suffer",
     "date": "2024-01-15T23:40:21.000Z",
-    "last_updated": "2024-01-15T23:41:20.000Z",
     "author": "ᴛꜱ ٠ lockedd",
     "author_id": 180,
+    "last_updated": "2024-01-15T23:41:20.000Z",
     "last_updated_author_id": 180,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 36,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "36",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2539,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2540,
+            "name": "Grey Tower Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2775,
+            "name": "South Sewer Tower Headsurf Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3155,
+            "name": "Upper Main Tunnel Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3046,
+            "name": "Left Wing Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2786,
+            "name": "Spawn Middle Floor",
             "order": 5,
             "passthrough": 0
         }

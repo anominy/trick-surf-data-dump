@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Im Boss Ible",
     "date": "2023-01-29T20:31:59.000Z",
-    "last_updated": "2023-01-29T22:09:41.000Z",
     "author": "Kassihici",
     "author_id": 3123,
+    "last_updated": "2023-01-29T22:09:41.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 46,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "46",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1189,
+            "name": "C Blue Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 5,
             "passthrough": 0
         }

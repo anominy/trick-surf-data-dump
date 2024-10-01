@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "Chief's Headcheck",
     "date": "2022-11-01T20:37:38.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 20,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "20",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1527,
+            "name": "S High Wall",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1570,
+            "name": "SE High Pillar",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1579,
+            "name": "SE High Pillar Booster West",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1759,
+            "name": "SE Black Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1602,
+            "name": "SE Spawn Floor",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1555,
+            "name": "SE Bonus 3 Teleporter",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1604,
+            "name": "E East Wall Upper",
             "order": 9,
             "passthrough": 0
         }

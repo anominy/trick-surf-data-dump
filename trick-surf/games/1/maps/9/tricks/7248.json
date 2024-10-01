@@ -3,49 +3,52 @@
     "map_id": 9,
     "name": "Flick B#tch",
     "date": "2023-03-01T19:43:12.000Z",
-    "last_updated": null,
     "author": "Mr.Dragon",
     "author_id": 4821,
+    "last_updated": null,
     "last_updated_author_id": 5,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "12",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 831,
+            "name": "Pipe",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 815,
+            "name": "Nova Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 799,
+            "name": "Bottom Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2332,
+            "name": "Masog Ramp Slant",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 799,
+            "name": "Bottom Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2313,
+            "name": "HealBot Platform",
             "order": 5,
             "passthrough": 0
         }

@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "The Frog God",
     "date": "2023-06-13T09:45:25.000Z",
-    "last_updated": "2024-03-04T11:59:06.000Z",
     "author": "winter",
     "author_id": 406,
+    "last_updated": "2024-03-04T11:59:06.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1250,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": 7,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 83,
-    "playersCompleted": 15,
-    "trick_sequence": [
+    "completions": "83",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1455,
+            "name": "NW Grass",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1480,
+            "name": "NW Purple Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1462,
+            "name": "NW North Ledge",
             "order": 2,
             "passthrough": 0
         }

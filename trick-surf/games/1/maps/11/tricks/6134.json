@@ -3,34 +3,34 @@
     "map_id": 11,
     "name": "Hardestwood Rise",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-20T16:51:40.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2023-05-20T16:51:40.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 11,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "11",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1987,
+            "name": "SHORTCUT Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2022,
+            "name": "The Longest Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1925,
+            "name": "N Tucksy's Tunnel Floor",
             "order": 2,
             "passthrough": 0
         }

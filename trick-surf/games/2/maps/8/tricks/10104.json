@@ -3,104 +3,118 @@
     "map_id": 8,
     "name": "I forgot my pivo",
     "date": "2024-06-09T18:21:02.000Z",
-    "last_updated": null,
     "author": "shprot bossman",
     "author_id": 195,
+    "last_updated": null,
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1032,
+            "name": "Keith Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 697,
+            "name": "Keith Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 695,
+            "name": "Jail Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 696,
+            "name": "Jail Wall",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 763,
+            "name": "T2 Right Hole",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 774,
+            "name": "Through T2 Back Right",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 678,
+            "name": "Fish Hook Wedge",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1025,
+            "name": "Elevator Hole",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 674,
+            "name": "Elevator Exit",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 779,
+            "name": "Tower Box 1",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 650,
+            "name": "Banana Hole",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 687,
+            "name": "Healbot Sign",
             "order": 16,
             "passthrough": 0
         }

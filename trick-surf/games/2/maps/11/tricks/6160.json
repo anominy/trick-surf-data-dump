@@ -3,44 +3,46 @@
     "map_id": 11,
     "name": "Looking for a Puta",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-20T17:27:36.000Z",
     "author": "THE AMPHIBIAN SLAYER",
     "author_id": 406,
+    "last_updated": "2023-05-20T17:27:36.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2046,
+            "name": "Under Logo Long",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2088,
+            "name": "Letter S Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2104,
+            "name": "Not Used Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1937,
+            "name": "Poorly Rotated Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1989,
+            "name": "SHORTCUT Ramp Deck",
             "order": 4,
             "passthrough": 0
         }

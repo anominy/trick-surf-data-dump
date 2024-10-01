@@ -3,84 +3,94 @@
     "map_id": 11,
     "name": "Cinder",
     "date": "2023-05-05T22:01:42.000Z",
-    "last_updated": "2023-05-19T18:46:59.000Z",
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": "2023-05-19T18:46:59.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 550,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 21,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "21",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2026,
+            "name": "TP",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1913,
+            "name": "Mini Mega Rollin",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1912,
+            "name": "Mini Mega Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1978,
+            "name": "S Wedge",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2206,
+            "name": "Tucksy's Back Door",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2207,
+            "name": "Tucksy's Front Hole",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1877,
+            "name": "Letter S Ramp Left",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2386,
+            "name": "Undersplat N",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1784,
+            "name": "Another Curvy Boi",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2050,
+            "name": "Under Logo Right Side",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2052,
+            "name": "Under Main Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1943,
+            "name": "Random Cube",
             "order": 12,
             "passthrough": 0
         }

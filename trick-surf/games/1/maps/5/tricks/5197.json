@@ -3,49 +3,52 @@
     "map_id": 5,
     "name": "Ultimate Pinball",
     "date": "2022-02-22T08:12:28.000Z",
-    "last_updated": "2022-11-03T01:02:01.000Z",
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": "2022-11-03T01:02:01.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1250,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 25,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "25",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 441,
+            "name": "Pillar Large",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 482,
+            "name": "Upper Curve Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 939,
+            "name": "House Hole Platform",
             "order": 5,
             "passthrough": 0
         }

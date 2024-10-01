@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "sv_gravity 702",
     "date": "2024-03-16T09:05:36.000Z",
-    "last_updated": "2024-06-16T03:00:25.000Z",
     "author": "Aux",
     "author_id": 14724,
+    "last_updated": "2024-06-16T03:00:25.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1626,
+            "name": "SW Grass Pillar Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1656,
+            "name": "SW Yellow Ramp 7",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1622,
+            "name": "SW Grass Ledge",
             "order": 2,
             "passthrough": 0
         }

@@ -3,49 +3,52 @@
     "map_id": 4,
     "name": "Blue Paprika",
     "date": "2022-07-09T01:23:58.000Z",
-    "last_updated": null,
     "author": "KingYöshi",
     "author_id": 457,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 56,
-    "playersCompleted": 27,
-    "trick_sequence": [
+    "completions": "56",
+    "players_completed": "27",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 288,
+            "name": "Blue Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 398,
+            "name": "West Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 397,
+            "name": "West Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 396,
+            "name": "West Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1092,
+            "name": "Stage 1 Water",
             "order": 5,
             "passthrough": 0
         }

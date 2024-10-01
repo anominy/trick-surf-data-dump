@@ -3,74 +3,82 @@
     "map_id": 8,
     "name": "Imaginary Wall",
     "date": "2023-03-21T11:35:35.000Z",
-    "last_updated": "2023-06-21T19:06:48.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-06-21T19:06:48.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 85,
-    "playersCompleted": 44,
-    "trick_sequence": [
+    "completions": "93",
+    "players_completed": "45",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 742,
+            "name": "Spawn Roof Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 679,
+            "name": "Ground Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 722,
+            "name": "Over Banana Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 656,
+            "name": "Behind Tower",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 745,
+            "name": "Starlight North",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1022,
+            "name": "Awp Water",
             "order": 10,
             "passthrough": 0
         }

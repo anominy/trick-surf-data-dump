@@ -3,74 +3,82 @@
     "map_id": 2,
     "name": "Fast Pill Magic Dubble Trubble",
     "date": "2023-02-03T20:01:12.000Z",
-    "last_updated": "2023-02-05T10:19:54.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2023-02-05T10:19:54.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 3000,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 119,
+            "name": "Grass",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 124,
+            "name": "Hole",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 160,
+            "name": "Stone Wall",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 164,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 188,
+            "name": "Superramp Sides Window",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 170,
+            "name": "Superhouse Floor 2 Hole",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 171,
+            "name": "Superhouse Floor 2 Platform",
             "order": 10,
             "passthrough": 0
         }

@@ -3,64 +3,70 @@
     "map_id": 11,
     "name": "devil trick n1",
     "date": "2023-04-17T21:54:54.000Z",
-    "last_updated": "2023-05-19T22:09:23.000Z",
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": "2023-05-19T22:09:23.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 120,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2184,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2020,
+            "name": "The Curviest Boi",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1854,
+            "name": "granis Gap Base",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2088,
+            "name": "Letter S Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1877,
+            "name": "Letter S Ramp Left",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1912,
+            "name": "Mini Mega Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1948,
+            "name": "S Curvy Boi Left",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1893,
+            "name": "Main Floor Left",
             "order": 8,
             "passthrough": 0
         }

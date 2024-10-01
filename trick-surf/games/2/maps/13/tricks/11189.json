@@ -3,44 +3,46 @@
     "map_id": 13,
     "name": "Lucidity",
     "date": "2024-08-30T00:51:00.000Z",
-    "last_updated": "2024-08-30T00:51:34.000Z",
     "author": "influx",
     "author_id": 147,
+    "last_updated": "2024-08-30T00:51:34.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3518,
+            "name": "Turtle Inner Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3315,
+            "name": "Faucet Under Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3319,
+            "name": "Flat Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3295,
+            "name": "Crew Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3378,
+            "name": "Prison Corner",
             "order": 4,
             "passthrough": 0
         }

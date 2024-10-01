@@ -3,84 +3,94 @@
     "map_id": 10,
     "name": "Pipe Layer",
     "date": "2023-04-30T01:02:22.000Z",
-    "last_updated": "2023-05-01T00:31:25.000Z",
     "author": "Mr.Dragon",
     "author_id": 4821,
+    "last_updated": "2023-05-01T00:31:25.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 11,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "11",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2178,
+            "name": "SW Pink Pillar Slant 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1275,
+            "name": "SW Pink Pillar Booster 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2178,
+            "name": "SW Pink Pillar Slant 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1677,
+            "name": "W Pink Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1350,
+            "name": "N Through High Pipes",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2220,
+            "name": "N Divider",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1723,
+            "name": "C Through Lift",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1637,
+            "name": "E Large Pillar Gap West 2",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1303,
+            "name": "E Through White Beams",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1746,
+            "name": "E Through White Beams Bottom",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 12,
             "passthrough": 0
         }

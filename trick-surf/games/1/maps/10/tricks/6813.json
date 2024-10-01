@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Lie Lack",
     "date": "2023-01-21T03:26:16.000Z",
-    "last_updated": null,
     "author": "discount",
     "author_id": 5482,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 185,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 238,
-    "playersCompleted": 35,
-    "trick_sequence": [
+    "completions": "238",
+    "players_completed": "35",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1384,
+            "name": "N White Ramp 5",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1748,
+            "name": "NW Under Black Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1488,
+            "name": "NW Rooftops Pit",
             "order": 3,
             "passthrough": 0
         }

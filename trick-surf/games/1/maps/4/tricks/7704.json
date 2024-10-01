@@ -3,49 +3,52 @@
     "map_id": 4,
     "name": "V-Bucks",
     "date": "2023-06-17T21:21:01.000Z",
-    "last_updated": "2023-06-17T21:53:53.000Z",
     "author": "ᴛꜱ٠ King ",
     "author_id": 10,
+    "last_updated": "2023-06-17T21:53:53.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1245,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 9,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "9",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 320,
+            "name": "Ladder Platform Upper",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 388,
+            "name": "V Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 388,
+            "name": "V Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 326,
+            "name": "Ladder Platform Lower",
             "order": 5,
             "passthrough": 0
         }

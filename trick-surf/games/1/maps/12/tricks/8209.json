@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "Bring It Around Town",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": null,
     "author": "Façade",
     "author_id": 2,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 42,
-    "playersCompleted": 25,
-    "trick_sequence": [
+    "completions": "42",
+    "players_completed": "26",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2834,
+            "name": "Through Center House",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2937,
+            "name": "White Pool Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2834,
+            "name": "Through Center House",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2484,
+            "name": "Color Star Hole",
             "order": 6,
             "passthrough": 0
         }

@@ -3,79 +3,88 @@
     "map_id": 13,
     "name": "Dale",
     "date": "2024-09-03T08:46:53.000Z",
-    "last_updated": "2024-09-12T14:49:03.000Z",
     "author": "FISHMAN",
     "author_id": 49,
+    "last_updated": "2024-09-12T14:49:03.000Z",
     "last_updated_author_id": 180,
     "active": 1,
-    "points": 850,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "14",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3451,
+            "name": "T2 Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3395,
+            "name": "Sausage Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3585,
+            "name": "West Corner Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3417,
+            "name": "Sphere Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3281,
+            "name": "Behind Sphere Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3457,
+            "name": "Through Behind Middle Snake Hole",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3349,
+            "name": "Middle Snake Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3458,
+            "name": "Through Boost Middle Snake Hole",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3404,
+            "name": "Snake Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3477,
+            "name": "Through Prison Floor",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3585,
+            "name": "West Corner Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 3386,
+            "name": "Prison Stacks",
             "order": 11,
             "passthrough": 0
         }

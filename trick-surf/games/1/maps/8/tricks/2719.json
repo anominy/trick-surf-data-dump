@@ -3,34 +3,34 @@
     "map_id": 8,
     "name": "Up and out",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 474,
-    "playersCompleted": 82,
-    "trick_sequence": [
+    "completions": "474",
+    "players_completed": "87",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 672,
+            "name": "Elevator",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 674,
+            "name": "Elevator Exit",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 2,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "Critical Cashflow Crisis",
     "date": "2024-01-28T14:13:01.000Z",
-    "last_updated": "2024-01-28T14:15:53.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-01-28T14:15:53.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2896,
+            "name": "Vent Anti Grav Support",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2902,
+            "name": "Vent Headsurf Teleport",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2894,
+            "name": "Upper Pink Pool Ledge",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2845,
+            "name": "Through Main Loop",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2647,
+            "name": "Orange Floor Block",
             "order": 6,
             "passthrough": 0
         }

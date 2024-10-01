@@ -3,189 +3,220 @@
     "map_id": 10,
     "name": "Glasseye",
     "date": "2024-07-26T10:48:10.000Z",
-    "last_updated": "2024-08-04T17:22:06.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2024-08-04T17:22:06.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 25,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1599,
+            "name": "SE Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1561,
+            "name": "SE Brown Ramp 2 Spine",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1525,
+            "name": "S Ground North",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1525,
+            "name": "S Ground North",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1544,
+            "name": "S Yellow Ramp 8 Spine",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1655,
+            "name": "SW Yellow Ramp 6 Spine",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3181,
+            "name": "N Through Brown Pipe",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1379,
+            "name": "N White Platform",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1755,
+            "name": "N White Teleporter",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 2222,
+            "name": "NW West Wall North",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 2223,
+            "name": "NW West Wall South",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1718,
+            "name": "W West Pillar Lower",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 3200,
+            "name": "W Large Pillar Gap West 1",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 20,
             "passthrough": 0
         },
         {
             "trigger_id": 1189,
+            "name": "C Blue Platform",
             "order": 21,
             "passthrough": 0
         },
         {
             "trigger_id": 1379,
+            "name": "N White Platform",
             "order": 22,
             "passthrough": 0
         },
         {
             "trigger_id": 1755,
+            "name": "N White Teleporter",
             "order": 23,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 24,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 25,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 26,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 27,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 28,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 29,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 30,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 31,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 32,
             "passthrough": 0
         },
         {
             "trigger_id": 1633,
+            "name": "SW Middle Ledge West",
             "order": 33,
             "passthrough": 0
         }

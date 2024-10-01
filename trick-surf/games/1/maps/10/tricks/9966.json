@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Shrimple",
     "date": "2024-05-16T21:11:19.000Z",
-    "last_updated": null,
     "author": "nex",
     "author_id": 18519,
+    "last_updated": null,
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 112,
-    "playersCompleted": 20,
-    "trick_sequence": [
+    "completions": "112",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1277,
+            "name": "E Large Structure Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1617,
+            "name": "SW Crane Box Pink Platform",
             "order": 4,
             "passthrough": 0
         }

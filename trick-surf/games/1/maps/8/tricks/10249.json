@@ -3,74 +3,82 @@
     "map_id": 8,
     "name": "Ocean Getting Waavey",
     "date": "2024-06-15T00:24:09.000Z",
-    "last_updated": "2024-06-15T15:38:33.000Z",
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
+    "last_updated": "2024-06-15T15:38:33.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 3,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "3",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 918,
+            "name": "Fish Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 125,
+            "name": "Bigger Fish Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 728,
+            "name": "Right Wing",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3259,
+            "name": "UFO Roof",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3259,
+            "name": "UFO Roof",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 764,
+            "name": "T2 Right Wing",
             "order": 10,
             "passthrough": 0
         }

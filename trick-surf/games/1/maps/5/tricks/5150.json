@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Extreme Napoleon",
     "date": "2022-02-08T10:35:43.000Z",
-    "last_updated": null,
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 70,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "70",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 938,
+            "name": "Through Back Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 441,
+            "name": "Pillar Large",
             "order": 2,
             "passthrough": 0
         }

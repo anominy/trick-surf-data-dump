@@ -3,59 +3,64 @@
     "map_id": 7,
     "name": "Shotgun Check",
     "date": "2021-09-11T13:30:41.000Z",
-    "last_updated": "2022-05-19T09:44:55.000Z",
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": "2022-05-19T09:44:55.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 635,
+            "name": "Shotgun Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 630,
+            "name": "Shotgun Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 632,
+            "name": "Shotgun Bot",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 863,
+            "name": "Behind Shotgun",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 631,
+            "name": "Shotgun Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 647,
+            "name": "Under Shotgun",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 863,
+            "name": "Behind Shotgun",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 635,
+            "name": "Shotgun Platform",
             "order": 7,
             "passthrough": 0
         }

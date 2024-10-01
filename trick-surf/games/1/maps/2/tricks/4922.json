@@ -3,94 +3,106 @@
     "map_id": 2,
     "name": "Hard Chief Attack",
     "date": "2021-10-09T17:46:21.000Z",
-    "last_updated": "2021-10-09T21:14:10.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2021-10-09T21:14:10.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 525,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 25,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "25",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 127,
+            "name": "House 1 Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 147,
+            "name": "Side Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 95,
+            "name": "Castle Ramp Slant Lower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 82,
+            "name": "Castle Gap",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 79,
+            "name": "Castle Front Ledge",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 82,
+            "name": "Castle Gap",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 173,
+            "name": "Superhouse Floor 2 Ramp Sides",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 190,
+            "name": "Superramp Teleporter",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 99,
+            "name": "Castle Stairs",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 84,
+            "name": "Castle House Ramp",
             "order": 14,
             "passthrough": 0
         }

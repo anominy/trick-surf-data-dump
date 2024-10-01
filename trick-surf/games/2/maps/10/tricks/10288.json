@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Boshi Spine",
     "date": "2024-06-15T16:34:21.000Z",
-    "last_updated": "2024-06-15T20:45:21.000Z",
     "author": "bæsj",
     "author_id": 2136,
+    "last_updated": "2024-06-15T20:45:21.000Z",
     "last_updated_author_id": 18949,
     "active": 1,
-    "points": 1225,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1189,
+            "name": "C Blue Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1337,
+            "name": "N Purple Jumppad",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1238,
+            "name": "C Purple Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3003,
+            "name": "SW Concrete Tube 1 Sides",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1761,
+            "name": "SW Purple Teleporter",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1663,
+            "name": "W Crane Box Pink Platform",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1678,
+            "name": "W Pink Ramp 3 Spine",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 10,
             "passthrough": 0
         }

@@ -3,114 +3,130 @@
     "map_id": 3,
     "name": "Dillionare G3",
     "date": "2022-01-17T22:06:40.000Z",
-    "last_updated": "2022-01-19T20:49:05.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2022-01-19T20:49:05.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 218,
+            "name": "Jail Ceiling Water",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 212,
+            "name": "Bridge",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 200,
+            "name": "Behind Garage Platform 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 225,
+            "name": "Jail Teleporter",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 9,
             "passthrough": 1
         },
         {
             "trigger_id": 276,
+            "name": "Under Jail Teleporter",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 15,
             "passthrough": 0
         }

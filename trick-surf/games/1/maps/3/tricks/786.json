@@ -3,134 +3,154 @@
     "map_id": 3,
     "name": "kR0NE's Trick",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-20T19:56:53.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-20T19:56:53.000Z",
     "last_updated_author_id": 136,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 261,
+            "name": "Skyplate",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 283,
+            "name": "V Wall Slant",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 930,
+            "name": "V-Wall",
             "order": 1,
             "passthrough": 1
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 930,
+            "name": "V-Wall",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 225,
+            "name": "Jail Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 267,
+            "name": "Supertop",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 272,
+            "name": "Top River",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 238,
+            "name": "Ramp 1",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 922,
+            "name": "Top Tele Water Platform",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 274,
+            "name": "Top Teleporter",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 225,
+            "name": "Jail Teleporter",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 14,
             "passthrough": 1
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 255,
+            "name": "Sky North",
             "order": 19,
             "passthrough": 0
         }

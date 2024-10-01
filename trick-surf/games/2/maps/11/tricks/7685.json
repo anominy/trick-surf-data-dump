@@ -3,99 +3,112 @@
     "map_id": 11,
     "name": "surf_instantdeath",
     "date": "2023-06-12T21:28:58.000Z",
-    "last_updated": "2023-07-16T13:10:01.000Z",
     "author": "ᴛꜱ٠ Frag",
     "author_id": 1,
+    "last_updated": "2023-07-16T13:10:01.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": 120,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1895,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1955,
+            "name": "S Funbox Rail",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1926,
+            "name": "R Trigger",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1933,
+            "name": "F Trigger",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2054,
+            "name": "Upper Rail",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1875,
+            "name": "S Trigger",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1801,
+            "name": "Tape Trigger",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1917,
+            "name": "N Box Rail",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1887,
+            "name": "Lower Rail",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1876,
+            "name": "U Trigger",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1807,
+            "name": "Big Loop Start",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1798,
+            "name": "Big Loop",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2404,
+            "name": "Big Loop Apex",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1798,
+            "name": "Big Loop",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1800,
+            "name": "Big Loop End",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1802,
+            "name": "Above Horse",
             "order": 15,
             "passthrough": 0
         }

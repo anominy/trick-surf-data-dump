@@ -3,84 +3,94 @@
     "map_id": 11,
     "name": "Bitrate",
     "date": "2023-07-25T13:54:43.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ٠ Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 350,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 17,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "17",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1851,
+            "name": "Foam Pit Deck",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1853,
+            "name": "Foam Pit Tramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1910,
+            "name": "Mini Mega Quarter",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1948,
+            "name": "S Curvy Boi Left",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1827,
+            "name": "E L Side",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1836,
+            "name": "F Loop Small Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1933,
+            "name": "F Trigger",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1829,
+            "name": "F Loop",
             "order": 6,
             "passthrough": 1
         },
         {
             "trigger_id": 1830,
+            "name": "F Loop Big Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1829,
+            "name": "F Loop",
             "order": 7,
             "passthrough": 1
         },
         {
             "trigger_id": 2033,
+            "name": "Main Base Slant",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1898,
+            "name": "Main Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1884,
+            "name": "Logo Roller",
             "order": 10,
             "passthrough": 0
         }

@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Insane Headcheck",
     "date": "2024-08-05T08:20:02.000Z",
-    "last_updated": null,
     "author": "LuK ♛",
     "author_id": 18949,
+    "last_updated": null,
     "last_updated_author_id": 18949,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 9,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "9",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1599,
+            "name": "SE Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1656,
+            "name": "SW Yellow Ramp 7",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3196,
+            "name": "W Large Pillar Gap East 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 4,
             "passthrough": 0
         }

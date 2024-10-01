@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "Eternal",
     "date": "2024-04-01T22:13:07.000Z",
-    "last_updated": "2024-04-01T22:18:43.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-04-01T22:18:43.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 7,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1663,
+            "name": "W Crane Box Pink Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1765,
+            "name": "W Crane Box Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1702,
+            "name": "W Tower Floor 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1617,
+            "name": "SW Crane Box Pink Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1760,
+            "name": "SW Pink Teleporter",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1249,
+            "name": "C Sky East Slant Top",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1392,
+            "name": "NE Building Top",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1392,
+            "name": "NE Building Top",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1756,
+            "name": "NE Green Teleporter",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1513,
+            "name": "NW Yellow Platform",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1455,
+            "name": "NW Grass",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 11,
             "passthrough": 0
         }

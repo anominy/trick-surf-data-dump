@@ -3,84 +3,94 @@
     "map_id": 3,
     "name": "Hard Snipe",
     "date": "2024-03-03T07:36:23.000Z",
-    "last_updated": "2024-03-03T07:53:24.000Z",
     "author": "ANC Chairman",
     "author_id": 15261,
+    "last_updated": "2024-03-03T07:53:24.000Z",
     "last_updated_author_id": 15261,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 923,
+            "name": "Under Pool Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 277,
+            "name": "Under Pool Teleporter",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 208,
+            "name": "Box Water",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 228,
+            "name": "Lower Shotgun",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 247,
+            "name": "Shotgun Divide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 228,
+            "name": "Lower Shotgun",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 210,
+            "name": "Box Window North",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 209,
+            "trigger_id": 211,
+            "name": "Box Window South",
             "order": 9,
             "passthrough": 2
         },
         {
-            "trigger_id": 211,
+            "trigger_id": 209,
+            "name": "Box Window East",
             "order": 9,
             "passthrough": 2
         },
         {
             "trigger_id": 208,
+            "name": "Box Water",
             "order": 10,
             "passthrough": 0
         }

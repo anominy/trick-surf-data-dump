@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Ping",
     "date": "2023-01-21T12:34:48.000Z",
-    "last_updated": null,
     "author": "william",
     "author_id": 347,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 85,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1570,
+            "name": "SE High Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1579,
+            "name": "SE High Pillar Booster West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1527,
+            "name": "S High Wall",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1623,
+            "name": "SW Grass Pillar Beam",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1656,
+            "name": "SW Yellow Ramp 7",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1645,
+            "name": "SW Under Grass Pillar",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1522,
+            "name": "S Box 2",
             "order": 6,
             "passthrough": 0
         }

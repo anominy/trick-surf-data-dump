@@ -3,69 +3,76 @@
     "map_id": 3,
     "name": "Alb For Beginnerz",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-24T16:25:38.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-24T16:25:38.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 37,
-    "playersCompleted": 23,
-    "trick_sequence": [
+    "completions": "37",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 262,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 238,
+            "name": "Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 251,
+            "name": "Sign Level 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 208,
+            "name": "Box Water",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 234,
+            "name": "Pool Skyplate Tele",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 261,
+            "name": "Skyplate",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 258,
+            "name": "Sky South",
             "order": 7,
             "passthrough": 0
         }

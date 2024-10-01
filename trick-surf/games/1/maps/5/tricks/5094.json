@@ -3,69 +3,76 @@
     "map_id": 5,
     "name": "Blast Off Remix",
     "date": "2022-02-01T19:12:14.000Z",
-    "last_updated": "2022-11-03T01:01:53.000Z",
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": "2022-11-03T01:01:53.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 55,
-    "playersCompleted": 24,
-    "trick_sequence": [
+    "completions": "55",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 458,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 465,
+            "name": "Through Awp Hole",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 457,
+            "name": "South Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 408,
+            "name": "Behind Spine Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 478,
+            "name": "Under Pool Tele",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 452,
+            "name": "South Pool",
             "order": 9,
             "passthrough": 0
         }

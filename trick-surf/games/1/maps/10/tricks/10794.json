@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "Model",
     "date": "2024-08-02T02:12:59.000Z",
-    "last_updated": "2024-08-02T02:15:27.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-08-02T02:15:27.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 20,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "20",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1585,
+            "name": "SE Large Structure Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1293,
+            "name": "E East Wall Lower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1419,
+            "name": "NE Through Building",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1378,
+            "name": "N Upper Ground Corner",
             "order": 8,
             "passthrough": 0
         }

@@ -3,44 +3,46 @@
     "map_id": 8,
     "name": "I didnt even test this one",
     "date": "2024-07-25T17:01:16.000Z",
-    "last_updated": "2024-09-08T14:00:30.000Z",
     "author": "Skintheunicorn",
     "author_id": 24229,
+    "last_updated": "2024-09-08T14:00:30.000Z",
     "last_updated_author_id": 10899,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1055,
+            "name": "Upper Ring",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 788,
+            "name": "Under Awp Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 679,
+            "name": "Ground Teleporter",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3225,
+            "name": "T2 Big Left Hole",
             "order": 4,
             "passthrough": 0
         }

@@ -3,64 +3,70 @@
     "map_id": 12,
     "name": "Wintor",
     "date": "2024-01-28T21:23:25.000Z",
-    "last_updated": "2024-01-28T21:45:44.000Z",
     "author": "winter",
     "author_id": 406,
+    "last_updated": "2024-01-28T21:45:44.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1275,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2619,
+            "name": "Middle Spiral Stairs Shelf",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2812,
+            "name": "Spiral Tower Middle Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3126,
+            "name": "South Spiral Grav Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2500,
+            "name": "East Inner Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2769,
+            "name": "South Inner Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3126,
+            "name": "South Spiral Grav Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2972,
+            "name": "Over Anti Grav",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3107,
+            "name": "Mirrored Side Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3093,
+            "name": "Checkered Spiral Platform Window",
             "order": 8,
             "passthrough": 0
         }

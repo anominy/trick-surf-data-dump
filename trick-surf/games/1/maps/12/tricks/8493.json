@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "Coat Of Arms",
     "date": "2023-12-11T16:15:20.000Z",
-    "last_updated": "2023-12-11T16:18:34.000Z",
     "author": "lockedd",
     "author_id": 180,
+    "last_updated": "2023-12-11T16:18:34.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2570,
+            "name": "Logo Headsurf Beam",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2574,
+            "name": "Logo Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2903,
+            "name": "Vent Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2976,
+            "name": "Through Anti Grav Corners",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2579,
+            "name": "Logo Tunnel Ramps",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2580,
+            "name": "Logo Window",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2584,
+            "name": "Logo Window Slides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2855,
+            "name": "Through White Pool",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2937,
+            "name": "White Pool Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2576,
+            "name": "Logo Roof",
             "order": 9,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "MONATIK",
     "date": "2024-04-17T06:53:55.000Z",
-    "last_updated": "2024-04-17T06:58:49.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2024-04-17T06:58:49.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1150,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1564,
+            "name": "SE East Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1562,
+            "name": "SE Brown Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1531,
+            "name": "S Fort Floor",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1531,
+            "name": "S Fort Floor",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3208,
+            "name": "SW Large Pillar Gap",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1779,
+            "name": "W Lower Ground",
             "order": 6,
             "passthrough": 0
         }

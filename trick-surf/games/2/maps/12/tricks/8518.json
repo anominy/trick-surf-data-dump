@@ -3,84 +3,94 @@
     "map_id": 12,
     "name": "White Dove",
     "date": "2023-12-15T17:21:01.000Z",
-    "last_updated": "2023-12-31T08:43:31.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2023-12-31T08:43:31.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2791,
+            "name": "Spawn Top Channel",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2951,
+            "name": "Right Wing Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2776,
+            "name": "South Sewer Tower Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2647,
+            "name": "Orange Floor Block",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2891,
+            "name": "Under White Corner Block",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2926,
+            "name": "White Corner",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2847,
+            "name": "Through Pink Pool",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2959,
+            "name": "Pink Pool Roof Gap",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2834,
+            "name": "Through Center House",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2517,
+            "name": "Front Main Pillar",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2884,
+            "name": "Under Right Back Pillar Beam",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2599,
+            "name": "Main Floor Block",
             "order": 12,
             "passthrough": 0
         }

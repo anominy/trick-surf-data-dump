@@ -3,59 +3,64 @@
     "map_id": 5,
     "name": "Curvy Business",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": "2022-05-18T14:55:27.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-05-18T14:55:27.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 41,
-    "playersCompleted": 15,
-    "trick_sequence": [
+    "completions": "41",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 410,
+            "name": "Below Spawn Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 409,
+            "name": "Below Spawn Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 482,
+            "name": "Upper Curve Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 482,
+            "name": "Upper Curve Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 466,
+            "name": "House Hole",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 421,
+            "name": "House Inside",
             "order": 7,
             "passthrough": 0
         }

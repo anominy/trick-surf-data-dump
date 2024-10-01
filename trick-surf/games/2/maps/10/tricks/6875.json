@@ -3,99 +3,112 @@
     "map_id": 10,
     "name": "The Hunt",
     "date": "2023-01-27T01:15:49.000Z",
-    "last_updated": "2023-06-06T09:30:54.000Z",
     "author": "hunter",
     "author_id": 4820,
+    "last_updated": "2023-06-06T09:30:54.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1075,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1299,
+            "name": "E Teal Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1583,
+            "name": "SE Large Pillar Gap North",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1222,
+            "name": "C Strip Through Beams",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1634,
+            "name": "SW Orange Ramp 6",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2400,
+            "name": "SW Under Broken Pillar 2",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2231,
+            "name": "SW Between Broken Pillars",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2175,
+            "name": "NW Park Through Crack",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1332,
+            "name": "N Low Gray Box",
             "order": 15,
             "passthrough": 0
         }

@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "Unsettled Dust",
     "date": "2023-06-25T15:58:08.000Z",
-    "last_updated": "2023-06-25T15:58:35.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-06-25T15:58:35.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1289,
+            "name": "E Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1196,
+            "name": "C Green Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1189,
+            "name": "C Blue Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1235,
+            "name": "C Strip West Light Pillar",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2394,
+            "name": "NW Under Park Roof",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1376,
+            "name": "N Undergrounds Ledge",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1384,
+            "name": "N White Ramp 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1755,
+            "name": "N White Teleporter",
             "order": 9,
             "passthrough": 0
         }

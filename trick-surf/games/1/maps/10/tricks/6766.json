@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "McDonald's Drive Thru",
     "date": "2023-01-17T23:00:27.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 47,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "47",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1599,
+            "name": "SE Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1587,
+            "name": "SE Orange Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1587,
+            "name": "SE Orange Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1587,
+            "name": "SE Orange Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1284,
+            "name": "E Red Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1746,
+            "name": "E Through White Beams Bottom",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 8,
             "passthrough": 0
         }

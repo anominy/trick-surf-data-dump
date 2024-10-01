@@ -3,74 +3,82 @@
     "map_id": 11,
     "name": "Loopla",
     "date": "2023-06-28T18:30:14.000Z",
-    "last_updated": null,
     "author": "sig",
     "author_id": 1304,
+    "last_updated": null,
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 5,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 8,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1793,
+            "name": "Big Drop In Side Deck",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1791,
+            "name": "Big Drop In",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2290,
+            "name": "Big H Curvy Boi Out",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2000,
+            "name": "Smol Curvy Boi",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2077,
+            "name": "Big Loop Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1866,
+            "name": "Horse Main QP",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1799,
+            "name": "Big Loop Crash Pad",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1935,
+            "name": "Pre Loop Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2022,
+            "name": "The Longest Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1807,
+            "name": "Big Loop Start",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1865,
+            "name": "Horse Left QP Deck",
             "order": 10,
             "passthrough": 0
         }

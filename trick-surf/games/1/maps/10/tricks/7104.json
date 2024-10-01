@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Hunter's Fav",
     "date": "2023-02-22T01:20:59.000Z",
-    "last_updated": null,
     "author": "winter",
     "author_id": 406,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 46,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "46",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1607,
+            "name": "SE Structure Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1531,
+            "name": "S Fort Floor",
             "order": 6,
             "passthrough": 0
         }

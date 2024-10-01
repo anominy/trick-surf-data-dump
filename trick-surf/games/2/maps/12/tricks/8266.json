@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "The O",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": null,
     "author": "๖ۣۜKïñgYo§hi ٿـ",
     "author_id": 457,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2939,
+            "name": "White Pool Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2559,
+            "name": "Left Beam Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2868,
+            "name": "Under Left Front Pillar Beam",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2885,
+            "name": "Under Right Front Pillar Beam",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2724,
+            "name": "Right Beam Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2582,
+            "name": "Logo Window Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2937,
+            "name": "White Pool Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2561,
+            "name": "Left Front Pillar Beam",
             "order": 9,
             "passthrough": 0
         }

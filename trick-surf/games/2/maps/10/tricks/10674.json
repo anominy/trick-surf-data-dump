@@ -3,94 +3,106 @@
     "map_id": 10,
     "name": "Negative",
     "date": "2024-07-21T18:00:13.000Z",
-    "last_updated": null,
     "author": "nex",
     "author_id": 18519,
+    "last_updated": null,
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 5,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1599,
+            "name": "SE Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1530,
+            "name": "S Fort Top Beam",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1614,
+            "name": "SW Concrete Tube 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1661,
+            "name": "W Blue Ramp 4 Spine",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1232,
+            "name": "C Strip Upper Dark Box",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1636,
+            "name": "E Large Pillar Gap West 1",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2209,
+            "name": "E Over High Platform",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1607,
+            "name": "SE Structure Top",
             "order": 14,
             "passthrough": 0
         }

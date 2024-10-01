@@ -3,69 +3,76 @@
     "map_id": 4,
     "name": "Bonus Pocus",
     "date": "2022-07-05T23:36:34.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1250,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 85,
-    "playersCompleted": 26,
-    "trick_sequence": [
+    "completions": "85",
+    "players_completed": "26",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 320,
+            "name": "Ladder Platform Upper",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 352,
+            "name": "Lower Ramp Entry North",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 388,
+            "name": "V Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 292,
+            "name": "Bonus Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 291,
+            "name": "Bonus Platform",
             "order": 9,
             "passthrough": 0
         }

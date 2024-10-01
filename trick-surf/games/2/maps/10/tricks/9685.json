@@ -3,109 +3,124 @@
     "map_id": 10,
     "name": "Edy's Way To The Bergas House",
     "date": "2024-04-19T15:37:37.000Z",
-    "last_updated": "2024-04-20T13:41:49.000Z",
     "author": "edy",
     "author_id": 1934,
+    "last_updated": "2024-04-20T13:41:49.000Z",
     "last_updated_author_id": 75,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1710,
+            "name": "W Tower Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1677,
+            "name": "W Pink Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2176,
+            "name": "NW Under Window",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1384,
+            "name": "N White Ramp 5",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1379,
+            "name": "N White Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1755,
+            "name": "N White Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1727,
+            "name": "C Undergrounds Entry West",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1314,
+            "name": "N Blue Platform",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1213,
+            "name": "NE Ground Hole",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1382,
+            "name": "N White Ramp 4",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 2175,
+            "name": "NW Park Through Crack",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1447,
+            "name": "NW Jungle Bog Foundation",
             "order": 17,
             "passthrough": 0
         }

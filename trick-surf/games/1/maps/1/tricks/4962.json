@@ -3,59 +3,64 @@
     "map_id": 1,
     "name": "Dart Divide Psycho",
     "date": "2021-11-09T19:37:17.000Z",
-    "last_updated": null,
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1400,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "12",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 48,
+            "name": "Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 23,
+            "name": "Deagle 6th",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 15,
+            "name": "Deagle 2nd",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 28,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 15,
+            "name": "Deagle 2nd",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 35,
+            "name": "Pool",
             "order": 7,
             "passthrough": 0
         }

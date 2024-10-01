@@ -3,74 +3,82 @@
     "map_id": 11,
     "name": "Philadelphia",
     "date": "2023-05-08T18:39:03.000Z",
-    "last_updated": "2024-04-13T16:53:19.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-04-13T16:53:19.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 1275,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 9,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "9",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1975,
+            "name": "S Upper Catwalk",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1965,
+            "name": "S Side Curvy Boi End Cap",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1957,
+            "name": "S Hump",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1948,
+            "name": "S Curvy Boi Left",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1827,
+            "name": "E L Side",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1826,
+            "name": "E L Front",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1907,
+            "name": "Mini Corner Roller",
             "order": 5,
             "passthrough": 1
         },
         {
             "trigger_id": 1838,
+            "name": "Facade's Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2009,
+            "name": "Spinerino",
             "order": 6,
             "passthrough": 1
         },
         {
             "trigger_id": 2046,
+            "name": "Under Logo Long",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2019,
+            "name": "THE CUBE Top",
             "order": 8,
             "passthrough": 0
         }

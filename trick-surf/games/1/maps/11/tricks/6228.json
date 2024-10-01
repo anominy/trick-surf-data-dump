@@ -3,54 +3,58 @@
     "map_id": 11,
     "name": "Hardex is mad",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-20T16:51:55.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2023-05-20T16:51:55.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 475,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 30,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "30",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1895,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1898,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1937,
+            "name": "Poorly Rotated Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1857,
+            "name": "Half Pipe Left Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1880,
+            "name": "Letter S Ramp Right",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1877,
+            "name": "Letter S Ramp Left",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1847,
+            "name": "Fence Top Center",
             "order": 6,
             "passthrough": 0
         }

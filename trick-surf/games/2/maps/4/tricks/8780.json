@@ -3,59 +3,64 @@
     "map_id": 4,
     "name": "Lost Slant",
     "date": "2024-01-13T19:26:21.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 320,
+            "name": "Ladder Platform Upper",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1134,
+            "name": "Platform Steps",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 364,
+            "name": "Purple Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 318,
+            "name": "In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 384,
+            "name": "Under Red Circle",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1187,
+            "name": "Lower Stage 5 Slant",
             "order": 7,
             "passthrough": 0
         }

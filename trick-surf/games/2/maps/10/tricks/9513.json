@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Not-A Street",
     "date": "2024-04-06T07:24:41.000Z",
-    "last_updated": null,
     "author": "Kingaru",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1750,
+            "name": "W Beam 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1634,
+            "name": "SW Orange Ramp 6",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1261,
+            "name": "C Undergrounds West Ledge",
             "order": 4,
             "passthrough": 0
         }

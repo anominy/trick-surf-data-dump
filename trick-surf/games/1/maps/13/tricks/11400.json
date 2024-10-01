@@ -3,39 +3,40 @@
     "map_id": 13,
     "name": "Orange rise",
     "date": "2024-09-13T22:46:03.000Z",
-    "last_updated": null,
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
+    "last_updated": null,
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 27,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "109",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3433,
+            "name": "Strafes Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3346,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3332,
+            "name": "Lazy Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3516,
+            "name": "Turtle IBeam",
             "order": 3,
             "passthrough": 0
         }

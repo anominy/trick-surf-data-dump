@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Runway",
     "date": "2024-03-31T22:22:29.000Z",
-    "last_updated": "2024-03-31T22:52:05.000Z",
     "author": "ScottEhh",
     "author_id": 9027,
+    "last_updated": "2024-03-31T22:52:05.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 5,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 60,
-    "playersCompleted": 15,
-    "trick_sequence": [
+    "completions": "60",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1277,
+            "name": "E Large Structure Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1730,
+            "name": "E Through Large Structure",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1289,
+            "name": "E Rooftops",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1309,
+            "name": "E White Ramp 1 Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1552,
+            "name": "SE Black Ramp 4 Spine",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1671,
+            "name": "W Orange Ramp 5 Spine",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1312,
+            "name": "N Archway Ledge",
             "order": 10,
             "passthrough": 0
         }

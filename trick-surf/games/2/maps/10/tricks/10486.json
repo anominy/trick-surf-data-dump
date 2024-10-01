@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Watermelon Tourmaline",
     "date": "2024-06-21T13:29:19.000Z",
-    "last_updated": "2024-06-21T15:40:33.000Z",
     "author": "discount",
     "author_id": 5482,
+    "last_updated": "2024-06-21T15:40:33.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1663,
+            "name": "W Crane Box Pink Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1662,
+            "name": "W Crane Box Booster West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1711,
+            "name": "W Tower Top Hole",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1702,
+            "name": "W Tower Floor 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1617,
+            "name": "SW Crane Box Pink Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1760,
+            "name": "SW Pink Teleporter",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1294,
+            "name": "E Rooftops Small Block",
             "order": 7,
             "passthrough": 0
         }

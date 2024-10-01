@@ -3,44 +3,46 @@
     "map_id": 13,
     "name": "Guts",
     "date": "2024-08-28T10:16:32.000Z",
-    "last_updated": "2024-08-30T20:12:56.000Z",
     "author": "nextir",
     "author_id": 2994,
+    "last_updated": "2024-08-30T20:12:56.000Z",
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 550,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3445,
+            "name": "T2 Boost Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3444,
+            "name": "T2 Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3352,
+            "name": "Middle T2 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3445,
+            "name": "T2 Boost Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3471,
+            "name": "Through Middle Top T2",
             "order": 3,
             "passthrough": 2
         }

@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "LOST",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-21T13:45:19.000Z",
     "author": "bog",
     "author_id": 131,
+    "last_updated": "2023-10-21T13:45:19.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 131,
-    "playersCompleted": 29,
-    "trick_sequence": [
+    "completions": "131",
+    "players_completed": "29",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 720,
+            "name": "North East Booster",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 791,
+            "name": "Under T2 Left Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 782,
+            "name": "Tower Sign",
             "order": 3,
             "passthrough": 0
         }

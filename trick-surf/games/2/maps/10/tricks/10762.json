@@ -3,124 +3,142 @@
     "map_id": 10,
     "name": "Tele Frenzy",
     "date": "2024-07-28T03:43:36.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 11,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1293,
+            "name": "E East Wall Lower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2208,
+            "name": "C Strip Top Over Beam",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1314,
+            "name": "N Blue Platform",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1266,
+            "name": "E Brown Platform",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1753,
+            "name": "E Brown Teleporter",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1206,
+            "name": "C Strip Lower",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1379,
+            "name": "N White Platform",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1755,
+            "name": "N White Teleporter",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1661,
+            "name": "W Blue Ramp 4 Spine",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 1426,
+            "name": "NE Undergrounds Ledge 1",
             "order": 20,
             "passthrough": 0
         }

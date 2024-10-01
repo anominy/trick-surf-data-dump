@@ -3,74 +3,82 @@
     "map_id": 12,
     "name": "Remedy",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": null,
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 450,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 44,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "44",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2473,
+            "name": "Center House Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2500,
+            "name": "East Inner Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2552,
+            "name": "Inner Teleport",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2618,
+            "name": "Luna's Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2809,
+            "name": "Spiral Tower Hole",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2864,
+            "name": "Under Blue Spiral Platform",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2807,
+            "name": "Spiral Tower Cross Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2849,
+            "name": "Through Spiral Loop",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2608,
+            "name": "Lower Main Tunnel",
             "order": 10,
             "passthrough": 0
         }

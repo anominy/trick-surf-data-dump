@@ -3,89 +3,100 @@
     "map_id": 12,
     "name": "Side By Side",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": "2024-01-06T21:54:06.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2024-01-06T21:54:06.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2596,
+            "name": "Main Boost Left",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2439,
+            "name": "Between Liquidator and roee",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2437,
+            "name": "Between Formal and roee",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2620,
+            "name": "Name Towers Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2858,
+            "name": "Top Spiral Stairs Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2857,
+            "name": "Top Spiral Stairs",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3111,
+            "name": "Over Spiral Tower Rail",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3116,
+            "name": "Red Spiral Platform Window",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3145,
+            "name": "Through Checkered Spiral Platform Window",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3105,
+            "name": "Lower Spiral Stairs Platform Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2779,
+            "name": "South Spiral Tower Entrance",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 3145,
+            "name": "Through Checkered Spiral Platform Window",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 2599,
+            "name": "Main Floor Block",
             "order": 13,
             "passthrough": 0
         }

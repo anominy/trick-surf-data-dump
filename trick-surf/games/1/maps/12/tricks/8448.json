@@ -3,84 +3,94 @@
     "map_id": 12,
     "name": "Greenpath",
     "date": "2023-12-02T20:22:06.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 10,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "10",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2723,
+            "name": "Right Back Pillar Beam",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2872,
+            "name": "Under Main Back Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2867,
+            "name": "Under Left Back Pillar Beam",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2830,
+            "name": "Surf Ramp Spine",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2868,
+            "name": "Under Left Front Pillar Beam",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2874,
+            "name": "Under Main Front Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2724,
+            "name": "Right Beam Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2996,
+            "name": "Over Right Beam Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2724,
+            "name": "Right Beam Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2885,
+            "name": "Under Right Front Pillar Beam",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2926,
+            "name": "White Corner",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2534,
+            "name": "Green-White Edge Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2531,
+            "name": "Green Corner Block",
             "order": 12,
             "passthrough": 0
         }

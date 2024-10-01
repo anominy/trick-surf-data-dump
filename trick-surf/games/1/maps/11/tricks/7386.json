@@ -3,64 +3,70 @@
     "map_id": 11,
     "name": "Enigma",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-19T22:21:23.000Z",
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": "2023-05-19T22:21:23.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 224,
-    "playersCompleted": 37,
-    "trick_sequence": [
+    "completions": "224",
+    "players_completed": "37",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2184,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2020,
+            "name": "The Curviest Boi",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2204,
+            "name": "Through granis Gap",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1791,
+            "name": "Big Drop In",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2286,
+            "name": "Above Fence North Front",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2285,
+            "name": "Above Fence North Back",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2088,
+            "name": "Letter S Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2046,
+            "name": "Under Logo Long",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1902,
+            "name": "Main TP Deck",
             "order": 8,
             "passthrough": 0
         }

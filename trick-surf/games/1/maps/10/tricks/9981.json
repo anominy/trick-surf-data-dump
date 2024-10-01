@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "lim(x->0)",
     "date": "2024-05-18T16:58:47.000Z",
-    "last_updated": null,
     "author": "riqzo",
     "author_id": 19822,
+    "last_updated": null,
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 18,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "18",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1593,
+            "name": "SE East Pillar 4",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 8,
             "passthrough": 0
         }

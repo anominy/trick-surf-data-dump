@@ -3,54 +3,58 @@
     "map_id": 3,
     "name": "Frozen's Bananasplit",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2023-02-06T05:39:40.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2023-02-06T05:39:40.000Z",
     "last_updated_author_id": 46,
     "active": 1,
-    "points": 275,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 35,
-    "playersCompleted": 21,
-    "trick_sequence": [
+    "completions": "36",
+    "players_completed": "23",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 271,
+            "name": "Supertop Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 270,
+            "name": "Supertop Push Water",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2304,
+            "name": "Supertop Slant",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 226,
+            "name": "Jailpillar Top",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 227,
+            "name": "Lower Main Water",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 6,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 7,
     "name": "Billy-bob Jibee-bob",
     "date": "2021-08-26T14:34:47.000Z",
-    "last_updated": "2022-05-19T09:43:34.000Z",
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": "2022-05-19T09:43:34.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 850,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 75,
-    "playersCompleted": 30,
-    "trick_sequence": [
+    "completions": "75",
+    "players_completed": "30",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 627,
+            "name": "Rifle Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 844,
+            "name": "Rifle Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 594,
+            "name": "Awp Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 600,
+            "name": "Behind Awp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 868,
+            "name": "Aug Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 628,
+            "name": "Scout Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 612,
+            "name": "Jail Lift",
             "order": 6,
             "passthrough": 0
         }

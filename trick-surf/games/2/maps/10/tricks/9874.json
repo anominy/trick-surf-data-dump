@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "Awkward start",
     "date": "2024-05-04T11:27:52.000Z",
-    "last_updated": null,
     "author": "moby vyk",
     "author_id": 22527,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1244,
+            "name": "C Sky East Lower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1196,
+            "name": "C Green Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1197,
+            "name": "C Green Ramp 2 Beams",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1637,
+            "name": "E Large Pillar Gap West 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1738,
+            "name": "E Large Pillar Gap NW",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 9,
             "passthrough": 0
         }

@@ -3,79 +3,88 @@
     "map_id": 11,
     "name": "The Trick Of All Time",
     "date": "2023-05-22T10:17:32.000Z",
-    "last_updated": "2024-06-26T14:19:22.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-06-26T14:19:22.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 1248,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1809,
+            "name": "Big Tramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1871,
+            "name": "Just A Floor",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1920,
+            "name": "N Tramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2021,
+            "name": "The Curviest Boi End Cap",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1943,
+            "name": "Random Cube",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2020,
+            "name": "The Curviest Boi",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 1832,
+            "name": "F Loop Kicker",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2113,
+            "name": "Rafter 5",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1835,
+            "name": "F Loop Shell",
             "order": 6,
             "passthrough": 1
         },
         {
             "trigger_id": 2195,
+            "name": "Facade's Beam 5",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2113,
+            "name": "Rafter 5",
             "order": 7,
             "passthrough": 1
         },
         {
             "trigger_id": 2164,
+            "name": "Window Bottom Ledge",
             "order": 8,
             "passthrough": 0
         }

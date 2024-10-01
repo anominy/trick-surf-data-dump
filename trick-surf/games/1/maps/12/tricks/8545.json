@@ -3,39 +3,40 @@
     "map_id": 12,
     "name": "Are We There Yet?",
     "date": "2023-12-20T03:44:00.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 141,
-    "playersCompleted": 20,
-    "trick_sequence": [
+    "completions": "141",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2800,
+            "name": "Spiral Name Connector",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2565,
+            "name": "Left Name Towers Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2600,
+            "name": "Main In-Ground Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2608,
+            "name": "Lower Main Tunnel",
             "order": 3,
             "passthrough": 0
         }

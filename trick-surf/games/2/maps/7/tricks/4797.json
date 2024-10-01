@@ -3,49 +3,52 @@
     "map_id": 7,
     "name": "Tip-Top Shape",
     "date": "2021-08-31T12:34:45.000Z",
-    "last_updated": "2022-05-19T09:43:59.000Z",
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": "2022-05-19T09:43:59.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 475,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 627,
+            "name": "Rifle Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 844,
+            "name": "Rifle Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 880,
+            "name": "Jail Top Tele",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 644,
+            "name": "Top Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 617,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 644,
+            "name": "Top Platform",
             "order": 5,
             "passthrough": 0
         }

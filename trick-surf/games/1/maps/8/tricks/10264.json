@@ -3,74 +3,82 @@
     "map_id": 8,
     "name": "Incomprehensible Flevin Rise",
     "date": "2024-06-15T00:49:39.000Z",
-    "last_updated": null,
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
+    "last_updated": null,
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1250,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "24",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 780,
+            "name": "Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 728,
+            "name": "Right Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 654,
+            "name": "Behind Long Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 764,
+            "name": "T2 Right Wing",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 690,
+            "name": "Jail Box 1",
             "order": 10,
             "passthrough": 0
         }

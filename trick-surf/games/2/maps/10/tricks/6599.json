@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Staying Low",
     "date": "2022-12-26T17:09:41.000Z",
-    "last_updated": null,
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1533,
+            "name": "S Fort Light Box",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1536,
+            "name": "S Fort Slant",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1206,
+            "name": "C Strip Lower",
             "order": 3,
             "passthrough": 0
         }

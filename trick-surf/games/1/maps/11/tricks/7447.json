@@ -3,49 +3,52 @@
     "map_id": 11,
     "name": "Expert",
     "date": "2023-04-18T22:17:46.000Z",
-    "last_updated": "2023-05-19T22:25:57.000Z",
     "author": "King",
     "author_id": 10,
+    "last_updated": "2023-05-19T22:25:57.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 15,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "15",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1893,
+            "name": "Main Floor Left",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2206,
+            "name": "Tucksy's Back Door",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2052,
+            "name": "Under Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1838,
+            "name": "Facade's Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2065,
+            "name": "W L Front Spine",
             "order": 5,
             "passthrough": 0
         }

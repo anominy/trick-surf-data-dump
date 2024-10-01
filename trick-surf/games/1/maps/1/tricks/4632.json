@@ -3,39 +3,40 @@
     "map_id": 1,
     "name": "Rise from 4th",
     "date": "2021-03-09T17:54:25.000Z",
-    "last_updated": "2021-08-16T20:51:27.000Z",
     "author": "sync",
     "author_id": 37,
+    "last_updated": "2021-08-16T20:51:27.000Z",
     "last_updated_author_id": 37,
     "active": 1,
-    "points": 2200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 67,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "75",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 48,
+            "name": "Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 19,
+            "name": "Deagle 4th",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 27,
+            "name": "Main Ramp Slant",
             "order": 3,
             "passthrough": 0
         }

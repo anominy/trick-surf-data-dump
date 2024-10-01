@@ -3,59 +3,64 @@
     "map_id": 11,
     "name": "Poor Rise",
     "date": "2023-07-21T17:31:04.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ٠ Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1938,
+            "name": "Poorly Rotated Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1937,
+            "name": "Poorly Rotated Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1997,
+            "name": "Skinny QP",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1833,
+            "name": "F Loop L Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2052,
+            "name": "Under Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1838,
+            "name": "Facade's Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1830,
+            "name": "F Loop Big Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1943,
+            "name": "Random Cube",
             "order": 7,
             "passthrough": 0
         }

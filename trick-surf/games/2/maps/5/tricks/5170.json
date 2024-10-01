@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Easy",
     "date": "2022-02-16T00:13:02.000Z",
-    "last_updated": "2022-08-26T19:07:23.000Z",
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": "2022-08-26T19:07:23.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 442,
+            "name": "Pillar Medium",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 405,
+            "name": "Back Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 444,
+            "name": "Pillar Small",
             "order": 2,
             "passthrough": 0
         }

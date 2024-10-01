@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "The Goldfish",
     "date": "2024-05-01T02:50:25.000Z",
-    "last_updated": "2024-05-01T02:57:37.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2024-05-01T02:57:37.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1180,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1626,
+            "name": "SW Grass Pillar Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1656,
+            "name": "SW Yellow Ramp 7",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1684,
+            "name": "W Short Tower Floor",
             "order": 2,
             "passthrough": 0
         }

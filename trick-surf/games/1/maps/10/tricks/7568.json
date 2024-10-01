@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Duck Dive",
     "date": "2023-05-18T08:49:44.000Z",
-    "last_updated": "2023-06-06T09:27:00.000Z",
     "author": "Peace Maker",
     "author_id": 1860,
+    "last_updated": "2023-06-06T09:27:00.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 69,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 407,
-    "playersCompleted": 83,
-    "trick_sequence": [
+    "completions": "407",
+    "players_completed": "85",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1234,
+            "name": "C Strip West Dark Box",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1764,
+            "name": "C Strip West Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2400,
+            "name": "SW Under Broken Pillar 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1640,
+            "name": "SW Purple Platform",
             "order": 5,
             "passthrough": 0
         }

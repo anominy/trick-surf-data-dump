@@ -3,59 +3,64 @@
     "map_id": 12,
     "name": "King didnt ask for this one but whos counting",
     "date": "2024-08-11T01:14:46.000Z",
-    "last_updated": null,
     "author": "Schewpid",
     "author_id": 25977,
+    "last_updated": null,
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 9,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "9",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2589,
+            "name": "Lower Pink Pool Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3091,
+            "name": "Center In-Ground Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3001,
+            "name": "Over Right Front Pillar Beam",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2724,
+            "name": "Right Beam Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2589,
+            "name": "Lower Pink Pool Ledge",
             "order": 7,
             "passthrough": 0
         }

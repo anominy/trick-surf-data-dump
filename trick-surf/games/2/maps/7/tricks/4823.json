@@ -3,84 +3,94 @@
     "map_id": 7,
     "name": "Long Way Back",
     "date": "2021-09-05T07:59:05.000Z",
-    "last_updated": null,
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 225,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 633,
+            "name": "Shotgun Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 631,
+            "name": "Shotgun Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 606,
+            "name": "Bent Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 857,
+            "name": "Rifle Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 594,
+            "name": "Awp Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 600,
+            "name": "Behind Awp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 868,
+            "name": "Aug Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 600,
+            "name": "Behind Awp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 594,
+            "name": "Awp Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 857,
+            "name": "Rifle Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 606,
+            "name": "Bent Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 631,
+            "name": "Shotgun Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 635,
+            "name": "Shotgun Platform",
             "order": 12,
             "passthrough": 0
         }

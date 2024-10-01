@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Cold Coffee",
     "date": "2022-11-23T13:25:49.000Z",
-    "last_updated": "2022-11-23T17:15:55.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2022-11-23T17:15:55.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 75,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 584,
-    "playersCompleted": 160,
-    "trick_sequence": [
+    "completions": "588",
+    "players_completed": "169",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1533,
+            "name": "S Fort Light Box",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1770,
+            "name": "C Strip Top Lower Pillar",
             "order": 6,
             "passthrough": 0
         }

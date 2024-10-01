@@ -3,79 +3,88 @@
     "map_id": 3,
     "name": "G-Spin to Lewed G4000 under shotty",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-19T18:24:03.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-19T18:24:03.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 31,
-    "playersCompleted": 23,
-    "trick_sequence": [
+    "completions": "32",
+    "players_completed": "25",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 928,
+            "name": "Over Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 927,
+            "name": "Under Spawn Divides",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 238,
+            "name": "Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 228,
+            "name": "Lower Shotgun",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 247,
+            "name": "Shotgun Divide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 226,
+            "name": "Jailpillar Top",
             "order": 9,
             "passthrough": 0
         }

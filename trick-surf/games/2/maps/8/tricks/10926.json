@@ -3,29 +3,28 @@
     "map_id": 8,
     "name": "Ankle Injury Strafes",
     "date": "2024-08-15T02:47:43.000Z",
-    "last_updated": "2024-08-24T02:28:40.000Z",
     "author": "Schewpid",
     "author_id": 25977,
+    "last_updated": "2024-08-24T02:28:40.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 661,
+            "name": "Bonus Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 718,
+            "name": "Mini Ramp Tip",
             "order": 1,
             "passthrough": 0
         }

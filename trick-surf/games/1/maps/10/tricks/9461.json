@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Phantom Glide",
     "date": "2024-04-01T01:37:38.000Z",
-    "last_updated": "2024-04-01T01:55:28.000Z",
     "author": "ScottEhh",
     "author_id": 9027,
+    "last_updated": "2024-04-01T01:55:28.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 40,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "40",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1277,
+            "name": "E Large Structure Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1496,
+            "name": "NW Undergrounds Entry Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1496,
+            "name": "NW Undergrounds Entry Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1750,
+            "name": "W Beam 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1634,
+            "name": "SW Orange Ramp 6",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1304,
+            "name": "E Upper Ground",
             "order": 7,
             "passthrough": 0
         }

@@ -3,34 +3,34 @@
     "map_id": 7,
     "name": "Rifle Yump",
     "date": "2021-08-28T06:30:24.000Z",
-    "last_updated": "2022-08-05T03:07:10.000Z",
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": "2022-08-05T03:07:10.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1700,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 314,
-    "playersCompleted": 29,
-    "trick_sequence": [
+    "completions": "314",
+    "players_completed": "29",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 611,
+            "name": "Jail",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 614,
+            "name": "Jail Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 626,
+            "name": "Rifle Top",
             "order": 2,
             "passthrough": 0
         }

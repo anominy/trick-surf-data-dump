@@ -3,34 +3,34 @@
     "map_id": 1,
     "name": "3rd under 2nd to awp",
     "date": "2020-12-22T00:00:00.000Z",
-    "last_updated": "2021-03-03T03:37:56.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2021-03-03T03:37:56.000Z",
     "last_updated_author_id": 5,
     "active": 1,
-    "points": 225,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 1040,
-    "playersCompleted": 125,
-    "trick_sequence": [
+    "completions": "1069",
+    "players_completed": "146",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 17,
+            "name": "Deagle 3rd",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 49,
+            "name": "Under 2nd",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1,
+            "name": "Awp Ramp",
             "order": 2,
             "passthrough": 0
         }

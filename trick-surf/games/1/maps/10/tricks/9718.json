@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Aimethyst",
     "date": "2024-04-21T06:54:03.000Z",
-    "last_updated": "2024-04-21T06:54:49.000Z",
     "author": "discount",
     "author_id": 5482,
+    "last_updated": "2024-04-21T06:54:49.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 46,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "46",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1495,
+            "name": "NW Undergrounds Entry East",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1340,
+            "name": "N Purple Ramp 4",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1351,
+            "name": "N Through High Beams Upper",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1325,
+            "name": "N High Beam Upper 1",
             "order": 4,
             "passthrough": 0
         }

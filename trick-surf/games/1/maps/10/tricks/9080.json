@@ -3,29 +3,28 @@
     "map_id": 10,
     "name": "Short Strafe Training Grounds",
     "date": "2024-02-25T01:38:12.000Z",
-    "last_updated": "2024-02-25T01:40:44.000Z",
     "author": "King",
     "author_id": 10,
+    "last_updated": "2024-02-25T01:40:44.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 3759,
-    "playersCompleted": 67,
-    "trick_sequence": [
+    "completions": "3900",
+    "players_completed": "81",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1470,
+            "name": "NW Park Ouma Block",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1464,
+            "name": "NW Park Bendy Corner",
             "order": 1,
             "passthrough": 0
         }

@@ -3,44 +3,46 @@
     "map_id": 1,
     "name": "T1000 Come Home",
     "date": "2020-12-22T00:00:00.000Z",
-    "last_updated": "2021-02-25T03:17:52.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2021-02-25T03:17:52.000Z",
     "last_updated_author_id": 5,
     "active": 1,
-    "points": 375,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 653,
-    "playersCompleted": 109,
-    "trick_sequence": [
+    "completions": "662",
+    "players_completed": "119",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 13,
+            "name": "Deagle 1st",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 46,
+            "name": "Thru Deagle 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 47,
+            "name": "Thru Deagle 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 48,
+            "name": "Top",
             "order": 4,
             "passthrough": 0
         }

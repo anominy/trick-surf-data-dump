@@ -3,64 +3,70 @@
     "map_id": 2,
     "name": "Monkey Attack",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 46,
-    "playersCompleted": 26,
-    "trick_sequence": [
+    "completions": "46",
+    "players_completed": "26",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 98,
+            "name": "Castle Shotgun Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 184,
+            "name": "Superramp Booster",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 186,
+            "name": "Superramp Sides",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 167,
+            "name": "Superhouse Floor 1 Window Front",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 164,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 97,
+            "name": "Castle Secret Room",
             "order": 8,
             "passthrough": 0
         }

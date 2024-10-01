@@ -3,79 +3,88 @@
     "map_id": 12,
     "name": "VVGREEN",
     "date": "2023-12-12T13:20:49.000Z",
-    "last_updated": "2023-12-18T05:40:47.000Z",
     "author": "lockedd",
     "author_id": 180,
+    "last_updated": "2023-12-18T05:40:47.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2950,
+            "name": "william's Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2730,
+            "name": "Right Name Towers Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2845,
+            "name": "Through Main Loop",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2475,
+            "name": "Center Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2847,
+            "name": "Through Pink Pool",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2948,
+            "name": "White-Red Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2511,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3073,
+            "name": "Pyramid Middle Ramp South",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2519,
+            "name": "Front Outer Color Star Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2484,
+            "name": "Color Star Hole",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2823,
+            "name": "Star Green Tunnel",
             "order": 11,
             "passthrough": 0
         }

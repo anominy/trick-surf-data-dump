@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Short and Sweet (like formal)",
     "date": "2024-03-17T01:40:00.000Z",
-    "last_updated": "2024-03-17T01:40:37.000Z",
     "author": "Kingaru",
     "author_id": 10,
+    "last_updated": "2024-03-17T01:40:37.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 37,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "37",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1770,
+            "name": "C Strip Top Lower Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1232,
+            "name": "C Strip Upper Dark Box",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1296,
+            "name": "E Small Structure Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1636,
+            "name": "E Large Pillar Gap West 1",
             "order": 4,
             "passthrough": 2
         }

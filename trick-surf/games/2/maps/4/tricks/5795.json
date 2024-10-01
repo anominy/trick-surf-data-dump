@@ -3,44 +3,46 @@
     "map_id": 4,
     "name": "Strafe King",
     "date": "2022-07-03T17:22:04.000Z",
-    "last_updated": "2022-07-03T20:48:33.000Z",
     "author": "KingYöshi",
     "author_id": 457,
+    "last_updated": "2022-07-03T20:48:33.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 291,
+            "name": "Bonus Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 358,
+            "name": "North Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 379,
+            "name": "Under Cannon Pillar Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 296,
+            "name": "Cannon Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 4,
             "passthrough": 0
         }

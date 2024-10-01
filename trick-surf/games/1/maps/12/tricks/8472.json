@@ -3,44 +3,46 @@
     "map_id": 12,
     "name": "Reach The Sky",
     "date": "2023-12-06T18:13:22.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 63,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "63",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2596,
+            "name": "Main Boost Left",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3034,
+            "name": "Through skyworld",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2953,
+            "name": "Lucy's Platform",
             "order": 4,
             "passthrough": 0
         }

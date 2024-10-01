@@ -3,59 +3,64 @@
     "map_id": 6,
     "name": "Amaya Jump",
     "date": "2022-03-03T18:00:00.000Z",
-    "last_updated": "2022-03-19T09:13:29.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-03-19T09:13:29.000Z",
     "last_updated_author_id": 91,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 510,
+            "name": "Checkered Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 538,
+            "name": "Main Ramp Slant Small",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 568,
+            "name": "Teleporter Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 508,
+            "name": "Bottom Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 577,
+            "name": "Top Water",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1019,
+            "name": "Top Water Push",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 558,
+            "name": "Sky Platform 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 559,
+            "name": "Sky Platform 3",
             "order": 6,
             "passthrough": 0
         }

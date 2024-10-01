@@ -3,79 +3,88 @@
     "map_id": 12,
     "name": "Falconer",
     "date": "2023-12-30T15:56:06.000Z",
-    "last_updated": "2023-12-30T16:07:19.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2023-12-30T16:07:19.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2479,
+            "name": "Center Sky Beams",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2624,
+            "name": "North Hanging Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2574,
+            "name": "Logo Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2807,
+            "name": "Spiral Tower Cross Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2655,
+            "name": "Over Red Spiral Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2779,
+            "name": "South Spiral Tower Entrance",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2807,
+            "name": "Spiral Tower Cross Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2922,
+            "name": "West Spiral Tower Entrance",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2779,
+            "name": "South Spiral Tower Entrance",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2937,
+            "name": "White Pool Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2844,
+            "name": "Through Logo Tunnel",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2904,
+            "name": "Vent Ramp Block",
             "order": 11,
             "passthrough": 0
         }

@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "Forlorn",
     "date": "2024-01-12T21:35:54.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ ٠ lockedd",
     "author_id": 180,
+    "last_updated": null,
     "last_updated_author_id": 180,
     "active": 1,
-    "points": 1150,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2620,
+            "name": "Name Towers Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2475,
+            "name": "Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2627,
+            "name": "North Inner Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2769,
+            "name": "South Inner Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2654,
+            "name": "Over Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3105,
+            "name": "Lower Spiral Stairs Platform Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2426,
+            "name": "Balu's Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3155,
+            "name": "Upper Main Tunnel Ramp",
             "order": 9,
             "passthrough": 0
         }

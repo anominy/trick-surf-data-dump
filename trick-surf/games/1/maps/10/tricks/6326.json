@@ -3,89 +3,100 @@
     "map_id": 10,
     "name": "foobtube",
     "date": "2022-11-03T18:38:56.000Z",
-    "last_updated": "2022-12-14T19:32:31.000Z",
     "author": "foob",
     "author_id": 21,
+    "last_updated": "2022-12-14T19:32:31.000Z",
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 23,
-    "playersCompleted": 18,
-    "trick_sequence": [
+    "completions": "24",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1452,
+            "name": "NW Jungle Foob Corner",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1439,
+            "name": "NW Black Ramp 2 Booster 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1496,
+            "name": "NW Undergrounds Entry Top",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1495,
+            "name": "NW Undergrounds Entry East",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1465,
+            "name": "NW Park Chipzy Corner",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1727,
+            "name": "C Undergrounds Entry West",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1192,
+            "name": "C Blue Ramp 6",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1726,
+            "name": "C Undergrounds Entry SW",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1236,
+            "name": "C Strip West Slant",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1500,
+            "name": "NW Undergrounds East Block",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1237,
+            "name": "C Strip West Slant Top",
             "order": 12,
             "passthrough": 1
         }

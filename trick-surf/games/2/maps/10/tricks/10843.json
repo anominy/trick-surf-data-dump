@@ -3,109 +3,124 @@
     "map_id": 10,
     "name": "Atlantis",
     "date": "2024-08-06T10:04:29.000Z",
-    "last_updated": "2024-08-06T10:05:42.000Z",
     "author": "deef",
     "author_id": 1363,
+    "last_updated": "2024-08-06T10:05:42.000Z",
     "last_updated_author_id": 1363,
     "active": 1,
-    "points": 1225,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1561,
+            "name": "SE Brown Ramp 2 Spine",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1734,
+            "name": "SE Large Pillar Gap West",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1583,
+            "name": "SE Large Pillar Gap North",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1562,
+            "name": "SE Brown Ramp 3",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 2209,
+            "name": "E Over High Platform",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1309,
+            "name": "E White Ramp 1 Platform",
             "order": 17,
             "passthrough": 0
         }

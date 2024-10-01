@@ -3,54 +3,58 @@
     "map_id": 6,
     "name": "Checkered Blonde to Window",
     "date": "2022-04-19T14:41:07.000Z",
-    "last_updated": "2022-04-20T16:02:47.000Z",
     "author": "dimy",
     "author_id": 174,
+    "last_updated": "2022-04-20T16:02:47.000Z",
     "last_updated_author_id": 174,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 97,
-    "playersCompleted": 40,
-    "trick_sequence": [
+    "completions": "97",
+    "players_completed": "40",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 563,
+            "name": "Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 511,
+            "name": "Checkered Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 571,
+            "name": "Through Wheel 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 511,
+            "name": "Checkered Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 566,
+            "name": "Spawn Window",
             "order": 6,
             "passthrough": 0
         }

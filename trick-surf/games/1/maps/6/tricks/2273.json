@@ -3,39 +3,40 @@
     "map_id": 6,
     "name": "Hard Fallback",
     "date": "2022-03-03T18:00:00.000Z",
-    "last_updated": "2022-05-19T09:51:38.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-05-19T09:51:38.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 147,
-    "playersCompleted": 22,
-    "trick_sequence": [
+    "completions": "147",
+    "players_completed": "22",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 556,
+            "name": "Shotgun Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 555,
+            "name": "Shotgun Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 532,
+            "name": "Left Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 488,
+            "name": "Arrow Ramp",
             "order": 3,
             "passthrough": 0
         }

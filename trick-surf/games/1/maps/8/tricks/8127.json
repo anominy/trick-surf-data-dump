@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Water Jump",
     "date": "2023-10-21T14:50:42.000Z",
-    "last_updated": "2023-10-26T19:46:20.000Z",
     "author": "Aux",
     "author_id": 14724,
+    "last_updated": "2023-10-26T19:46:20.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 127,
-    "playersCompleted": 25,
-    "trick_sequence": [
+    "completions": "127",
+    "players_completed": "25",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 771,
+            "name": "Telepad Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 664,
+            "name": "CT Scout Pad",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 781,
+            "name": "Tower Run-up Water",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 758,
+            "name": "T2 Big Water",
             "order": 3,
             "passthrough": 0
         }

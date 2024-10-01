@@ -3,54 +3,58 @@
     "map_id": 1,
     "name": "6666",
     "date": "2020-12-22T00:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 491,
-    "playersCompleted": 46,
-    "trick_sequence": [
+    "completions": "491",
+    "players_completed": "48",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 23,
+            "name": "Deagle 6th",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 28,
+            "name": "Map Divide",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 23,
+            "name": "Deagle 6th",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 28,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 23,
+            "name": "Deagle 6th",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 28,
+            "name": "Map Divide",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 23,
+            "name": "Deagle 6th",
             "order": 6,
             "passthrough": 0
         }

@@ -3,39 +3,40 @@
     "map_id": 11,
     "name": "Curvy Caps",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-19T22:05:24.000Z",
     "author": "IrynStyl",
     "author_id": 2076,
+    "last_updated": "2023-05-19T22:05:24.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1975,
+            "name": "S Upper Catwalk",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1964,
+            "name": "S Side Curvy Boi",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1948,
+            "name": "S Curvy Boi Left",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1965,
+            "name": "S Side Curvy Boi End Cap",
             "order": 3,
             "passthrough": 0
         }

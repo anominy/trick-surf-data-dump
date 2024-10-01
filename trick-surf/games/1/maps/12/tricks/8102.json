@@ -3,84 +3,94 @@
     "map_id": 12,
     "name": "Reborn",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": "2023-11-08T13:55:03.000Z",
     "author": "зима",
     "author_id": 406,
+    "last_updated": "2023-11-08T13:55:03.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 19,
-    "playersCompleted": 13,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2597,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2565,
+            "name": "Left Name Towers Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2845,
+            "name": "Through Main Loop",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2430,
+            "name": "Behind Logo Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2449,
+            "name": "Between Pyramid Middle Pillars West",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2555,
+            "name": "Isosceles Trapezium Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2686,
+            "name": "Purple-Green Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2521,
+            "name": "Front Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2717,
+            "name": "Red Spiral Platform",
             "order": 12,
             "passthrough": 0
         }

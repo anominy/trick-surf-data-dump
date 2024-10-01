@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "Third Times a Charm",
     "date": "2024-06-11T02:02:11.000Z",
-    "last_updated": "2024-06-13T00:06:29.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-06-13T00:06:29.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1587,
+            "name": "SE Orange Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1671,
+            "name": "W Orange Ramp 5 Spine",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1612,
+            "name": "SW Broken Pillar Slant 2",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1215,
+            "name": "C Strip",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2231,
+            "name": "SW Between Broken Pillars",
             "order": 10,
             "passthrough": 2
         }

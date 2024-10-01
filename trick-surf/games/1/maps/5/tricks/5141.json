@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Slant Launch",
     "date": "2022-02-08T06:57:13.000Z",
-    "last_updated": "2022-11-03T01:08:54.000Z",
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": "2022-11-03T01:08:54.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 133,
-    "playersCompleted": 18,
-    "trick_sequence": [
+    "completions": "133",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 417,
+            "name": "Butter Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 909,
+            "name": "North Spawn Tele Slants",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 460,
+            "name": "Spine Ramp Slant",
             "order": 2,
             "passthrough": 0
         }

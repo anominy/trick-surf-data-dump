@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Trolleripalats",
     "date": "2024-02-15T07:38:52.000Z",
-    "last_updated": "2024-02-15T13:58:33.000Z",
     "author": "Oscar",
     "author_id": 1554,
+    "last_updated": "2024-02-15T13:58:33.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1240,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 2,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "3",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1493,
+            "name": "NW Teal Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1345,
+            "name": "N Teal Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1384,
+            "name": "N White Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1384,
+            "name": "N White Ramp 5",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1385,
+            "name": "N White Ramp 5 Platform",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1319,
+            "name": "N High Beam Lower 1",
             "order": 10,
             "passthrough": 0
         }

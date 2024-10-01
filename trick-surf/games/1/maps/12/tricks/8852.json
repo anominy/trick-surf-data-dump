@@ -3,99 +3,112 @@
     "map_id": 12,
     "name": "Scintillating Durian",
     "date": "2024-01-19T20:54:09.000Z",
-    "last_updated": "2024-01-20T11:41:15.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-01-20T11:41:15.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 450,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 6,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2804,
+            "name": "Spiral Pool Shelf",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2812,
+            "name": "Spiral Tower Middle Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2811,
+            "name": "Spiral Tower Middle",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2617,
+            "name": "Middle Spiral Stairs Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2414,
+            "name": "Anti Grav Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2807,
+            "name": "Spiral Tower Cross Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2779,
+            "name": "South Spiral Tower Entrance",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2649,
+            "name": "Over Blue Spiral Platform",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2590,
+            "name": "Lower Spiral Stairs",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2591,
+            "name": "Lower Spiral Stairs Platform",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2558,
+            "name": "Left Back Pillar Beam",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2500,
+            "name": "East Inner Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2912,
+            "name": "West Inner Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 3149,
+            "name": "Under West Spiral Grav Beam",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 2797,
+            "name": "Spiral Grassbed",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 2831,
+            "name": "Through Anti Grav Supports",
             "order": 14,
             "passthrough": 2
         }

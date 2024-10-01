@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Blind Date with King",
     "date": "2023-06-23T05:02:34.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ٠ King",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1125,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1770,
+            "name": "C Strip Top Lower Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1634,
+            "name": "SW Orange Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1465,
+            "name": "NW Park Chipzy Corner",
             "order": 7,
             "passthrough": 0
         }

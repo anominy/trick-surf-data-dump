@@ -3,74 +3,82 @@
     "map_id": 8,
     "name": "Black Rose",
     "date": "2022-05-11T22:04:21.000Z",
-    "last_updated": "2022-05-17T22:25:46.000Z",
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": "2022-05-17T22:25:46.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 47,
-    "playersCompleted": 24,
-    "trick_sequence": [
+    "completions": "47",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 737,
+            "name": "Side Spawn Upper Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 734,
+            "name": "Side Spawn Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 656,
+            "name": "Behind Tower",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 737,
+            "name": "Side Spawn Upper Platform",
             "order": 10,
             "passthrough": 0
         }

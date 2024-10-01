@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Rock Bottom",
     "date": "2024-04-12T00:44:32.000Z",
-    "last_updated": "2024-04-12T00:57:51.000Z",
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
+    "last_updated": "2024-04-12T00:57:51.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": 5,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 112,
-    "playersCompleted": 25,
-    "trick_sequence": [
+    "completions": "112",
+    "players_completed": "26",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 655,
+            "name": "Behind Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         }

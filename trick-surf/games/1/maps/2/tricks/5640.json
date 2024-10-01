@@ -3,69 +3,76 @@
     "map_id": 2,
     "name": "Bee",
     "date": "2022-06-08T22:55:16.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 550,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 22,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "22",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 154,
+            "name": "Spawn Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 128,
+            "name": "House 1 Floor 1 Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 136,
+            "name": "House 2 Floor 1 Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 79,
+            "name": "Castle Front Ledge",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 82,
+            "name": "Castle Gap",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 84,
+            "name": "Castle House Ramp",
             "order": 9,
             "passthrough": 0
         }

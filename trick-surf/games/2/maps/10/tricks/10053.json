@@ -3,89 +3,100 @@
     "map_id": 10,
     "name": "short sly hop",
     "date": "2024-05-28T07:48:36.000Z",
-    "last_updated": "2024-05-28T08:38:20.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-05-28T08:38:20.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 11,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1300,
+            "name": "E Teal Ramp 4 Spine",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1300,
+            "name": "E Teal Ramp 4 Spine",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1245,
+            "name": "C Sky Roof",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1245,
+            "name": "C Sky Roof",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1245,
+            "name": "C Sky Roof",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1461,
+            "name": "NW Jungle MB Beam",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1506,
+            "name": "NW West Pillar Middle",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1460,
+            "name": "NW Park Roof",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1236,
+            "name": "C Strip West Slant",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1266,
+            "name": "E Brown Platform",
             "order": 13,
             "passthrough": 0
         }

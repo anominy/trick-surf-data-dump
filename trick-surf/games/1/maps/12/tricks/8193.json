@@ -3,49 +3,52 @@
     "map_id": 12,
     "name": "Lord Of The Rings",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": null,
     "author": "rec",
     "author_id": 1107,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 10,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "10",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2544,
+            "name": "Hanging Loop",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2602,
+            "name": "Main Loop",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2799,
+            "name": "Spiral Loop",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2485,
+            "name": "Color Star Loop",
             "order": 5,
             "passthrough": 0
         }

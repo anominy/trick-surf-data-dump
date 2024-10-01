@@ -3,39 +3,40 @@
     "map_id": 12,
     "name": "Watch Your Head",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": "2023-11-08T15:58:17.000Z",
     "author": "ᴛꜱ٠ Arzt",
     "author_id": 190,
+    "last_updated": "2023-11-08T15:58:17.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 76,
-    "playersCompleted": 27,
-    "trick_sequence": [
+    "completions": "77",
+    "players_completed": "29",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2939,
+            "name": "White Pool Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2937,
+            "name": "White Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2874,
+            "name": "Under Main Front Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2517,
+            "name": "Front Main Pillar",
             "order": 3,
             "passthrough": 0
         }

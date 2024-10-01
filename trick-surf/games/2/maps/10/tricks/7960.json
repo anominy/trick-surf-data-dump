@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Boarding Doctorate",
     "date": "2023-08-22T12:55:05.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ ٠ Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 174,
     "active": 1,
-    "points": 1315,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1307,
+            "name": "E White Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1731,
+            "name": "E Under White Beams",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1286,
+            "name": "E Red Ramp 4",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 6,
             "passthrough": 0
         }

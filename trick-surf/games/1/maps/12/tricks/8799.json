@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "Womp",
     "date": "2024-01-15T01:05:23.000Z",
-    "last_updated": "2024-01-15T01:07:28.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2024-01-15T01:07:28.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 64,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "64",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2581,
+            "name": "Logo Window Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2580,
+            "name": "Logo Window",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2870,
+            "name": "Under Logo Ramp Floor",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2563,
+            "name": "Right Logo Teleporter Boost",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2564,
+            "name": "Right Logo Teleporter Slide",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2562,
+            "name": "Right Logo Teleporter",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2912,
+            "name": "West Inner Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2553,
+            "name": "Inner Teleport Platform",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2500,
+            "name": "East Inner Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2599,
+            "name": "Main Floor Block",
             "order": 9,
             "passthrough": 0
         }

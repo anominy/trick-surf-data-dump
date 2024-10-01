@@ -3,84 +3,94 @@
     "map_id": 3,
     "name": "Ownd's Slant",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-07T22:49:17.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-07T22:49:17.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 16,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "16",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 267,
+            "name": "Supertop",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 268,
+            "name": "Supertop Push",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 268,
+            "name": "Supertop Push",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 5,
             "passthrough": 1
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 239,
+            "name": "Ramp 1 Slant South",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 241,
+            "name": "Ramp 3 Slant South",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 11,
             "passthrough": 0
         }

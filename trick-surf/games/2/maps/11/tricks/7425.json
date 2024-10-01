@@ -3,79 +3,88 @@
     "map_id": 11,
     "name": "Cannonball",
     "date": "2023-04-17T18:00:34.000Z",
-    "last_updated": "2023-04-17T18:18:48.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-04-17T18:18:48.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 675,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1815,
+            "name": "Bottom Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2108,
+            "name": "Pre Loop Base",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2152,
+            "name": "U Curvy Boi Spine",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2014,
+            "name": "Seriously",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1920,
+            "name": "N Tramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2020,
+            "name": "The Curviest Boi",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2041,
+            "name": "U Tunnel Floor",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1790,
+            "name": "Big Curvy Thing",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2147,
+            "name": "Through Loop",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1815,
+            "name": "Bottom Floor",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1866,
+            "name": "Horse Main QP",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2118,
+            "name": "Rafter 10",
             "order": 11,
             "passthrough": 0
         }

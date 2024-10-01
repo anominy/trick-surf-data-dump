@@ -3,124 +3,142 @@
     "map_id": 11,
     "name": "Counting Sheep",
     "date": "2023-05-11T09:28:59.000Z",
-    "last_updated": "2023-06-30T21:24:16.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-06-30T21:24:16.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1923,
+            "name": "N Tramp Railing Deck",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1920,
+            "name": "N Tramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2014,
+            "name": "Seriously",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1784,
+            "name": "Another Curvy Boi",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1791,
+            "name": "Big Drop In",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2290,
+            "name": "Big H Curvy Boi Out",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 2285,
+            "name": "Above Fence North Back",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1791,
+            "name": "Big Drop In",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1784,
+            "name": "Another Curvy Boi",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2290,
+            "name": "Big H Curvy Boi Out",
             "order": 7,
             "passthrough": 1
         },
         {
             "trigger_id": 2388,
+            "name": "Undersplat S",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2022,
+            "name": "The Longest Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1846,
+            "name": "Fence Hump",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2046,
+            "name": "Under Logo Long",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2048,
+            "name": "Under Logo Long Spine",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1899,
+            "name": "Main Roller",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1999,
+            "name": "Slanterino",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 2284,
+            "name": "Above Fence South Front",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1987,
+            "name": "SHORTCUT Floor",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 2283,
+            "name": "Above Fence South Back",
             "order": 17,
             "passthrough": 2
         }

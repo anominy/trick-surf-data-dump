@@ -3,74 +3,82 @@
     "map_id": 3,
     "name": "Chairman",
     "date": "2024-01-21T23:15:27.000Z",
-    "last_updated": null,
     "author": "ANC Chairman",
     "author_id": 15261,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 2200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 280,
+            "name": "Under Stairs",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 218,
+            "name": "Jail Ceiling Water",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 914,
+            "name": "Jail Teleporter Platform Ladder",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 9,
             "passthrough": 1
         }

@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "L0V30NY0UAND0N1Y4Y0U",
     "date": "2024-06-24T15:15:15.000Z",
-    "last_updated": null,
     "author": "neposeda",
     "author_id": 10483,
+    "last_updated": null,
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 685,
+            "name": "Healbot Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 767,
+            "name": "T2 Top Right Block",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1042,
+            "name": "T2 Bottom Right Block",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 728,
+            "name": "Right Wing",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3215,
+            "name": "Spawn Divide Top",
             "order": 5,
             "passthrough": 0
         }

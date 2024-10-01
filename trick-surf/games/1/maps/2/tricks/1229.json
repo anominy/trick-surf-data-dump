@@ -3,84 +3,94 @@
     "map_id": 2,
     "name": "Mac n' Cheese With Bacon",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 94,
-    "playersCompleted": 35,
-    "trick_sequence": [
+    "completions": "94",
+    "players_completed": "35",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 155,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 127,
+            "name": "House 1 Floor",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 76,
+            "name": "Bridge 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 135,
+            "name": "House 2 Floor",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 77,
+            "name": "Bridge 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 135,
+            "name": "House 2 Floor",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 76,
+            "name": "Bridge 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 127,
+            "name": "House 1 Floor",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 75,
+            "name": "Bridge 1",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 127,
+            "name": "House 1 Floor",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 76,
+            "name": "Bridge 2",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 135,
+            "name": "House 2 Floor",
             "order": 12,
             "passthrough": 0
         }

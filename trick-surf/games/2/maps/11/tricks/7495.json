@@ -3,59 +3,64 @@
     "map_id": 11,
     "name": "Bitter Almonds",
     "date": "2023-04-27T20:13:29.000Z",
-    "last_updated": "2023-04-28T20:34:57.000Z",
     "author": "discount",
     "author_id": 5482,
+    "last_updated": "2023-04-28T20:34:57.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1895,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1898,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2207,
+            "name": "Tucksy's Front Hole",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2284,
+            "name": "Above Fence South Front",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2283,
+            "name": "Above Fence South Back",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1796,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2009,
+            "name": "Spinerino",
             "order": 7,
             "passthrough": 0
         }

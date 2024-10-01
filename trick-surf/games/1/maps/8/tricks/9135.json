@@ -3,54 +3,58 @@
     "map_id": 8,
     "name": "Double Quarter Pounder",
     "date": "2024-03-02T21:55:27.000Z",
-    "last_updated": "2024-03-02T21:59:08.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-03-02T21:59:08.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 925,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 14,
-    "playersCompleted": 13,
-    "trick_sequence": [
+    "completions": "14",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 741,
+            "name": "Spawn Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 683,
+            "name": "Hamburger",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 683,
+            "name": "Hamburger",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1027,
+            "name": "Hamburger Tip",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 768,
+            "name": "T2 Tower Platform",
             "order": 5,
             "passthrough": 0
         }

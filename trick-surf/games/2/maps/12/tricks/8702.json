@@ -3,84 +3,94 @@
     "map_id": 12,
     "name": "Melancholy Of An Angel",
     "date": "2024-01-04T21:35:43.000Z",
-    "last_updated": "2024-01-04T21:45:12.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-01-04T21:45:12.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2597,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2440,
+            "name": "Between Liquidator and william",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2738,
+            "name": "Sky Orange Name Connector",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2545,
+            "name": "Hanging Sky Orange Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3014,
+            "name": "Left Gravity Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2929,
+            "name": "Right White Tower Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2772,
+            "name": "South Sewer Grate Teleporter",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2430,
+            "name": "Behind Logo Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3058,
+            "name": "Pyramid Main Ramp South",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2503,
+            "name": "East Sewer Grate Teleporter",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2618,
+            "name": "Luna's Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 3132,
+            "name": "Spiral Corner Platform Level 4",
             "order": 12,
             "passthrough": 0
         }

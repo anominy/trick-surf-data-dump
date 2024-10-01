@@ -3,59 +3,64 @@
     "map_id": 11,
     "name": "Wiggle Room",
     "date": "2023-07-11T14:18:50.000Z",
-    "last_updated": "2023-07-11T14:19:31.000Z",
     "author": "ᴛꜱ٠ Xiao",
     "author_id": 103,
+    "last_updated": "2023-07-11T14:19:31.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1871,
+            "name": "Just A Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2071,
+            "name": "Yet Another Ledge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1857,
+            "name": "Half Pipe Left Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2070,
+            "name": "Wide Ledge",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2050,
+            "name": "Under Logo Right Side",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1784,
+            "name": "Another Curvy Boi",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2004,
+            "name": "Smol H Curvy Boi",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2029,
+            "name": "Tape Supports",
             "order": 7,
             "passthrough": 0
         }

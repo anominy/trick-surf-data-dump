@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "Solari",
     "date": "2023-09-26T20:50:43.000Z",
-    "last_updated": "2024-06-30T03:27:50.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-06-30T03:27:50.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1450,
+    "ranked": 1,
     "tier": 9,
-    "min_velocity": null,
+    "points": 4500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 2,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "2",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1415,
+            "name": "NE Upper Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1409,
+            "name": "NE Red Ramp 5",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1431,
+            "name": "NE White Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1400,
+            "name": "NE Green Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1266,
+            "name": "E Brown Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1753,
+            "name": "E Brown Teleporter",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1280,
+            "name": "E East Ledge",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2211,
+            "name": "E Under High Platform",
             "order": 7,
             "passthrough": 2
         },
         {
             "trigger_id": 1562,
+            "name": "SE Brown Ramp 3",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1280,
+            "name": "E East Ledge",
             "order": 10,
             "passthrough": 0
         }

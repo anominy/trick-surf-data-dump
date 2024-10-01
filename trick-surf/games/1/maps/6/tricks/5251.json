@@ -3,44 +3,46 @@
     "map_id": 6,
     "name": "Brunette over Fence",
     "date": "2022-03-10T16:02:21.000Z",
-    "last_updated": "2024-01-07T16:45:41.000Z",
     "author": "ᴛꜱ٠ Frag",
     "author_id": 1,
+    "last_updated": "2024-01-07T16:45:41.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 3000,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 29,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "29",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 563,
+            "name": "Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 541,
+            "name": "Over Fence",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1007,
+            "name": "Top Sides",
             "order": 4,
             "passthrough": 0
         }

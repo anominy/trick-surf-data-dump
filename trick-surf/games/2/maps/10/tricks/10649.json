@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Ultimate Trick",
     "date": "2024-07-16T06:13:03.000Z",
-    "last_updated": "2024-07-16T06:13:41.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2024-07-16T06:13:41.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1719,
+            "name": "W West Pillar Upper",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1720,
+            "name": "W Yellow Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1718,
+            "name": "W West Pillar Lower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1456,
+            "name": "NW Ground",
             "order": 3,
             "passthrough": 0
         }

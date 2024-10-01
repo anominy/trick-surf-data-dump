@@ -3,69 +3,76 @@
     "map_id": 8,
     "name": "Facade Step-Up",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-13T20:49:33.000Z",
     "author": "Façade",
     "author_id": 2,
+    "last_updated": "2023-10-13T20:49:33.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 696,
+            "name": "Jail Wall",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 776,
+            "name": "Through T2 Front Right",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 774,
+            "name": "Through T2 Back Right",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 738,
+            "name": "Ski Sign",
             "order": 9,
             "passthrough": 0
         }

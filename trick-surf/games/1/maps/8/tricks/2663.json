@@ -3,34 +3,34 @@
     "map_id": 8,
     "name": "Golden Glider",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-15T00:44:20.000Z",
     "author": "bog",
     "author_id": 131,
+    "last_updated": "2023-10-15T00:44:20.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 1046,
-    "playersCompleted": 199,
-    "trick_sequence": [
+    "completions": "1048",
+    "players_completed": "227",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 747,
+            "name": "T-Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 771,
+            "name": "Telepad Water",
             "order": 2,
             "passthrough": 0
         }

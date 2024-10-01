@@ -3,134 +3,154 @@
     "map_id": 10,
     "name": ":3 Hops",
     "date": "2024-05-29T02:41:59.000Z",
-    "last_updated": "2024-05-29T02:45:03.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-05-29T02:45:03.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 13,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1585,
+            "name": "SE Large Structure Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1542,
+            "name": "S Yellow Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1544,
+            "name": "S Yellow Ramp 8 Spine",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1655,
+            "name": "SW Yellow Ramp 6 Spine",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3181,
+            "name": "N Through Brown Pipe",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1379,
+            "name": "N White Platform",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1755,
+            "name": "N White Teleporter",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1314,
+            "name": "N Blue Platform",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1738,
+            "name": "E Large Pillar Gap NW",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1225,
+            "name": "C Strip Top Beam",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1307,
+            "name": "E White Platform",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 1208,
+            "name": "C Orange Ramp 2 Spine",
             "order": 20,
             "passthrough": 0
         },
         {
             "trigger_id": 3196,
+            "name": "W Large Pillar Gap East 1",
             "order": 21,
             "passthrough": 0
         },
         {
             "trigger_id": 1779,
+            "name": "W Lower Ground",
             "order": 22,
             "passthrough": 0
         }

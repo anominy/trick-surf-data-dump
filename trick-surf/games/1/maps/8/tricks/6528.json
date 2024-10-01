@@ -3,69 +3,76 @@
     "map_id": 8,
     "name": "KingYoshi's Bonus Whop Rise Rebound",
     "date": "2022-12-12T22:49:16.000Z",
-    "last_updated": "2022-12-14T19:43:26.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2022-12-14T19:43:26.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 774,
+            "name": "Through T2 Back Right",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 776,
+            "name": "Through T2 Front Right",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 657,
+            "name": "Behind Spawn",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 784,
+            "name": "Triomino 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 660,
+            "name": "Bonus Cube",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 784,
+            "name": "Triomino 1",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 651,
+            "name": "Banana Slant",
             "order": 9,
             "passthrough": 0
         }

@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Oceanic Highlife",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2022-05-06T08:42:12.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-05-06T08:42:12.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 771,
+            "name": "Telepad Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 655,
+            "name": "Behind Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 660,
+            "name": "Bonus Cube",
             "order": 3,
             "passthrough": 0
         }

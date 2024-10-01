@@ -3,114 +3,130 @@
     "map_id": 10,
     "name": "Itami",
     "date": "2024-03-25T06:07:30.000Z",
-    "last_updated": "2024-06-17T08:48:33.000Z",
     "author": "deef",
     "author_id": 1363,
+    "last_updated": "2024-06-17T08:48:33.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 1240,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1289,
+            "name": "E Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 73,
+            "name": "C Lift Beams Bottom",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 73,
+            "name": "C Lift Beams Bottom",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2175,
+            "name": "NW Park Through Crack",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1384,
+            "name": "N White Ramp 5",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2220,
+            "name": "N Divider",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2210,
+            "name": "E Over White Beams",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2209,
+            "name": "E Over High Platform",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 2211,
+            "name": "E Under High Platform",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1636,
+            "name": "E Large Pillar Gap West 1",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 2208,
+            "name": "C Strip Top Over Beam",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1449,
+            "name": "NW Jungle Dimy Platform",
             "order": 18,
             "passthrough": 0
         }

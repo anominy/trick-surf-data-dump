@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Weird and Awkward",
     "date": "2024-02-22T07:27:48.000Z",
-    "last_updated": "2024-02-22T07:34:08.000Z",
     "author": "King",
     "author_id": 10,
+    "last_updated": "2024-02-22T07:34:08.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 925,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 14,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "14",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1646,
+            "name": "SW Upper Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1656,
+            "name": "SW Yellow Ramp 7",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1641,
+            "name": "SW Purple Ramp 6",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1304,
+            "name": "E Upper Ground",
             "order": 3,
             "passthrough": 0
         }

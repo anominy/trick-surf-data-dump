@@ -3,79 +3,88 @@
     "map_id": 8,
     "name": "Imaginary Island",
     "date": "2023-03-21T12:22:53.000Z",
-    "last_updated": "2024-02-06T17:39:47.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-02-06T17:39:47.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 44,
-    "playersCompleted": 29,
-    "trick_sequence": [
+    "completions": "45",
+    "players_completed": "30",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 742,
+            "name": "Spawn Roof Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 679,
+            "name": "Ground Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 722,
+            "name": "Over Banana Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 656,
+            "name": "Behind Tower",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 683,
+            "name": "Hamburger",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 743,
+            "name": "Sriracha",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 714,
+            "name": "Mario Room Teleporter",
             "order": 11,
             "passthrough": 0
         }

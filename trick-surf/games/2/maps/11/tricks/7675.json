@@ -3,49 +3,52 @@
     "map_id": 11,
     "name": "Secreter Hop",
     "date": "2023-06-09T18:18:56.000Z",
-    "last_updated": null,
     "author": "Miao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1895,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1898,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2044,
+            "name": "Under Logo Left Side",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1935,
+            "name": "Pre Loop Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1805,
+            "name": "Big Loop Side Ramp Right",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1982,
+            "name": "Secreter Tape Floor",
             "order": 5,
             "passthrough": 0
         }

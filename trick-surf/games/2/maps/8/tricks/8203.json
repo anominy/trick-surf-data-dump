@@ -3,79 +3,88 @@
     "map_id": 8,
     "name": "Tour 3",
     "date": "2023-10-27T20:53:34.000Z",
-    "last_updated": null,
     "author": "Aux",
     "author_id": 14724,
+    "last_updated": null,
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 680,
+            "name": "Gun Room",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 681,
+            "name": "Gun Room Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 743,
+            "name": "Sriracha",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 742,
+            "name": "Spawn Roof Water",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 728,
+            "name": "Right Wing",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 695,
+            "name": "Jail Teleporter",
             "order": 11,
             "passthrough": 0
         }

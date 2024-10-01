@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Pickle Wrap",
     "date": "2023-04-25T00:27:27.000Z",
-    "last_updated": null,
     "author": "Mr.Dragon",
     "author_id": 4821,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 39,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "39",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1461,
+            "name": "NW Jungle MB Beam",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1440,
+            "name": "NW Black Ramp 2 Booster 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1440,
+            "name": "NW Black Ramp 2 Booster 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1461,
+            "name": "NW Jungle MB Beam",
             "order": 5,
             "passthrough": 0
         }

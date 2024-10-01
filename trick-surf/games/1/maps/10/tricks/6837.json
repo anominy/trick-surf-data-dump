@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "Stage 6 Direct",
     "date": "2023-01-21T20:12:51.000Z",
-    "last_updated": null,
     "author": "william",
     "author_id": 347,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 65,
-    "playersCompleted": 42,
-    "trick_sequence": [
+    "completions": "65",
+    "players_completed": "42",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1479,
+            "name": "NW Purple Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1480,
+            "name": "NW Purple Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1340,
+            "name": "N Purple Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1337,
+            "name": "N Purple Jumppad",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1238,
+            "name": "C Purple Ramp 5",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1641,
+            "name": "SW Purple Ramp 6",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1761,
+            "name": "SW Purple Teleporter",
             "order": 8,
             "passthrough": 0
         }

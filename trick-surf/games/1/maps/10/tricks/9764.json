@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Skull Shattering Cruise",
     "date": "2024-04-25T17:04:22.000Z",
-    "last_updated": "2024-04-25T17:09:05.000Z",
     "author": "Paul",
     "author_id": 8969,
+    "last_updated": "2024-04-25T17:09:05.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1175,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 49,
-    "playersCompleted": 20,
-    "trick_sequence": [
+    "completions": "49",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1227,
+            "name": "NW Rooftops North Beam 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1480,
+            "name": "NW Purple Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2223,
+            "name": "NW West Wall South",
             "order": 3,
             "passthrough": 0
         }

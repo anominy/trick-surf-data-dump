@@ -3,64 +3,70 @@
     "map_id": 12,
     "name": "Open Arms Circuit",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": null,
     "author": "william",
     "author_id": 347,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 85,
-    "playersCompleted": 46,
-    "trick_sequence": [
+    "completions": "85",
+    "players_completed": "48",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2854,
+            "name": "Through Vent Anti Grav Support",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2409,
+            "name": "Anti Grav",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2410,
+            "name": "Anti Grav Booster",
             "order": 1,
             "passthrough": 1
         },
         {
             "trigger_id": 2432,
+            "name": "Behind Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2410,
+            "name": "Anti Grav Booster",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 2409,
+            "name": "Anti Grav",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2410,
+            "name": "Anti Grav Booster",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 2854,
+            "name": "Through Vent Anti Grav Support",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2410,
+            "name": "Anti Grav Booster",
             "order": 4,
             "passthrough": 1
         }

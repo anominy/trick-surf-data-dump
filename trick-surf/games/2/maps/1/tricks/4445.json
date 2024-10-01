@@ -3,49 +3,52 @@
     "map_id": 1,
     "name": "Lejos is a Puss",
     "date": "2020-12-22T00:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 2000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 39,
+            "name": "Pyramid Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 13,
+            "name": "Deagle 1st",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 46,
+            "name": "Thru Deagle 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 47,
+            "name": "Thru Deagle 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 5,
             "passthrough": 0
         }

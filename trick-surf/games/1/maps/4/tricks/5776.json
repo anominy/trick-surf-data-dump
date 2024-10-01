@@ -3,39 +3,40 @@
     "map_id": 4,
     "name": "Octane",
     "date": "2022-07-01T21:07:37.000Z",
-    "last_updated": null,
     "author": "Frag",
     "author_id": 1,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 127,
-    "playersCompleted": 46,
-    "trick_sequence": [
+    "completions": "127",
+    "players_completed": "46",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 330,
+            "name": "Stage 2 Upper Left Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 328,
+            "name": "Stage 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 400,
+            "name": "West Upper Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 333,
+            "name": "Stage 3 Platform",
             "order": 3,
             "passthrough": 0
         }

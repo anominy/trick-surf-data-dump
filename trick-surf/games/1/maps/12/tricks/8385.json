@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "Pyramid Scheming",
     "date": "2023-11-18T01:33:42.000Z",
-    "last_updated": "2023-12-18T05:27:04.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2023-12-18T05:27:04.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3063,
+            "name": "Pyramid Middle Corner North-East",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2702,
+            "name": "Pyramid Middle Ramp North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2549,
+            "name": "Inner Pyramid Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3077,
+            "name": "Pyramid Middle Ramp West",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3062,
+            "name": "Pyramid Main Ramp West",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3073,
+            "name": "Pyramid Middle Ramp South",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2549,
+            "name": "Inner Pyramid Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3072,
+            "name": "Pyramid Middle Ramp East",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3057,
+            "name": "Pyramid Main Ramp East",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2641,
+            "name": "North-East Pillar",
             "order": 9,
             "passthrough": 0
         }

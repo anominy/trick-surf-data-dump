@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Searching For Kass",
     "date": "2024-04-18T16:24:55.000Z",
-    "last_updated": null,
     "author": "Aux",
     "author_id": 14724,
+    "last_updated": null,
     "last_updated_author_id": 1363,
     "active": 1,
-    "points": 525,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 19,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1530,
+            "name": "S Fort Top Beam",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1238,
+            "name": "C Purple Ramp 5",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1230,
+            "name": "C Strip Top Upper Pillar",
             "order": 7,
             "passthrough": 0
         }

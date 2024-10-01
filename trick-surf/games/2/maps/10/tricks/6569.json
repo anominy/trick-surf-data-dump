@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Nyooooooom v8",
     "date": "2022-12-20T18:59:43.000Z",
-    "last_updated": null,
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1277,
+            "name": "E Large Structure Booster North",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2208,
+            "name": "C Strip Top Over Beam",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1326,
+            "name": "N High Beam Upper 2",
             "order": 7,
             "passthrough": 0
         }

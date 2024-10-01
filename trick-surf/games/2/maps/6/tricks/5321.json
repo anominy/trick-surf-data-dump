@@ -3,54 +3,58 @@
     "map_id": 6,
     "name": "Waahh!",
     "date": "2022-04-08T11:49:42.000Z",
-    "last_updated": "2022-04-10T15:09:31.000Z",
     "author": "dimy",
     "author_id": 174,
+    "last_updated": "2022-04-10T15:09:31.000Z",
     "last_updated_author_id": 174,
     "active": 1,
-    "points": 2000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 560,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 530,
+            "name": "Left Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 551,
+            "name": "Right Bottom Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 587,
+            "name": "Glass Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 530,
+            "name": "Left Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 525,
+            "name": "Jail Ramp",
             "order": 6,
             "passthrough": 0
         }

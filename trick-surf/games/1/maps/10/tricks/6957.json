@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Rookie",
     "date": "2023-02-06T11:53:30.000Z",
-    "last_updated": null,
     "author": "Kassihici",
     "author_id": 3123,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 480,
-    "playersCompleted": 93,
-    "trick_sequence": [
+    "completions": "480",
+    "players_completed": "98",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1513,
+            "name": "NW Yellow Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1514,
+            "name": "NW Yellow Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1516,
+            "name": "NW Yellow Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1518,
+            "name": "NW Yellow Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1665,
+            "name": "W Crane Platform",
             "order": 4,
             "passthrough": 0
         }

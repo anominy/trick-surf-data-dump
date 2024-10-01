@@ -3,114 +3,130 @@
     "map_id": 10,
     "name": "Te Amo Pepe",
     "date": "2023-07-28T07:01:36.000Z",
-    "last_updated": "2024-03-01T03:24:41.000Z",
     "author": "winter",
     "author_id": 406,
+    "last_updated": "2024-03-01T03:24:41.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1175,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 9,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1293,
+            "name": "E East Wall Lower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1286,
+            "name": "E Red Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1722,
+            "name": "E Red Slant",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1284,
+            "name": "E Red Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1268,
+            "name": "E Brown Ramp 4 Spine",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1284,
+            "name": "E Red Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1310,
+            "name": "E White Ramp 1 Spine",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1746,
+            "name": "E Through White Beams Bottom",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1303,
+            "name": "E Through White Beams",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1309,
+            "name": "E White Ramp 1 Platform",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1432,
+            "name": "NE White Ramp 2 Spine",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1406,
+            "name": "NE Ground Slant",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1397,
+            "name": "NE Funny Spinning Frog",
             "order": 18,
             "passthrough": 0
         }

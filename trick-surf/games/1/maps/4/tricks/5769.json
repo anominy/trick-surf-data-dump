@@ -3,59 +3,64 @@
     "map_id": 4,
     "name": "Huckleberry Circuit",
     "date": "2022-07-01T07:32:54.000Z",
-    "last_updated": "2023-03-21T13:16:13.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-03-21T13:16:13.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 45,
-    "playersCompleted": 27,
-    "trick_sequence": [
+    "completions": "45",
+    "players_completed": "27",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 330,
+            "name": "Stage 2 Upper Left Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 328,
+            "name": "Stage 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 400,
+            "name": "West Upper Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 384,
+            "name": "Under Red Circle",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 318,
+            "name": "In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 378,
+            "name": "Under Blue Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 288,
+            "name": "Blue Platform",
             "order": 7,
             "passthrough": 0
         }

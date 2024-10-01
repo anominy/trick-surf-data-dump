@@ -3,119 +3,136 @@
     "map_id": 10,
     "name": "Serendipity",
     "date": "2024-02-18T20:10:15.000Z",
-    "last_updated": "2024-03-01T03:11:17.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-03-01T03:11:17.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1068,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 9,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1713,
+            "name": "W Tower Vent Grate 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1673,
+            "name": "W Pink Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1665,
+            "name": "W Crane Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1689,
+            "name": "W Through Tower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1720,
+            "name": "W Yellow Ramp 4",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1718,
+            "name": "W West Pillar Lower",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1750,
+            "name": "W Beam 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3201,
+            "name": "W Large Pillar Gap West 2",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3198,
+            "name": "W Large Pillar Gap North 1",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3199,
+            "name": "W Large Pillar Gap North 2",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1189,
+            "name": "C Blue Platform",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1485,
+            "name": "NW Jungle Roee Corner",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1379,
+            "name": "N White Platform",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1755,
+            "name": "N White Teleporter",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1457,
+            "name": "NW Ground Slide",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1486,
+            "name": "NW Rooftops",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 19,
             "passthrough": 0
         }

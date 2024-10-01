@@ -3,59 +3,64 @@
     "map_id": 9,
     "name": "Roundabout to top",
     "date": "2023-03-19T21:11:40.000Z",
-    "last_updated": "2023-03-19T21:15:18.000Z",
     "author": "Dr Mulped",
     "author_id": 70,
+    "last_updated": "2023-03-19T21:15:18.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1235,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2346,
+            "name": "Top Boost",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2316,
+            "name": "HealBot Slant South",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 801,
+            "name": "HealBot Slant North",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 810,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 801,
+            "name": "HealBot Slant North",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2316,
+            "name": "HealBot Slant South",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 809,
+            "name": "Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 825,
+            "name": "Top Platform",
             "order": 7,
             "passthrough": 0
         }

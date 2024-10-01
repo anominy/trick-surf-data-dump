@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "Pavement",
     "date": "2022-12-20T08:27:30.000Z",
-    "last_updated": "2024-05-24T19:03:29.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-05-24T19:03:29.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 85,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1506,
+            "name": "NW West Pillar Middle",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1518,
+            "name": "NW Yellow Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1505,
+            "name": "NW West Pillar Lower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1718,
+            "name": "W West Pillar Lower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1720,
+            "name": "W Yellow Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1720,
+            "name": "W Yellow Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1718,
+            "name": "W West Pillar Lower",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1471,
+            "name": "NW Park Pills Block",
             "order": 8,
             "passthrough": 0
         }

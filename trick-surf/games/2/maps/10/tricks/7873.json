@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "Conociendo A Marcus",
     "date": "2023-07-26T23:58:20.000Z",
-    "last_updated": "2023-07-27T03:21:27.000Z",
     "author": "ᴛꜱ ٠ winter",
     "author_id": 406,
+    "last_updated": "2023-07-27T03:21:27.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 850,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 7,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1413,
+            "name": "NE Lower Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1323,
+            "name": "N High Platform Top",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2173,
+            "name": "N High Platform South",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1319,
+            "name": "N High Beam Lower 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1307,
+            "name": "E White Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1636,
+            "name": "E Large Pillar Gap West 1",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1504,
+            "name": "E Large Pillar Gap SW",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 11,
             "passthrough": 0
         }

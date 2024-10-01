@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "Lugubrious Rise",
     "date": "2022-10-09T19:18:14.000Z",
-    "last_updated": "2023-10-13T18:03:25.000Z",
     "author": "Нычка богрола",
     "author_id": 385,
+    "last_updated": "2023-10-13T18:03:25.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 14,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "14",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 738,
+            "name": "Ski Sign",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 710,
+            "name": "Center Wings",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 675,
+            "name": "Elevator Hole Platform",
             "order": 5,
             "passthrough": 0
         }

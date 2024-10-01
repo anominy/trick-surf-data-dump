@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "Sniper Training",
     "date": "2023-01-26T19:57:36.000Z",
-    "last_updated": null,
     "author": "blarb",
     "author_id": 1562,
+    "last_updated": null,
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1192,
+            "name": "C Blue Ramp 6",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1725,
+            "name": "C Undergrounds Entry NW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1378,
+            "name": "N Upper Ground Corner",
             "order": 2,
             "passthrough": 0
         }

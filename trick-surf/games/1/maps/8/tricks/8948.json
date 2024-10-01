@@ -3,74 +3,82 @@
     "map_id": 8,
     "name": "Apotheosis",
     "date": "2024-02-10T19:03:33.000Z",
-    "last_updated": "2024-02-10T19:06:55.000Z",
     "author": "ᴛꜱ٠ 0 synq_",
     "author_id": 6763,
+    "last_updated": "2024-02-10T19:06:55.000Z",
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 20,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "20",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 742,
+            "name": "Spawn Roof Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 679,
+            "name": "Ground Teleporter",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 678,
+            "name": "Fish Hook Wedge",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 774,
+            "name": "Through T2 Back Right",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 763,
+            "name": "T2 Right Hole",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 685,
+            "name": "Healbot Platform",
             "order": 10,
             "passthrough": 0
         }

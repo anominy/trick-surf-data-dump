@@ -3,44 +3,46 @@
     "map_id": 8,
     "name": "Phoon Hop",
     "date": "2022-10-09T13:46:57.000Z",
-    "last_updated": "2022-10-09T13:48:29.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2022-10-09T13:48:29.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 747,
+            "name": "T-Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 655,
+            "name": "Behind Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 737,
+            "name": "Side Spawn Upper Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 793,
+            "name": "Weapons Teleporter",
             "order": 4,
             "passthrough": 0
         }

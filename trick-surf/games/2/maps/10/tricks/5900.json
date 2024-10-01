@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "Corner Stop",
     "date": "2022-10-28T18:00:00.000Z",
-    "last_updated": null,
     "author": "pretzL & Friends",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1417,
+            "name": "NE Teal Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1354,
+            "name": "N Through Tower Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1192,
+            "name": "C Blue Ramp 6",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1726,
+            "name": "C Undergrounds Entry SW",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1616,
+            "name": "SW Corner Cubby",
             "order": 9,
             "passthrough": 0
         }

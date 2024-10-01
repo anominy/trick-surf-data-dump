@@ -3,89 +3,100 @@
     "map_id": 3,
     "name": "Ultra 0tecH's Rebound",
     "date": "2022-12-11T01:49:41.000Z",
-    "last_updated": "2022-12-16T20:28:40.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2022-12-16T20:28:40.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 3800,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 29,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "30",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 263,
+            "name": "Spawn Ceiling",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 262,
+            "name": "Spawn",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 223,
+            "name": "Jail Tele Top",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 208,
+            "name": "Box Water",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 226,
+            "name": "Jailpillar Top",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 13,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Elite Maybach",
     "date": "2022-10-30T19:20:18.000Z",
-    "last_updated": "2022-12-14T22:20:07.000Z",
     "author": "dim",
     "author_id": 174,
+    "last_updated": "2022-12-14T22:20:07.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1325,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1513,
+            "name": "NW Yellow Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1514,
+            "name": "NW Yellow Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1516,
+            "name": "NW Yellow Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1413,
+            "name": "NE Lower Rooftops",
             "order": 6,
             "passthrough": 0
         }

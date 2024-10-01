@@ -3,64 +3,70 @@
     "map_id": 6,
     "name": "Fat Fluffy Baby Pingu",
     "date": "2022-04-14T13:44:44.000Z",
-    "last_updated": null,
     "author": "ꐕ",
     "author_id": 91,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 560,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 511,
+            "name": "Checkered Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 571,
+            "name": "Through Wheel 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 572,
+            "name": "Through Wheel 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 530,
+            "name": "Left Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 542,
+            "name": "Over Main",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 501,
+            "name": "Black & Yellow Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 510,
+            "name": "Checkered Platform",
             "order": 8,
             "passthrough": 0
         }

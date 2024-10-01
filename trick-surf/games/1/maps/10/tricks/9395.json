@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Exultation",
     "date": "2024-03-27T01:11:14.000Z",
-    "last_updated": "2024-03-27T20:26:39.000Z",
     "author": "Kingaru",
     "author_id": 10,
+    "last_updated": "2024-03-27T20:26:39.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1300,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 2,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "2",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1458,
+            "name": "NW Ground Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1457,
+            "name": "NW Ground Slide",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1457,
+            "name": "NW Ground Slide",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1468,
+            "name": "NW Park JNS Wall",
             "order": 4,
             "passthrough": 0
         }

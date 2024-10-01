@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "Caution!",
     "date": "2023-06-03T15:03:30.000Z",
-    "last_updated": "2024-02-27T12:42:23.000Z",
     "author": "hunter",
     "author_id": 4820,
+    "last_updated": "2024-02-27T12:42:23.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1175,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 22,
-    "playersCompleted": 13,
-    "trick_sequence": [
+    "completions": "23",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1449,
+            "name": "NW Jungle Dimy Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1439,
+            "name": "NW Black Ramp 2 Booster 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1435,
+            "name": "NW Black Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1480,
+            "name": "NW Purple Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1454,
+            "name": "NW Jungle Ghost Block",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 6,
             "passthrough": 1
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1508,
+            "name": "NW West Wall Upper",
             "order": 8,
             "passthrough": 0
         }

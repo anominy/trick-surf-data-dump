@@ -3,84 +3,94 @@
     "map_id": 13,
     "name": "Mechanical Arm",
     "date": "2024-09-13T14:01:19.000Z",
-    "last_updated": "2024-09-13T14:20:47.000Z",
     "author": "influx",
     "author_id": 147,
+    "last_updated": "2024-09-13T14:20:47.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3517,
+            "name": "Turtle IBeam Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3528,
+            "name": "Turtle Ramp Slant",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3274,
+            "name": "Acid Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3519,
+            "name": "Turtle Inner Forward Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3522,
+            "name": "Turtle Inner Rear Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3587,
+            "name": "Through East Subway",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3436,
+            "name": "Subway Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3583,
+            "name": "Through West Subway",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3484,
+            "name": "Through South Turtle Inner",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3410,
+            "name": "Snorkel Left Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3464,
+            "name": "Through East Turtle Inner",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 3315,
+            "name": "Faucet Under Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 3292,
+            "name": "Convex Platform",
             "order": 12,
             "passthrough": 0
         }

@@ -3,29 +3,28 @@
     "map_id": 10,
     "name": "MOON v2",
     "date": "2022-12-06T02:36:20.000Z",
-    "last_updated": "2022-12-06T02:47:46.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2022-12-06T02:47:46.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 134,
-    "playersCompleted": 30,
-    "trick_sequence": [
+    "completions": "134",
+    "players_completed": "30",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1591,
+            "name": "SE East Pillar 2",
             "order": 1,
             "passthrough": 0
         }

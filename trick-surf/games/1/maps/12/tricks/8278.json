@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "Wannabe",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": null,
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 56,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "56",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2567,
+            "name": "Liquidator's Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2613,
+            "name": "mbsurfer's Jumppad",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2439,
+            "name": "Between Liquidator and roee",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2835,
+            "name": "Through Center Sky Supports",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2820,
+            "name": "Star Blue Tunnel Top",
             "order": 6,
             "passthrough": 0
         }

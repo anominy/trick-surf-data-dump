@@ -3,49 +3,52 @@
     "map_id": 6,
     "name": "Long Blonde To Window From Fence",
     "date": "2022-05-23T13:26:16.000Z",
-    "last_updated": "2022-05-23T13:28:10.000Z",
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": "2022-05-23T13:28:10.000Z",
     "last_updated_author_id": 181,
     "active": 1,
-    "points": 1750,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 517,
+            "name": "Fence",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 534,
+            "name": "Long Deagle Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 539,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 566,
+            "name": "Spawn Window",
             "order": 5,
             "passthrough": 0
         }

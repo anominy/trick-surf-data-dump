@@ -3,84 +3,94 @@
     "map_id": 4,
     "name": "Boris Bhops to Your Sister's House ",
     "date": "2022-07-10T09:20:10.000Z",
-    "last_updated": "2022-07-10T21:48:24.000Z",
     "author": "the boris",
     "author_id": 174,
+    "last_updated": "2022-07-10T21:48:24.000Z",
     "last_updated_author_id": 75,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1078,
+            "name": "Curved Corner North West Upper",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 292,
+            "name": "Bonus Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 358,
+            "name": "North Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 379,
+            "name": "Under Cannon Pillar Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 296,
+            "name": "Cannon Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 287,
+            "name": "Banister",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 363,
+            "name": "Platform Elbows",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 352,
+            "name": "Lower Ramp Entry North",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 392,
+            "name": "West Floor 1",
             "order": 12,
             "passthrough": 0
         }

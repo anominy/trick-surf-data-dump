@@ -3,64 +3,70 @@
     "map_id": 3,
     "name": "Green Is A Mad Scientist",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 203,
+            "name": "Behind V Wall",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 230,
+            "name": "Main Ramp Slant South",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 241,
+            "name": "Ramp 3 Slant South",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 230,
+            "name": "Main Ramp Slant South",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 8,
             "passthrough": 0
         }

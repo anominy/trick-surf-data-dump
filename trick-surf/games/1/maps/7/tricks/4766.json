@@ -3,29 +3,28 @@
     "map_id": 7,
     "name": "Target Strafe",
     "date": "2021-08-16T18:00:00.000Z",
-    "last_updated": "2021-08-31T12:04:27.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2021-08-31T12:04:27.000Z",
     "last_updated_author_id": 48,
     "active": 1,
-    "points": 40,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 736,
-    "playersCompleted": 79,
-    "trick_sequence": [
+    "completions": "746",
+    "players_completed": "92",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 633,
+            "name": "Shotgun Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 643,
+            "name": "Target",
             "order": 1,
             "passthrough": 0
         }

@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "Elevator",
     "date": "2022-12-06T11:54:25.000Z",
-    "last_updated": "2022-12-14T20:19:56.000Z",
     "author": "Kassihici",
     "author_id": 3123,
+    "last_updated": "2022-12-14T20:19:56.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 85,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 324,
-    "playersCompleted": 97,
-    "trick_sequence": [
+    "completions": "324",
+    "players_completed": "103",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1373,
+            "name": "N Tower Triangle 5",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1344,
+            "name": "N Teal Jumppad",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1373,
+            "name": "N Tower Triangle 5",
             "order": 2,
             "passthrough": 0
         }

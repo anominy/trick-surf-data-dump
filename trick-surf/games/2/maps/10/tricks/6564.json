@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "Trail of Ants",
     "date": "2022-12-20T18:11:31.000Z",
-    "last_updated": "2024-03-01T03:24:56.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2024-03-01T03:24:56.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1359,
+            "name": "N Tower Alley Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1347,
+            "name": "N Teal Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1344,
+            "name": "N Teal Jumppad",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1369,
+            "name": "N Tower Triangle 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1359,
+            "name": "N Tower Alley Top",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1387,
+            "name": "NE Black Ramp 3",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1283,
+            "name": "E Lower Ground",
             "order": 9,
             "passthrough": 0
         }

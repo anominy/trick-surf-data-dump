@@ -3,44 +3,46 @@
     "map_id": 5,
     "name": "Over The Rainbow",
     "date": "2022-02-26T15:19:02.000Z",
-    "last_updated": null,
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 68,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "69",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 473,
+            "name": "Top Pool",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 471,
+            "name": "Top Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 439,
+            "name": "Over Spawn",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 452,
+            "name": "South Pool",
             "order": 4,
             "passthrough": 0
         }

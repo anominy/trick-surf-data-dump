@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Chicken Teriyaki",
     "date": "2023-07-31T04:04:14.000Z",
-    "last_updated": "2023-08-04T10:22:48.000Z",
     "author": "ᴛꜱ ٠ winter",
     "author_id": 406,
+    "last_updated": "2023-08-04T10:22:48.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1090,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 8,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1666,
+            "name": "W Crane Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1663,
+            "name": "W Crane Box Pink Platform",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1765,
+            "name": "W Crane Box Booster North",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1314,
+            "name": "N Blue Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1602,
+            "name": "SE Spawn Floor",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1554,
+            "name": "SE Bonus 2 Teleporter",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1694,
+            "name": "W Tower Beams 4",
             "order": 10,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "Green Thumb",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": null,
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 136,
-    "playersCompleted": 28,
-    "trick_sequence": [
+    "completions": "136",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2940,
+            "name": "White Pool Roof Block",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2937,
+            "name": "White Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2626,
+            "name": "North Inner Entrance",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2627,
+            "name": "North Inner Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2769,
+            "name": "South Inner Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2768,
+            "name": "South Inner Entrance",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2797,
+            "name": "Spiral Grassbed",
             "order": 6,
             "passthrough": 0
         }

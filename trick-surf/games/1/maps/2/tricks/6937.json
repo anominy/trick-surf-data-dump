@@ -3,44 +3,46 @@
     "map_id": 2,
     "name": "Quick Rose",
     "date": "2023-02-03T06:51:15.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 222,
-    "playersCompleted": 40,
-    "trick_sequence": [
+    "completions": "222",
+    "players_completed": "41",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 88,
+            "name": "Castle Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 93,
+            "name": "Castle Push",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 83,
+            "name": "Castle House Platform",
             "order": 4,
             "passthrough": 0
         }

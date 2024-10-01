@@ -3,44 +3,46 @@
     "map_id": 3,
     "name": "Taane's Drop",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 20,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "20",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 223,
+            "name": "Jail Tele Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 273,
+            "name": "Top Tele Water",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 241,
+            "name": "Ramp 3 Slant South",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 227,
+            "name": "Lower Main Water",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 4,
             "passthrough": 0
         }

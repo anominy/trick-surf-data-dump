@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "Devil's Stage 1 Pro",
     "date": "2023-03-02T04:05:53.000Z",
-    "last_updated": "2023-03-02T05:14:44.000Z",
     "author": "pakdevil",
     "author_id": 2028,
+    "last_updated": "2023-03-02T05:14:44.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1562,
+            "name": "SE Brown Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1264,
+            "name": "E Brown Beam 1",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 11,
             "passthrough": 0
         }

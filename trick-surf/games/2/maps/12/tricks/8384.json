@@ -3,59 +3,64 @@
     "map_id": 12,
     "name": "Dichotomy",
     "date": "2023-11-18T01:30:55.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2723,
+            "name": "Right Back Pillar Beam",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2536,
+            "name": "Green-White Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2531,
+            "name": "Green Corner Block",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2534,
+            "name": "Green-White Edge Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2500,
+            "name": "East Inner Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2769,
+            "name": "South Inner Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2794,
+            "name": "Spiral Flower Pot",
             "order": 7,
             "passthrough": 0
         }

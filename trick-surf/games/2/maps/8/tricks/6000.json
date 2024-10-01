@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "Madexe",
     "date": "2022-08-17T23:13:14.000Z",
-    "last_updated": "2023-03-21T18:28:32.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2023-03-21T18:28:32.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1265,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 780,
+            "name": "Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 678,
+            "name": "Fish Hook Wedge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 676,
+            "name": "Fish Hook Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 744,
+            "name": "Sriracha Tip",
             "order": 5,
             "passthrough": 0
         }

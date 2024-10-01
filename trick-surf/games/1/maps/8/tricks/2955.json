@@ -3,84 +3,94 @@
     "map_id": 8,
     "name": "Hard CC's T2-Spin from spawn",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-15T15:31:47.000Z",
     "author": "bog",
     "author_id": 131,
+    "last_updated": "2023-10-15T15:31:47.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 13,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 747,
+            "name": "T-Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 764,
+            "name": "T2 Right Wing",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 775,
+            "name": "Through T2 Front Left",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 773,
+            "name": "Through T2 Back Left",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 707,
+            "name": "Center Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 687,
+            "name": "Healbot Sign",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1022,
+            "name": "Awp Water",
             "order": 12,
             "passthrough": 0
         }

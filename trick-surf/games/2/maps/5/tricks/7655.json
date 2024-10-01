@@ -3,44 +3,46 @@
     "map_id": 5,
     "name": "Level Up",
     "date": "2023-06-04T18:37:15.000Z",
-    "last_updated": null,
     "author": "william",
     "author_id": 347,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 410,
+            "name": "Below Spawn Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 409,
+            "name": "Below Spawn Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 458,
+            "name": "Spawn",
             "order": 4,
             "passthrough": 0
         }

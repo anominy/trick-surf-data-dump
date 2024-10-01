@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "Mailbox",
     "date": "2022-12-12T18:59:11.000Z",
-    "last_updated": "2023-11-05T14:52:24.000Z",
     "author": "ᴛꜱ ٠ Liquidator",
     "author_id": 1137,
+    "last_updated": "2023-11-05T14:52:24.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 180,
-    "playersCompleted": 59,
-    "trick_sequence": [
+    "completions": "180",
+    "players_completed": "59",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1599,
+            "name": "SE Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1284,
+            "name": "E Red Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1262,
+            "name": "E Between Long Beams",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1538,
+            "name": "S Small Box",
             "order": 8,
             "passthrough": 0
         }

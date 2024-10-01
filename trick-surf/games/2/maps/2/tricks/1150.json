@@ -3,49 +3,52 @@
     "map_id": 2,
     "name": "The Albtraum Remix",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 98,
+            "name": "Castle Shotgun Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 119,
+            "name": "Grass",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 196,
+            "name": "Water",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 95,
+            "name": "Castle Ramp Slant Lower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 96,
+            "name": "Castle Ramp Slant Upper",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 179,
+            "name": "Superhouse Floor 3 Ramp Front",
             "order": 5,
             "passthrough": 0
         }

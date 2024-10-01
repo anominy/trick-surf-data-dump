@@ -3,59 +3,64 @@
     "map_id": 5,
     "name": "Frag's Rise",
     "date": "2022-02-07T20:26:37.000Z",
-    "last_updated": null,
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 470,
+            "name": "Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 481,
+            "name": "Upper Curve Ramp Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 433,
+            "name": "Main Ramp Slant",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 482,
+            "name": "Upper Curve Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 444,
+            "name": "Pillar Small",
             "order": 7,
             "passthrough": 0
         }

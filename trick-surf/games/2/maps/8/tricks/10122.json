@@ -3,34 +3,34 @@
     "map_id": 8,
     "name": "Abyss Rise",
     "date": "2024-06-11T01:48:40.000Z",
-    "last_updated": "2024-06-14T20:11:13.000Z",
     "author": "зима",
     "author_id": 406,
+    "last_updated": "2024-06-14T20:11:13.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 771,
+            "name": "Telepad Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3262,
+            "name": "Weapon Lower Abyss Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1050,
+            "name": "Weapons Tele Ledge",
             "order": 2,
             "passthrough": 0
         }

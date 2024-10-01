@@ -3,44 +3,46 @@
     "map_id": 1,
     "name": "FatBoy Was Homeless",
     "date": "2020-12-22T00:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 23,
-    "playersCompleted": 15,
-    "trick_sequence": [
+    "completions": "23",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 5,
+            "name": "Awp Ramp Water Slant",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 28,
+            "name": "Map Divide",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 61,
+            "name": "Wedge 1st",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 28,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 6,
+            "name": "Awpbox Slant",
             "order": 4,
             "passthrough": 0
         }

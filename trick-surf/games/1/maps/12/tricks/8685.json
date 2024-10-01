@@ -3,29 +3,28 @@
     "map_id": 12,
     "name": "Green Strafe",
     "date": "2024-01-03T17:39:55.000Z",
-    "last_updated": "2024-01-03T17:40:57.000Z",
     "author": "fatlonzo",
     "author_id": 1929,
-    "last_updated_author_id": 103,
+    "last_updated": "2024-09-27T00:56:51.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
-    "points": 550,
-    "tier": 4,
-    "min_velocity": null,
+    "ranked": 1,
+    "tier": 7,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 308,
-    "playersCompleted": 22,
-    "trick_sequence": [
+    "completions": "330",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2567,
+            "name": "Liquidator's Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2530,
+            "name": "Green Corner",
             "order": 1,
             "passthrough": 0
         }

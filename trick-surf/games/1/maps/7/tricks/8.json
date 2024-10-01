@@ -3,34 +3,34 @@
     "map_id": 7,
     "name": "Main Wrap V",
     "date": "2021-08-16T18:00:00.000Z",
-    "last_updated": "2021-08-31T12:01:45.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2021-08-31T12:01:45.000Z",
     "last_updated_author_id": 48,
     "active": 1,
-    "points": 45,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 229,
-    "playersCompleted": 72,
-    "trick_sequence": [
+    "completions": "229",
+    "players_completed": "80",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 617,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 602,
+            "name": "Behind Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 618,
+            "name": "Main Ramp Slant",
             "order": 2,
             "passthrough": 0
         }

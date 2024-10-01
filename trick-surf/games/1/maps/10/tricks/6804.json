@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "High on black oranges",
     "date": "2023-01-20T18:24:38.000Z",
-    "last_updated": null,
     "author": "roee",
     "author_id": 74,
+    "last_updated": null,
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 18,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "18",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1480,
+            "name": "NW Purple Ramp 1",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1329,
+            "name": "N Tower Lower Floor",
             "order": 9,
             "passthrough": 0
         }

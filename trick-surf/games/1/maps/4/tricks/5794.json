@@ -3,54 +3,58 @@
     "map_id": 4,
     "name": "Stage 4",
     "date": "2022-07-03T16:59:05.000Z",
-    "last_updated": "2023-07-28T00:53:39.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2023-07-28T00:53:39.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 25,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 1312,
-    "playersCompleted": 114,
-    "trick_sequence": [
+    "completions": "1312",
+    "players_completed": "115",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 338,
+            "name": "Stage 4 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 321,
+            "name": "Large Cylinder",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 352,
+            "name": "Lower Ramp Entry North",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 310,
+            "name": "Green Circle",
             "order": 6,
             "passthrough": 0
         }

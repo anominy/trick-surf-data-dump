@@ -3,79 +3,88 @@
     "map_id": 1,
     "name": "Nothing is Impossible Twist over Spawn Wall",
     "date": "2024-06-27T14:41:15.000Z",
-    "last_updated": "2024-06-27T14:42:16.000Z",
     "author": "Natsu",
     "author_id": 123,
+    "last_updated": "2024-06-27T14:42:16.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 4500,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 41,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 11,
+            "name": "Behind Pyramid",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 28,
+            "name": "Map Divide",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 11,
+            "name": "Behind Pyramid",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 33,
+            "name": "Over Spawn Wall",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 45,
+            "name": "Spawn Water",
             "order": 11,
             "passthrough": 0
         }

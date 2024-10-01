@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Ouroboros",
     "date": "2024-05-09T13:21:53.000Z",
-    "last_updated": "2024-05-09T13:33:44.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-05-09T13:33:44.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1225,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1663,
+            "name": "W Crane Box Pink Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1765,
+            "name": "W Crane Box Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1439,
+            "name": "NW Black Ramp 2 Booster 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1251,
+            "name": "C Sky East Dark Pillar",
             "order": 7,
             "passthrough": 0
         }

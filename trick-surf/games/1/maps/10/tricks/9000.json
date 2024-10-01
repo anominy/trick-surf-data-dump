@@ -3,104 +3,118 @@
     "map_id": 10,
     "name": "Skyscraper Surplus",
     "date": "2024-02-17T23:44:11.000Z",
-    "last_updated": "2024-02-18T00:46:00.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-02-18T00:46:00.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1025,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1730,
+            "name": "E Through Large Structure",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1730,
+            "name": "E Through Large Structure",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1299,
+            "name": "E Teal Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1730,
+            "name": "E Through Large Structure",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1240,
+            "name": "C Sky Between Beams",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1199,
+            "name": "C Green Ramp 3",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1196,
+            "name": "C Green Ramp 2",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1240,
+            "name": "C Sky Between Beams",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1242,
+            "name": "C Sky East Top",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 2218,
+            "name": "E Structure Floor",
             "order": 16,
             "passthrough": 0
         }

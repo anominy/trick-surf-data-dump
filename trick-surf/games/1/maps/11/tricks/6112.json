@@ -3,54 +3,58 @@
     "map_id": 11,
     "name": "Surfed on a signed CD",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-20T18:18:22.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2023-05-20T18:18:22.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 49,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "49",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1895,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1898,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2044,
+            "name": "Under Logo Left Side",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1784,
+            "name": "Another Curvy Boi",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1794,
+            "name": "Big H Curvy Boi",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1805,
+            "name": "Big Loop Side Ramp Right",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1982,
+            "name": "Secreter Tape Floor",
             "order": 6,
             "passthrough": 0
         }

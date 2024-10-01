@@ -3,94 +3,106 @@
     "map_id": 9,
     "name": "Fly Like A Bird",
     "date": "2023-02-24T18:00:00.000Z",
-    "last_updated": "2023-02-27T22:26:11.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2023-02-27T22:26:11.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 825,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 33,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "33",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 819,
+            "name": "Spawn LvL 1",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 821,
+            "name": "Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2338,
+            "name": "River Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2362,
+            "name": "Under Pipe",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 799,
+            "name": "Bottom Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2325,
+            "name": "Jail TP",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 812,
+            "name": "Masog Platform",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 811,
+            "name": "Masog Hole",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 800,
+            "name": "Curve Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 834,
+            "name": "Tower Window North",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 835,
+            "name": "Tower Window South",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 815,
+            "name": "Nova Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 810,
+            "name": "Map Divide",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 815,
+            "name": "Nova Ramp",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 820,
+            "name": "Spawn LvL 2",
             "order": 14,
             "passthrough": 0
         }

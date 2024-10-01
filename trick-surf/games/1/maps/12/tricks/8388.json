@@ -3,39 +3,40 @@
     "map_id": 12,
     "name": "Easy Logo Wrap",
     "date": "2023-11-18T19:32:39.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 83,
-    "playersCompleted": 32,
-    "trick_sequence": [
+    "completions": "83",
+    "players_completed": "33",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2574,
+            "name": "Logo Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2974,
+            "name": "Logo Entrance East",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2975,
+            "name": "Logo Entrance West",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2574,
+            "name": "Logo Ramp",
             "order": 3,
             "passthrough": 0
         }

@@ -3,104 +3,118 @@
     "map_id": 10,
     "name": "Gewapend Beton",
     "date": "2024-02-27T20:59:17.000Z",
-    "last_updated": "2024-02-27T20:59:48.000Z",
     "author": ".x",
     "author_id": 19390,
+    "last_updated": "2024-02-27T20:59:48.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1300,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1663,
+            "name": "W Crane Box Pink Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1765,
+            "name": "W Crane Box Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1702,
+            "name": "W Tower Floor 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1763,
+            "name": "W Teal Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1479,
+            "name": "NW Purple Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1732,
+            "name": "NW Rooftops North Beam 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1520,
+            "name": "NW Jungle Yoshi Box",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1726,
+            "name": "C Undergrounds Entry SW",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1238,
+            "name": "C Purple Ramp 5",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1226,
+            "name": "C Strip Top Light Pillar",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 2209,
+            "name": "E Over High Platform",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1690,
+            "name": "W Tower Beams 0",
             "order": 16,
             "passthrough": 0
         }

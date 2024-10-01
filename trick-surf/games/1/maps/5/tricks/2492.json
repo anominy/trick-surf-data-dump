@@ -3,44 +3,46 @@
     "map_id": 5,
     "name": "Another Trip to the North",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 325,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 80,
-    "playersCompleted": 31,
-    "trick_sequence": [
+    "completions": "81",
+    "players_completed": "32",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 403,
+            "name": "Awp Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 464,
+            "name": "Pool",
             "order": 4,
             "passthrough": 0
         }

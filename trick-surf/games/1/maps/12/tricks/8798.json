@@ -3,84 +3,94 @@
     "map_id": 12,
     "name": "Skulltula",
     "date": "2024-01-15T00:35:21.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 600,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 10,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "10",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2698,
+            "name": "Pyramid Middle Corner North-West",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3077,
+            "name": "Pyramid Middle Ramp West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3062,
+            "name": "Pyramid Main Ramp West",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2634,
+            "name": "North Sewer Tower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2443,
+            "name": "Between Pyramid Main Pillars North",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2549,
+            "name": "Inner Pyramid Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2445,
+            "name": "Between Pyramid Main Pillars West",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2997,
+            "name": "Under Right Beam Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3091,
+            "name": "Center In-Ground Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2868,
+            "name": "Under Left Front Pillar Beam",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2867,
+            "name": "Under Left Back Pillar Beam",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2599,
+            "name": "Main Floor Block",
             "order": 12,
             "passthrough": 0
         }

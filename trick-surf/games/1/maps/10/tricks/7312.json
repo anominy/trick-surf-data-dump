@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "RCA Adapter",
     "date": "2023-03-13T21:14:52.000Z",
-    "last_updated": null,
     "author": "discount",
     "author_id": 5482,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 40,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "40",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1758,
+            "name": "S Yellow Teleporter",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1746,
+            "name": "E Through White Beams Bottom",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1731,
+            "name": "E Under White Beams",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1290,
+            "name": "E Rooftops Block",
             "order": 6,
             "passthrough": 0
         }

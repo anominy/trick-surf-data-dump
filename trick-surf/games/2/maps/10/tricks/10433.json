@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Storm The Front!",
     "date": "2024-06-16T22:39:16.000Z",
-    "last_updated": "2024-06-17T21:45:12.000Z",
     "author": "dog . ‿ .",
     "author_id": 17973,
+    "last_updated": "2024-06-17T21:45:12.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1292,
+            "name": "E Rooftops Large Block",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1400,
+            "name": "NE Green Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1431,
+            "name": "NE White Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3168,
+            "name": "C Orange Ramp 4 Beam 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1470,
+            "name": "NW Park Ouma Block",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1456,
+            "name": "NW Ground",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1457,
+            "name": "NW Ground Slide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1341,
+            "name": "N Purple Ramp 4 Beam 1",
             "order": 7,
             "passthrough": 0
         }

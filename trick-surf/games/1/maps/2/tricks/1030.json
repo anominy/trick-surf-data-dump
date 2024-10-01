@@ -3,34 +3,34 @@
     "map_id": 2,
     "name": "Prebstrafe",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": "2024-04-16T22:40:39.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2024-04-16T22:40:39.000Z",
     "last_updated_author_id": 169,
     "active": 1,
-    "points": 25,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 18962,
-    "playersCompleted": 216,
-    "trick_sequence": [
+    "completions": "19084",
+    "players_completed": "232",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 84,
+            "name": "Castle House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 2,
             "passthrough": 0
         }

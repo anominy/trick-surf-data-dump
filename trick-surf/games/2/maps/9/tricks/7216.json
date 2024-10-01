@@ -3,69 +3,76 @@
     "map_id": 9,
     "name": "Hard Deja Vu",
     "date": "2023-02-26T20:52:21.000Z",
-    "last_updated": "2023-03-03T02:53:10.000Z",
     "author": "Pills",
     "author_id": 169,
+    "last_updated": "2023-03-03T02:53:10.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 825,
+            "name": "Top Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 821,
+            "name": "Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 818,
+            "name": "River Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 799,
+            "name": "Bottom Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 809,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 810,
+            "name": "Map Divide",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 821,
+            "name": "Spawn Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 818,
+            "name": "River Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 800,
+            "name": "Curve Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 812,
+            "name": "Masog Platform",
             "order": 9,
             "passthrough": 0
         }

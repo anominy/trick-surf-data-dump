@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Full Throttle",
     "date": "2024-03-11T23:58:34.000Z",
-    "last_updated": "2024-03-11T23:59:18.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-03-11T23:59:18.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 16,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "16",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1413,
+            "name": "NE Lower Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1400,
+            "name": "NE Green Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1301,
+            "name": "E Teal Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1299,
+            "name": "E Teal Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1417,
+            "name": "NE Teal Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1434,
+            "name": "NW Black Platform",
             "order": 6,
             "passthrough": 0
         }

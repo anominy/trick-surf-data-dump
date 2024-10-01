@@ -3,94 +3,106 @@
     "map_id": 12,
     "name": "This is buce!",
     "date": "2024-01-16T00:00:42.000Z",
-    "last_updated": "2024-01-16T00:12:34.000Z",
     "author": "padu",
     "author_id": 15902,
+    "last_updated": "2024-01-16T00:12:34.000Z",
     "last_updated_author_id": 169,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2567,
+            "name": "Liquidator's Tower",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2654,
+            "name": "Over Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2521,
+            "name": "Front Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2961,
+            "name": "Under Anti Grav",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2686,
+            "name": "Purple-Green Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2722,
+            "name": "Red-Purple Ramp Spine",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2961,
+            "name": "Under Anti Grav",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2555,
+            "name": "Isosceles Trapezium Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2972,
+            "name": "Over Anti Grav",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2842,
+            "name": "Through Hanging Loop",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2531,
+            "name": "Green Corner Block",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2600,
+            "name": "Main In-Ground Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 2961,
+            "name": "Under Anti Grav",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 2531,
+            "name": "Green Corner Block",
             "order": 14,
             "passthrough": 0
         }

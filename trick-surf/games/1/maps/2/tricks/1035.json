@@ -3,34 +3,34 @@
     "map_id": 2,
     "name": "JS Grass Slant",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 25,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 423,
-    "playersCompleted": 108,
-    "trick_sequence": [
+    "completions": "423",
+    "players_completed": "114",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 148,
+            "name": "Side Booster Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 148,
+            "name": "Side Booster Ramp",
             "order": 2,
             "passthrough": 0
         }

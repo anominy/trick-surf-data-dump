@@ -3,34 +3,34 @@
     "map_id": 13,
     "name": "Pro Faucet Wrap",
     "date": "2024-08-28T08:14:43.000Z",
-    "last_updated": null,
     "author": "Schewpid",
     "author_id": 25977,
+    "last_updated": null,
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3312,
+            "name": "Faucet Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3540,
+            "name": "Behind Tower",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3312,
+            "name": "Faucet Ramp",
             "order": 2,
             "passthrough": 0
         }

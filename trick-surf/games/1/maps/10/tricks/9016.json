@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Temu Palm Trees",
     "date": "2024-02-20T02:43:52.000Z",
-    "last_updated": "2024-02-20T16:37:42.000Z",
     "author": "King",
     "author_id": 10,
+    "last_updated": "2024-02-20T16:37:42.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 5,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 132,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "132",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1298,
+            "name": "E Structure Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1289,
+            "name": "E Rooftops",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1257,
+            "name": "C Teal Ramp 6 Spine",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1208,
+            "name": "C Orange Ramp 2 Spine",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1295,
+            "name": "E Small Structure Beams",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1304,
+            "name": "E Upper Ground",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1283,
+            "name": "E Lower Ground",
             "order": 6,
             "passthrough": 0
         }

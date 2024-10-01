@@ -3,39 +3,40 @@
     "map_id": 12,
     "name": "Wait I Forgot Something",
     "date": "2023-12-21T17:02:06.000Z",
-    "last_updated": "2024-06-01T11:45:19.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2024-06-01T11:45:19.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2479,
+            "name": "Center Sky Beams",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2497,
+            "name": "East Hanging Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2497,
+            "name": "East Hanging Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2479,
+            "name": "Center Sky Beams",
             "order": 3,
             "passthrough": 0
         }

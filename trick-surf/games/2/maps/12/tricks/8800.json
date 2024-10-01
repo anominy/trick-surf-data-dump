@@ -3,74 +3,82 @@
     "map_id": 12,
     "name": "Balu's Niche",
     "date": "2024-01-15T01:23:13.000Z",
-    "last_updated": "2024-01-15T01:24:25.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2024-01-15T01:24:25.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2428,
+            "name": "Balu's Tunnel",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2423,
+            "name": "Balu's Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2414,
+            "name": "Anti Grav Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2558,
+            "name": "Left Back Pillar Beam",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2868,
+            "name": "Under Left Front Pillar Beam",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3091,
+            "name": "Center In-Ground Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2885,
+            "name": "Under Right Front Pillar Beam",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2884,
+            "name": "Under Right Back Pillar Beam",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2872,
+            "name": "Under Main Back Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2867,
+            "name": "Under Left Back Pillar Beam",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3138,
+            "name": "Spiral Tower Lower Niche",
             "order": 10,
             "passthrough": 0
         }

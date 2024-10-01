@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Fear",
     "date": "2024-08-18T02:56:48.000Z",
-    "last_updated": "2024-08-18T03:04:55.000Z",
     "author": "influx",
     "author_id": 147,
+    "last_updated": "2024-08-18T03:04:55.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 1150,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 5,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "5",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1277,
+            "name": "E Large Structure Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1255,
+            "name": "C Sky East Box",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1199,
+            "name": "C Green Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1252,
+            "name": "C Sky East Gray Pillar",
             "order": 5,
             "passthrough": 0
         }

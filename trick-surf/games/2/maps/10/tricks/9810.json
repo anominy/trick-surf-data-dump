@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Bunny",
     "date": "2024-04-30T02:32:38.000Z",
-    "last_updated": "2024-04-30T02:56:16.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-04-30T02:56:16.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1226,
+            "name": "C Strip Top Light Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1770,
+            "name": "C Strip Top Lower Pillar",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1214,
+            "name": "C Orange Ramp 4 Spine",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3167,
+            "name": "C Orange Ramp 4 Beam 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1779,
+            "name": "W Lower Ground",
             "order": 4,
             "passthrough": 0
         }

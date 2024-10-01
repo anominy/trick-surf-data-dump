@@ -3,44 +3,46 @@
     "map_id": 7,
     "name": "Sidewalk",
     "date": "2021-09-05T12:43:19.000Z",
-    "last_updated": null,
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1800,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 38,
-    "playersCompleted": 24,
-    "trick_sequence": [
+    "completions": "38",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 639,
+            "name": "Spawn Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 617,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 606,
+            "name": "Bent Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 868,
+            "name": "Aug Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 593,
+            "name": "Awp Platform",
             "order": 4,
             "passthrough": 0
         }

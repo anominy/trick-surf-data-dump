@@ -3,94 +3,106 @@
     "map_id": 10,
     "name": "Teresa",
     "date": "2024-03-06T17:08:39.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1225,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 9,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1570,
+            "name": "SE High Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1573,
+            "name": "SE Spawn Roof Beams Top",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1624,
+            "name": "SW Grass Pillar Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1624,
+            "name": "SW Grass Pillar Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1736,
+            "name": "SE Through Large Structure",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1759,
+            "name": "SE Black Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1602,
+            "name": "SE Spawn Floor",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1555,
+            "name": "SE Bonus 3 Teleporter",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1454,
+            "name": "NW Jungle Ghost Block",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1189,
+            "name": "C Blue Platform",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1231,
+            "name": "C Strip Upper",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1228,
+            "name": "C Strip Top Slant",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1454,
+            "name": "NW Jungle Ghost Block",
             "order": 14,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "2000",
     "date": "2024-05-21T13:15:48.000Z",
-    "last_updated": "2024-05-21T13:15:54.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-05-21T13:15:54.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 1100,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1599,
+            "name": "SE Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1564,
+            "name": "SE East Ledge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1637,
+            "name": "E Large Pillar Gap West 2",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2217,
+            "name": "E Small Structure Floor",
             "order": 6,
             "passthrough": 0
         }

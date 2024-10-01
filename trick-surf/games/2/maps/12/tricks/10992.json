@@ -3,49 +3,52 @@
     "map_id": 12,
     "name": "Shrimple",
     "date": "2024-08-19T22:12:09.000Z",
-    "last_updated": null,
     "author": "Schewpid",
     "author_id": 25977,
+    "last_updated": null,
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2939,
+            "name": "White Pool Roof",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2559,
+            "name": "Left Beam Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2868,
+            "name": "Under Left Front Pillar Beam",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3091,
+            "name": "Center In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2599,
+            "name": "Main Floor Block",
             "order": 5,
             "passthrough": 0
         }

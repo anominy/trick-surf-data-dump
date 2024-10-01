@@ -3,29 +3,28 @@
     "map_id": 5,
     "name": "Flick Into Your Pool",
     "date": "2022-01-31T16:58:40.000Z",
-    "last_updated": "2022-02-01T20:17:12.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2022-02-01T20:17:12.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 75,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 448,
-    "playersCompleted": 72,
-    "trick_sequence": [
+    "completions": "457",
+    "players_completed": "75",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 405,
+            "name": "Back Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 452,
+            "name": "South Pool",
             "order": 1,
             "passthrough": 0
         }

@@ -3,69 +3,76 @@
     "map_id": 5,
     "name": "Donate against cancer",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": "2022-05-18T14:52:41.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-05-18T14:52:41.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 550,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 8,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 422,
+            "name": "Hub",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 423,
+            "name": "Hub Boosts",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 465,
+            "name": "Through Awp Hole",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 417,
+            "name": "Butter Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 435,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 404,
+            "name": "Awp Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 454,
+            "name": "South Pool Slants",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 455,
+            "name": "South Pool Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 484,
+            "name": "South Pool Upper Platform",
             "order": 9,
             "passthrough": 0
         }

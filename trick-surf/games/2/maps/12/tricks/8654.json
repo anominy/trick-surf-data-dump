@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "Lockedd Visits Luna",
     "date": "2024-01-01T16:40:11.000Z",
-    "last_updated": "2024-01-01T16:40:35.000Z",
     "author": "lockedd",
     "author_id": 180,
+    "last_updated": "2024-01-01T16:40:35.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1100,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3104,
+            "name": "lockedd's Block Level 3",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2489,
+            "name": "Color Star Tower Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2420,
+            "name": "Back Outer Color Star Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2484,
+            "name": "Color Star Hole",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2486,
+            "name": "Color Star Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2634,
+            "name": "North Sewer Tower Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3057,
+            "name": "Pyramid Main Ramp East",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2948,
+            "name": "White-Red Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2964,
+            "name": "Luna's Podium Left Side",
             "order": 9,
             "passthrough": 0
         }

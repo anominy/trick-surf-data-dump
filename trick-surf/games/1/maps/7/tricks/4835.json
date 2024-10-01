@@ -3,34 +3,34 @@
     "map_id": 7,
     "name": "Sign Strafe",
     "date": "2021-09-05T17:00:57.000Z",
-    "last_updated": "2021-09-09T17:01:25.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2021-09-09T17:01:25.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 395,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 848,
-    "playersCompleted": 37,
-    "trick_sequence": [
+    "completions": "848",
+    "players_completed": "37",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 871,
+            "name": "Spawn Sign",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 620,
+            "name": "Over Jail Bridge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 613,
+            "name": "Jail Pillar",
             "order": 2,
             "passthrough": 0
         }

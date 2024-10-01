@@ -3,44 +3,46 @@
     "map_id": 8,
     "name": "Little Nightmares",
     "date": "2024-04-01T09:06:12.000Z",
-    "last_updated": "2024-04-10T22:52:53.000Z",
     "author": "Parta",
     "author_id": 385,
+    "last_updated": "2024-04-10T22:52:53.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1245,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 3,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "3",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 718,
+            "name": "Mini Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 719,
+            "name": "Mini Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 743,
+            "name": "Sriracha",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 669,
+            "name": "CT-Spawn Teleporter",
             "order": 4,
             "passthrough": 0
         }

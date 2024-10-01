@@ -3,34 +3,34 @@
     "map_id": 6,
     "name": "Balder",
     "date": "2022-03-07T18:59:58.000Z",
-    "last_updated": "2022-03-12T23:03:07.000Z",
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": "2022-03-12T23:03:07.000Z",
     "last_updated_author_id": 174,
     "active": 1,
-    "points": 1750,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 558,
+            "name": "Sky Platform 2",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 576,
+            "name": "Top Wall",
             "order": 2,
             "passthrough": 0
         }

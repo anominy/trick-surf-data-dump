@@ -3,64 +3,70 @@
     "map_id": 8,
     "name": "Guntower Restock",
     "date": "2022-12-26T15:45:47.000Z",
-    "last_updated": "2023-10-21T14:34:23.000Z",
     "author": "Aux",
     "author_id": 14724,
+    "last_updated": "2023-10-21T14:34:23.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 54,
-    "playersCompleted": 41,
-    "trick_sequence": [
+    "completions": "58",
+    "players_completed": "43",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 680,
+            "name": "Gun Room",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 681,
+            "name": "Gun Room Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 656,
+            "name": "Behind Tower",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 648,
+            "name": "Awp Platform",
             "order": 8,
             "passthrough": 0
         }

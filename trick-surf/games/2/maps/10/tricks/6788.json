@@ -3,109 +3,124 @@
     "map_id": 10,
     "name": "Eastside Cocktail",
     "date": "2023-01-19T21:02:29.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 1230,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 5,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1585,
+            "name": "SE Large Structure Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1291,
+            "name": "E Rooftops Corner",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1736,
+            "name": "SE Through Large Structure",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1592,
+            "name": "SE East Pillar 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1591,
+            "name": "SE East Pillar 2",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1311,
+            "name": "E East Wall Slant",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1307,
+            "name": "E White Platform",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2209,
+            "name": "E Over High Platform",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1562,
+            "name": "SE Brown Ramp 3",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1734,
+            "name": "SE Large Pillar Gap West",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1542,
+            "name": "S Yellow Platform",
             "order": 17,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 3,
     "name": "4444 behind main",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-12T13:24:50.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-12T13:24:50.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 181,
-    "playersCompleted": 18,
-    "trick_sequence": [
+    "completions": "181",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 201,
+            "name": "Behind Main",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 245,
+            "name": "Ramp 4 Slant South",
             "order": 6,
             "passthrough": 0
         }

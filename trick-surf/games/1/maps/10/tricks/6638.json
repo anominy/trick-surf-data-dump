@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Room 102",
     "date": "2023-01-02T18:04:33.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 14,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "14",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1698,
+            "name": "W Tower Floor 1",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1675,
+            "name": "W Pink Ramp 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1677,
+            "name": "W Pink Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1669,
+            "name": "W Orange Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1762,
+            "name": "W Orange Teleporter",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1645,
+            "name": "SW Under Grass Pillar",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1780,
+            "name": "W Ground East",
             "order": 10,
             "passthrough": 0
         }

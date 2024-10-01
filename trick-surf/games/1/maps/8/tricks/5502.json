@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "Rose Walk",
     "date": "2022-05-15T17:39:09.000Z",
-    "last_updated": null,
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 350,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 288,
-    "playersCompleted": 67,
-    "trick_sequence": [
+    "completions": "289",
+    "players_completed": "69",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 648,
+            "name": "Awp Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 784,
+            "name": "Triomino 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 737,
+            "name": "Side Spawn Upper Platform",
             "order": 5,
             "passthrough": 0
         }

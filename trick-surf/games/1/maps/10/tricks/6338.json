@@ -3,129 +3,148 @@
     "map_id": 10,
     "name": "Chief Go Insane",
     "date": "2022-11-05T01:47:22.000Z",
-    "last_updated": "2024-03-01T02:03:57.000Z",
     "author": "chief❤ ⸜(˃ ᵕ ˂ )⸝",
     "author_id": 75,
+    "last_updated": "2024-03-01T02:03:57.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 10,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 10,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "10",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1570,
+            "name": "SE High Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1579,
+            "name": "SE High Pillar Booster West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1570,
+            "name": "SE High Pillar",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1578,
+            "name": "SE High Pillar Booster North",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1624,
+            "name": "SW Grass Pillar Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1617,
+            "name": "SW Crane Box Pink Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1760,
+            "name": "SW Pink Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1242,
+            "name": "C Sky East Top",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1344,
+            "name": "N Teal Jumppad",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1353,
+            "name": "N Through Tower Sides",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1307,
+            "name": "E White Platform",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1380,
+            "name": "NE White Ramp 3",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 3184,
+            "name": "NE Lower Undergrounds Behind Pillar 2",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1337,
+            "name": "N Purple Jumppad",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1314,
+            "name": "N Blue Platform",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 1754,
+            "name": "N Blue Teleporter",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 1205,
+            "name": "C Lift Platform",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 2399,
+            "name": "SW Under Broken Pillar 1",
             "order": 20,
             "passthrough": 0
         },
         {
             "trigger_id": 1640,
+            "name": "SW Purple Platform",
             "order": 21,
             "passthrough": 0
         }

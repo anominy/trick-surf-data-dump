@@ -3,64 +3,70 @@
     "map_id": 6,
     "name": "Bloom",
     "date": "2022-04-29T18:19:45.000Z",
-    "last_updated": "2022-04-29T18:34:03.000Z",
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": "2022-04-29T18:34:03.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 2000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 528,
+            "name": "Large Sniper Disk",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 525,
+            "name": "Jail Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 554,
+            "name": "Short Deagle Ramp 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 553,
+            "name": "Short Deagle Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 499,
+            "name": "Behind Short Deagle",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 579,
+            "name": "Under Deagle West",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 532,
+            "name": "Left Ramp 3",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 531,
+            "name": "Left Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 519,
+            "name": "Inside Checkered Ramp Water",
             "order": 8,
             "passthrough": 0
         }

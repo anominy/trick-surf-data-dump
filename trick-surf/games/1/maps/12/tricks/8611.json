@@ -3,99 +3,112 @@
     "map_id": 12,
     "name": "Pungent Garlic",
     "date": "2023-12-30T16:37:50.000Z",
-    "last_updated": "2023-12-30T17:02:17.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-12-30T17:02:17.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1225,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2596,
+            "name": "Main Boost Left",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2858,
+            "name": "Top Spiral Stairs Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2857,
+            "name": "Top Spiral Stairs",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2856,
+            "name": "Top Spiral Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2591,
+            "name": "Lower Spiral Stairs Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2558,
+            "name": "Left Back Pillar Beam",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2561,
+            "name": "Left Front Pillar Beam",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2807,
+            "name": "Spiral Tower Cross Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2912,
+            "name": "West Inner Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2500,
+            "name": "East Inner Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2610,
+            "name": "Lower Main Tunnel Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2772,
+            "name": "South Sewer Grate Teleporter",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 2903,
+            "name": "Vent Ramp",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 2837,
+            "name": "Through Color Star Loop",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 2488,
+            "name": "Color Star Tower Beam",
             "order": 15,
             "passthrough": 0
         }

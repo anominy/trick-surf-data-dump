@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Hard Louisette",
     "date": "2022-12-03T14:52:00.000Z",
-    "last_updated": "2022-12-14T19:35:45.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2022-12-14T19:35:45.000Z",
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 1230,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 8,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1554,
+            "name": "SE Bonus 2 Teleporter",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1305,
+            "name": "E Upper Ground Island",
             "order": 4,
             "passthrough": 0
         }

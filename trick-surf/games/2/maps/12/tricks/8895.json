@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "Untitled",
     "date": "2024-01-28T18:36:18.000Z",
-    "last_updated": null,
     "author": "winter",
     "author_id": 406,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2622,
+            "name": "North Center Sky Rope Support",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2582,
+            "name": "Logo Window Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2627,
+            "name": "North Inner Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2769,
+            "name": "South Inner Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2768,
+            "name": "South Inner Entrance",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3160,
+            "name": "West Left Spiral Grav Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2919,
+            "name": "West Sewer Tower Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2455,
+            "name": "Big Battery Ramps Slant",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2454,
+            "name": "Big Battery Ramps",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2585,
+            "name": "Low Color Star Tower Detail",
             "order": 9,
             "passthrough": 0
         }

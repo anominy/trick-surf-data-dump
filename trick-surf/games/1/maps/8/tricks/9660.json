@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "synq_ Hop",
     "date": "2024-04-18T21:09:03.000Z",
-    "last_updated": "2024-04-18T21:56:20.000Z",
     "author": "synq_",
     "author_id": 6763,
+    "last_updated": "2024-04-18T21:56:20.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 325,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 64,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "65",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 663,
+            "name": "Center Wedge Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 664,
+            "name": "CT Scout Pad",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 3,
             "passthrough": 0
         }

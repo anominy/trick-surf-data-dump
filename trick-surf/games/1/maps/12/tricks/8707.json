@@ -3,44 +3,46 @@
     "map_id": 12,
     "name": "Spine2Spine2",
     "date": "2024-01-06T00:14:38.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 25,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 159,
-    "playersCompleted": 26,
-    "trick_sequence": [
+    "completions": "159",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3156,
+            "name": "Upper Main Tunnel Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3155,
+            "name": "Upper Main Tunnel Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3154,
+            "name": "Upper Main Tunnel Connector",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3158,
+            "name": "Upper Right Small Main Tunnel Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3159,
+            "name": "Upper Right Small Main Tunnel Ramp Spine",
             "order": 4,
             "passthrough": 0
         }

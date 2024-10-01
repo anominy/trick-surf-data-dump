@@ -3,49 +3,52 @@
     "map_id": 4,
     "name": "Hard Hoop Rise",
     "date": "2022-08-27T23:03:28.000Z",
-    "last_updated": null,
     "author": "chief",
     "author_id": 75,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 185,
-    "playersCompleted": 30,
-    "trick_sequence": [
+    "completions": "185",
+    "players_completed": "30",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 373,
+            "name": "Southwest Cannon Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 371,
+            "name": "South Loop",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 318,
+            "name": "In-Ground Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 378,
+            "name": "Under Blue Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 310,
+            "name": "Green Circle",
             "order": 5,
             "passthrough": 0
         }

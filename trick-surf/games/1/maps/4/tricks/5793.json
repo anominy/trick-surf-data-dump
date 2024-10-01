@@ -3,64 +3,70 @@
     "map_id": 4,
     "name": "Stage 4.6",
     "date": "2022-07-03T16:56:41.000Z",
-    "last_updated": "2022-07-03T20:48:28.000Z",
     "author": "KingYöshi",
     "author_id": 457,
+    "last_updated": "2022-07-03T20:48:28.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 400,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 50,
-    "playersCompleted": 32,
-    "trick_sequence": [
+    "completions": "51",
+    "players_completed": "33",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 338,
+            "name": "Stage 4 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 321,
+            "name": "Large Cylinder",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 305,
+            "name": "East Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 352,
+            "name": "Lower Ramp Entry North",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 365,
+            "name": "Red Circle",
             "order": 8,
             "passthrough": 0
         }

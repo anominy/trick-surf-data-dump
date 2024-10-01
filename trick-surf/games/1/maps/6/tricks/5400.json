@@ -3,89 +3,100 @@
     "map_id": 6,
     "name": "Hard Twin Checkered Silsa's Wife",
     "date": "2022-04-27T16:30:25.000Z",
-    "last_updated": null,
     "author": "dimy",
     "author_id": 174,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 2500,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 24,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "24",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 563,
+            "name": "Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 511,
+            "name": "Checkered Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 571,
+            "name": "Through Wheel 1",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 511,
+            "name": "Checkered Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 496,
+            "name": "Behind Pillar",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 511,
+            "name": "Checkered Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 571,
+            "name": "Through Wheel 1",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 511,
+            "name": "Checkered Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
+            "name": "Main Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 562,
+            "name": "Behind Fence",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 565,
+            "name": "Spawn Water Side",
             "order": 13,
             "passthrough": 0
         }

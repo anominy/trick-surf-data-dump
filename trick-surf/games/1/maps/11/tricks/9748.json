@@ -3,34 +3,34 @@
     "map_id": 11,
     "name": "Peroxide",
     "date": "2024-04-23T00:42:14.000Z",
-    "last_updated": "2024-04-23T00:43:42.000Z",
     "author": "colt",
     "author_id": 10622,
+    "last_updated": "2024-04-23T00:43:42.000Z",
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 7,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "7",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2380,
+            "name": "Side Ledge Grind",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1993,
+            "name": "Side Curvy Thing",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2065,
+            "name": "W L Front Spine",
             "order": 2,
             "passthrough": 0
         }

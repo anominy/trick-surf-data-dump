@@ -3,114 +3,130 @@
     "map_id": 4,
     "name": "Time Constraint Visit",
     "date": "2022-12-27T21:46:48.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1250,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 18,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "18",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 345,
+            "name": "Stage 6 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 344,
+            "name": "Stage 6 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 342,
+            "name": "Stage 5 Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 341,
+            "name": "Stage 5 Booster",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1083,
+            "name": "Funbox Rail",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 379,
+            "name": "Under Cannon Pillar Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 358,
+            "name": "North Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 346,
+            "name": "Stage 6 Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1109,
+            "name": "Stage 5 Wall Top",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 318,
+            "name": "In-Ground Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 352,
+            "name": "Lower Ramp Entry North",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 305,
+            "name": "East Ramp",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 381,
+            "name": "Under Stage 1",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 292,
+            "name": "Bonus Ramp",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 356,
+            "name": "North Loop",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 355,
+            "name": "Middle Hole Grid",
             "order": 18,
             "passthrough": 0
         }

@@ -3,44 +3,46 @@
     "map_id": 4,
     "name": "Light Exercise",
     "date": "2022-06-27T18:00:00.000Z",
-    "last_updated": "2024-04-10T19:32:39.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2024-04-10T19:32:39.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 325,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 363,
+            "name": "Platform Elbows",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 318,
+            "name": "In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 302,
+            "name": "Dark Green Light",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 3,
             "passthrough": 1
         }

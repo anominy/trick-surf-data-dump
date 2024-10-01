@@ -3,64 +3,70 @@
     "map_id": 12,
     "name": "Sushi Phantom",
     "date": "2023-11-26T16:08:12.000Z",
-    "last_updated": "2023-11-26T16:38:58.000Z",
     "author": "discount",
     "author_id": 5482,
+    "last_updated": "2023-11-26T16:38:58.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 42,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "45",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2872,
+            "name": "Under Main Back Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2441,
+            "name": "Between Main Ramp Pillars",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2838,
+            "name": "Through Front Main Pillar",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2877,
+            "name": "Under Main Ramp Front",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2845,
+            "name": "Through Main Loop",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2607,
+            "name": "Main Slide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2782,
+            "name": "Spawn Bottom Channel",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 7,
             "passthrough": 1
         }

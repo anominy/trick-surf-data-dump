@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "fnap4ik",
     "date": "2024-06-11T22:28:15.000Z",
-    "last_updated": "2024-06-12T05:57:21.000Z",
     "author": "сонька",
     "author_id": 259,
+    "last_updated": "2024-06-12T05:57:21.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1150,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 747,
+            "name": "T-Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3262,
+            "name": "Weapon Lower Abyss Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3223,
+            "name": "T1 Middle Platform",
             "order": 3,
             "passthrough": 0
         }

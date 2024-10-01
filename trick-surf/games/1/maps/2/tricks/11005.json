@@ -3,109 +3,124 @@
     "map_id": 2,
     "name": "Be home by 9",
     "date": "2024-08-20T14:13:05.000Z",
-    "last_updated": null,
     "author": "Oscar",
     "author_id": 1554,
+    "last_updated": null,
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 3500,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 9,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 16,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "16",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 155,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 128,
+            "name": "House 1 Floor 1 Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 136,
+            "name": "House 2 Floor 1 Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 136,
+            "name": "House 2 Floor 1 Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 128,
+            "name": "House 1 Floor 1 Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 121,
+            "name": "Grass Spawn Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 970,
+            "name": "Over Spawn Divide",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 154,
+            "name": "Spawn Roof",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 128,
+            "name": "House 1 Floor 1 Platform",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 136,
+            "name": "House 2 Floor 1 Platform",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 136,
+            "name": "House 2 Floor 1 Platform",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 128,
+            "name": "House 1 Floor 1 Platform",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 121,
+            "name": "Grass Spawn Ramp",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 155,
+            "name": "Spawn Top",
             "order": 17,
             "passthrough": 0
         }

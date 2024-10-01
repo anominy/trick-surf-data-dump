@@ -3,59 +3,64 @@
     "map_id": 12,
     "name": "Paralyzed Pudding",
     "date": "2024-01-26T22:14:13.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 9,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "9",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2597,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2800,
+            "name": "Spiral Name Connector",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2472,
+            "name": "Center House Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2574,
+            "name": "Logo Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3073,
+            "name": "Pyramid Middle Ramp South",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2848,
+            "name": "Through Pyramid Loop",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2826,
+            "name": "Star Red Roof",
             "order": 7,
             "passthrough": 0
         }

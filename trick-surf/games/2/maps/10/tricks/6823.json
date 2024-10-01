@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "The Bullet",
     "date": "2023-01-21T09:49:54.000Z",
-    "last_updated": "2024-06-18T09:24:52.000Z",
     "author": "ryuko // talk soon <3",
     "author_id": 4963,
+    "last_updated": "2024-06-18T09:24:52.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1479,
+            "name": "NW Purple Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1463,
+            "name": "NW North Ledge Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1462,
+            "name": "NW North Ledge",
             "order": 1,
             "passthrough": 1
         },
         {
             "trigger_id": 1226,
+            "name": "C Strip Top Light Pillar",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 3,
             "passthrough": 0
         }

@@ -3,44 +3,46 @@
     "map_id": 12,
     "name": "Certified Curved Surfer",
     "date": "2024-08-11T23:47:07.000Z",
-    "last_updated": "2024-08-11T23:51:27.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2024-08-11T23:51:27.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1175,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 8,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "8",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2606,
+            "name": "Main Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2756,
+            "name": "Snake Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2760,
+            "name": "Snake Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2899,
+            "name": "Vent Floor Platform",
             "order": 4,
             "passthrough": 0
         }

@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "A Formal Welcome",
     "date": "2022-09-03T00:08:41.000Z",
-    "last_updated": "2023-10-12T23:13:28.000Z",
     "author": "Formal",
     "author_id": 480,
+    "last_updated": "2023-10-12T23:13:28.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 653,
+            "name": "Behind Banana Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1051,
+            "name": "Around Tower",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 660,
+            "name": "Bonus Cube",
             "order": 3,
             "passthrough": 0
         }

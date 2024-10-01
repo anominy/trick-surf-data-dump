@@ -3,79 +3,88 @@
     "map_id": 2,
     "name": "The Rise of Ruthless \"Rattlesnake\" Ruddiger's Revenge",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": "2021-03-03T18:34:17.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2021-03-03T18:34:17.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 58,
-    "playersCompleted": 23,
-    "trick_sequence": [
+    "completions": "58",
+    "players_completed": "23",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 155,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 129,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 137,
+            "name": "House 2 Floor 1 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 173,
+            "name": "Superhouse Floor 2 Ramp Sides",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 162,
+            "name": "Superhouse Floor 1 Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 161,
+            "name": "Superhouse Floor 1 Hole",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 190,
+            "name": "Superramp Teleporter",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 181,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 173,
+            "name": "Superhouse Floor 2 Ramp Sides",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 160,
+            "name": "Stone Wall",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 83,
+            "name": "Castle House Platform",
             "order": 11,
             "passthrough": 0
         }

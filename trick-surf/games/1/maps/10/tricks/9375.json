@@ -3,69 +3,76 @@
     "map_id": 10,
     "name": "Panic Cheese",
     "date": "2024-03-25T15:46:14.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 2,
-    "playersCompleted": 2,
-    "trick_sequence": [
+    "completions": "2",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1664,
+            "name": "W Crane Box Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1765,
+            "name": "W Crane Box Booster North",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1745,
+            "name": "E Through Structure",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1278,
+            "name": "E Large Structure Booster SW",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1273,
+            "name": "E High Platform",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1722,
+            "name": "E Red Slant",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1403,
+            "name": "NE Green Ramp 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1373,
+            "name": "N Tower Triangle 5",
             "order": 9,
             "passthrough": 0
         }

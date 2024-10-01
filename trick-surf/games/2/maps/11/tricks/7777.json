@@ -3,44 +3,46 @@
     "map_id": 11,
     "name": "Don't Jump! v3",
     "date": "2023-07-02T17:37:42.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ٠ Xiao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1895,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1896,
+            "name": "Main Ramp Back",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2052,
+            "name": "Under Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1826,
+            "name": "E L Front",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1943,
+            "name": "Random Cube",
             "order": 4,
             "passthrough": 0
         }

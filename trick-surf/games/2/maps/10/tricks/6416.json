@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Crumbling Ink",
     "date": "2022-11-25T16:21:52.000Z",
-    "last_updated": "2022-11-26T21:26:55.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2022-11-26T21:26:55.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 215,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1413,
+            "name": "NE Lower Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1400,
+            "name": "NE Green Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1263,
+            "name": "E Black Jumppad",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1266,
+            "name": "E Brown Platform",
             "order": 5,
             "passthrough": 0
         }

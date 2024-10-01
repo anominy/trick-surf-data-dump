@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Lower Wrap",
     "date": "2022-02-26T15:44:51.000Z",
-    "last_updated": null,
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 100,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 476,
+            "name": "Under Lower Curve Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 2,
             "passthrough": 0
         }

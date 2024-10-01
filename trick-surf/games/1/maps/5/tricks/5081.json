@@ -3,54 +3,58 @@
     "map_id": 5,
     "name": "Double Kill",
     "date": "2022-01-31T16:47:36.000Z",
-    "last_updated": "2022-08-13T12:36:44.000Z",
     "author": "LarzZz^",
     "author_id": 181,
+    "last_updated": "2022-08-13T12:36:44.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 75,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 675,
-    "playersCompleted": 64,
-    "trick_sequence": [
+    "completions": "675",
+    "players_completed": "68",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 952,
+            "name": "Under Spawn",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 439,
+            "name": "Over Spawn",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 952,
+            "name": "Under Spawn",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 439,
+            "name": "Over Spawn",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 434,
+            "name": "Main Ramp",
             "order": 6,
             "passthrough": 0
         }

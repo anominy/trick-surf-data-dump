@@ -3,114 +3,130 @@
     "map_id": 3,
     "name": "Desire's Remix",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2023-02-05T00:24:33.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2023-02-05T00:24:33.000Z",
     "last_updated_author_id": 46,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 5,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 270,
+            "name": "Supertop Push Water",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 271,
+            "name": "Supertop Water",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 2304,
+            "name": "Supertop Slant",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 271,
+            "name": "Supertop Water",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 278,
+            "name": "Under Skyplate Tele",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 265,
+            "name": "Spawn Push",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 5,
             "passthrough": 1
         },
         {
             "trigger_id": 231,
+            "name": "Map Divide",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 267,
+            "name": "Supertop",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 218,
+            "name": "Jail Ceiling Water",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 8,
             "passthrough": 1
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 9,
             "passthrough": 1
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 255,
+            "name": "Sky North",
             "order": 13,
             "passthrough": 0
         }

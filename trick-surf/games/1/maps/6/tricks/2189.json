@@ -3,29 +3,28 @@
     "map_id": 6,
     "name": "Agua 3.5",
     "date": "2022-03-03T18:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 480,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 111,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "114",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 519,
+            "name": "Inside Checkered Ramp Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 513,
+            "name": "Cone",
             "order": 1,
             "passthrough": 0
         }

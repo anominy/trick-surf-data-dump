@@ -3,54 +3,58 @@
     "map_id": 4,
     "name": "Cat Walk",
     "date": "2022-07-10T21:51:24.000Z",
-    "last_updated": "2022-12-16T20:34:56.000Z",
     "author": "winter!",
     "author_id": 406,
+    "last_updated": "2022-12-16T20:34:56.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 129,
-    "playersCompleted": 61,
-    "trick_sequence": [
+    "completions": "129",
+    "players_completed": "61",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 295,
+            "name": "Cannon Pillar Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 296,
+            "name": "Cannon Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 294,
+            "name": "Booster Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 395,
+            "name": "West Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 400,
+            "name": "West Upper Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 328,
+            "name": "Stage 2 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1139,
+            "name": "Southwest Cannon Platform Cannon",
             "order": 6,
             "passthrough": 0
         }

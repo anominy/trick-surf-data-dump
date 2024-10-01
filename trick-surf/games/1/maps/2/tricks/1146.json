@@ -3,84 +3,94 @@
     "map_id": 2,
     "name": "Rox's Nightmare",
     "date": "2020-12-25T21:00:00.000Z",
-    "last_updated": "2021-03-07T22:28:10.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2021-03-07T22:28:10.000Z",
     "last_updated_author_id": 23,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 64,
-    "playersCompleted": 43,
-    "trick_sequence": [
+    "completions": "64",
+    "players_completed": "43",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 85,
+            "name": "Castle House Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 84,
+            "name": "Castle House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 126,
+            "name": "Hole Shotgun",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 124,
+            "name": "Hole",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 184,
+            "name": "Superramp Booster",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 186,
+            "name": "Superramp Sides",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 183,
+            "name": "Superramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 131,
+            "name": "House 1 Floor 2 Platform",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 144,
+            "name": "Main Ramp Slant",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 145,
+            "name": "Map Divide",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 144,
+            "name": "Main Ramp Slant",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 131,
+            "name": "House 1 Floor 2 Platform",
             "order": 12,
             "passthrough": 0
         }

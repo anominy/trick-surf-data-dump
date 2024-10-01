@@ -3,54 +3,58 @@
     "map_id": 11,
     "name": "Spine Overhead",
     "date": "2023-06-07T19:05:26.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ٠ Miao",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 27,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "27",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1959,
+            "name": "S Letter Deck",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2388,
+            "name": "Undersplat S",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1784,
+            "name": "Another Curvy Boi",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2004,
+            "name": "Smol H Curvy Boi",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1805,
+            "name": "Big Loop Side Ramp Right",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1803,
+            "name": "Big Loop Side Ramp Left",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1868,
+            "name": "Horse Right QP Deck",
             "order": 6,
             "passthrough": 0
         }

@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Dragon's Rise",
     "date": "2022-12-02T13:06:24.000Z",
-    "last_updated": "2022-12-14T19:23:04.000Z",
     "author": "Mr.Dragon",
     "author_id": 4821,
+    "last_updated": "2022-12-14T19:23:04.000Z",
     "last_updated_author_id": 74,
     "active": 1,
-    "points": 350,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 86,
-    "playersCompleted": 34,
-    "trick_sequence": [
+    "completions": "88",
+    "players_completed": "35",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1205,
+            "name": "C Lift Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1269,
+            "name": "E Brown Ramp 5",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1647,
+            "name": "SW Upper Ledge East Platform",
             "order": 5,
             "passthrough": 0
         }

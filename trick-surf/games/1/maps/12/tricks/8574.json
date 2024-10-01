@@ -3,49 +3,52 @@
     "map_id": 12,
     "name": "Trans Rights",
     "date": "2023-12-25T17:06:48.000Z",
-    "last_updated": "2024-01-03T16:16:25.000Z",
     "author": "change name",
     "author_id": 17456,
+    "last_updated": "2024-01-03T16:16:25.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 114,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "114",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2428,
+            "name": "Balu's Tunnel",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2423,
+            "name": "Balu's Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2610,
+            "name": "Lower Main Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2608,
+            "name": "Lower Main Tunnel",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2600,
+            "name": "Main In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2797,
+            "name": "Spiral Grassbed",
             "order": 5,
             "passthrough": 0
         }

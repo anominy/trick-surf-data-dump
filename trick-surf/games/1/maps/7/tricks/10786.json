@@ -3,54 +3,58 @@
     "map_id": 7,
     "name": "this map is so bland",
     "date": "2024-08-01T14:49:58.000Z",
-    "last_updated": null,
     "author": "skin",
     "author_id": 24229,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 63,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "63",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 609,
+            "name": "Buy Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 608,
+            "name": "Buy Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 617,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 641,
+            "name": "Straight Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 627,
+            "name": "Rifle Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 638,
+            "name": "SMG Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 847,
+            "name": "Jail Wall",
             "order": 6,
             "passthrough": 0
         }

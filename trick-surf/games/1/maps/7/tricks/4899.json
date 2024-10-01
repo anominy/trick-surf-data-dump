@@ -3,54 +3,58 @@
     "map_id": 7,
     "name": "Hard Bent Out of Shape",
     "date": "2021-09-13T05:41:14.000Z",
-    "last_updated": "2022-05-19T09:44:14.000Z",
     "author": "adzicents",
     "author_id": 48,
+    "last_updated": "2022-05-19T09:44:14.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 25,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "25",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 635,
+            "name": "Shotgun Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 630,
+            "name": "Shotgun Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 631,
+            "name": "Shotgun Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 641,
+            "name": "Straight Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 605,
+            "name": "Bent Gap",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 610,
+            "name": "Curved Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 613,
+            "name": "Jail Pillar",
             "order": 6,
             "passthrough": 0
         }

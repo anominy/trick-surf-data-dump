@@ -3,44 +3,46 @@
     "map_id": 8,
     "name": "L2 Town of Gludio",
     "date": "2023-11-03T10:35:15.000Z",
-    "last_updated": null,
     "author": "trikz_shineska",
     "author_id": 259,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 768,
+            "name": "T2 Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 791,
+            "name": "Under T2 Left Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 738,
+            "name": "Ski Sign",
             "order": 4,
             "passthrough": 0
         }

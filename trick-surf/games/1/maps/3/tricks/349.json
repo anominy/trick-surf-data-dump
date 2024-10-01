@@ -3,89 +3,100 @@
     "map_id": 3,
     "name": "kR0NE's vERITAS",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 11,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "11",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 264,
+            "name": "Spawn Divide",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 265,
+            "name": "Spawn Push",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 276,
+            "name": "Under Jail Teleporter",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 225,
+            "name": "Jail Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 221,
+            "name": "Jail Outer Water",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 267,
+            "name": "Supertop",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 255,
+            "name": "Sky North",
             "order": 13,
             "passthrough": 0
         }

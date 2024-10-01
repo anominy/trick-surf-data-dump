@@ -3,39 +3,40 @@
     "map_id": 12,
     "name": "Sonic Hop",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": "2024-01-16T20:40:33.000Z",
     "author": "jude",
     "author_id": 264,
+    "last_updated": "2024-01-16T20:40:33.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 99,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 86,
-    "playersCompleted": 34,
-    "trick_sequence": [
+    "completions": "86",
+    "players_completed": "36",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2702,
+            "name": "Pyramid Middle Ramp North",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2570,
+            "name": "Logo Headsurf Beam",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2485,
+            "name": "Color Star Loop",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2488,
+            "name": "Color Star Tower Beam",
             "order": 3,
             "passthrough": 0
         }

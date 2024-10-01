@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "Runner's Redemption",
     "date": "2022-06-01T00:26:55.000Z",
-    "last_updated": "2023-10-13T18:18:34.000Z",
     "author": "»AyRunner",
     "author_id": 158,
+    "last_updated": "2023-10-13T18:18:34.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 661,
+            "name": "Bonus Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 648,
+            "name": "Awp Platform",
             "order": 3,
             "passthrough": 0
         }

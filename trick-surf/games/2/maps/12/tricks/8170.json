@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "Lunacy",
     "date": "2023-11-07T18:00:00.000Z",
-    "last_updated": "2023-11-24T18:54:26.000Z",
     "author": "freakacele",
     "author_id": 169,
+    "last_updated": "2023-11-24T18:54:26.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2858,
+            "name": "Top Spiral Stairs Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2856,
+            "name": "Top Spiral Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2441,
+            "name": "Between Main Ramp Pillars",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2441,
+            "name": "Between Main Ramp Pillars",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2594,
+            "name": "Luna's Podium",
             "order": 6,
             "passthrough": 0
         }

@@ -3,54 +3,58 @@
     "map_id": 3,
     "name": "Trancexual",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-24T16:08:36.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-24T16:08:36.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 6,
-    "playersCompleted": 6,
-    "trick_sequence": [
+    "completions": "6",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 201,
+            "name": "Behind Main",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 934,
+            "name": "Main Ramp Boost",
             "order": 1,
             "passthrough": 1
         },
         {
             "trigger_id": 927,
+            "name": "Under Spawn Divides",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 201,
+            "name": "Behind Main",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 934,
+            "name": "Main Ramp Boost",
             "order": 4,
             "passthrough": 1
         }

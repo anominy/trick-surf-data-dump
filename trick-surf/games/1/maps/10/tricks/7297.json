@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "Up over",
     "date": "2023-03-08T04:17:00.000Z",
-    "last_updated": "2023-03-08T04:17:29.000Z",
     "author": "RK",
     "author_id": 4963,
+    "last_updated": "2023-03-08T04:17:29.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 650,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 57,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "57",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1723,
+            "name": "C Through Lift",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1637,
+            "name": "E Large Pillar Gap West 2",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1307,
+            "name": "E White Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2210,
+            "name": "E Over White Beams",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2209,
+            "name": "E Over High Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1622,
+            "name": "SW Grass Ledge",
             "order": 10,
             "passthrough": 0
         }

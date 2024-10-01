@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "90210",
     "date": "2024-07-04T18:15:42.000Z",
-    "last_updated": "2024-07-04T18:31:56.000Z",
     "author": "nex",
     "author_id": 18519,
+    "last_updated": "2024-07-04T18:31:56.000Z",
     "last_updated_author_id": 18519,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 44,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "47",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1232,
+            "name": "C Strip Upper Dark Box",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1216,
+            "name": "C Strip Beams Bottom",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1650,
+            "name": "SW West Pillar Lower",
             "order": 5,
             "passthrough": 0
         }

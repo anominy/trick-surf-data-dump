@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "Impossible Witch hat",
     "date": "2024-05-31T03:39:18.000Z",
-    "last_updated": "2024-06-29T12:22:40.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2024-06-29T12:22:40.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 1290,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1235,
+            "name": "C Strip West Light Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1230,
+            "name": "C Strip Top Upper Pillar",
             "order": 2,
             "passthrough": 0
         }

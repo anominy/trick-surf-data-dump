@@ -3,59 +3,64 @@
     "map_id": 8,
     "name": "UK Tooth Gap",
     "date": "2024-08-09T19:55:42.000Z",
-    "last_updated": null,
     "author": "Steve",
     "author_id": 10,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1245,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 700,
+            "name": "Left Wing",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 716,
+            "name": "Middle Wing",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 762,
+            "name": "T2 Left Wing",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 764,
+            "name": "T2 Right Wing",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 741,
+            "name": "Spawn Roof Platform",
             "order": 7,
             "passthrough": 0
         }

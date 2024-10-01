@@ -3,39 +3,40 @@
     "map_id": 1,
     "name": "Hardest Waave Walk over spawn wall",
     "date": "2022-08-31T21:23:37.000Z",
-    "last_updated": "2022-08-31T21:26:03.000Z",
     "author": "KingYoshi",
     "author_id": 457,
+    "last_updated": "2022-08-31T21:26:03.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1600,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 21,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "21",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 44,
+            "name": "Spawn Wall",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 33,
+            "name": "Over Spawn Wall",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 45,
+            "name": "Spawn Water",
             "order": 3,
             "passthrough": 0
         }

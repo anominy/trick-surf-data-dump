@@ -3,79 +3,88 @@
     "map_id": 10,
     "name": "Pool Ionizer",
     "date": "2022-12-16T20:19:51.000Z",
-    "last_updated": "2022-12-17T19:02:07.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2022-12-17T19:02:07.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 1225,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 9,
-    "playersCompleted": 7,
-    "trick_sequence": [
+    "completions": "9",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1415,
+            "name": "NE Upper Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1416,
+            "name": "NE Upper Rooftops Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1359,
+            "name": "N Tower Alley Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1482,
+            "name": "NW Purple Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1238,
+            "name": "C Purple Ramp 5",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2175,
+            "name": "NW Park Through Crack",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1470,
+            "name": "NW Park Ouma Block",
             "order": 11,
             "passthrough": 0
         }

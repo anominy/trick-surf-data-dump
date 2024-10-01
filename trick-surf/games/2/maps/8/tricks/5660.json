@@ -3,34 +3,34 @@
     "map_id": 8,
     "name": "Strafe Shock",
     "date": "2022-06-12T20:47:33.000Z",
-    "last_updated": "2023-10-13T19:00:01.000Z",
     "author": "Нычка богрола",
     "author_id": 385,
+    "last_updated": "2023-10-13T19:00:01.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 900,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 783,
+            "name": "Tower Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 785,
+            "name": "Triomino 2",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 648,
+            "name": "Awp Platform",
             "order": 2,
             "passthrough": 0
         }

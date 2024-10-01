@@ -3,39 +3,40 @@
     "map_id": 10,
     "name": "Payback",
     "date": "2023-08-18T15:26:46.000Z",
-    "last_updated": "2023-08-27T21:06:21.000Z",
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": "2023-08-27T21:06:21.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 57,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "57",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1685,
+            "name": "W Short Tower Teal Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1763,
+            "name": "W Teal Teleporter",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1480,
+            "name": "NW Purple Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1508,
+            "name": "NW West Wall Upper",
             "order": 3,
             "passthrough": 0
         }

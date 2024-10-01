@@ -3,69 +3,76 @@
     "map_id": 12,
     "name": "Agony Trees",
     "date": "2024-01-14T08:21:29.000Z",
-    "last_updated": "2024-01-19T04:40:12.000Z",
     "author": "ᴛꜱ ٠ King",
     "author_id": 10,
+    "last_updated": "2024-01-19T04:40:12.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1300,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 6,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 4,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "4",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3143,
+            "name": "Spiral Tower Top Block",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2816,
+            "name": "Spiral Tower Ring Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2943,
+            "name": "White Spiral Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2717,
+            "name": "Red Spiral Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2457,
+            "name": "Blue Spiral Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3164,
+            "name": "West Spiral Grav Beam",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2831,
+            "name": "Through Anti Grav Supports",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3164,
+            "name": "West Spiral Grav Beam",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3136,
+            "name": "Spiral Tower Bottom Block",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2797,
+            "name": "Spiral Grassbed",
             "order": 9,
             "passthrough": 0
         }

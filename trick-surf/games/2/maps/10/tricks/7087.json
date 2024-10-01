@@ -3,109 +3,124 @@
     "map_id": 10,
     "name": "Sniper-Man",
     "date": "2023-02-20T06:50:03.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 1245,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1619,
+            "name": "SW Crane Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1687,
+            "name": "W Through Crane Box",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1711,
+            "name": "W Tower Top Hole",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1689,
+            "name": "W Through Tower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1617,
+            "name": "SW Crane Box Pink Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1622,
+            "name": "SW Grass Ledge",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1758,
+            "name": "S Yellow Teleporter",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1594,
+            "name": "SE East Pillar 5",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1602,
+            "name": "SE Spawn Floor",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1555,
+            "name": "SE Bonus 3 Teleporter",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1453,
+            "name": "NW Jungle Frag Beam",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1270,
+            "name": "E Brown Ramp 5 Spine",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 1731,
+            "name": "E Under White Beams",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 1282,
+            "name": "E Long Beam Upper",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 1222,
+            "name": "C Strip Through Beams",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 1258,
+            "name": "C Through Orange Ramp 4 Beams",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 1779,
+            "name": "W Lower Ground",
             "order": 17,
             "passthrough": 0
         }

@@ -3,64 +3,70 @@
     "map_id": 12,
     "name": "I don't know how to be me",
     "date": "2024-01-08T01:41:23.000Z",
-    "last_updated": null,
     "author": "ᴛꜱ ٠ lockedd",
     "author_id": 180,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 1200,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 11,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "11",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2620,
+            "name": "Name Towers Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2621,
+            "name": "Name Towers Platform Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2481,
+            "name": "Center Sky Supports",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2826,
+            "name": "Star Red Roof",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2826,
+            "name": "Star Red Roof",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2473,
+            "name": "Center House Ramp Spine",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3139,
+            "name": "Spiral Tower Lower Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2812,
+            "name": "Spiral Tower Middle Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3143,
+            "name": "Spiral Tower Top Block",
             "order": 8,
             "passthrough": 0
         }

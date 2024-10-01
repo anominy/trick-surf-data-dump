@@ -3,39 +3,40 @@
     "map_id": 13,
     "name": "Short Walk",
     "date": "2024-08-28T08:34:37.000Z",
-    "last_updated": "2024-08-31T17:18:09.000Z",
     "author": "Autumn Melancholy",
     "author_id": 1159,
+    "last_updated": "2024-08-31T17:18:09.000Z",
     "last_updated_author_id": 1159,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3446,
+            "name": "T2 High Corner",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3332,
+            "name": "Lazy Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3360,
+            "name": "Never Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3513,
+            "name": "Turtle Boost Platform",
             "order": 3,
             "passthrough": 0
         }

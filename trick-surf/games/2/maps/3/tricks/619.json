@@ -3,74 +3,82 @@
     "map_id": 3,
     "name": "V-Sign to Waterfall Pocket",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": "2022-01-28T23:02:54.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-28T23:02:54.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 35,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "35",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 238,
+            "name": "Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 2,
             "passthrough": 1
         },
         {
             "trigger_id": 201,
+            "name": "Behind Main",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 3,
             "passthrough": 1
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 934,
+            "name": "Main Ramp Boost",
             "order": 4,
             "passthrough": 1
         },
         {
             "trigger_id": 283,
+            "name": "V Wall Slant",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 934,
+            "name": "Main Ramp Boost",
             "order": 5,
             "passthrough": 1
         },
         {
             "trigger_id": 205,
+            "name": "Behind Waterfall Pocket",
             "order": 6,
             "passthrough": 0
         }

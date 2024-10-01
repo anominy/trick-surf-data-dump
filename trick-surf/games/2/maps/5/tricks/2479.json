@@ -3,54 +3,58 @@
     "map_id": 5,
     "name": "Land Down Under",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": "2022-05-18T14:55:52.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-05-18T14:55:52.000Z",
     "last_updated_author_id": 209,
     "active": 1,
-    "points": 300,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 410,
+            "name": "Below Spawn Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 409,
+            "name": "Below Spawn Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 479,
+            "name": "Under Side Pool",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 430,
+            "name": "Lower Curve Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 476,
+            "name": "Under Lower Curve Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 413,
+            "name": "Bottom Pool",
             "order": 6,
             "passthrough": 0
         }

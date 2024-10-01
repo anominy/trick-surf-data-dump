@@ -3,59 +3,64 @@
     "map_id": 8,
     "name": "NeedSpeed",
     "date": "2024-06-16T03:49:24.000Z",
-    "last_updated": "2024-06-16T15:14:02.000Z",
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
+    "last_updated": "2024-06-16T15:14:02.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 250,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 40,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "40",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 918,
+            "name": "Fish Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1043,
+            "name": "Low Fish Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3225,
+            "name": "T2 Big Left Hole",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3236,
+            "name": "T2 Left Window",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 777,
+            "name": "Through T2 Tower",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 649,
+            "name": "Awp Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 648,
+            "name": "Awp Platform",
             "order": 7,
             "passthrough": 0
         }

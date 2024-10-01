@@ -3,34 +3,34 @@
     "map_id": 5,
     "name": "Awp Divide",
     "date": "2022-01-31T12:00:00.000Z",
-    "last_updated": "2022-01-31T15:34:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": "2022-01-31T15:34:00.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 75,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 403,
+            "name": "Awp Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 435,
+            "name": "Map Divide",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 403,
+            "name": "Awp Platform",
             "order": 2,
             "passthrough": 0
         }

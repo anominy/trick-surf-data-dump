@@ -3,69 +3,76 @@
     "map_id": 3,
     "name": "Easy Flash Rise",
     "date": "2022-01-07T17:13:17.000Z",
-    "last_updated": "2024-04-01T21:13:42.000Z",
     "author": "ᴛꜱ٠ Frag",
     "author_id": 1,
+    "last_updated": "2024-04-01T21:13:42.000Z",
     "last_updated_author_id": 15261,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 54,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "55",
+    "players_completed": "18",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 252,
+            "name": "Sky",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 259,
+            "name": "Sky West",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 263,
+            "name": "Spawn Ceiling",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 208,
+            "name": "Box Water",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 201,
+            "name": "Behind Main",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 229,
+            "name": "Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 240,
+            "name": "Ramp 3",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 934,
+            "name": "Main Ramp Boost",
             "order": 7,
             "passthrough": 1
         },
         {
             "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 8,
             "passthrough": 0
         }

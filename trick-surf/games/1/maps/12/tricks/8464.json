@@ -3,44 +3,46 @@
     "map_id": 12,
     "name": "Good Morning",
     "date": "2023-12-04T05:56:25.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 146,
-    "playersCompleted": 29,
-    "trick_sequence": [
+    "completions": "146",
+    "players_completed": "33",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2546,
+            "name": "Hanging Sky Orange Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2654,
+            "name": "Over Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2590,
+            "name": "Lower Spiral Stairs",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2606,
+            "name": "Main Ramp Spine",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2953,
+            "name": "Lucy's Platform",
             "order": 4,
             "passthrough": 0
         }

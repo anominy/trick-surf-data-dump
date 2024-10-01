@@ -3,39 +3,40 @@
     "map_id": 11,
     "name": "F in the chat",
     "date": "2023-04-14T18:00:00.000Z",
-    "last_updated": "2023-05-19T22:27:34.000Z",
     "author": "IrynStyl",
     "author_id": 2076,
+    "last_updated": "2023-05-19T22:27:34.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 275,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 69,
-    "playersCompleted": 19,
-    "trick_sequence": [
+    "completions": "69",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1837,
+            "name": "F Loop Trim",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1830,
+            "name": "F Loop Big Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1829,
+            "name": "F Loop",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1933,
+            "name": "F Trigger",
             "order": 3,
             "passthrough": 0
         }

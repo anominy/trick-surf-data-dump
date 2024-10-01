@@ -3,49 +3,52 @@
     "map_id": 5,
     "name": "Medium Jump Around Pillar",
     "date": "2022-01-31T16:16:40.000Z",
-    "last_updated": "2022-11-22T21:31:55.000Z",
     "author": "Fragzy4",
     "author_id": 1,
+    "last_updated": "2022-11-22T21:31:55.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 54,
-    "playersCompleted": 33,
-    "trick_sequence": [
+    "completions": "54",
+    "players_completed": "34",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 461,
+            "name": "Spine Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 956,
+            "name": "Spine Ramp Tele",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 947,
+            "name": "Pillar Sides",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 943,
+            "name": "Behind Pillar Large",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 946,
+            "name": "Front Pillar Large",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 442,
+            "name": "Pillar Medium",
             "order": 5,
             "passthrough": 0
         }

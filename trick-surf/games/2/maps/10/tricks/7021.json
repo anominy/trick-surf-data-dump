@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Hysteria",
     "date": "2023-02-11T05:52:06.000Z",
-    "last_updated": "2023-02-11T18:01:47.000Z",
     "author": "Steve",
     "author_id": 10,
+    "last_updated": "2023-02-11T18:01:47.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1225,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1615,
+            "name": "SW Concrete Tube 1",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1610,
+            "name": "SW Blue Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1476,
+            "name": "NW Pool Facade Corner",
             "order": 5,
             "passthrough": 0
         }

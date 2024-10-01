@@ -3,54 +3,58 @@
     "map_id": 10,
     "name": "Hard Straight Liner",
     "date": "2024-04-06T05:48:24.000Z",
-    "last_updated": "2024-04-06T05:50:45.000Z",
     "author": "Kingaru",
     "author_id": 10,
+    "last_updated": "2024-04-06T05:50:45.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 970,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 3,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 18,
-    "playersCompleted": 4,
-    "trick_sequence": [
+    "completions": "18",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1280,
+            "name": "E East Ledge",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1287,
+            "name": "E Red Ramp 4 Spine",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1287,
+            "name": "E Red Ramp 4 Spine",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1722,
+            "name": "E Red Slant",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1408,
+            "name": "NE Ground Upper Platform",
             "order": 6,
             "passthrough": 0
         }

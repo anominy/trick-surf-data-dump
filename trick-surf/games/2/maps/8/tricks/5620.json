@@ -3,34 +3,34 @@
     "map_id": 8,
     "name": "Forgot My Kit",
     "date": "2022-06-03T21:51:07.000Z",
-    "last_updated": "2023-11-02T20:40:25.000Z",
     "author": "๖ۣۜKïñgYo§hi ٿـ",
     "author_id": 457,
+    "last_updated": "2023-11-02T20:40:25.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 950,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 768,
+            "name": "T2 Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 669,
+            "name": "CT-Spawn Teleporter",
             "order": 2,
             "passthrough": 0
         }

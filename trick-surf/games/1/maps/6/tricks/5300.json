@@ -3,49 +3,52 @@
     "map_id": 6,
     "name": "Hard Lower Nest",
     "date": "2022-03-25T19:36:05.000Z",
-    "last_updated": "2022-10-19T03:52:43.000Z",
     "author": "dimy",
     "author_id": 174,
+    "last_updated": "2022-10-19T03:52:43.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 2500,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 12,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "12",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 528,
+            "name": "Large Sniper Disk",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 587,
+            "name": "Glass Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 534,
+            "name": "Long Deagle Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 543,
+            "name": "Red Deagle Platform",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 531,
+            "name": "Left Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 512,
+            "name": "Checkered Slope",
             "order": 5,
             "passthrough": 0
         }

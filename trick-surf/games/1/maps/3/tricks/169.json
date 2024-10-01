@@ -3,34 +3,34 @@
     "map_id": 3,
     "name": "top-wrap",
     "date": "2022-01-01T21:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 150,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 45,
-    "playersCompleted": 24,
-    "trick_sequence": [
+    "completions": "45",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 261,
+            "name": "Skyplate",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 202,
+            "name": "Behind River",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 266,
+            "name": "Spawn River",
             "order": 2,
             "passthrough": 0
         }

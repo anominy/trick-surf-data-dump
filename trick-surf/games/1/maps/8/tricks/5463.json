@@ -3,49 +3,52 @@
     "map_id": 8,
     "name": "Yoshis Rise to Glory!",
     "date": "2022-05-09T17:40:44.000Z",
-    "last_updated": "2023-10-13T01:29:20.000Z",
     "author": "๖ۣۜKïñgYo§hi ٿـ",
     "author_id": 457,
+    "last_updated": "2023-10-13T01:29:20.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 22,
-    "playersCompleted": 14,
-    "trick_sequence": [
+    "completions": "22",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 718,
+            "name": "Mini Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 719,
+            "name": "Mini Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 743,
+            "name": "Sriracha",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 704,
+            "name": "Long Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 784,
+            "name": "Triomino 1",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 738,
+            "name": "Ski Sign",
             "order": 5,
             "passthrough": 0
         }

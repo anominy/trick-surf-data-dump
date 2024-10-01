@@ -3,84 +3,94 @@
     "map_id": 10,
     "name": "Hard Clownfish",
     "date": "2022-11-07T22:57:02.000Z",
-    "last_updated": "2023-06-06T09:10:29.000Z",
     "author": "fishöö",
     "author_id": 54,
+    "last_updated": "2023-06-06T09:10:29.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1305,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1745,
+            "name": "E Through Structure",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1753,
+            "name": "E Brown Teleporter",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1587,
+            "name": "SE Orange Platform",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2396,
+            "name": "S Under Yellow Ramp 8",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1450,
+            "name": "NW Jungle Fish Block",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1718,
+            "name": "W West Pillar Lower",
             "order": 12,
             "passthrough": 0
         }

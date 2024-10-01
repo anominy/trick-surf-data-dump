@@ -3,89 +3,100 @@
     "map_id": 10,
     "name": "Rallizes",
     "date": "2024-03-08T14:54:01.000Z",
-    "last_updated": null,
     "author": "william",
     "author_id": 347,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1300,
+    "ranked": 1,
     "tier": 8,
-    "min_velocity": null,
+    "points": 3600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 4,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1599,
+            "name": "SE Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1543,
+            "name": "S Yellow Ramp 8",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1205,
+            "name": "C Lift Platform",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1226,
+            "name": "C Strip Top Light Pillar",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1439,
+            "name": "NW Black Ramp 2 Booster 1",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1512,
+            "name": "NW Jungle Xiao Ledge",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 9,
             "passthrough": 1
         },
         {
             "trigger_id": 1460,
+            "name": "NW Park Roof",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 1315,
+            "name": "NE Lower Undergrounds Floor",
             "order": 12,
             "passthrough": 0
         }

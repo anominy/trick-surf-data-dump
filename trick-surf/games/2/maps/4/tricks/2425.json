@@ -3,79 +3,88 @@
     "map_id": 4,
     "name": "Machiko",
     "date": "2022-06-27T18:00:00.000Z",
-    "last_updated": null,
     "author": "zSkyworld.com",
     "author_id": null,
+    "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 345,
+            "name": "Stage 6 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 344,
+            "name": "Stage 6 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 350,
+            "name": "Lower Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 296,
+            "name": "Cannon Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 379,
+            "name": "Under Cannon Pillar Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 292,
+            "name": "Bonus Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 381,
+            "name": "Under Stage 1",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 396,
+            "name": "West Ramp 1",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 397,
+            "name": "West Ramp 2",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 398,
+            "name": "West Ramp 3",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 328,
+            "name": "Stage 2 Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 330,
+            "name": "Stage 2 Upper Left Platform",
             "order": 11,
             "passthrough": 0
         }

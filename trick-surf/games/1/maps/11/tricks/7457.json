@@ -3,69 +3,76 @@
     "map_id": 11,
     "name": "Red Shell",
     "date": "2023-04-19T20:10:32.000Z",
-    "last_updated": "2023-05-20T17:54:06.000Z",
     "author": "Xiao",
     "author_id": 103,
+    "last_updated": "2023-05-20T17:54:06.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 450,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 36,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "36",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1906,
+            "name": "Mini Corner Quarter Deck",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1835,
+            "name": "F Loop Shell",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1830,
+            "name": "F Loop Big Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1833,
+            "name": "F Loop L Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1997,
+            "name": "Skinny QP",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2050,
+            "name": "Under Logo Right Side",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1784,
+            "name": "Another Curvy Boi",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2004,
+            "name": "Smol H Curvy Boi",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2000,
+            "name": "Smol Curvy Boi",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1945,
+            "name": "Resi Lander",
             "order": 9,
             "passthrough": 0
         }

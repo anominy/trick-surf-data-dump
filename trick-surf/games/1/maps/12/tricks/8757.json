@@ -3,64 +3,70 @@
     "map_id": 12,
     "name": "Femboy Friday",
     "date": "2024-01-12T01:33:14.000Z",
-    "last_updated": null,
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 450,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 29,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "29",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2953,
+            "name": "Lucy's Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2792,
+            "name": "Spawn Top Floor",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2951,
+            "name": "Right Wing Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2772,
+            "name": "South Sewer Grate Teleporter",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3062,
+            "name": "Pyramid Main Ramp West",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2662,
+            "name": "Pink Pool Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2654,
+            "name": "Over Main Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2603,
+            "name": "Main Platform",
             "order": 8,
             "passthrough": 0
         }

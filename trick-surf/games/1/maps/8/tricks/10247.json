@@ -3,44 +3,46 @@
     "map_id": 8,
     "name": "Retro Spawn v2",
     "date": "2024-06-15T00:21:57.000Z",
-    "last_updated": null,
     "author": "KingYoshi // solidsurf.info",
     "author_id": 457,
+    "last_updated": null,
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 450,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 20,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "20",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 747,
+            "name": "T-Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 706,
+            "name": "Center Wedge",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 669,
+            "name": "CT-Spawn Teleporter",
             "order": 4,
             "passthrough": 0
         }

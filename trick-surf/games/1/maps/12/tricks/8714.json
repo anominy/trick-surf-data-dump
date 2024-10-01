@@ -3,44 +3,46 @@
     "map_id": 12,
     "name": "Limitless Fortune Flow",
     "date": "2024-01-06T16:34:53.000Z",
-    "last_updated": "2024-01-06T16:36:45.000Z",
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": "2024-01-06T16:36:45.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
-    "points": 1250,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 10,
-    "playersCompleted": 9,
-    "trick_sequence": [
+    "completions": "10",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2901,
+            "name": "Vent Headsurf Beam",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2902,
+            "name": "Vent Headsurf Teleport",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2604,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2829,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2741,
+            "name": "Small Battery",
             "order": 4,
             "passthrough": 0
         }

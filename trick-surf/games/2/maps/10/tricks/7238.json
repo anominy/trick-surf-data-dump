@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "heya heya",
     "date": "2023-02-28T17:00:45.000Z",
-    "last_updated": null,
     "author": "hheheyheyaeyayaa",
     "author_id": 436,
+    "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1646,
+            "name": "SW Upper Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1652,
+            "name": "SW Yellow Ramp 5",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2231,
+            "name": "SW Between Broken Pillars",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 1640,
+            "name": "SW Purple Platform",
             "order": 10,
             "passthrough": 0
         }

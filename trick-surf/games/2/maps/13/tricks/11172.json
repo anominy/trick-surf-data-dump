@@ -3,124 +3,142 @@
     "map_id": 13,
     "name": "Boosting Adventure",
     "date": "2024-08-29T09:23:32.000Z",
-    "last_updated": "2024-09-01T11:14:10.000Z",
     "author": "ᴛꜱ٠ jnssurf ツ",
     "author_id": 92,
+    "last_updated": "2024-09-01T11:14:10.000Z",
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 1150,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3513,
+            "name": "Turtle Boost Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3512,
+            "name": "Turtle Boost",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3417,
+            "name": "Sphere Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3539,
+            "name": "Around Snake Tower",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3327,
+            "name": "Jumper",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3464,
+            "name": "Through East Turtle Inner",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3484,
+            "name": "Through South Turtle Inner",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3315,
+            "name": "Faucet Under Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 3305,
+            "name": "Elevator",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 3325,
+            "name": "Hook Ramp",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 3465,
+            "name": "Through Front Jail Wall",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 3478,
+            "name": "Through Prison Hole",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 3349,
+            "name": "Middle Snake Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 3457,
+            "name": "Through Behind Middle Snake Hole",
             "order": 13,
             "passthrough": 0
         },
         {
             "trigger_id": 3449,
+            "name": "T2 North Window",
             "order": 14,
             "passthrough": 0
         },
         {
             "trigger_id": 3289,
+            "name": "Cage Ramp",
             "order": 15,
             "passthrough": 0
         },
         {
             "trigger_id": 3459,
+            "name": "Through Cage",
             "order": 16,
             "passthrough": 0
         },
         {
             "trigger_id": 3486,
+            "name": "Through Spawn Hole",
             "order": 17,
             "passthrough": 0
         },
         {
             "trigger_id": 3295,
+            "name": "Crew Ramp",
             "order": 18,
             "passthrough": 0
         },
         {
             "trigger_id": 3433,
+            "name": "Strafes Platform",
             "order": 19,
             "passthrough": 0
         },
         {
             "trigger_id": 3432,
+            "name": "Strafes Fall Teleport",
             "order": 19,
             "passthrough": 2
         }

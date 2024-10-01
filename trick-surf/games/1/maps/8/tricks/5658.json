@@ -3,54 +3,58 @@
     "map_id": 8,
     "name": "Pro Banana Wrap from Tower",
     "date": "2022-06-11T18:00:32.000Z",
-    "last_updated": "2024-02-06T17:38:23.000Z",
     "author": "Addicted",
     "author_id": 209,
+    "last_updated": "2024-02-06T17:38:23.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 19,
-    "playersCompleted": 16,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 783,
+            "name": "Tower Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 653,
+            "name": "Behind Banana Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 656,
+            "name": "Behind Tower",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1051,
+            "name": "Around Tower",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 652,
+            "name": "Banana Ramp",
             "order": 6,
             "passthrough": 0
         }

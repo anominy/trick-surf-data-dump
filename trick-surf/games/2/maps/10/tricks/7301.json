@@ -3,64 +3,70 @@
     "map_id": 10,
     "name": "RK's Misery",
     "date": "2023-03-09T05:54:51.000Z",
-    "last_updated": "2023-03-09T17:20:07.000Z",
     "author": "RK",
     "author_id": 4963,
+    "last_updated": "2023-03-09T17:20:07.000Z",
     "last_updated_author_id": 406,
     "active": 1,
-    "points": 750,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1623,
+            "name": "SW Grass Pillar Beam",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1625,
+            "name": "SW Grass Pillar Slant",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1582,
+            "name": "SE High Pillar Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1592,
+            "name": "SE East Pillar 3",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1303,
+            "name": "E Through White Beams",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1746,
+            "name": "E Through White Beams Bottom",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1308,
+            "name": "E White Ramp 1",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1417,
+            "name": "NE Teal Ramp 3",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1373,
+            "name": "N Tower Triangle 5",
             "order": 8,
             "passthrough": 0
         }

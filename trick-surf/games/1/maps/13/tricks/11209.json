@@ -3,59 +3,64 @@
     "map_id": 13,
     "name": "Xristos",
     "date": "2024-08-30T08:56:41.000Z",
-    "last_updated": "2024-08-30T19:01:36.000Z",
     "author": "nextir",
     "author_id": 2994,
+    "last_updated": "2024-08-30T19:01:36.000Z",
     "last_updated_author_id": 2994,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 23,
-    "playersCompleted": 11,
-    "trick_sequence": [
+    "completions": "25",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3510,
+            "name": "Turtle Big Ramp Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3564,
+            "name": "Turtle Large Left Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3519,
+            "name": "Turtle Inner Forward Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3410,
+            "name": "Snorkel Left Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3408,
+            "name": "Snip Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3519,
+            "name": "Turtle Inner Forward Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3411,
+            "name": "Snorkel Right Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3514,
+            "name": "Turtle Floor",
             "order": 7,
             "passthrough": 0
         }

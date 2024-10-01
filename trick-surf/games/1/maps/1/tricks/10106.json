@@ -3,49 +3,52 @@
     "map_id": 1,
     "name": "Strafe McRyan Hop",
     "date": "2024-06-09T22:11:40.000Z",
-    "last_updated": "2024-06-09T22:13:56.000Z",
     "author": "Dr Mulped",
     "author_id": 70,
+    "last_updated": "2024-06-09T22:13:56.000Z",
     "last_updated_author_id": 1,
     "active": 1,
-    "points": 1600,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 14,
-    "playersCompleted": 3,
-    "trick_sequence": [
+    "completions": "14",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 39,
+            "name": "Pyramid Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 13,
+            "name": "Deagle 1st",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 19,
+            "name": "Deagle 4th",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 5,
+            "name": "Awp Ramp Water Slant",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 6,
+            "name": "Awpbox Slant",
             "order": 5,
             "passthrough": 0
         }

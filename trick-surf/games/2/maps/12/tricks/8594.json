@@ -3,54 +3,58 @@
     "map_id": 12,
     "name": "Forget",
     "date": "2023-12-29T17:38:10.000Z",
-    "last_updated": "2023-12-29T17:40:05.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2023-12-29T17:40:05.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 500,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2887,
+            "name": "Under Star Cyan Tunnel Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2903,
+            "name": "Vent Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2454,
+            "name": "Big Battery Ramps",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2863,
+            "name": "Under Battery Connector Cable",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2744,
+            "name": "Small Battery Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2760,
+            "name": "Snake Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2939,
+            "name": "White Pool Roof",
             "order": 6,
             "passthrough": 0
         }

@@ -3,74 +3,82 @@
     "map_id": 10,
     "name": "The 1:12",
     "date": "2023-01-15T02:08:42.000Z",
-    "last_updated": "2023-07-01T10:43:22.000Z",
     "author": "william",
     "author_id": 347,
+    "last_updated": "2023-07-01T10:43:22.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 112,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 0,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1434,
+            "name": "NW Black Platform",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1462,
+            "name": "NW North Ledge",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1458,
+            "name": "NW Ground Top",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1377,
+            "name": "N Upper Ground",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1378,
+            "name": "N Upper Ground Corner",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1456,
+            "name": "NW Ground",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 1780,
+            "name": "W Ground East",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2176,
+            "name": "NW Under Window",
             "order": 6,
             "passthrough": 2
         },
         {
             "trigger_id": 1769,
+            "name": "C Undergrounds SW Ledge",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 1259,
+            "name": "C Undergrounds",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 1725,
+            "name": "C Undergrounds Entry NW",
             "order": 9,
             "passthrough": 0
         }

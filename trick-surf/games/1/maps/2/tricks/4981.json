@@ -3,44 +3,46 @@
     "map_id": 2,
     "name": "Flick Core 2.0",
     "date": "2021-11-14T03:37:45.000Z",
-    "last_updated": "2022-08-05T02:27:57.000Z",
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": "2022-08-05T02:27:57.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 1500,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 28,
-    "playersCompleted": 17,
-    "trick_sequence": [
+    "completions": "28",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 155,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 195,
+            "name": "Under Ramp Slant",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 143,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 120,
+            "name": "Grass Spawn",
             "order": 4,
             "passthrough": 0
         }

@@ -3,44 +3,46 @@
     "map_id": 10,
     "name": "Hard Orangesaw",
     "date": "2024-03-21T18:35:26.000Z",
-    "last_updated": "2024-03-21T18:53:54.000Z",
     "author": "wilevitör",
     "author_id": 10,
+    "last_updated": "2024-03-21T18:53:54.000Z",
     "last_updated_author_id": 10,
     "active": 1,
-    "points": 1050,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 13,
-    "playersCompleted": 12,
-    "trick_sequence": [
+    "completions": "13",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1679,
+            "name": "W Rooftops",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1222,
+            "name": "C Strip Through Beams",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1202,
+            "name": "C Ground",
             "order": 4,
             "passthrough": 0
         }

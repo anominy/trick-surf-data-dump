@@ -3,64 +3,70 @@
     "map_id": 8,
     "name": "Triple Zolomon",
     "date": "2022-05-05T18:00:00.000Z",
-    "last_updated": "2023-10-12T23:34:17.000Z",
     "author": "bog",
     "author_id": 131,
+    "last_updated": "2023-10-12T23:34:17.000Z",
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 700,
+    "ranked": 1,
     "tier": 4,
-    "min_velocity": null,
+    "points": 1000,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 40,
-    "playersCompleted": 28,
-    "trick_sequence": [
+    "completions": "40",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 749,
+            "name": "T-Spawn Hole Front",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 749,
+            "name": "T-Spawn Hole Front",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 749,
+            "name": "T-Spawn Hole Front",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 793,
+            "name": "Weapons Teleporter",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 680,
+            "name": "Gun Room",
             "order": 8,
             "passthrough": 0
         }

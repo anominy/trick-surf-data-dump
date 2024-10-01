@@ -3,34 +3,34 @@
     "map_id": 10,
     "name": "Scarlet Oak",
     "date": "2023-02-26T20:43:53.000Z",
-    "last_updated": "2023-04-20T10:10:02.000Z",
     "author": "ryuko",
     "author_id": 4963,
+    "last_updated": "2023-04-20T10:10:02.000Z",
     "last_updated_author_id": 347,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1592,
+            "name": "SE East Pillar 3",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1595,
+            "name": "SE Red Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1565,
+            "name": "SE Grass Corner",
             "order": 2,
             "passthrough": 0
         }

@@ -3,64 +3,70 @@
     "map_id": 12,
     "name": "Winkelhaak",
     "date": "2023-12-12T20:41:43.000Z",
-    "last_updated": null,
     "author": "Liquidator",
     "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 480,
     "active": 1,
-    "points": 960,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2804,
+            "name": "Spiral Pool Shelf",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2812,
+            "name": "Spiral Tower Middle Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2811,
+            "name": "Spiral Tower Middle",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2807,
+            "name": "Spiral Tower Cross Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2807,
+            "name": "Spiral Tower Cross Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2510,
+            "name": "East Spiral Tower Tunnel",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2536,
+            "name": "Green-White Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2884,
+            "name": "Under Right Back Pillar Beam",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2667,
+            "name": "Pink Pool Roof Block",
             "order": 8,
             "passthrough": 0
         }

@@ -3,39 +3,40 @@
     "map_id": 8,
     "name": "In-n-out",
     "date": "2023-10-30T22:49:18.000Z",
-    "last_updated": null,
     "author": "๖ۣۜKïñgYo§hi ٿـ",
     "author_id": 457,
+    "last_updated": null,
     "last_updated_author_id": 457,
     "active": 1,
-    "points": 175,
+    "ranked": 1,
     "tier": 2,
-    "min_velocity": null,
+    "points": 300,
     "max_prestrafe": null,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 97,
-    "playersCompleted": 36,
-    "trick_sequence": [
+    "completions": "99",
+    "players_completed": "38",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 771,
+            "name": "Telepad Water",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 654,
+            "name": "Behind Long Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 774,
+            "name": "Through T2 Back Right",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 776,
+            "name": "Through T2 Front Right",
             "order": 3,
             "passthrough": 0
         }

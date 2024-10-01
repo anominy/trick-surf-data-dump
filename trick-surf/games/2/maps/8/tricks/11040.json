@@ -3,59 +3,64 @@
     "map_id": 8,
     "name": "Funky Zolomon",
     "date": "2024-08-24T02:30:42.000Z",
-    "last_updated": "2024-08-24T02:36:42.000Z",
     "author": "Schewpid",
     "author_id": 25977,
+    "last_updated": "2024-08-24T02:36:42.000Z",
     "last_updated_author_id": 147,
     "active": 1,
-    "points": 200,
+    "ranked": 1,
     "tier": 3,
-    "min_velocity": null,
+    "points": 600,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 692,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 667,
+            "name": "CT-Spawn Hole Front",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 666,
+            "name": "CT-Spawn Hole Back",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 734,
+            "name": "Side Spawn Booster",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 709,
+            "name": "Main Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 749,
+            "name": "T-Spawn Hole Front",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 793,
+            "name": "Weapons Teleporter",
             "order": 7,
             "passthrough": 0
         }

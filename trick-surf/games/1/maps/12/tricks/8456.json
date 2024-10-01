@@ -3,89 +3,100 @@
     "map_id": 12,
     "name": "Lucy's Stroll",
     "date": "2023-12-03T17:40:22.000Z",
-    "last_updated": "2023-12-31T08:28:01.000Z",
     "author": "Lucy",
     "author_id": 103,
+    "last_updated": "2023-12-31T08:28:01.000Z",
     "last_updated_author_id": 103,
     "active": 1,
-    "points": 50,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "points": 100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 38,
-    "playersCompleted": 20,
-    "trick_sequence": [
+    "completions": "38",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 2642,
+            "name": "North-West Corner",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 2452,
+            "name": "Big Battery Floor",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 2755,
+            "name": "Snake Floor",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 2870,
+            "name": "Under Logo Ramp Floor",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 2648,
+            "name": "Outer Pyramid Floor",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 2689,
+            "name": "Pyramid Divider",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2664,
+            "name": "Pink Pool Ramp Floor",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 2715,
+            "name": "Red Divider",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 2720,
+            "name": "Red-Purple Flowerbed",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 2682,
+            "name": "Purple Divider",
             "order": 9,
             "passthrough": 0
         },
         {
             "trigger_id": 2493,
+            "name": "Color Towers Floor",
             "order": 10,
             "passthrough": 0
         },
         {
             "trigger_id": 2492,
+            "name": "Color Towers Divider",
             "order": 11,
             "passthrough": 0
         },
         {
             "trigger_id": 2530,
+            "name": "Green Corner",
             "order": 12,
             "passthrough": 0
         },
         {
             "trigger_id": 2646,
+            "name": "Orange Floor",
             "order": 13,
             "passthrough": 0
         }

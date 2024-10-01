@@ -3,59 +3,64 @@
     "map_id": 10,
     "name": "Winter Depression",
     "date": "2024-06-16T15:30:19.000Z",
-    "last_updated": "2024-06-16T23:56:06.000Z",
     "author": "LuK ♛",
     "author_id": 18949,
+    "last_updated": "2024-06-16T23:56:06.000Z",
     "last_updated_author_id": 18949,
     "active": 1,
-    "points": 1000,
+    "ranked": 1,
     "tier": 6,
-    "min_velocity": null,
+    "points": 2100,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 2,
-    "no_jump": 1,
-    "hidden": 0,
-    "completions": 19,
-    "playersCompleted": 8,
-    "trick_sequence": [
+    "completions": "19",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1586,
+            "name": "SE Large Structure Red Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1585,
+            "name": "SE Large Structure Booster",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1542,
+            "name": "S Yellow Platform",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1532,
+            "name": "S Fort Top",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 2208,
+            "name": "C Strip Top Over Beam",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 1511,
+            "name": "NW Jungle Winter Block",
             "order": 7,
             "passthrough": 0
         }

@@ -3,59 +3,64 @@
     "map_id": 13,
     "name": "Shattered",
     "date": "2024-09-10T20:41:44.000Z",
-    "last_updated": null,
     "author": "Luna",
     "author_id": 180,
+    "last_updated": null,
     "last_updated_author_id": 180,
     "active": 1,
-    "points": 800,
+    "ranked": 1,
     "tier": 5,
-    "min_velocity": null,
+    "points": 1500,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 0,
-    "playersCompleted": 0,
-    "trick_sequence": [
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 3499,
+            "name": "Tower Hole",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 3330,
+            "name": "Lain Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 3319,
+            "name": "Flat Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 3379,
+            "name": "Prison Floor",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 3466,
+            "name": "Through Funnel Room",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 3585,
+            "name": "West Corner Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 3319,
+            "name": "Flat Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 3514,
+            "name": "Turtle Floor",
             "order": 7,
             "passthrough": 0
         }

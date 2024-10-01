@@ -3,64 +3,70 @@
     "map_id": 1,
     "name": "V Egyptian V Waave Walk",
     "date": "2021-11-20T00:36:33.000Z",
-    "last_updated": "2021-11-20T22:50:09.000Z",
     "author": "Ghostface",
     "author_id": 5,
+    "last_updated": "2021-11-20T22:50:09.000Z",
     "last_updated_author_id": 37,
     "active": 1,
-    "points": 3500,
+    "ranked": 1,
     "tier": 7,
-    "min_velocity": null,
+    "points": 2800,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": null,
-    "no_jump": 0,
-    "hidden": 0,
-    "completions": 23,
-    "playersCompleted": 10,
-    "trick_sequence": [
+    "completions": "23",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 41,
+            "name": "Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 27,
+            "name": "Main Ramp Slant",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 11,
+            "name": "Behind Pyramid",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 37,
+            "name": "Pyramid",
             "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 27,
+            "name": "Main Ramp Slant",
             "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 26,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
             "trigger_id": 41,
+            "name": "Spawn",
             "order": 8,
             "passthrough": 0
         }
