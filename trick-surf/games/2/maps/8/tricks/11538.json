@@ -1,0 +1,44 @@
+{
+    "id": 11538,
+    "map_id": 8,
+    "name": "Spicy Blinchik",
+    "date": "2024-10-07T14:37:54.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2024-10-07T14:41:55.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "points": 1500,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 648,
+            "name": "Awp Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "name": "Triomino 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1033,
+            "name": "Long Ramp Tip",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

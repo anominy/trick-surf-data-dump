@@ -207,8 +207,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "1336",
-        "players_completed": "140",
+        "completions": "1361",
+        "players_completed": "143",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -257,7 +257,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "788",
+        "completions": "792",
         "players_completed": "109",
         "average_rating": "0.0000",
         "sequence": [
@@ -371,8 +371,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "2381",
-        "players_completed": "153",
+        "completions": "2392",
+        "players_completed": "156",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -815,7 +815,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "700",
+        "completions": "706",
         "players_completed": "118",
         "average_rating": "0.0000",
         "sequence": [
@@ -853,7 +853,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "336",
+        "completions": "338",
         "players_completed": "50",
         "average_rating": "0.0000",
         "sequence": [
@@ -1273,7 +1273,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "180",
+        "completions": "181",
         "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
@@ -1711,8 +1711,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "168",
-        "players_completed": "52",
+        "completions": "173",
+        "players_completed": "54",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1785,8 +1785,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "202",
-        "players_completed": "47",
+        "completions": "203",
+        "players_completed": "48",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -3731,6 +3731,44 @@
                 "trigger_id": 1850,
                 "name": "Foam Pit Back Deck",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11509,
+        "map_id": 11,
+        "name": "Kc hop",
+        "date": "2024-10-04T11:07:15.000Z",
+        "author": "ᴛꜱ٠ Peace Maker",
+        "author_id": 1860,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "points": 300,
+        "max_prestrafe": null,
+        "completions": "2",
+        "players_completed": "2",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1815,
+                "name": "Bottom Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1790,
+                "name": "Big Curvy Thing",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2068,
+                "name": "Wall Ride Top",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -6007,7 +6045,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "42",
+        "completions": "49",
         "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
@@ -6240,12 +6278,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2390,
-                "name": "THE CUBE Left",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
                 "order": 2,
@@ -6254,6 +6286,12 @@
             {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2390,
+                "name": "THE CUBE Left",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6371,7 +6409,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "8",
+        "completions": "9",
         "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
@@ -7751,8 +7789,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "84",
-        "players_completed": "16",
+        "completions": "86",
+        "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -8149,7 +8187,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "234",
+        "completions": "235",
         "players_completed": "16",
         "average_rating": "0.0000",
         "sequence": [
@@ -9229,8 +9267,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "947",
-        "players_completed": "35",
+        "completions": "971",
+        "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12189,7 +12227,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "16",
+        "completions": "17",
         "players_completed": "9",
         "average_rating": "0.0000",
         "sequence": [
@@ -13971,7 +14009,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "62",
+        "completions": "65",
         "players_completed": "14",
         "average_rating": "0.0000",
         "sequence": [
@@ -14195,7 +14233,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "61",
+        "completions": "62",
         "players_completed": "14",
         "average_rating": "0.0000",
         "sequence": [
@@ -15104,12 +15142,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2285,
-                "name": "Above Fence North Back",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
                 "order": 8,
@@ -15124,6 +15156,12 @@
             {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "name": "Above Fence North Back",
                 "order": 8,
                 "passthrough": 2
             }
@@ -24202,10 +24240,10 @@
         "date": "2024-05-03T23:12:05.000Z",
         "author": "Tricky",
         "author_id": 458,
-        "last_updated": "2024-09-16T11:44:10.000Z",
-        "last_updated_author_id": 480,
+        "last_updated": "2024-10-04T06:50:34.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
@@ -25050,10 +25088,10 @@
         "date": "2024-04-30T01:22:09.000Z",
         "author": "Tricky",
         "author_id": 458,
-        "last_updated": "2024-09-16T11:47:16.000Z",
-        "last_updated_author_id": 480,
+        "last_updated": "2024-10-04T06:50:51.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,

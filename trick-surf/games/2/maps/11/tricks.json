@@ -2392,6 +2392,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2016,
+                "name": "THE CUBE Front",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
                 "order": 2,
@@ -2400,12 +2406,6 @@
             {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2016,
-                "name": "THE CUBE Front",
                 "order": 2,
                 "passthrough": 1
             }
@@ -3731,6 +3731,44 @@
                 "trigger_id": 1850,
                 "name": "Foam Pit Back Deck",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11509,
+        "map_id": 11,
+        "name": "Kc hop",
+        "date": "2024-10-04T11:07:15.000Z",
+        "author": "ᴛꜱ٠ Peace Maker",
+        "author_id": 1860,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "points": 300,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1815,
+                "name": "Bottom Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1790,
+                "name": "Big Curvy Thing",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2068,
+                "name": "Wall Ride Top",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -15062,18 +15100,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2287,
-                "name": "Above Fence Left",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2286,
-                "name": "Above Fence North Front",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
                 "order": 5,
@@ -15082,6 +15108,18 @@
             {
                 "trigger_id": 2285,
                 "name": "Above Fence North Back",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2287,
+                "name": "Above Fence Left",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2286,
+                "name": "Above Fence North Front",
                 "order": 5,
                 "passthrough": 2
             },
@@ -15104,12 +15142,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2286,
-                "name": "Above Fence North Front",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
                 "order": 8,
@@ -15124,6 +15156,12 @@
             {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2286,
+                "name": "Above Fence North Front",
                 "order": 8,
                 "passthrough": 2
             }
@@ -17572,14 +17610,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1889,
-                "name": "Lower Rail Box Front",
+                "trigger_id": 1891,
+                "name": "Lower Rail Box Right",
                 "order": 8,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1891,
-                "name": "Lower Rail Box Right",
+                "trigger_id": 1889,
+                "name": "Lower Rail Box Front",
                 "order": 8,
                 "passthrough": 1
             },
@@ -21942,14 +21980,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2405,
-                "name": "F Loop Apex",
+                "trigger_id": 1829,
+                "name": "F Loop",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1829,
-                "name": "F Loop",
+                "trigger_id": 2405,
+                "name": "F Loop Apex",
                 "order": 3,
                 "passthrough": 1
             },
@@ -24202,10 +24240,10 @@
         "date": "2024-05-03T23:12:05.000Z",
         "author": "Tricky",
         "author_id": 458,
-        "last_updated": "2024-09-16T11:44:10.000Z",
-        "last_updated_author_id": 480,
+        "last_updated": "2024-10-04T06:50:34.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
@@ -25050,10 +25088,10 @@
         "date": "2024-04-30T01:22:09.000Z",
         "author": "Tricky",
         "author_id": 458,
-        "last_updated": "2024-09-16T11:47:16.000Z",
-        "last_updated_author_id": 480,
+        "last_updated": "2024-10-04T06:50:51.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,

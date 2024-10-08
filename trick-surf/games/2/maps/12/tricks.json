@@ -5478,14 +5478,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2976,
-                "name": "Through Anti Grav Corners",
+                "trigger_id": 2831,
+                "name": "Through Anti Grav Supports",
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2831,
-                "name": "Through Anti Grav Supports",
+                "trigger_id": 2976,
+                "name": "Through Anti Grav Corners",
                 "order": 3,
                 "passthrough": 2
             }
@@ -30990,6 +30990,86 @@
         ]
     },
     {
+        "id": 11536,
+        "map_id": 12,
+        "name": "A little Radioactive",
+        "date": "2024-10-06T20:18:27.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": "2024-10-06T20:43:43.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2723,
+                "name": "Right Back Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2536,
+                "name": "Green-White Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2534,
+                "name": "Green-White Edge Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2927,
+                "name": "White Corner Block",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2946,
+                "name": "White-Red Edge Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2948,
+                "name": "White-Red Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2662,
+                "name": "Pink Pool Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2582,
+                "name": "Logo Window Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2430,
+                "name": "Behind Logo Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3056,
+                "name": "Pyramid Main Floor West",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8583,
         "map_id": 12,
         "name": "AAA Battery",
@@ -39056,12 +39136,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2512,
-                "name": "Flipped Isosceles Trapezium Ramp Spine",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2860,
                 "name": "Trapezium Ramps Mid Floor",
                 "order": 17,
@@ -39076,6 +39150,12 @@
             {
                 "trigger_id": 3049,
                 "name": "Pyramid Main Corner South-East",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2512,
+                "name": "Flipped Isosceles Trapezium Ramp Spine",
                 "order": 17,
                 "passthrough": 1
             },
@@ -47446,12 +47526,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2864,
-                "name": "Under Blue Spiral Platform",
-                "order": 7,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
                 "order": 7,
@@ -47460,6 +47534,12 @@
             {
                 "trigger_id": 2883,
                 "name": "Under Red Spiral Platform",
+                "order": 7,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2864,
+                "name": "Under Blue Spiral Platform",
                 "order": 7,
                 "passthrough": 2
             },
@@ -49582,18 +49662,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2893,
-                "name": "Under White Spiral Platform",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2883,
-                "name": "Under Red Spiral Platform",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2652,
                 "name": "Over Checkered Spiral Platform",
                 "order": 3,
@@ -49602,6 +49670,18 @@
             {
                 "trigger_id": 2864,
                 "name": "Under Blue Spiral Platform",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2893,
+                "name": "Under White Spiral Platform",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2883,
+                "name": "Under Red Spiral Platform",
                 "order": 3,
                 "passthrough": 2
             },
@@ -52900,6 +52980,50 @@
         ]
     },
     {
+        "id": 11533,
+        "map_id": 12,
+        "name": "pre board flick strafe",
+        "date": "2024-10-06T19:23:04.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2723,
+                "name": "Right Back Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2536,
+                "name": "Green-White Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2531,
+                "name": "Green Corner Block",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2684,
+                "name": "Purple-Green Edge Ramp",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8611,
         "map_id": 12,
         "name": "Pungent Garlic",
@@ -53097,6 +53221,86 @@
                 "trigger_id": 2522,
                 "name": "Front Ramp Floor",
                 "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11534,
+        "map_id": 12,
+        "name": "Radioactive",
+        "date": "2024-10-06T20:09:37.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": "2024-10-06T20:21:59.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2723,
+                "name": "Right Back Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2536,
+                "name": "Green-White Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2534,
+                "name": "Green-White Edge Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2927,
+                "name": "White Corner Block",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2946,
+                "name": "White-Red Edge Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2948,
+                "name": "White-Red Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2662,
+                "name": "Pink Pool Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2582,
+                "name": "Logo Window Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2430,
+                "name": "Behind Logo Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2550,
+                "name": "Inner Pyramid Ramp Spine",
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -53903,6 +54107,38 @@
                 "trigger_id": 2468,
                 "name": "Center Grey Front Right Platform",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11519,
+        "map_id": 12,
+        "name": "Strafe Practice",
+        "date": "2024-10-05T10:52:37.000Z",
+        "author": "4:21",
+        "author_id": 2994,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2814,
+                "name": "Spiral Tower Rail",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2938,
+                "name": "White Pool Ramp Spine",
+                "order": 1,
                 "passthrough": 0
             }
         ]
@@ -54886,6 +55122,86 @@
         ]
     },
     {
+        "id": 11535,
+        "map_id": 12,
+        "name": "Extremely Radioactive",
+        "date": "2024-10-06T20:12:03.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": "2024-10-06T20:21:14.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2723,
+                "name": "Right Back Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2536,
+                "name": "Green-White Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2534,
+                "name": "Green-White Edge Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2927,
+                "name": "White Corner Block",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2946,
+                "name": "White-Red Edge Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2948,
+                "name": "White-Red Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2662,
+                "name": "Pink Pool Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2582,
+                "name": "Logo Window Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2430,
+                "name": "Behind Logo Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2973,
+                "name": "Pyramid Inner Main Floor",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8341,
         "map_id": 12,
         "name": "Grey Return",
@@ -55460,6 +55776,44 @@
             {
                 "trigger_id": 2859,
                 "name": "Trapezium Ramps Bottom Floor",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11532,
+        "map_id": 12,
+        "name": "Pink Ambulance",
+        "date": "2024-10-06T18:41:08.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2666,
+                "name": "Pink Pool Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2662,
+                "name": "Pink Pool Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2675,
+                "name": "Pools Ramp",
                 "order": 2,
                 "passthrough": 0
             }

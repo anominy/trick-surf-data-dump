@@ -1,0 +1,62 @@
+{
+    "id": 11521,
+    "map_id": 8,
+    "name": "Dustcutter",
+    "date": "2024-10-05T12:06:16.000Z",
+    "author": "Schewpid",
+    "author_id": 25977,
+    "last_updated": "2024-10-06T14:28:47.000Z",
+    "last_updated_author_id": 10899,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "points": 1000,
+    "max_prestrafe": 406,
+    "completions": "5",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 692,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 716,
+            "name": "Middle Wing",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 762,
+            "name": "T2 Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 764,
+            "name": "T2 Right Wing",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 704,
+            "name": "Long Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 737,
+            "name": "Side Spawn Upper Platform",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

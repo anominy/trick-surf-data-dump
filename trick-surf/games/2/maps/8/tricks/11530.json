@@ -1,0 +1,62 @@
+{
+    "id": 11530,
+    "map_id": 8,
+    "name": "King's Moist Mindfuck",
+    "date": "2024-10-06T10:41:12.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2024-10-06T10:41:54.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 8,
+    "points": 3600,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 696,
+            "name": "Jail Wall",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 716,
+            "name": "Middle Wing",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1034,
+            "name": "Main Ramp Tip",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 700,
+            "name": "Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 769,
+            "name": "T2 Tower Water",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

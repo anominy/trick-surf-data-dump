@@ -83,12 +83,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1305,
-            "name": "E Upper Ground Island",
-            "order": 10,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1304,
             "name": "E Upper Ground",
             "order": 10,
@@ -97,6 +91,12 @@
         {
             "trigger_id": 1569,
             "name": "SE Ground",
+            "order": 10,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1305,
+            "name": "E Upper Ground Island",
             "order": 10,
             "passthrough": 1
         },
@@ -125,14 +125,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1780,
-            "name": "W Ground East",
+            "trigger_id": 1202,
+            "name": "C Ground",
             "order": 13,
             "passthrough": 1
         },
         {
-            "trigger_id": 1202,
-            "name": "C Ground",
+            "trigger_id": 1780,
+            "name": "W Ground East",
             "order": 13,
             "passthrough": 1
         },
