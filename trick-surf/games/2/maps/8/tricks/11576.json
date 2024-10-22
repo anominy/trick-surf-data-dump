@@ -1,0 +1,44 @@
+{
+    "id": 11576,
+    "map_id": 8,
+    "name": "International Strafes to Water",
+    "date": "2024-10-11T18:01:18.000Z",
+    "author": "synq_",
+    "author_id": 6763,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "points": 2100,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 768,
+            "name": "T2 Tower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 676,
+            "name": "Fish Hook Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 649,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 758,
+            "name": "T2 Big Water",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

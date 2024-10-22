@@ -1878,14 +1878,52 @@
         ]
     },
     {
+        "id": 11596,
+        "map_id": 8,
+        "name": "Ring To Platform",
+        "date": "2024-10-17T22:35:31.000Z",
+        "author": "|023++`/ |<|++135 @ 7#053 /215",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "points": 100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1058,
+                "name": "Ring Ground",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 737,
+                "name": "Side Spawn Upper Platform",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10635,
         "map_id": 8,
         "name": "Ring Wrap",
         "date": "2024-07-13T13:55:37.000Z",
         "author": "nextir",
         "author_id": 2994,
-        "last_updated": null,
-        "last_updated_author_id": 2994,
+        "last_updated": "2024-10-18T17:20:30.000Z",
+        "last_updated_author_id": 406,
         "active": 1,
         "ranked": 1,
         "tier": 1,
@@ -5627,6 +5665,94 @@
                 "trigger_id": 743,
                 "name": "Sriracha",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11595,
+        "map_id": 8,
+        "name": "Ring To Middle",
+        "date": "2024-10-17T22:34:51.000Z",
+        "author": "|023++`/ |<|++135 @ 7#053 /215",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "points": 300,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1058,
+                "name": "Ring Ground",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3223,
+                "name": "T1 Middle Platform",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11599,
+        "map_id": 8,
+        "name": "Ring To Radio",
+        "date": "2024-10-17T22:37:22.000Z",
+        "author": "|023++`/ |<|++135 @ 7#053 /215",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "points": 300,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1058,
+                "name": "Ring Ground",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3245,
+                "name": "Telepad Tower",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -9802,6 +9928,50 @@
         ]
     },
     {
+        "id": 11563,
+        "map_id": 8,
+        "name": "Commatose",
+        "date": "2024-10-10T20:23:42.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 747,
+                "name": "T-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 736,
+                "name": "Side Spawn Lower Platform",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8141,
         "map_id": 8,
         "name": "Cool Rise",
@@ -13229,6 +13399,50 @@
                 "trigger_id": 598,
                 "name": "Elevator Hole Tip",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11550,
+        "map_id": 8,
+        "name": "Give Me Avp Blyat",
+        "date": "2024-10-08T17:07:54.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": "2024-10-08T17:08:33.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1044,
+                "name": "Middle Awp Ground",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -20474,6 +20688,50 @@
         ]
     },
     {
+        "id": 11598,
+        "map_id": 8,
+        "name": "Ring To Awp",
+        "date": "2024-10-17T22:36:46.000Z",
+        "author": "|023++`/ |<|++135 @ 7#053 /215",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1058,
+                "name": "Ring Ground",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3233,
+                "name": "T2 Center Down Left Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2764,
         "map_id": 8,
         "name": "Rise",
@@ -22343,6 +22601,56 @@
                 "trigger_id": 736,
                 "name": "Side Spawn Lower Platform",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11610,
+        "map_id": 8,
+        "name": "Stonehenge",
+        "date": "2024-10-18T13:31:25.000Z",
+        "author": "LarzZz",
+        "author_id": 181,
+        "last_updated": "2024-10-18T13:39:35.000Z",
+        "last_updated_author_id": 181,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1022,
+                "name": "Awp Water",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1044,
+                "name": "Middle Awp Ground",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3246,
+                "name": "Through Middle Awp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -25766,8 +26074,8 @@
         "date": "2022-05-05T18:00:00.000Z",
         "author": "bog",
         "author_id": 131,
-        "last_updated": "2023-10-15T01:07:30.000Z",
-        "last_updated_author_id": 457,
+        "last_updated": "2024-10-20T08:04:20.000Z",
+        "last_updated_author_id": 2994,
         "active": 1,
         "ranked": 1,
         "tier": 3,
@@ -41624,6 +41932,50 @@
         ]
     },
     {
+        "id": 11621,
+        "map_id": 8,
+        "name": "NloolN",
+        "date": "2024-10-20T14:57:01.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 783,
+                "name": "Tower Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 686,
+                "name": "Healbot Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5666,
         "map_id": 8,
         "name": "Nocturne",
@@ -42902,8 +43254,8 @@
         "date": "2024-06-15T01:44:53.000Z",
         "author": "shprot bossman",
         "author_id": 195,
-        "last_updated": null,
-        "last_updated_author_id": 457,
+        "last_updated": "2024-10-17T06:24:49.000Z",
+        "last_updated_author_id": 6763,
         "active": 1,
         "ranked": 1,
         "tier": 4,
@@ -42930,6 +43282,12 @@
                 "name": "Gun Room",
                 "order": 2,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 3266,
+                "name": "Through Gun Room",
+                "order": 2,
+                "passthrough": 2
             }
         ]
     },
@@ -43961,6 +44319,50 @@
                 "trigger_id": 692,
                 "name": "Jail Floor",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11597,
+        "map_id": 8,
+        "name": "Ring To Prayge",
+        "date": "2024-10-17T22:36:07.000Z",
+        "author": "|023++`/ |<|++135 @ 7#053 /215",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1058,
+                "name": "Ring Ground",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "name": "Rear Spawn Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3268,
+                "name": "Prayge Ramp",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -54336,8 +54738,8 @@
         "date": "2024-07-23T09:41:23.000Z",
         "author": "synq_",
         "author_id": 6763,
-        "last_updated": null,
-        "last_updated_author_id": 147,
+        "last_updated": "2024-10-20T14:26:55.000Z",
+        "last_updated_author_id": 457,
         "active": 1,
         "ranked": 1,
         "tier": 5,
@@ -54354,8 +54756,8 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 739,
-                "name": "Spawn Divide",
+                "trigger_id": 3591,
+                "name": "Spawn Divide Slant",
                 "order": 1,
                 "passthrough": 0
             },
@@ -61276,6 +61678,50 @@
         ]
     },
     {
+        "id": 11622,
+        "map_id": 8,
+        "name": "olNNlo",
+        "date": "2024-10-20T14:59:51.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 780,
+                "name": "Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 686,
+                "name": "Healbot Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10439,
         "map_id": 8,
         "name": "onlyfans/nextir",
@@ -61879,6 +62325,50 @@
                 "trigger_id": 652,
                 "name": "Banana Ramp",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11564,
+        "map_id": 8,
+        "name": "Pro Commatose",
+        "date": "2024-10-10T20:25:04.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 747,
+                "name": "T-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 735,
+                "name": "Side Spawn Ladder",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -66167,6 +66657,62 @@
                 "trigger_id": 680,
                 "name": "Gun Room",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11578,
+        "map_id": 8,
+        "name": "Voices From The Fuselage",
+        "date": "2024-10-12T12:34:25.000Z",
+        "author": "synq_",
+        "author_id": 6763,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3213,
+                "name": "Rear Awp Window Tip",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -76350,6 +76896,62 @@
         ]
     },
     {
+        "id": 11570,
+        "map_id": 8,
+        "name": "Infinite Tsukuyomi",
+        "date": "2024-10-11T08:36:34.000Z",
+        "author": "4:21",
+        "author_id": 2994,
+        "last_updated": "2024-10-11T08:37:24.000Z",
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 746,
+                "name": "Starlight South",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 745,
+                "name": "Starlight North",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 675,
+                "name": "Elevator Hole Platform",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10621,
         "map_id": 8,
         "name": "Influx's Walk",
@@ -76599,6 +77201,88 @@
                 "trigger_id": 675,
                 "name": "Elevator Hole Platform",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11569,
+        "map_id": 8,
+        "name": "International Strafes",
+        "date": "2024-10-11T08:22:29.000Z",
+        "author": "synq_",
+        "author_id": 6763,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11576,
+        "map_id": 8,
+        "name": "International Strafes to Water",
+        "date": "2024-10-11T18:01:18.000Z",
+        "author": "synq_",
+        "author_id": 6763,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 758,
+                "name": "T2 Big Water",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -81326,7 +82010,7 @@
         "date": "2024-06-11T20:54:26.000Z",
         "author": "KingYoshi // solidsurf.info",
         "author_id": 457,
-        "last_updated": "2024-06-11T20:56:37.000Z",
+        "last_updated": "2024-10-19T01:06:04.000Z",
         "last_updated_author_id": 457,
         "active": 1,
         "ranked": 1,
@@ -84224,6 +84908,74 @@
         ]
     },
     {
+        "id": 11611,
+        "map_id": 8,
+        "name": "Tower Turn",
+        "date": "2024-10-18T19:09:18.000Z",
+        "author": "cr0wma",
+        "author_id": 10680,
+        "last_updated": "2024-10-18T19:13:16.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 686,
+                "name": "Healbot Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "name": "Rear T2 Tower Wedge",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6223,
         "map_id": 8,
         "name": "Trash King",
@@ -84269,6 +85021,62 @@
                 "trigger_id": 762,
                 "name": "T2 Left Wing",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 8317,
+        "map_id": 8,
+        "name": "Trash King to Sign",
+        "date": "2023-11-05T16:52:27.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": "2024-10-11T14:33:23.000Z",
+        "last_updated_author_id": 457,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 753,
+                "name": "T1 Ladder",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 683,
+                "name": "Hamburger",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "name": "Ski Sign",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -88130,6 +88938,86 @@
         ]
     },
     {
+        "id": 11582,
+        "map_id": 8,
+        "name": "Boku no hero",
+        "date": "2024-10-16T23:43:51.000Z",
+        "author": "winter",
+        "author_id": 406,
+        "last_updated": "2024-10-17T01:46:21.000Z",
+        "last_updated_author_id": 406,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 707,
+                "name": "Center Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3236,
+                "name": "T2 Left Window",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 773,
+                "name": "Through T2 Back Left",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "name": "Rear T2 Tower Wedge",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1025,
+                "name": "Elevator Hole",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10614,
         "map_id": 8,
         "name": "BOMBACLAAT",
@@ -88707,6 +89595,92 @@
                 "trigger_id": 738,
                 "name": "Ski Sign",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11612,
+        "map_id": 8,
+        "name": "Cr0wma sucks at trick names",
+        "date": "2024-10-19T01:05:44.000Z",
+        "author": "cr0wma",
+        "author_id": 10680,
+        "last_updated": "2024-10-19T01:06:19.000Z",
+        "last_updated_author_id": 457,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 661,
+                "name": "Bonus Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 683,
+                "name": "Hamburger",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3214,
+                "name": "Ring",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 690,
+                "name": "Jail Box 1",
+                "order": 10,
                 "passthrough": 0
             }
         ]
@@ -91472,6 +92446,74 @@
         ]
     },
     {
+        "id": 11593,
+        "map_id": 8,
+        "name": "Hard Sunrise V2",
+        "date": "2024-10-17T16:50:20.000Z",
+        "author": "surfacc",
+        "author_id": 13870,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 689,
+                "name": "Jail Booster Tip",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3242,
+                "name": "T2 Tower Box",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10387,
         "map_id": 8,
         "name": "Hard Weird Return",
@@ -91667,6 +92709,86 @@
                 "trigger_id": 742,
                 "name": "Spawn Roof Water",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 8351,
+        "map_id": 8,
+        "name": "Hated Euphoria",
+        "date": "2023-11-11T02:24:55.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": "2024-10-19T00:57:01.000Z",
+        "last_updated_author_id": 457,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 753,
+                "name": "T1 Ladder",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 683,
+                "name": "Hamburger",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "name": "Ski Sign",
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -96970,6 +98092,80 @@
         ]
     },
     {
+        "id": 11594,
+        "map_id": 8,
+        "name": "Tower Twist",
+        "date": "2024-10-17T18:54:43.000Z",
+        "author": "cr0wma",
+        "author_id": 10680,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 686,
+                "name": "Healbot Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "name": "Rear T2 Tower Wedge",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3246,
+                "name": "Through Middle Awp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5422,
         "map_id": 8,
         "name": "Trilogy Finale",
@@ -101128,10 +102324,10 @@
         "date": "2022-05-08T02:30:01.000Z",
         "author": "LarzZz",
         "author_id": 181,
-        "last_updated": "2024-02-18T20:48:42.000Z",
-        "last_updated_author_id": 406,
+        "last_updated": "2024-10-08T15:29:01.000Z",
+        "last_updated_author_id": 10899,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 8,
         "points": 3600,
         "max_prestrafe": null,
@@ -101191,6 +102387,50 @@
                 "trigger_id": 725,
                 "name": "Bonus Ramp",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11571,
+        "map_id": 8,
+        "name": "Rambo from T2",
+        "date": "2024-10-11T08:42:55.000Z",
+        "author": "CrazyTroll",
+        "author_id": 17974,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "name": "Rear T2 Tower Wedge",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -101285,6 +102525,86 @@
                 "trigger_id": 3216,
                 "name": "T-Spawn Hole",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11572,
+        "map_id": 8,
+        "name": "Real Impossible Walk",
+        "date": "2024-10-11T14:40:08.000Z",
+        "author": "surfacc",
+        "author_id": 13870,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3260,
+                "name": "Weapon Abyss",
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -101489,6 +102809,68 @@
                 "trigger_id": 663,
                 "name": "Center Wedge Platform",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11615,
+        "map_id": 8,
+        "name": "Smells Like Teen Evai",
+        "date": "2024-10-19T21:02:50.000Z",
+        "author": "Partochka tired of games",
+        "author_id": 14446,
+        "last_updated": "2024-10-19T21:25:19.000Z",
+        "last_updated_author_id": 406,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 1820,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3234,
+                "name": "T2 Center Down Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3230,
+                "name": "T2 Center Down Boost",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3234,
+                "name": "T2 Center Down Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3246,
+                "name": "Through Middle Awp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 901,
+                "name": "Fish Mini Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3213,
+                "name": "Rear Awp Window Tip",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -102030,6 +103412,62 @@
         ]
     },
     {
+        "id": 11623,
+        "map_id": 8,
+        "name": "Ultra retarded gap",
+        "date": "2024-10-20T15:12:31.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": "2024-10-20T16:38:43.000Z",
+        "last_updated_author_id": 457,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 655,
+                "name": "Behind Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 657,
+                "name": "Behind Spawn",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3214,
+                "name": "Ring",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 650,
+                "name": "Banana Hole",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 780,
+                "name": "Tower Platform",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7049,
         "map_id": 8,
         "name": "Wedges all day to T2",
@@ -102223,6 +103661,50 @@
                 "trigger_id": 769,
                 "name": "T2 Tower Water",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11552,
+        "map_id": 8,
+        "name": "Primordial Rise goodluck meowra",
+        "date": "2024-10-09T15:08:58.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "points": 4500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3254,
+                "name": "Tower Right Middle Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3252,
+                "name": "Tower Middle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 3,
                 "passthrough": 0
             }
         ]

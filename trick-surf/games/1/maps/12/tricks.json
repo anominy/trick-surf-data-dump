@@ -1073,8 +1073,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "176",
-        "players_completed": "45",
+        "completions": "177",
+        "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1953,8 +1953,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "1151",
-        "players_completed": "64",
+        "completions": "1161",
+        "players_completed": "65",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2700,14 +2700,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3080,
-                "name": "White-Red Booster-Bump Spine",
+                "trigger_id": 3124,
+                "name": "Small Red Corner",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3124,
-                "name": "Small Red Corner",
+                "trigger_id": 3080,
+                "name": "White-Red Booster-Bump Spine",
                 "order": 2,
                 "passthrough": 1
             },
@@ -3621,8 +3621,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "87",
-        "players_completed": "23",
+        "completions": "88",
+        "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7721,8 +7721,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "219",
-        "players_completed": "46",
+        "completions": "223",
+        "players_completed": "47",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -8017,6 +8017,56 @@
                 "trigger_id": 2504,
                 "name": "East Sewer Tower Detail",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11566,
+        "map_id": 12,
+        "name": "Beam Me Up",
+        "date": "2024-10-10T21:34:28.000Z",
+        "author": "Lucy",
+        "author_id": 103,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "22",
+        "players_completed": "4",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2561,
+                "name": "Left Front Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2559,
+                "name": "Left Beam Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2936,
+                "name": "White Pool Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2475,
+                "name": "Center Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2548,
+                "name": "High Wall Fixture",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -8431,8 +8481,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "204",
-        "players_completed": "28",
+        "completions": "207",
+        "players_completed": "29",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -8959,7 +9009,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "267",
+        "completions": "269",
         "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
@@ -10310,12 +10360,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2475,
-                "name": "Center Ramp",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2474,
                 "name": "Center Pink Platform",
                 "order": 4,
@@ -10324,6 +10368,12 @@
             {
                 "trigger_id": 2482,
                 "name": "Center White Platform",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2475,
+                "name": "Center Ramp",
                 "order": 4,
                 "passthrough": 1
             }
@@ -10503,8 +10553,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "43",
-        "players_completed": "19",
+        "completions": "44",
+        "players_completed": "20",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10553,8 +10603,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "65",
-        "players_completed": "22",
+        "completions": "66",
+        "players_completed": "23",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12573,8 +12623,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "39",
-        "players_completed": "12",
+        "completions": "40",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12709,6 +12759,50 @@
                 "trigger_id": 2957,
                 "name": "Map Sign",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11568,
+        "map_id": 12,
+        "name": "Logo Hit",
+        "date": "2024-10-10T21:41:56.000Z",
+        "author": "Lucy",
+        "author_id": 103,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "9",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2469,
+                "name": "Center House Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2675,
+                "name": "Pools Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2582,
+                "name": "Logo Window Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2568,
+                "name": "Logo",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -14095,8 +14189,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "754",
-        "players_completed": "31",
+        "completions": "756",
+        "players_completed": "32",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -15653,8 +15747,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "10",
-        "players_completed": "6",
+        "completions": "12",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -15937,8 +16031,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "58",
-        "players_completed": "8",
+        "completions": "69",
+        "players_completed": "10",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18119,8 +18213,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "119",
-        "players_completed": "21",
+        "completions": "120",
+        "players_completed": "22",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19835,6 +19929,56 @@
                 "trigger_id": 3138,
                 "name": "Spiral Tower Lower Niche",
                 "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11567,
+        "map_id": 12,
+        "name": "Beam Me Upper",
+        "date": "2024-10-10T21:36:25.000Z",
+        "author": "Lucy",
+        "author_id": 103,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "4",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2561,
+                "name": "Left Front Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2559,
+                "name": "Left Beam Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2936,
+                "name": "White Pool Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2475,
+                "name": "Center Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2661,
+                "name": "Pink Pool Platform",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -24465,8 +24609,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "5",
-        "players_completed": "5",
+        "completions": "6",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -25277,8 +25421,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "24",
-        "players_completed": "11",
+        "completions": "25",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -38246,14 +38390,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2779,
-                "name": "South Spiral Tower Entrance",
+                "trigger_id": 2922,
+                "name": "West Spiral Tower Entrance",
                 "order": 6,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2922,
-                "name": "West Spiral Tower Entrance",
+                "trigger_id": 2779,
+                "name": "South Spiral Tower Entrance",
                 "order": 6,
                 "passthrough": 2
             },
@@ -42285,8 +42429,8 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "7",
-        "players_completed": "6",
+        "completions": "8",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -44791,8 +44935,8 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "89",
-        "players_completed": "6",
+        "completions": "93",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -47428,6 +47572,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2637,
+                "name": "North Spiral Tower Entrance",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2510,
                 "name": "East Spiral Tower Tunnel",
                 "order": 5,
@@ -47436,12 +47586,6 @@
             {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2637,
-                "name": "North Spiral Tower Entrance",
                 "order": 5,
                 "passthrough": 2
             },
@@ -47526,12 +47670,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2864,
-                "name": "Under Blue Spiral Platform",
-                "order": 7,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
                 "order": 7,
@@ -47540,6 +47678,12 @@
             {
                 "trigger_id": 2883,
                 "name": "Under Red Spiral Platform",
+                "order": 7,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2864,
+                "name": "Under Blue Spiral Platform",
                 "order": 7,
                 "passthrough": 2
             },
@@ -49662,6 +49806,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2883,
+                "name": "Under Red Spiral Platform",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2652,
                 "name": "Over Checkered Spiral Platform",
                 "order": 3,
@@ -49676,12 +49826,6 @@
             {
                 "trigger_id": 2893,
                 "name": "Under White Spiral Platform",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2883,
-                "name": "Under Red Spiral Platform",
                 "order": 3,
                 "passthrough": 2
             },
@@ -50553,7 +50697,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "332",
+        "completions": "359",
         "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
@@ -53399,8 +53543,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "153",
-        "players_completed": "23",
+        "completions": "154",
+        "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -54322,12 +54466,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
                 "order": 5,
@@ -54336,6 +54474,12 @@
             {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },

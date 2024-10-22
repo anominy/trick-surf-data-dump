@@ -29,6 +29,18 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 1266,
+            "name": "E Brown Platform",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1561,
+            "name": "SE Brown Ramp 2 Spine",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1560,
             "name": "SE Brown Ramp 2",
             "order": 1,
@@ -83,22 +95,16 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1266,
-            "name": "E Brown Platform",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1561,
-            "name": "SE Brown Ramp 2 Spine",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1762,
             "name": "W Orange Teleporter",
             "order": 2,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1669,
+            "name": "W Orange Platform",
+            "order": 2,
+            "passthrough": 1
         },
         {
             "trigger_id": 1207,
@@ -185,16 +191,16 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1669,
-            "name": "W Orange Platform",
-            "order": 2,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1754,
             "name": "N Blue Teleporter",
             "order": 3,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1189,
+            "name": "C Blue Platform",
+            "order": 3,
+            "passthrough": 1
         },
         {
             "trigger_id": 1446,
@@ -275,16 +281,16 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1189,
-            "name": "C Blue Platform",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1755,
             "name": "N White Teleporter",
             "order": 4,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1431,
+            "name": "NE White Ramp 2",
+            "order": 4,
+            "passthrough": 1
         },
         {
             "trigger_id": 1308,
@@ -353,12 +359,6 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1431,
-            "name": "NE White Ramp 2",
-            "order": 4,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1763,
             "name": "W Teal Teleporter",
             "order": 5,
@@ -407,14 +407,14 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1685,
-            "name": "W Short Tower Teal Top",
+            "trigger_id": 1345,
+            "name": "N Teal Ramp 1",
             "order": 5,
             "passthrough": 1
         },
         {
-            "trigger_id": 1345,
-            "name": "N Teal Ramp 1",
+            "trigger_id": 1685,
+            "name": "W Short Tower Teal Top",
             "order": 5,
             "passthrough": 1
         },
@@ -459,6 +459,12 @@
             "name": "SW Purple Teleporter",
             "order": 6,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1340,
+            "name": "N Purple Ramp 4",
+            "order": 6,
+            "passthrough": 1
         },
         {
             "trigger_id": 1483,
@@ -547,12 +553,6 @@
         {
             "trigger_id": 1640,
             "name": "SW Purple Platform",
-            "order": 6,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1340,
-            "name": "N Purple Ramp 4",
             "order": 6,
             "passthrough": 1
         }

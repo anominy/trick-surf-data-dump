@@ -5478,14 +5478,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2831,
-                "name": "Through Anti Grav Supports",
+                "trigger_id": 2976,
+                "name": "Through Anti Grav Corners",
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2976,
-                "name": "Through Anti Grav Corners",
+                "trigger_id": 2831,
+                "name": "Through Anti Grav Supports",
                 "order": 3,
                 "passthrough": 2
             }
@@ -8017,6 +8017,56 @@
                 "trigger_id": 2504,
                 "name": "East Sewer Tower Detail",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11566,
+        "map_id": 12,
+        "name": "Beam Me Up",
+        "date": "2024-10-10T21:34:28.000Z",
+        "author": "Lucy",
+        "author_id": 103,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2561,
+                "name": "Left Front Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2559,
+                "name": "Left Beam Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2936,
+                "name": "White Pool Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2475,
+                "name": "Center Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2548,
+                "name": "High Wall Fixture",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -12709,6 +12759,50 @@
                 "trigger_id": 2957,
                 "name": "Map Sign",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11568,
+        "map_id": 12,
+        "name": "Logo Hit",
+        "date": "2024-10-10T21:41:56.000Z",
+        "author": "Lucy",
+        "author_id": 103,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2469,
+                "name": "Center House Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2675,
+                "name": "Pools Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2582,
+                "name": "Logo Window Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2568,
+                "name": "Logo",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -19835,6 +19929,56 @@
                 "trigger_id": 3138,
                 "name": "Spiral Tower Lower Niche",
                 "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11567,
+        "map_id": 12,
+        "name": "Beam Me Upper",
+        "date": "2024-10-10T21:36:25.000Z",
+        "author": "Lucy",
+        "author_id": 103,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2561,
+                "name": "Left Front Pillar Beam",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2559,
+                "name": "Left Beam Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2936,
+                "name": "White Pool Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2475,
+                "name": "Center Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2661,
+                "name": "Pink Pool Platform",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -39136,6 +39280,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2512,
+                "name": "Flipped Isosceles Trapezium Ramp Spine",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2860,
                 "name": "Trapezium Ramps Mid Floor",
                 "order": 17,
@@ -39150,12 +39300,6 @@
             {
                 "trigger_id": 3049,
                 "name": "Pyramid Main Corner South-East",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2512,
-                "name": "Flipped Isosceles Trapezium Ramp Spine",
                 "order": 17,
                 "passthrough": 1
             },
@@ -39480,14 +39624,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2961,
-                "name": "Under Anti Grav",
+                "trigger_id": 2831,
+                "name": "Through Anti Grav Supports",
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2831,
-                "name": "Through Anti Grav Supports",
+                "trigger_id": 2961,
+                "name": "Under Anti Grav",
                 "order": 3,
                 "passthrough": 2
             },
@@ -47428,12 +47572,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
                 "order": 5,
@@ -47442,6 +47580,12 @@
             {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },
@@ -49662,18 +49806,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2652,
-                "name": "Over Checkered Spiral Platform",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2864,
-                "name": "Under Blue Spiral Platform",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2893,
                 "name": "Under White Spiral Platform",
                 "order": 3,
@@ -49682,6 +49814,18 @@
             {
                 "trigger_id": 2883,
                 "name": "Under Red Spiral Platform",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2652,
+                "name": "Over Checkered Spiral Platform",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2864,
+                "name": "Under Blue Spiral Platform",
                 "order": 3,
                 "passthrough": 2
             },
@@ -54322,12 +54466,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
                 "order": 5,
@@ -54336,6 +54474,12 @@
             {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },

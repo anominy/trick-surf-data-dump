@@ -203,6 +203,24 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 1542,
+            "name": "S Yellow Platform",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1652,
+            "name": "SW Yellow Ramp 5",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1720,
+            "name": "W Yellow Ramp 4",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1658,
             "name": "SW Yellow Ramp 7 Spine",
             "order": 3,
@@ -305,28 +323,16 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1542,
-            "name": "S Yellow Platform",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1652,
-            "name": "SW Yellow Ramp 5",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1720,
-            "name": "W Yellow Ramp 4",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1757,
             "name": "NE Red Teleporter",
             "order": 4,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1430,
+            "name": "NE Undergrounds Red Platform",
+            "order": 4,
+            "passthrough": 1
         },
         {
             "trigger_id": 1286,
@@ -407,16 +413,16 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1430,
-            "name": "NE Undergrounds Red Platform",
-            "order": 4,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1759,
             "name": "SE Black Teleporter",
             "order": 5,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1263,
+            "name": "E Black Jumppad",
+            "order": 5,
+            "passthrough": 1
         },
         {
             "trigger_id": 1438,
@@ -493,12 +499,6 @@
         {
             "trigger_id": 1551,
             "name": "SE Black Ramp 4",
-            "order": 5,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1263,
-            "name": "E Black Jumppad",
             "order": 5,
             "passthrough": 1
         }

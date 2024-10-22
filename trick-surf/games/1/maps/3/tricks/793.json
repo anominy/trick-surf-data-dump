@@ -12,8 +12,8 @@
     "tier": 4,
     "points": 1000,
     "max_prestrafe": null,
-    "completions": "12",
-    "players_completed": "7",
+    "completions": "13",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -29,14 +29,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 933,
-            "name": "Ramp 1 Boost",
+            "trigger_id": 272,
+            "name": "Top River",
             "order": 1,
             "passthrough": 1
         },
         {
-            "trigger_id": 272,
-            "name": "Top River",
+            "trigger_id": 933,
+            "name": "Ramp 1 Boost",
             "order": 1,
             "passthrough": 1
         },

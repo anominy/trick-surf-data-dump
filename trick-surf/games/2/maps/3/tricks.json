@@ -1894,8 +1894,8 @@
         "date": "2022-01-01T21:00:00.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated": "2022-01-20T22:03:46.000Z",
-        "last_updated_author_id": 209,
+        "last_updated": "2024-10-21T19:33:40.000Z",
+        "last_updated_author_id": 406,
         "active": 1,
         "ranked": 1,
         "tier": 2,
@@ -1906,8 +1906,8 @@
         "average_rating": "0.0000",
         "sequence": [
             {
-                "trigger_id": 210,
-                "name": "Box Window North",
+                "trigger_id": 107,
+                "name": "Box Window North Ledge",
                 "order": 0,
                 "passthrough": 0
             },
@@ -48668,14 +48668,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 272,
-                "name": "Top River",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 272,
+                "name": "Top River",
                 "order": 1,
                 "passthrough": 1
             },
@@ -49748,14 +49748,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 211,
-                "name": "Box Window South",
+                "trigger_id": 209,
+                "name": "Box Window East",
                 "order": 9,
                 "passthrough": 2
             },
             {
-                "trigger_id": 209,
-                "name": "Box Window East",
+                "trigger_id": 211,
+                "name": "Box Window South",
                 "order": 9,
                 "passthrough": 2
             },
@@ -52018,14 +52018,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 934,
+                "name": "Main Ramp Boost",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
-                "name": "Main Ramp Boost",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 5,
                 "passthrough": 1
             },
@@ -87166,6 +87166,98 @@
         ]
     },
     {
+        "id": 11581,
+        "map_id": 3,
+        "name": "Prize",
+        "date": "2024-10-16T00:53:31.000Z",
+        "author": "ANC Chairman",
+        "author_id": 15261,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 252,
+                "name": "Sky",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 259,
+                "name": "Sky West",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 266,
+                "name": "Spawn River",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "name": "Ramp 3",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "name": "Behind Main",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "name": "Ramp 3",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 276,
+                "name": "Under Jail Teleporter",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 266,
+                "name": "Spawn River",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 217,
+                "name": "Jail Ceiling",
+                "order": 7,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 240,
+                "name": "Ramp 3",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "name": "Main Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 255,
+                "name": "Sky North",
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 972,
         "map_id": 3,
         "name": "Pro ATSception",
@@ -89294,14 +89386,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 935,
-                "name": "Ramp 4 Boost",
+                "trigger_id": 243,
+                "name": "Ramp 4",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 243,
-                "name": "Ramp 4",
+                "trigger_id": 935,
+                "name": "Ramp 4 Boost",
                 "order": 3,
                 "passthrough": 1
             },
