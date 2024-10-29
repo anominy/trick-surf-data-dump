@@ -5,15 +5,15 @@
     "date": "2023-02-24T18:00:00.000Z",
     "author": "winter",
     "author_id": 406,
-    "last_updated": "2023-02-25T14:11:54.000Z",
-    "last_updated_author_id": 406,
+    "last_updated": "2024-10-28T16:25:34.000Z",
+    "last_updated_author_id": 123,
     "active": 1,
     "ranked": 1,
     "tier": 5,
     "points": 1500,
     "max_prestrafe": 406,
-    "completions": "23",
-    "players_completed": "15",
+    "completions": "24",
+    "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -41,9 +41,15 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 818,
+            "name": "River Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 805,
             "name": "Lantern AR",
-            "order": 4,
+            "order": 5,
             "passthrough": 0
         }
     ]

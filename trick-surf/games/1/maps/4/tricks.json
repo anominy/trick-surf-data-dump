@@ -86,6 +86,42 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 397,
+                "name": "West Ramp 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 294,
+                "name": "Booster Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 350,
+                "name": "Lower Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 396,
+                "name": "West Ramp 1",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 292,
+                "name": "Bonus Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 395,
                 "name": "West Ramp",
                 "order": 1,
@@ -124,42 +160,6 @@
             {
                 "trigger_id": 358,
                 "name": "North Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 397,
-                "name": "West Ramp 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 294,
-                "name": "Booster Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 350,
-                "name": "Lower Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 396,
-                "name": "West Ramp 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 292,
-                "name": "Bonus Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 346,
-                "name": "Stage 6 Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -733,7 +733,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "1322",
+        "completions": "1344",
         "players_completed": "116",
         "average_rating": "0.0000",
         "sequence": [
@@ -3389,8 +3389,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "13",
-        "players_completed": "4",
+        "completions": "15",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {

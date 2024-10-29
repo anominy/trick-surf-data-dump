@@ -15210,12 +15210,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2286,
-                "name": "Above Fence North Front",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
                 "order": 8,
@@ -15230,6 +15224,12 @@
             {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2286,
+                "name": "Above Fence North Front",
                 "order": 8,
                 "passthrough": 2
             }

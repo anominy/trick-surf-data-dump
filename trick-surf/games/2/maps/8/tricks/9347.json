@@ -5,8 +5,8 @@
     "date": "2024-03-21T16:46:55.000Z",
     "author": "Liquidator",
     "author_id": 1137,
-    "last_updated": "2024-03-21T16:59:38.000Z",
-    "last_updated_author_id": 1137,
+    "last_updated": "2024-10-23T13:21:08.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
     "tier": 8,
@@ -51,6 +51,12 @@
             "name": "Banana Ramp",
             "order": 3,
             "passthrough": 1
+        },
+        {
+            "trigger_id": 722,
+            "name": "Over Banana Ramp",
+            "order": 3,
+            "passthrough": 2
         }
     ]
 }
