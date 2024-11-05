@@ -1,16 +1,16 @@
 {
     "id": 11693,
     "map_id": 10,
-    "name": "Idyllic",
+    "name": "Luminous",
     "date": "2024-10-28T21:58:18.000Z",
     "author": "nex",
     "author_id": 18519,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2024-10-29T22:02:14.000Z",
+    "last_updated_author_id": 18519,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "points": 2100,
+    "tier": 7,
+    "points": 2800,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
@@ -83,9 +83,39 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1647,
-            "name": "SW Upper Ledge East Platform",
+            "trigger_id": 1221,
+            "name": "C Strip Lower Slant",
             "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1267,
+            "name": "E Brown Ramp 4",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2211,
+            "name": "E Under High Platform",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2210,
+            "name": "E Over White Beams",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1288,
+            "name": "E Red Slant Top",
+            "order": 16,
             "passthrough": 0
         }
     ]

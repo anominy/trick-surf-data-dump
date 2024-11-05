@@ -1,0 +1,62 @@
+{
+    "id": 11738,
+    "map_id": 10,
+    "name": "ez Halloween",
+    "date": "2024-11-02T19:36:07.000Z",
+    "author": "nexTroll",
+    "author_id": 18519,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "points": 2100,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1734,
+            "name": "SE Large Pillar Gap West",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1759,
+            "name": "SE Black Teleporter",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

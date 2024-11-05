@@ -12,8 +12,8 @@
     "tier": 5,
     "points": 1500,
     "max_prestrafe": 406,
-    "completions": "3",
-    "players_completed": "3",
+    "completions": "5",
+    "players_completed": "4",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -47,14 +47,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1504,
-            "name": "E Large Pillar Gap SW",
+            "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 4,
             "passthrough": 2
         },
         {
-            "trigger_id": 1274,
-            "name": "E Large Pillar Gap South",
+            "trigger_id": 1504,
+            "name": "E Large Pillar Gap SW",
             "order": 4,
             "passthrough": 2
         },

@@ -5,15 +5,15 @@
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2024-10-30T17:05:38.000Z",
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
     "tier": 7,
     "points": 2800,
     "max_prestrafe": 406,
-    "completions": "103",
-    "players_completed": "25",
+    "completions": "104",
+    "players_completed": "26",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -53,14 +53,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 84,
-            "name": "Castle House Ramp",
+            "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 140,
-            "name": "House 2 Floor 2 Ramp",
+            "trigger_id": 84,
+            "name": "Castle House Ramp",
             "order": 7,
             "passthrough": 0
         },
@@ -77,9 +77,39 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 84,
+            "name": "Castle House Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 84,
+            "name": "Castle House Ramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 83,
             "name": "Castle House Platform",
-            "order": 10,
+            "order": 15,
             "passthrough": 0
         }
     ]

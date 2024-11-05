@@ -57,8 +57,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "358",
-        "players_completed": "76",
+        "completions": "359",
+        "players_completed": "77",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -133,8 +133,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "43",
-        "players_completed": "11",
+        "completions": "44",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1231,8 +1231,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "204",
-        "players_completed": "54",
+        "completions": "210",
+        "players_completed": "55",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1269,8 +1269,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "836",
-        "players_completed": "52",
+        "completions": "837",
+        "players_completed": "53",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1411,8 +1411,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "1298",
-        "players_completed": "118",
+        "completions": "1299",
+        "players_completed": "119",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1791,8 +1791,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "159",
-        "players_completed": "45",
+        "completions": "161",
+        "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1909,7 +1909,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "395",
+        "completions": "397",
         "players_completed": "55",
         "average_rating": "0.0000",
         "sequence": [
@@ -2009,8 +2009,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "142",
-        "players_completed": "40",
+        "completions": "144",
+        "players_completed": "41",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2059,8 +2059,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "104",
-        "players_completed": "24",
+        "completions": "110",
+        "players_completed": "25",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2700,14 +2700,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3124,
-                "name": "Small Red Corner",
+                "trigger_id": 3080,
+                "name": "White-Red Booster-Bump Spine",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3080,
-                "name": "White-Red Booster-Bump Spine",
+                "trigger_id": 3124,
+                "name": "Small Red Corner",
                 "order": 2,
                 "passthrough": 1
             },
@@ -4284,6 +4284,38 @@
         ]
     },
     {
+        "id": 11485,
+        "map_id": 12,
+        "name": "Egyptian Strafe",
+        "date": "2024-09-29T13:04:02.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated": "2024-10-30T06:29:00.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "points": 300,
+        "max_prestrafe": 406,
+        "completions": "76",
+        "players_completed": "4",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2506,
+                "name": "East Sewer Tower Headsurf Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3051,
+                "name": "Pyramid Main Floor Bump East",
+                "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8446,
         "map_id": 12,
         "name": "Figure Eight",
@@ -5219,8 +5251,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "482",
-        "players_completed": "44",
+        "completions": "487",
+        "players_completed": "45",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -5676,6 +5708,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3032,
+                "name": "Through shimmer",
+                "order": 7,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 3030,
                 "name": "Through machine",
                 "order": 7,
@@ -5684,12 +5722,6 @@
             {
                 "trigger_id": 3024,
                 "name": "Through buck-wild",
-                "order": 7,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 3032,
-                "name": "Through shimmer",
                 "order": 7,
                 "passthrough": 1
             }
@@ -7065,8 +7097,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "395",
-        "players_completed": "45",
+        "completions": "398",
+        "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7387,8 +7419,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "26",
-        "players_completed": "9",
+        "completions": "32",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7573,8 +7605,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "59",
-        "players_completed": "26",
+        "completions": "60",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7617,8 +7649,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "27",
-        "players_completed": "23",
+        "completions": "28",
+        "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7721,8 +7753,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "223",
-        "players_completed": "47",
+        "completions": "224",
+        "players_completed": "48",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7795,8 +7827,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "34",
-        "players_completed": "16",
+        "completions": "35",
+        "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -8035,8 +8067,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "28",
-        "players_completed": "5",
+        "completions": "31",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10360,6 +10392,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2475,
+                "name": "Center Ramp",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2474,
                 "name": "Center Pink Platform",
                 "order": 4,
@@ -10368,12 +10406,6 @@
             {
                 "trigger_id": 2482,
                 "name": "Center White Platform",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2475,
-                "name": "Center Ramp",
                 "order": 4,
                 "passthrough": 1
             }
@@ -12226,10 +12258,10 @@
         "map_id": 12,
         "name": "Lap",
         "date": "2023-11-07T18:00:00.000Z",
-        "author": "SolidSurf | ๖ۣۜKïñgYo§hi",
+        "author": "KingYoshi // solidsurf.info",
         "author_id": 457,
-        "last_updated": "2023-12-18T05:08:54.000Z",
-        "last_updated_author_id": 103,
+        "last_updated": "2024-10-30T02:17:06.000Z",
+        "last_updated_author_id": 10,
         "active": 1,
         "ranked": 1,
         "tier": 3,
@@ -12294,8 +12326,8 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3039,
-                "name": "Left Pink Tower Detail",
+                "trigger_id": 3040,
+                "name": "Left Pink Tower Ramp",
                 "order": 9,
                 "passthrough": 0
             },
@@ -12777,8 +12809,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "11",
-        "players_completed": "4",
+        "completions": "17",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13423,8 +13455,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "37",
-        "players_completed": "17",
+        "completions": "42",
+        "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -16031,8 +16063,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "69",
-        "players_completed": "10",
+        "completions": "78",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19101,8 +19133,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "16",
-        "players_completed": "5",
+        "completions": "21",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19145,8 +19177,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "54",
-        "players_completed": "11",
+        "completions": "55",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19329,8 +19361,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "14",
-        "players_completed": "8",
+        "completions": "15",
+        "players_completed": "9",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22872,38 +22904,6 @@
         ]
     },
     {
-        "id": 11485,
-        "map_id": 12,
-        "name": "Egyptian Strafe",
-        "date": "2024-09-29T13:04:02.000Z",
-        "author": "Schewpid",
-        "author_id": 25977,
-        "last_updated": null,
-        "last_updated_author_id": null,
-        "active": 1,
-        "ranked": 1,
-        "tier": 4,
-        "points": 1000,
-        "max_prestrafe": 406,
-        "completions": "42",
-        "players_completed": "3",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 2506,
-                "name": "East Sewer Tower Headsurf Platform",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3051,
-                "name": "Pyramid Main Floor Bump East",
-                "order": 1,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 8676,
         "map_id": 12,
         "name": "Elsa",
@@ -23575,8 +23575,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "12",
-        "players_completed": "4",
+        "completions": "15",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -25753,7 +25753,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "119",
+        "completions": "122",
         "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
@@ -30925,8 +30925,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "14",
-        "players_completed": "9",
+        "completions": "15",
+        "players_completed": "10",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -31413,8 +31413,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "9",
-        "players_completed": "4",
+        "completions": "10",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -35137,8 +35137,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "7",
-        "players_completed": "3",
+        "completions": "15",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -38615,8 +38615,8 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "5",
-        "players_completed": "5",
+        "completions": "6",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -39342,12 +39342,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2512,
-                "name": "Flipped Isosceles Trapezium Ramp Spine",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2860,
                 "name": "Trapezium Ramps Mid Floor",
                 "order": 17,
@@ -39362,6 +39356,12 @@
             {
                 "trigger_id": 3049,
                 "name": "Pyramid Main Corner South-East",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2512,
+                "name": "Flipped Isosceles Trapezium Ramp Spine",
                 "order": 17,
                 "passthrough": 1
             },
@@ -39686,14 +39686,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2961,
-                "name": "Under Anti Grav",
+                "trigger_id": 2831,
+                "name": "Through Anti Grav Supports",
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2831,
-                "name": "Through Anti Grav Supports",
+                "trigger_id": 2961,
+                "name": "Under Anti Grav",
                 "order": 3,
                 "passthrough": 2
             },
@@ -42941,7 +42941,7 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "640",
+        "completions": "641",
         "players_completed": "34",
         "average_rating": "0.0000",
         "sequence": [
@@ -43991,8 +43991,8 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "10",
-        "players_completed": "7",
+        "completions": "12",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -44461,7 +44461,7 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "50",
+        "completions": "52",
         "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
@@ -45059,8 +45059,8 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "4",
-        "players_completed": "3",
+        "completions": "9",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -45493,6 +45493,68 @@
                 "trigger_id": 2483,
                 "name": "Checkered Spiral Platform",
                 "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11757,
+        "map_id": 12,
+        "name": "Ride It",
+        "date": "2024-11-05T11:48:17.000Z",
+        "author": "ᴛꜱ ٠ King",
+        "author_id": 10,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2581,
+                "name": "Logo Window Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2582,
+                "name": "Logo Window Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2869,
+                "name": "Under Logo Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2430,
+                "name": "Behind Logo Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2902,
+                "name": "Vent Headsurf Teleport",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2565,
+                "name": "Left Name Towers Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2736,
+                "name": "Sky Grassbed",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -46733,8 +46795,8 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 262,
-        "completions": "14",
-        "players_completed": "5",
+        "completions": "17",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -46776,6 +46838,44 @@
         ]
     },
     {
+        "id": 8427,
+        "map_id": 12,
+        "name": "The Anteater",
+        "date": "2023-11-25T01:32:50.000Z",
+        "author": "ᴛꜱ ٠ King",
+        "author_id": 10,
+        "last_updated": "2024-11-03T14:39:08.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "11",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2950,
+                "name": "william's Tower",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2730,
+                "name": "Right Name Towers Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2810,
+                "name": "Spiral Tower Lower",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8080,
         "map_id": 12,
         "name": "The Only Strafe I'll Add",
@@ -46789,7 +46889,7 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "545",
+        "completions": "546",
         "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
@@ -47628,12 +47728,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
                 "order": 5,
@@ -47642,6 +47736,12 @@
             {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },
@@ -47726,6 +47826,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2922,
+                "name": "West Spiral Tower Entrance",
+                "order": 7,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2883,
                 "name": "Under Red Spiral Platform",
                 "order": 7,
@@ -47734,12 +47840,6 @@
             {
                 "trigger_id": 2864,
                 "name": "Under Blue Spiral Platform",
-                "order": 7,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2922,
-                "name": "West Spiral Tower Entrance",
                 "order": 7,
                 "passthrough": 2
             },
@@ -48567,8 +48667,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 262,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "15",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -48928,6 +49028,50 @@
         ]
     },
     {
+        "id": 9593,
+        "map_id": 12,
+        "name": "ALAMPA",
+        "date": "2024-04-14T01:20:25.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": "2024-10-30T07:42:05.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "49",
+        "players_completed": "7",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2666,
+                "name": "Pink Pool Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3091,
+                "name": "Center In-Ground Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2872,
+                "name": "Under Main Back Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2461,
+                "name": "Center Divider",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8885,
         "map_id": 12,
         "name": "Annual Wealth Exchange",
@@ -49253,6 +49397,44 @@
                 "trigger_id": 2457,
                 "name": "Blue Spiral Platform",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11679,
+        "map_id": 12,
+        "name": "Book",
+        "date": "2024-10-28T09:41:59.000Z",
+        "author": "Meowra",
+        "author_id": 12573,
+        "last_updated": "2024-10-30T11:00:19.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "4",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2739,
+                "name": "Sky Orange Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2545,
+                "name": "Hanging Sky Orange Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2668,
+                "name": "Pink Pool Stairs",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -50791,8 +50973,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "361",
-        "players_completed": "24",
+        "completions": "376",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -51753,8 +51935,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "1",
-        "players_completed": "1",
+        "completions": "3",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -52199,7 +52381,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "23",
+        "completions": "24",
         "players_completed": "15",
         "average_rating": "0.0000",
         "sequence": [
@@ -52557,7 +52739,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "18",
+        "completions": "22",
         "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
@@ -53175,7 +53357,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "16",
+        "completions": "17",
         "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
@@ -53225,7 +53407,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "68",
+        "completions": "70",
         "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
@@ -53269,8 +53451,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "5",
-        "players_completed": "2",
+        "completions": "6",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -53675,8 +53857,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "154",
-        "players_completed": "24",
+        "completions": "158",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -54401,8 +54583,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "6",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -54598,12 +54780,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
                 "order": 5,
@@ -54612,6 +54788,12 @@
             {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },
@@ -54908,21 +55090,21 @@
         ]
     },
     {
-        "id": 9593,
+        "id": 11704,
         "map_id": 12,
-        "name": "ALAMPA",
-        "date": "2024-04-14T01:20:25.000Z",
-        "author": "Steve",
+        "name": "ALAMPA REMIX",
+        "date": "2024-10-30T07:42:29.000Z",
+        "author": "King",
         "author_id": 10,
-        "last_updated": "2024-08-11T21:07:06.000Z",
+        "last_updated": "2024-10-31T08:51:20.000Z",
         "last_updated_author_id": 10,
         "active": 1,
         "ranked": 1,
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "18",
-        "players_completed": "5",
+        "completions": "0",
+        "players_completed": "0",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -54944,8 +55126,8 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2461,
-                "name": "Center Divider",
+                "trigger_id": 2663,
+                "name": "Pink Pool Ramp Divider",
                 "order": 3,
                 "passthrough": 0
             }
@@ -54965,8 +55147,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "3",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -55003,44 +55185,6 @@
                 "trigger_id": 2936,
                 "name": "White Pool Platform",
                 "order": 5,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 11679,
-        "map_id": 12,
-        "name": "Book",
-        "date": "2024-10-28T09:41:59.000Z",
-        "author": "Meowra",
-        "author_id": 12573,
-        "last_updated": "2024-10-28T09:46:29.000Z",
-        "last_updated_author_id": 10,
-        "active": 1,
-        "ranked": 1,
-        "tier": 8,
-        "points": 3600,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 2739,
-                "name": "Sky Orange Platform",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 2545,
-                "name": "Hanging Sky Orange Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 2668,
-                "name": "Pink Pool Stairs",
-                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -55115,8 +55259,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "3",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -55719,7 +55863,7 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "4",
+        "completions": "8",
         "players_completed": "4",
         "average_rating": "0.0000",
         "sequence": [
@@ -56071,7 +56215,7 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "2",
+        "completions": "3",
         "players_completed": "2",
         "average_rating": "0.0000",
         "sequence": [
@@ -56109,8 +56253,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "7",
+        "players_completed": "4",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -56147,7 +56291,7 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "3",
+        "completions": "6",
         "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
@@ -56191,8 +56335,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "9",
-        "players_completed": "5",
+        "completions": "10",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -56825,8 +56969,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "3",
-        "players_completed": "3",
+        "completions": "4",
+        "players_completed": "4",
         "average_rating": "0.0000",
         "sequence": [
             {

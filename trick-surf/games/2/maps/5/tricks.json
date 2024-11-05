@@ -114,6 +114,50 @@
         ]
     },
     {
+        "id": 2452,
+        "map_id": 5,
+        "name": "Bounce",
+        "date": "2022-01-31T12:00:00.000Z",
+        "author": "zSkyworld.com",
+        "author_id": null,
+        "last_updated": "2024-10-30T04:54:37.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "points": 100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 473,
+                "name": "Top Pool",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 471,
+                "name": "Top Boost",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 473,
+                "name": "Top Pool",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10955,
         "map_id": 5,
         "name": "Catwalk Race",
@@ -1144,50 +1188,6 @@
         ]
     },
     {
-        "id": 2452,
-        "map_id": 5,
-        "name": "Bounce",
-        "date": "2022-01-31T12:00:00.000Z",
-        "author": "zSkyworld.com",
-        "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
-        "active": 1,
-        "ranked": 1,
-        "tier": 2,
-        "points": 300,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 473,
-                "name": "Top Pool",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 471,
-                "name": "Top Boost",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 458,
-                "name": "Spawn",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 473,
-                "name": "Top Pool",
-                "order": 3,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 2453,
         "map_id": 5,
         "name": "Dip",
@@ -1661,6 +1661,56 @@
                 "trigger_id": 444,
                 "name": "Pillar Small",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 5084,
+        "map_id": 5,
+        "name": "Hard Bounce",
+        "date": "2022-01-31T20:38:23.000Z",
+        "author": "Frag",
+        "author_id": 1,
+        "last_updated": "2024-10-30T04:54:30.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "points": 300,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 473,
+                "name": "Top Pool",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 471,
+                "name": "Top Boost",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 967,
+                "name": "Spawn Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -3365,6 +3415,68 @@
                 "trigger_id": 450,
                 "name": "Sky Plate",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11703,
+        "map_id": 5,
+        "name": "Bouncy Castle",
+        "date": "2024-10-30T04:53:52.000Z",
+        "author": "Flawless",
+        "author_id": 26256,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 473,
+                "name": "Top Pool",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 471,
+                "name": "Top Boost",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 967,
+                "name": "Spawn Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 968,
+                "name": "Behind Spawn",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -5575,56 +5687,6 @@
                 "trigger_id": 441,
                 "name": "Pillar Large",
                 "order": 6,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 5084,
-        "map_id": 5,
-        "name": "Hard Bounce",
-        "date": "2022-01-31T20:38:23.000Z",
-        "author": "Fragzy4",
-        "author_id": 1,
-        "last_updated": "2022-02-02T16:40:50.000Z",
-        "last_updated_author_id": 1,
-        "active": 1,
-        "ranked": 1,
-        "tier": 3,
-        "points": 600,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 473,
-                "name": "Top Pool",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 471,
-                "name": "Top Boost",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 458,
-                "name": "Spawn",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 967,
-                "name": "Spawn Divide",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 458,
-                "name": "Spawn",
-                "order": 4,
                 "passthrough": 0
             }
         ]

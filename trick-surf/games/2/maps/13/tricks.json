@@ -9232,14 +9232,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3474,
-                "name": "Through North Cage",
+                "trigger_id": 3483,
+                "name": "Through South Cage Booster",
                 "order": 4,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3483,
-                "name": "Through South Cage Booster",
+                "trigger_id": 3474,
+                "name": "Through North Cage",
                 "order": 4,
                 "passthrough": 1
             },
@@ -9250,14 +9250,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3474,
-                "name": "Through North Cage",
+                "trigger_id": 3483,
+                "name": "Through South Cage Booster",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3483,
-                "name": "Through South Cage Booster",
+                "trigger_id": 3474,
+                "name": "Through North Cage",
                 "order": 5,
                 "passthrough": 1
             },
@@ -9929,6 +9929,56 @@
                 "trigger_id": 3303,
                 "name": "Down Funnel Floor",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11101,
+        "map_id": 13,
+        "name": "koomyaka return",
+        "date": "2024-08-27T19:43:15.000Z",
+        "author": "shprot bossman",
+        "author_id": 195,
+        "last_updated": "2024-11-02T20:06:02.000Z",
+        "last_updated_author_id": 406,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3500,
+                "name": "Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3312,
+                "name": "Faucet Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3375,
+                "name": "Pit Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3312,
+                "name": "Faucet Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3500,
+                "name": "Tower Platform",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -13686,56 +13736,6 @@
         ]
     },
     {
-        "id": 11101,
-        "map_id": 13,
-        "name": "koomyaka return",
-        "date": "2024-08-27T19:43:15.000Z",
-        "author": "ttv/shprotbossman",
-        "author_id": 195,
-        "last_updated": "2024-08-27T19:43:29.000Z",
-        "last_updated_author_id": 2994,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "points": 2100,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 3500,
-                "name": "Tower Platform",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3312,
-                "name": "Faucet Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3375,
-                "name": "Pit Ramp",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3312,
-                "name": "Faucet Ramp",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3500,
-                "name": "Tower Platform",
-                "order": 4,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 11261,
         "map_id": 13,
         "name": "LA TIPICA",
@@ -15458,6 +15458,80 @@
         ]
     },
     {
+        "id": 11063,
+        "map_id": 13,
+        "name": "Tarantula",
+        "date": "2024-08-26T21:50:07.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated": "2024-11-04T20:59:13.000Z",
+        "last_updated_author_id": 406,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3413,
+                "name": "Spawn Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3346,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3395,
+                "name": "Sausage Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3480,
+                "name": "Through Right Middle T2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3358,
+                "name": "Moon Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3515,
+                "name": "Turtle Hole",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3519,
+                "name": "Turtle Inner Forward Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3274,
+                "name": "Acid Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3354,
+                "name": "Monkey Floor",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11258,
         "map_id": 13,
         "name": "Tourist",
@@ -17024,50 +17098,6 @@
         ]
     },
     {
-        "id": 11271,
-        "map_id": 13,
-        "name": "Morla",
-        "date": "2024-09-03T08:45:32.000Z",
-        "author": "FISHMAN",
-        "author_id": 49,
-        "last_updated": "2024-09-03T17:38:47.000Z",
-        "last_updated_author_id": 147,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "points": 2800,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 3510,
-                "name": "Turtle Big Ramp Floor",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3564,
-                "name": "Turtle Large Left Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3570,
-                "name": "Turtle Small Right Ramp",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3515,
-                "name": "Turtle Hole",
-                "order": 3,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 11099,
         "map_id": 13,
         "name": "Natsu's Monkeyswing",
@@ -17578,80 +17608,6 @@
         ]
     },
     {
-        "id": 11063,
-        "map_id": 13,
-        "name": "Tarantula",
-        "date": "2024-08-26T21:50:07.000Z",
-        "author": "influx",
-        "author_id": 147,
-        "last_updated": "2024-08-26T22:29:24.000Z",
-        "last_updated_author_id": 147,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "points": 2800,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 3413,
-                "name": "Spawn Floor",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3346,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3395,
-                "name": "Sausage Ramp",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3480,
-                "name": "Through Right Middle T2",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3358,
-                "name": "Moon Ramp",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3515,
-                "name": "Turtle Hole",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3519,
-                "name": "Turtle Inner Forward Ramp",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3274,
-                "name": "Acid Ramp",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3354,
-                "name": "Monkey Floor",
-                "order": 8,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 11106,
         "map_id": 13,
         "name": "Ultra Spine Return",
@@ -17965,6 +17921,50 @@
                 "trigger_id": 3451,
                 "name": "T2 Roof",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11271,
+        "map_id": 13,
+        "name": "Morla",
+        "date": "2024-09-03T08:45:32.000Z",
+        "author": "FISHMAN",
+        "author_id": 49,
+        "last_updated": "2024-11-04T21:02:16.000Z",
+        "last_updated_author_id": 406,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3510,
+                "name": "Turtle Big Ramp Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3564,
+                "name": "Turtle Large Left Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3570,
+                "name": "Turtle Small Right Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3515,
+                "name": "Turtle Hole",
+                "order": 3,
                 "passthrough": 0
             }
         ]
