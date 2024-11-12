@@ -5,15 +5,15 @@
     "date": "2021-03-08T22:48:49.000Z",
     "author": "Ghostface",
     "author_id": 5,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2024-11-05T21:53:49.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
     "tier": 7,
     "points": 2800,
     "max_prestrafe": 406,
-    "completions": "11",
-    "players_completed": "9",
+    "completions": "12",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -113,9 +113,15 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 140,
+            "name": "House 2 Floor 2 Ramp",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 85,
             "name": "Castle House Roof Platform",
-            "order": 16,
+            "order": 17,
             "passthrough": 0
         }
     ]

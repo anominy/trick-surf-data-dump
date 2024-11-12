@@ -2,7 +2,7 @@
     "id": 15,
     "name": "[CJUNGLE247] trick.surf | SurfTricks/Timer/Stats/100T",
     "server_ip": "142.132.204.111:27018",
-    "players_online": "2",
+    "players_online": "4",
     "map": {
         "id": 10,
         "name": "tsurf_concretejungle",
@@ -11,19 +11,31 @@
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 2,
+    "numberOfPlayers": 4,
     "passwordRequired": false,
     "players": [
         {
+            "player_id": 22925,
+            "name": "Boomstorm",
+            "avatar_url": "https://avatars.steamstatic.com/478df8a4e01507f9dabfb33176a63fd43fd33904_full.jpg",
+            "server_id": 15
+        },
+        {
             "player_id": 5877,
-            "name": "ICL|nsz",
+            "name": "ICL|radiance enjoyer",
             "avatar_url": "https://avatars.steamstatic.com/3a670fad30fffd86619d35905bf50af047bced73_full.jpg",
             "server_id": 15
         },
         {
-            "player_id": 26562,
-            "name": "lol",
-            "avatar_url": "https://avatars.steamstatic.com/b7063f8d017e816cfb6f0a9ac6bf405c09d11698_full.jpg",
+            "player_id": 20730,
+            "name": "prog",
+            "avatar_url": "https://avatars.steamstatic.com/2538958c3c44eae3e869a0a73ee13d22694a19a5_full.jpg",
+            "server_id": 15
+        },
+        {
+            "player_id": 1815,
+            "name": "stotty",
+            "avatar_url": "https://avatars.steamstatic.com/d38c0184a750edb95cd8b88c46b06d393a0cb9f7_full.jpg",
             "server_id": 15
         }
     ]

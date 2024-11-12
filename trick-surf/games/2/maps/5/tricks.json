@@ -1722,8 +1722,8 @@
         "date": "2022-01-31T12:00:00.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2024-11-11T20:41:18.000Z",
+        "last_updated_author_id": 480,
         "active": 1,
         "ranked": 1,
         "tier": 2,
@@ -1740,10 +1740,22 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 418,
+                "name": "Catwalk",
+                "order": 0,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 461,
                 "name": "Spine Ramp",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 418,
+                "name": "Catwalk",
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 477,
@@ -13306,6 +13318,38 @@
         ]
     },
     {
+        "id": 11814,
+        "map_id": 5,
+        "name": "Deep Dive",
+        "date": "2024-11-11T16:36:05.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated": "2024-11-11T16:40:55.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 470,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 464,
+                "name": "Pool",
+                "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2597,
         "map_id": 5,
         "name": "Dip v2",
@@ -19580,6 +19624,56 @@
         ]
     },
     {
+        "id": 11806,
+        "map_id": 5,
+        "name": "Flaw Rise",
+        "date": "2024-11-10T02:26:17.000Z",
+        "author": "Flawless",
+        "author_id": 26256,
+        "last_updated": "2024-11-10T02:43:05.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 426,
+                "name": "Hub Tele Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 403,
+                "name": "Awp Platform",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5118,
         "map_id": 5,
         "name": "Gidget",
@@ -20770,6 +20864,122 @@
         ]
     },
     {
+        "id": 11811,
+        "map_id": 5,
+        "name": "4",
+        "date": "2024-11-11T04:11:35.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated": "2024-11-11T05:12:12.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 422,
+                "name": "Hub",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 418,
+                "name": "Catwalk",
+                "order": 0,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 418,
+                "name": "Catwalk",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 464,
+                "name": "Pool",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 478,
+                "name": "Under Pool Tele",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 428,
+                "name": "Jail Pool",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 429,
+                "name": "Jail Pool Boost",
+                "order": 11,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 429,
+                "name": "Jail Pool Boost",
+                "order": 12,
+                "passthrough": 1
+            }
+        ]
+    },
+    {
         "id": 5094,
         "map_id": 5,
         "name": "Blast Off Remix",
@@ -21238,6 +21448,74 @@
         ]
     },
     {
+        "id": 11795,
+        "map_id": 5,
+        "name": "Hard Fjonkie's Walk",
+        "date": "2024-11-08T17:10:45.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": "2024-11-09T07:33:06.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 440,
+                "name": "Pillar Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 405,
+                "name": "Back Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 406,
+                "name": "Behind Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 440,
+                "name": "Pillar Floor",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2652,
         "map_id": 5,
         "name": "Hard Genuine",
@@ -21597,6 +21875,62 @@
                 "trigger_id": 457,
                 "name": "South Ramp",
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11810,
+        "map_id": 5,
+        "name": "Jailtime",
+        "date": "2024-11-11T00:06:33.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 440,
+                "name": "Pillar Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 405,
+                "name": "Back Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 428,
+                "name": "Jail Pool",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -22682,6 +23016,110 @@
         ]
     },
     {
+        "id": 11812,
+        "map_id": 5,
+        "name": "5",
+        "date": "2024-11-11T05:12:59.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 422,
+                "name": "Hub",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 418,
+                "name": "Catwalk",
+                "order": 0,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 418,
+                "name": "Catwalk",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 464,
+                "name": "Pool",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 478,
+                "name": "Under Pool Tele",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 940,
+                "name": "Boosting Pool Top",
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7619,
         "map_id": 5,
         "name": "Fish Story",
@@ -22806,6 +23244,142 @@
         ]
     },
     {
+        "id": 11801,
+        "map_id": 5,
+        "name": "Harder Fjonkie's Walk",
+        "date": "2024-11-09T07:33:24.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 440,
+                "name": "Pillar Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 405,
+                "name": "Back Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 406,
+                "name": "Behind Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 953,
+                "name": "Pillar Floor Upper Platform",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11797,
+        "map_id": 5,
+        "name": "Highrise",
+        "date": "2024-11-08T17:40:56.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 444,
+                "name": "Pillar Small",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 405,
+                "name": "Back Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 440,
+                "name": "Pillar Floor",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8927,
         "map_id": 5,
         "name": "Maleficence",
@@ -22856,6 +23430,62 @@
             {
                 "trigger_id": 452,
                 "name": "South Pool",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11804,
+        "map_id": 5,
+        "name": "Mega Man",
+        "date": "2024-11-09T17:06:07.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 441,
+                "name": "Pillar Large",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 444,
+                "name": "Pillar Small",
                 "order": 5,
                 "passthrough": 0
             }

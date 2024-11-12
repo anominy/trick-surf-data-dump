@@ -13,8 +13,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "527",
-        "players_completed": "110",
+        "completions": "528",
+        "players_completed": "111",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -63,8 +63,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "218",
-        "players_completed": "64",
+        "completions": "219",
+        "players_completed": "65",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -113,8 +113,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "362",
-        "players_completed": "84",
+        "completions": "363",
+        "players_completed": "85",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -207,7 +207,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "1372",
+        "completions": "1378",
         "players_completed": "145",
         "average_rating": "0.0000",
         "sequence": [
@@ -1235,8 +1235,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "374",
-        "players_completed": "120",
+        "completions": "377",
+        "players_completed": "123",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1711,8 +1711,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "173",
-        "players_completed": "54",
+        "completions": "174",
+        "players_completed": "55",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1785,8 +1785,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "211",
-        "players_completed": "51",
+        "completions": "212",
+        "players_completed": "52",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2041,8 +2041,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "162",
-        "players_completed": "43",
+        "completions": "163",
+        "players_completed": "44",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -4141,7 +4141,7 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "368",
+        "completions": "369",
         "players_completed": "44",
         "average_rating": "0.0000",
         "sequence": [
@@ -11457,8 +11457,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "25",
-        "players_completed": "10",
+        "completions": "27",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -15168,12 +15168,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2288,
-                "name": "Above Fence Right",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2285,
                 "name": "Above Fence North Back",
                 "order": 5,
@@ -15188,6 +15182,12 @@
             {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2288,
+                "name": "Above Fence Right",
                 "order": 5,
                 "passthrough": 2
             },
@@ -15210,12 +15210,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2285,
-                "name": "Above Fence North Back",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
                 "order": 8,
@@ -15230,6 +15224,12 @@
             {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "name": "Above Fence North Back",
                 "order": 8,
                 "passthrough": 2
             }

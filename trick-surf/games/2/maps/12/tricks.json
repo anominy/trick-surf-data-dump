@@ -2718,14 +2718,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3123,
-                "name": "Small Purple Corner",
+                "trigger_id": 2709,
+                "name": "Red-Purple Booster-Bump Spine",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2709,
-                "name": "Red-Purple Booster-Bump Spine",
+                "trigger_id": 3123,
+                "name": "Small Purple Corner",
                 "order": 3,
                 "passthrough": 1
             },
@@ -5708,12 +5708,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3032,
-                "name": "Through shimmer",
-                "order": 7,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 3030,
                 "name": "Through machine",
                 "order": 7,
@@ -5722,6 +5716,12 @@
             {
                 "trigger_id": 3024,
                 "name": "Through buck-wild",
+                "order": 7,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3032,
+                "name": "Through shimmer",
                 "order": 7,
                 "passthrough": 1
             }
@@ -39342,18 +39342,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2860,
-                "name": "Trapezium Ramps Mid Floor",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 3060,
-                "name": "Pyramid Main Ramp Spine South",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 3049,
                 "name": "Pyramid Main Corner South-East",
                 "order": 17,
@@ -39362,6 +39350,18 @@
             {
                 "trigger_id": 2512,
                 "name": "Flipped Isosceles Trapezium Ramp Spine",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2860,
+                "name": "Trapezium Ramps Mid Floor",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3060,
+                "name": "Pyramid Main Ramp Spine South",
                 "order": 17,
                 "passthrough": 1
             },
@@ -47728,6 +47728,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
                 "order": 5,
@@ -47736,12 +47742,6 @@
             {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },
@@ -50082,6 +50082,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2652,
+                "name": "Over Checkered Spiral Platform",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2864,
                 "name": "Under Blue Spiral Platform",
                 "order": 3,
@@ -50096,12 +50102,6 @@
             {
                 "trigger_id": 2883,
                 "name": "Under Red Spiral Platform",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2652,
-                "name": "Over Checkered Spiral Platform",
                 "order": 3,
                 "passthrough": 2
             },
@@ -54780,6 +54780,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
                 "order": 5,
@@ -54788,12 +54794,6 @@
             {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },
@@ -55655,6 +55655,38 @@
                 "trigger_id": 2973,
                 "name": "Pyramid Inner Main Floor",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11769,
+        "map_id": 12,
+        "name": "EZ 4 .x",
+        "date": "2024-11-06T17:47:17.000Z",
+        "author": "ᴛꜱ ٠ King",
+        "author_id": 10,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2824,
+                "name": "Star Green Tunnel Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2420,
+                "name": "Back Outer Color Star Ramp",
+                "order": 1,
                 "passthrough": 0
             }
         ]

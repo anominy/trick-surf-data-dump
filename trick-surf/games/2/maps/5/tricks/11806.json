@@ -1,0 +1,50 @@
+{
+    "id": 11806,
+    "map_id": 5,
+    "name": "Flaw Rise",
+    "date": "2024-11-10T02:26:17.000Z",
+    "author": "Flawless",
+    "author_id": 26256,
+    "last_updated": "2024-11-10T02:43:05.000Z",
+    "last_updated_author_id": 480,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "points": 1500,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 426,
+            "name": "Hub Tele Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 461,
+            "name": "Spine Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 417,
+            "name": "Butter Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 404,
+            "name": "Awp Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 403,
+            "name": "Awp Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

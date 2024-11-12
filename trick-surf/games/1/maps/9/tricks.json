@@ -349,7 +349,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "188",
+        "completions": "210",
         "players_completed": "54",
         "average_rating": "0.0000",
         "sequence": [
@@ -463,8 +463,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "2085",
-        "players_completed": "120",
+        "completions": "2086",
+        "players_completed": "121",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1589,8 +1589,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": null,
-        "completions": "85",
-        "players_completed": "34",
+        "completions": "86",
+        "players_completed": "35",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1621,8 +1621,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": null,
-        "completions": "78",
-        "players_completed": "22",
+        "completions": "87",
+        "players_completed": "23",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -3526,14 +3526,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2314,
-                "name": "HealBot Ramp North",
+                "trigger_id": 2315,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2315,
-                "name": "HealBot Ramp South",
+                "trigger_id": 2314,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
@@ -6328,14 +6328,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2315,
-                "name": "HealBot Ramp South",
+                "trigger_id": 2314,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2314,
-                "name": "HealBot Ramp North",
+                "trigger_id": 2315,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9372,14 +9372,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2310,
-                "name": "AWP Slope",
+                "trigger_id": 795,
+                "name": "AWP Platform",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 795,
-                "name": "AWP Platform",
+                "trigger_id": 2310,
+                "name": "AWP Slope",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9414,6 +9414,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 822,
+                "name": "Spawn Slope",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
                 "order": 6,
@@ -9422,12 +9428,6 @@
             {
                 "trigger_id": 819,
                 "name": "Spawn LvL 1",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 822,
-                "name": "Spawn Slope",
                 "order": 6,
                 "passthrough": 1
             },
