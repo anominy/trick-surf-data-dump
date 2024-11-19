@@ -59892,6 +59892,50 @@
         ]
     },
     {
+        "id": 11821,
+        "map_id": 1,
+        "name": "Puss Gap from 2nd",
+        "date": "2024-11-13T10:58:54.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 3993,
         "map_id": 1,
         "name": "Pyramid Go Home",
@@ -99640,6 +99684,56 @@
         ]
     },
     {
+        "id": 11823,
+        "map_id": 1,
+        "name": "Hard Gator Walk Around Back to opposite Spawn Water",
+        "date": "2024-11-13T18:20:24.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
+                "name": "Spawn Sides",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 33,
+                "name": "Over Spawn Wall",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "name": "Spawn Water",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4991,
         "map_id": 1,
         "name": "Hard Legacy Psycho",
@@ -102419,146 +102513,6 @@
                 "trigger_id": 44,
                 "name": "Spawn Wall",
                 "order": 10,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 10203,
-        "map_id": 1,
-        "name": "Quadruple Dart Chrome",
-        "date": "2024-06-12T14:35:08.000Z",
-        "author": "Dr Mulped",
-        "author_id": 70,
-        "last_updated": "2024-06-13T12:24:40.000Z",
-        "last_updated_author_id": 1,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "points": 2800,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 23,
-                "name": "Deagle 6th",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 23,
-                "name": "Deagle 6th",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 23,
-                "name": "Deagle 6th",
-                "order": 10,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 11,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 12,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 13,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 23,
-                "name": "Deagle 6th",
-                "order": 14,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 15,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 16,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 17,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 4,
-                "name": "Awp Ramp Water",
-                "order": 18,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 6,
-                "name": "Awpbox Slant",
-                "order": 19,
                 "passthrough": 0
             }
         ]
@@ -108298,6 +108252,146 @@
         ]
     },
     {
+        "id": 10203,
+        "map_id": 1,
+        "name": "Quadruple Dart Chrome",
+        "date": "2024-06-12T14:35:08.000Z",
+        "author": "Dr Mulped",
+        "author_id": 70,
+        "last_updated": "2024-11-13T00:35:50.000Z",
+        "last_updated_author_id": 457,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 4,
+                "name": "Awp Ramp Water",
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 19,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5012,
         "map_id": 1,
         "name": "Quintuple Main to sign from strafe",
@@ -109576,8 +109670,8 @@
         "date": "2024-11-06T21:08:48.000Z",
         "author": "Gatorlangman",
         "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2024-11-14T12:13:55.000Z",
+        "last_updated_author_id": 457,
         "active": 1,
         "ranked": 0,
         "tier": 9,
@@ -109594,9 +109688,15 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
                 "trigger_id": 35,
                 "name": "Pool",
-                "order": 1,
+                "order": 2,
                 "passthrough": 0
             }
         ]

@@ -12,8 +12,8 @@
     "tier": 6,
     "points": 2100,
     "max_prestrafe": null,
-    "completions": "5",
-    "players_completed": "5",
+    "completions": "6",
+    "players_completed": "6",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,12 +27,6 @@
             "name": "SW Blue Ramp 5",
             "order": 1,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 2233,
-            "name": "W Large Pillar Gap South",
-            "order": 1,
-            "passthrough": 2
         },
         {
             "trigger_id": 1737,
@@ -55,6 +49,12 @@
         {
             "trigger_id": 2234,
             "name": "W Large Pillar Gap SW",
+            "order": 1,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2233,
+            "name": "W Large Pillar Gap South",
             "order": 1,
             "passthrough": 2
         },

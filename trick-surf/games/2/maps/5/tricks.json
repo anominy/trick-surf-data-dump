@@ -23436,6 +23436,86 @@
         ]
     },
     {
+        "id": 11817,
+        "map_id": 5,
+        "name": "Malevolence",
+        "date": "2024-11-12T14:32:23.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 442,
+                "name": "Pillar Medium",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 452,
+                "name": "South Pool",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11804,
         "map_id": 5,
         "name": "Mega Man",
@@ -24035,6 +24115,98 @@
                 "trigger_id": 422,
                 "name": "Hub",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11838,
+        "map_id": 5,
+        "name": "Alcatraz",
+        "date": "2024-11-16T22:41:32.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 470,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 408,
+                "name": "Behind Spine Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 428,
+                "name": "Jail Pool",
+                "order": 11,
                 "passthrough": 0
             }
         ]

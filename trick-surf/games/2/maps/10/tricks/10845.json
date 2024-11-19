@@ -3,10 +3,10 @@
     "map_id": 10,
     "name": "A Monarch's Hideout",
     "date": "2024-08-06T22:41:36.000Z",
-    "author": "Steve",
+    "author": "King",
     "author_id": 10,
-    "last_updated": null,
-    "last_updated_author_id": 10,
+    "last_updated": "2024-11-19T00:09:19.000Z",
+    "last_updated_author_id": 18949,
     "active": 1,
     "ranked": 1,
     "tier": 6,
@@ -51,6 +51,12 @@
             "name": "N Low Dark Box",
             "order": 5,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1334,
+            "name": "N Middle Ground",
+            "order": 5,
+            "passthrough": 2
         }
     ]
 }
