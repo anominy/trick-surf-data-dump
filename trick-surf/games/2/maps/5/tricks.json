@@ -164,8 +164,8 @@
         "date": "2024-08-17T05:00:15.000Z",
         "author": "Schewpid",
         "author_id": 25977,
-        "last_updated": "2024-08-19T04:25:52.000Z",
-        "last_updated_author_id": 2994,
+        "last_updated": "2024-11-22T02:06:29.000Z",
+        "last_updated_author_id": 480,
         "active": 1,
         "ranked": 1,
         "tier": 1,
@@ -2711,6 +2711,44 @@
                 "trigger_id": 464,
                 "name": "Pool",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11913,
+        "map_id": 5,
+        "name": "Back to Base",
+        "date": "2024-11-25T05:02:51.000Z",
+        "author": "Flawless",
+        "author_id": 26256,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 405,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 432,
+                "name": "Bottom Pool Upper Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 414,
+                "name": "Bottom Pool Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 462,
+                "name": "Bottom Pool Tele Slants",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -20980,6 +21018,62 @@
         ]
     },
     {
+        "id": 11906,
+        "map_id": 5,
+        "name": "Backwater",
+        "date": "2024-11-23T17:55:13.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": "2024-11-23T17:56:29.000Z",
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 450,
+                "name": "Sky Plate",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 405,
+                "name": "Back Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 952,
+                "name": "Under Spawn",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 475,
+                "name": "Top Upper Water",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5094,
         "map_id": 5,
         "name": "Blast Off Remix",
@@ -23016,6 +23110,62 @@
         ]
     },
     {
+        "id": 11902,
+        "map_id": 5,
+        "name": "Unit Connoiseur",
+        "date": "2024-11-23T15:11:20.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 474,
+                "name": "Top Upper Side Ledge",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 428,
+                "name": "Jail Pool",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11812,
         "map_id": 5,
         "name": "5",
@@ -24035,6 +24185,148 @@
                 "trigger_id": 484,
                 "name": "South Pool Upper Platform",
                 "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11903,
+        "map_id": 5,
+        "name": "Unit Aficionado",
+        "date": "2024-11-23T15:35:40.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": "2024-11-23T16:35:01.000Z",
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 450,
+                "name": "Sky Plate",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 408,
+                "name": "Behind Spine Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 406,
+                "name": "Behind Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11904,
+        "map_id": 5,
+        "name": "Unit Cognoscenti",
+        "date": "2024-11-23T16:57:53.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 943,
+                "name": "Behind Pillar Large",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 444,
+                "name": "Pillar Small",
+                "order": 8,
                 "passthrough": 0
             }
         ]

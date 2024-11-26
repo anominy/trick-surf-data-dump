@@ -86820,110 +86820,6 @@
         ]
     },
     {
-        "id": 5993,
-        "map_id": 1,
-        "name": "Flogan Owned Sonic Skittles",
-        "date": "2022-08-16T23:06:28.000Z",
-        "author": "Ghostface",
-        "author_id": 5,
-        "last_updated": "2023-07-06T19:38:14.000Z",
-        "last_updated_author_id": 1,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "points": 2100,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 11,
-                "name": "Behind Pyramid",
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 37,
-                "name": "Pyramid",
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 10,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 32,
-                "name": "Over Spawn",
-                "order": 11,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 43,
-                "name": "Spawn Sides",
-                "order": 11,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 35,
-                "name": "Pool",
-                "order": 12,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 4460,
         "map_id": 1,
         "name": "Flogan Pro Exy Rise from 3rd",
@@ -94776,128 +94672,6 @@
         ]
     },
     {
-        "id": 5994,
-        "map_id": 1,
-        "name": "Bogroll Owned Sonic Skittles",
-        "date": "2022-08-17T00:19:04.000Z",
-        "author": "Ghostface",
-        "author_id": 5,
-        "last_updated": "2023-07-06T18:53:19.000Z",
-        "last_updated_author_id": 1,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "points": 2800,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 10,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 11,
-                "name": "Behind Pyramid",
-                "order": 11,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 37,
-                "name": "Pyramid",
-                "order": 12,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 13,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 32,
-                "name": "Over Spawn",
-                "order": 14,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 43,
-                "name": "Spawn Sides",
-                "order": 14,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 35,
-                "name": "Pool",
-                "order": 15,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 4507,
         "map_id": 1,
         "name": "Bogroll Rise from 3rd",
@@ -97587,6 +97361,110 @@
                 "trigger_id": 40,
                 "name": "Sign",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 5993,
+        "map_id": 1,
+        "name": "Flogan Owned Sonic Skittles",
+        "date": "2022-08-16T23:06:28.000Z",
+        "author": "Ghostface",
+        "author_id": 5,
+        "last_updated": "2024-11-25T14:36:34.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 32,
+                "name": "Over Spawn",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
+                "name": "Spawn Sides",
+                "order": 11,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -104622,6 +104500,128 @@
         ]
     },
     {
+        "id": 5994,
+        "map_id": 1,
+        "name": "Bogroll Owned Sonic Skittles",
+        "date": "2022-08-17T00:19:04.000Z",
+        "author": "Ghostface",
+        "author_id": 5,
+        "last_updated": "2024-11-25T14:36:24.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 32,
+                "name": "Over Spawn",
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
+                "name": "Spawn Sides",
+                "order": 14,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 15,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4531,
         "map_id": 1,
         "name": "Bogroll Sign Rise",
@@ -109771,6 +109771,104 @@
                 "trigger_id": 45,
                 "name": "Spawn Water",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11900,
+        "map_id": 1,
+        "name": "Sextuple Main to sign from strafe",
+        "date": "2024-11-23T09:17:48.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 0,
+        "tier": 9,
+        "points": 4500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 12,
                 "passthrough": 0
             }
         ]

@@ -1,0 +1,86 @@
+{
+    "id": 11868,
+    "map_id": 10,
+    "name": "Levitation",
+    "date": "2024-11-20T04:39:11.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2024-11-20T05:17:36.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "points": 2800,
+    "max_prestrafe": 262,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1679,
+            "name": "W Rooftops",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1742,
+            "name": "W Rooftops Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1221,
+            "name": "C Strip Lower Slant",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1206,
+            "name": "C Strip Lower",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1221,
+            "name": "C Strip Lower Slant",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1190,
+            "name": "C Blue Ramp 1",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1212,
+            "name": "C Orange Ramp 4",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1500,
+            "name": "NW Undergrounds East Block",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

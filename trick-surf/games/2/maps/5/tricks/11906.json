@@ -1,0 +1,56 @@
+{
+    "id": 11906,
+    "map_id": 5,
+    "name": "Backwater",
+    "date": "2024-11-23T17:55:13.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2024-11-23T17:56:29.000Z",
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "points": 2100,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 450,
+            "name": "Sky Plate",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 434,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 405,
+            "name": "Back Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 434,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 952,
+            "name": "Under Spawn",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 475,
+            "name": "Top Upper Water",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

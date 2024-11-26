@@ -12,8 +12,8 @@
     "tier": 4,
     "points": 1000,
     "max_prestrafe": 406,
-    "completions": "25",
-    "players_completed": "18",
+    "completions": "28",
+    "players_completed": "19",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -65,12 +65,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1438,
-            "name": "NW Black Ramp 2",
-            "order": 7,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1440,
             "name": "NW Black Ramp 2 Booster 2",
             "order": 7,
@@ -79,6 +73,12 @@
         {
             "trigger_id": 1439,
             "name": "NW Black Ramp 2 Booster 1",
+            "order": 7,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1438,
+            "name": "NW Black Ramp 2",
             "order": 7,
             "passthrough": 1
         },

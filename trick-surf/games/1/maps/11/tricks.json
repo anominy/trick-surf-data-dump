@@ -2392,6 +2392,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2391,
+                "name": "THE CUBE Right",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
                 "order": 2,
@@ -2400,12 +2406,6 @@
             {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2391,
-                "name": "THE CUBE Right",
                 "order": 2,
                 "passthrough": 1
             }
@@ -2953,7 +2953,7 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "262",
+        "completions": "263",
         "players_completed": "28",
         "average_rating": "0.0000",
         "sequence": [
@@ -6112,6 +6112,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2391,
+                "name": "THE CUBE Right",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
                 "order": 2,
@@ -6120,12 +6126,6 @@
             {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2391,
-                "name": "THE CUBE Right",
                 "order": 2,
                 "passthrough": 1
             }
@@ -15168,18 +15168,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2288,
-                "name": "Above Fence Right",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2285,
-                "name": "Above Fence North Back",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
                 "order": 5,
@@ -15188,6 +15176,18 @@
             {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2288,
+                "name": "Above Fence Right",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "name": "Above Fence North Back",
                 "order": 5,
                 "passthrough": 2
             },
@@ -15210,18 +15210,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2285,
-                "name": "Above Fence North Back",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2287,
-                "name": "Above Fence Left",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
                 "order": 8,
@@ -15230,6 +15218,18 @@
             {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "name": "Above Fence North Back",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2287,
+                "name": "Above Fence Left",
                 "order": 8,
                 "passthrough": 2
             }
@@ -18161,7 +18161,7 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "16",
+        "completions": "17",
         "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
@@ -22048,14 +22048,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1829,
-                "name": "F Loop",
+                "trigger_id": 2405,
+                "name": "F Loop Apex",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2405,
-                "name": "F Loop Apex",
+                "trigger_id": 1829,
+                "name": "F Loop",
                 "order": 3,
                 "passthrough": 1
             },
@@ -25803,8 +25803,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "3",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
