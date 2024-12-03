@@ -853,8 +853,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "176",
-        "players_completed": "48",
+        "completions": "177",
+        "players_completed": "49",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1027,8 +1027,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "190",
-        "players_completed": "35",
+        "completions": "203",
+        "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1221,8 +1221,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "92",
-        "players_completed": "29",
+        "completions": "100",
+        "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1271,8 +1271,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "130",
-        "players_completed": "31",
+        "completions": "139",
+        "players_completed": "32",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -3544,14 +3544,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2336,
-                "name": "Outward Ramp North",
+                "trigger_id": 2337,
+                "name": "Outward Ramp South",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2337,
-                "name": "Outward Ramp South",
+                "trigger_id": 2336,
+                "name": "Outward Ramp North",
                 "order": 2,
                 "passthrough": 1
             }

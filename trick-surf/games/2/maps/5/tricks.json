@@ -7048,6 +7048,68 @@
         ]
     },
     {
+        "id": 11920,
+        "map_id": 5,
+        "name": "King Sized",
+        "date": "2024-11-26T20:13:55.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 481,
+                "name": "Upper Curve Ramp Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 446,
+                "name": "Side Pool",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5202,
         "map_id": 5,
         "name": "Ladder",
@@ -16828,6 +16890,62 @@
         ]
     },
     {
+        "id": 11921,
+        "map_id": 5,
+        "name": "On Patrol",
+        "date": "2024-11-26T20:17:45.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 403,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 408,
+                "name": "Behind Spine Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 446,
+                "name": "Side Pool",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2631,
         "map_id": 5,
         "name": "Oysto's Rise",
@@ -19230,6 +19348,80 @@
         ]
     },
     {
+        "id": 11958,
+        "map_id": 5,
+        "name": "Aufsteigen",
+        "date": "2024-12-02T18:17:52.000Z",
+        "author": "inf",
+        "author_id": 147,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 444,
+                "name": "Pillar Small",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2644,
         "map_id": 5,
         "name": "Behind & Under Rise",
@@ -19668,13 +19860,13 @@
         "date": "2024-11-10T02:26:17.000Z",
         "author": "Flawless",
         "author_id": 26256,
-        "last_updated": "2024-11-10T02:43:05.000Z",
+        "last_updated": "2024-11-29T18:24:23.000Z",
         "last_updated_author_id": 480,
         "active": 1,
         "ranked": 1,
         "tier": 5,
         "points": 1500,
-        "max_prestrafe": null,
+        "max_prestrafe": 405,
         "completions": "0",
         "players_completed": "0",
         "average_rating": "0.0000",
@@ -19925,6 +20117,92 @@
                 "trigger_id": 484,
                 "name": "South Pool Upper Platform",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11922,
+        "map_id": 5,
+        "name": "On Inspection",
+        "date": "2024-11-26T20:27:15.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": "2024-11-26T20:29:18.000Z",
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 403,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 436,
+                "name": "North Spawn Tele",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 943,
+                "name": "Behind Pillar Large",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 406,
+                "name": "Behind Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 10,
                 "passthrough": 0
             }
         ]
@@ -23802,6 +24080,80 @@
         ]
     },
     {
+        "id": 11957,
+        "map_id": 5,
+        "name": "Ranch Croc Derivative",
+        "date": "2024-12-02T17:45:21.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 403,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 408,
+                "name": "Behind Spine Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 6,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 446,
+                "name": "Side Pool",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5199,
         "map_id": 5,
         "name": "So Phar",
@@ -24641,6 +24993,74 @@
                 "trigger_id": 458,
                 "name": "Spawn",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11956,
+        "map_id": 5,
+        "name": "Opening Ceremony",
+        "date": "2024-12-02T17:12:40.000Z",
+        "author": "Liquidator",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 437,
+                "name": "Over Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 7,
                 "passthrough": 0
             }
         ]

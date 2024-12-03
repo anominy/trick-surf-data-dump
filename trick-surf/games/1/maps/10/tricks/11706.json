@@ -95,12 +95,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 2232,
-            "name": "W Large Pillar Gap NE",
-            "order": 12,
-            "passthrough": 2
-        },
-        {
             "trigger_id": 3201,
             "name": "W Large Pillar Gap West 2",
             "order": 12,
@@ -121,6 +115,12 @@
         {
             "trigger_id": 3198,
             "name": "W Large Pillar Gap North 1",
+            "order": 12,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2232,
+            "name": "W Large Pillar Gap NE",
             "order": 12,
             "passthrough": 2
         },
