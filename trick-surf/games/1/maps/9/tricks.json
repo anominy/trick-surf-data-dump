@@ -463,8 +463,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "2086",
-        "players_completed": "121",
+        "completions": "2087",
+        "players_completed": "122",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -501,8 +501,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "533",
-        "players_completed": "77",
+        "completions": "534",
+        "players_completed": "78",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -853,8 +853,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "177",
-        "players_completed": "49",
+        "completions": "178",
+        "players_completed": "50",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -6328,14 +6328,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2314,
-                "name": "HealBot Ramp North",
+                "trigger_id": 2315,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2315,
-                "name": "HealBot Ramp South",
+                "trigger_id": 2314,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
@@ -8065,8 +8065,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "4",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -9355,8 +9355,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "6",
-        "players_completed": "6",
+        "completions": "7",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -9372,14 +9372,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 795,
-                "name": "AWP Platform",
+                "trigger_id": 2310,
+                "name": "AWP Slope",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2310,
-                "name": "AWP Slope",
+                "trigger_id": 795,
+                "name": "AWP Platform",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9414,12 +9414,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 822,
-                "name": "Spawn Slope",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
                 "order": 6,
@@ -9428,6 +9422,12 @@
             {
                 "trigger_id": 819,
                 "name": "Spawn LvL 1",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 822,
+                "name": "Spawn Slope",
                 "order": 6,
                 "passthrough": 1
             },

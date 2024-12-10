@@ -1,0 +1,92 @@
+{
+    "id": 11981,
+    "map_id": 10,
+    "name": "tier peaceful",
+    "date": "2024-12-08T01:24:25.000Z",
+    "author": "nex",
+    "author_id": 18519,
+    "last_updated": "2024-12-08T02:49:27.000Z",
+    "last_updated_author_id": 18519,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "points": 2100,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1599,
+            "name": "SE Rooftops",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1530,
+            "name": "S Fort Top Beam",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1657,
+            "name": "SW Yellow Ramp 7 Beam",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1615,
+            "name": "SW Concrete Tube 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2233,
+            "name": "W Large Pillar Gap South",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1737,
+            "name": "W Large Pillar Gap SE",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3196,
+            "name": "W Large Pillar Gap East 1",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1780,
+            "name": "W Ground East",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2402,
+            "name": "SW Under Concrete Tube 2",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1779,
+            "name": "W Lower Ground",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2233,
+            "name": "W Large Pillar Gap South",
+            "order": 10,
+            "passthrough": 2
+        }
+    ]
+}

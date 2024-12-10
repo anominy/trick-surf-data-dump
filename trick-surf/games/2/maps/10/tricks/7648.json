@@ -5,8 +5,8 @@
     "date": "2023-06-04T14:33:34.000Z",
     "author": "william",
     "author_id": 347,
-    "last_updated": "2023-07-01T10:45:23.000Z",
-    "last_updated_author_id": 347,
+    "last_updated": "2024-12-05T03:53:25.000Z",
+    "last_updated_author_id": 18519,
     "active": 1,
     "ranked": 1,
     "tier": 7,
@@ -83,6 +83,12 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 1305,
+            "name": "E Upper Ground Island",
+            "order": 10,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1304,
             "name": "E Upper Ground",
             "order": 10,
@@ -95,51 +101,45 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1305,
-            "name": "E Upper Ground Island",
-            "order": 10,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1731,
             "name": "E Under White Beams",
             "order": 10,
             "passthrough": 2
         },
         {
-            "trigger_id": 1305,
-            "name": "E Upper Ground Island",
+            "trigger_id": 1304,
+            "name": "E Upper Ground",
             "order": 11,
             "passthrough": 0
         },
         {
-            "trigger_id": 1304,
-            "name": "E Upper Ground",
-            "order": 12,
-            "passthrough": 0
+            "trigger_id": 1305,
+            "name": "E Upper Ground Island",
+            "order": 11,
+            "passthrough": 1
         },
         {
             "trigger_id": 1456,
             "name": "NW Ground",
-            "order": 13,
+            "order": 12,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1202,
-            "name": "C Ground",
-            "order": 13,
-            "passthrough": 1
         },
         {
             "trigger_id": 1780,
             "name": "W Ground East",
-            "order": 13,
+            "order": 12,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1202,
+            "name": "C Ground",
+            "order": 12,
             "passthrough": 1
         },
         {
             "trigger_id": 1475,
             "name": "NW Pool Bottom",
-            "order": 14,
+            "order": 13,
             "passthrough": 0
         }
     ]

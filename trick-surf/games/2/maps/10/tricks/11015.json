@@ -47,14 +47,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1504,
-            "name": "E Large Pillar Gap SW",
+            "trigger_id": 1274,
+            "name": "E Large Pillar Gap South",
             "order": 4,
             "passthrough": 2
         },
         {
-            "trigger_id": 1274,
-            "name": "E Large Pillar Gap South",
+            "trigger_id": 1504,
+            "name": "E Large Pillar Gap SW",
             "order": 4,
             "passthrough": 2
         },
@@ -95,6 +95,12 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 2394,
+            "name": "NW Under Park Roof",
+            "order": 10,
+            "passthrough": 2
+        },
+        {
             "trigger_id": 2176,
             "name": "NW Under Window",
             "order": 10,
@@ -103,12 +109,6 @@
         {
             "trigger_id": 1494,
             "name": "NW Through Window",
-            "order": 10,
-            "passthrough": 2
-        },
-        {
-            "trigger_id": 2394,
-            "name": "NW Under Park Roof",
             "order": 10,
             "passthrough": 2
         },

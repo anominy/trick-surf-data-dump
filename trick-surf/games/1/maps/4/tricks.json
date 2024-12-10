@@ -86,12 +86,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 296,
-                "name": "Cannon Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 358,
                 "name": "North Ramp",
                 "order": 1,
@@ -160,6 +154,12 @@
             {
                 "trigger_id": 398,
                 "name": "West Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 296,
+                "name": "Cannon Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -397,8 +397,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "96",
-        "players_completed": "21",
+        "completions": "99",
+        "players_completed": "22",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -955,8 +955,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "49",
-        "players_completed": "24",
+        "completions": "50",
+        "players_completed": "25",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -14165,7 +14165,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "48",
+        "completions": "49",
         "players_completed": "16",
         "average_rating": "0.0000",
         "sequence": [
