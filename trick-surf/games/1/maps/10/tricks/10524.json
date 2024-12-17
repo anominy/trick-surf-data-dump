@@ -12,8 +12,8 @@
     "tier": 5,
     "points": 1500,
     "max_prestrafe": 406,
-    "completions": "14",
-    "players_completed": "10",
+    "completions": "18",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -77,12 +77,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1775,
-            "name": "SE Large Pillar Gap East",
-            "order": 9,
-            "passthrough": 2
-        },
-        {
             "trigger_id": 1734,
             "name": "SE Large Pillar Gap West",
             "order": 9,
@@ -97,6 +91,12 @@
         {
             "trigger_id": 1733,
             "name": "SE Large Pillar Gap NW",
+            "order": 9,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
             "order": 9,
             "passthrough": 2
         }

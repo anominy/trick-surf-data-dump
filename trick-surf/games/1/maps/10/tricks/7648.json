@@ -12,8 +12,8 @@
     "tier": 7,
     "points": 2800,
     "max_prestrafe": 406,
-    "completions": "6",
-    "players_completed": "5",
+    "completions": "8",
+    "players_completed": "6",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -125,14 +125,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1780,
-            "name": "W Ground East",
+            "trigger_id": 1202,
+            "name": "C Ground",
             "order": 12,
             "passthrough": 1
         },
         {
-            "trigger_id": 1202,
-            "name": "C Ground",
+            "trigger_id": 1780,
+            "name": "W Ground East",
             "order": 12,
             "passthrough": 1
         },

@@ -1,0 +1,56 @@
+{
+    "id": 11994,
+    "map_id": 10,
+    "name": "Rapture",
+    "date": "2024-12-10T15:15:05.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-12-10T17:08:05.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 8,
+    "points": 3600,
+    "max_prestrafe": 406,
+    "completions": "3",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1377,
+            "name": "N Upper Ground",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1457,
+            "name": "NW Ground Slide",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1458,
+            "name": "NW Ground Top",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1443,
+            "name": "NW Blue Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1498,
+            "name": "NW Undergrounds High Ledge",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}
