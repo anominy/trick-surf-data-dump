@@ -1,0 +1,62 @@
+{
+    "id": 12030,
+    "map_id": 8,
+    "name": "Truly Impossible Left Right",
+    "date": "2024-12-20T12:58:42.000Z",
+    "author": "summertime",
+    "author_id": 2687,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 8,
+    "points": 3600,
+    "max_prestrafe": 406,
+    "completions": "1",
+    "players_completed": "1",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 648,
+            "name": "Awp Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "name": "Triomino 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 678,
+            "name": "Fish Hook Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "name": "Triomino 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 678,
+            "name": "Fish Hook Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 649,
+            "name": "Awp Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 760,
+            "name": "T2 Center Platform",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

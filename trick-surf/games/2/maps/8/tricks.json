@@ -69794,6 +69794,50 @@
         ]
     },
     {
+        "id": 12037,
+        "map_id": 8,
+        "name": "Bananeira",
+        "date": "2024-12-22T00:55:59.000Z",
+        "author": "elNeuse",
+        "author_id": 10899,
+        "last_updated": "2024-12-22T14:35:54.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 780,
+                "name": "Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3256,
+                "name": "Trickgxds Throne",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8301,
         "map_id": 8,
         "name": "Bima F",
@@ -70069,6 +70113,68 @@
                 "trigger_id": 918,
                 "name": "Fish Platform",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12038,
+        "map_id": 8,
+        "name": "Blyatiful",
+        "date": "2024-12-22T15:55:55.000Z",
+        "author": "hitchhiking in the sleep phase",
+        "author_id": 13870,
+        "last_updated": "2024-12-22T16:18:54.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 783,
+                "name": "Tower Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3252,
+                "name": "Tower Middle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 656,
+                "name": "Behind Tower",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "name": "Rear T2 Tower Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 689,
+                "name": "Jail Booster Tip",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -103360,6 +103466,56 @@
         ]
     },
     {
+        "id": 12036,
+        "map_id": 8,
+        "name": "Hard Ryuko Rise",
+        "date": "2024-12-21T18:51:36.000Z",
+        "author": "Partochka tired of games",
+        "author_id": 14446,
+        "last_updated": "2024-12-21T18:54:59.000Z",
+        "last_updated_author_id": 406,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5591,
         "map_id": 8,
         "name": "High exu Rise",
@@ -106190,6 +106346,68 @@
         ]
     },
     {
+        "id": 12030,
+        "map_id": 8,
+        "name": "Truly Impossible Left Right",
+        "date": "2024-12-20T12:58:42.000Z",
+        "author": "summertime",
+        "author_id": 2687,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 760,
+                "name": "T2 Center Platform",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11006,
         "map_id": 8,
         "name": "Truly Impossible Spawn Return",
@@ -106456,6 +106674,74 @@
         ]
     },
     {
+        "id": 12041,
+        "map_id": 8,
+        "name": "WTB yawspeed v3",
+        "date": "2024-12-22T19:37:08.000Z",
+        "author": "roe",
+        "author_id": 74,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 680,
+                "name": "Gun Room",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 681,
+                "name": "Gun Room Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "name": "Through T2 Tower",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 691,
+                "name": "Jail Box 4",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 9347,
         "map_id": 8,
         "name": "Zyzz Around The Back",
@@ -106518,6 +106804,110 @@
         ]
     },
     {
+        "id": 12034,
+        "map_id": 8,
+        "name": "Divine Diamond Walk",
+        "date": "2024-12-20T18:44:14.000Z",
+        "author": "thousand years voyage",
+        "author_id": 416,
+        "last_updated": "2024-12-20T20:44:59.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "points": 4500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 747,
+                "name": "T-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "name": "Left Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "name": "Rear Spawn Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 675,
+                "name": "Elevator Hole Platform",
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10055,
         "map_id": 8,
         "name": "Impossible Rise to Water",
@@ -106551,6 +106941,74 @@
                 "trigger_id": 769,
                 "name": "T2 Tower Water",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12029,
+        "map_id": 8,
+        "name": "Triple High Lupkes",
+        "date": "2024-12-20T12:51:05.000Z",
+        "author": "summertime",
+        "author_id": 2687,
+        "last_updated": "2024-12-20T12:54:38.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "points": 4500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 692,
+                "name": "Jail Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 742,
+                "name": "Spawn Roof Water",
+                "order": 7,
                 "passthrough": 0
             }
         ]

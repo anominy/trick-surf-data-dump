@@ -29,18 +29,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1638,
-            "name": "SW Pink Ledge",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1678,
-            "name": "W Pink Ramp 3 Spine",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1724,
             "name": "SW Pink Pillar Booster 1",
             "order": 1,
@@ -125,14 +113,26 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1638,
+            "name": "SW Pink Ledge",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1678,
+            "name": "W Pink Ramp 3 Spine",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1756,
             "name": "NE Green Teleporter",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1199,
-            "name": "C Green Ramp 3",
+            "trigger_id": 1404,
+            "name": "NE Green Ramp 5 Spine",
             "order": 2,
             "passthrough": 1
         },
@@ -143,20 +143,8 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1404,
-            "name": "NE Green Ramp 5 Spine",
-            "order": 2,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1279,
             "name": "E Large Structure Green Top",
-            "order": 2,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1196,
-            "name": "C Green Ramp 2",
             "order": 2,
             "passthrough": 1
         },
@@ -167,8 +155,8 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1195,
-            "name": "E Green Ramp 1 Spine",
+            "trigger_id": 1196,
+            "name": "C Green Ramp 2",
             "order": 2,
             "passthrough": 1
         },
@@ -179,8 +167,8 @@
             "passthrough": 1
         },
         {
-            "trigger_id": 1194,
-            "name": "E Green Ramp 1",
+            "trigger_id": 1195,
+            "name": "E Green Ramp 1 Spine",
             "order": 2,
             "passthrough": 1
         },
@@ -191,8 +179,20 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1194,
+            "name": "E Green Ramp 1",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1201,
             "name": "C Green Ramp 3 Spine",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1199,
+            "name": "C Green Ramp 3",
             "order": 2,
             "passthrough": 1
         },
@@ -201,12 +201,6 @@
             "name": "S Yellow Teleporter",
             "order": 3,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1518,
-            "name": "NW Yellow Ramp 3",
-            "order": 3,
-            "passthrough": 1
         },
         {
             "trigger_id": 1545,
@@ -323,16 +317,16 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1518,
+            "name": "NW Yellow Ramp 3",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1757,
             "name": "NE Red Teleporter",
             "order": 4,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1409,
-            "name": "NE Red Ramp 5",
-            "order": 4,
-            "passthrough": 1
         },
         {
             "trigger_id": 1284,
@@ -409,6 +403,12 @@
         {
             "trigger_id": 1595,
             "name": "SE Red Ramp 1",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1409,
+            "name": "NE Red Ramp 5",
             "order": 4,
             "passthrough": 1
         },
