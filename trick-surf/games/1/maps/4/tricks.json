@@ -86,30 +86,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 395,
-                "name": "West Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 318,
-                "name": "In-Ground Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 388,
-                "name": "V Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 305,
-                "name": "East Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 398,
                 "name": "West Ramp 3",
                 "order": 1,
@@ -160,6 +136,30 @@
             {
                 "trigger_id": 346,
                 "name": "Stage 6 Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 395,
+                "name": "West Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 318,
+                "name": "In-Ground Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 305,
+                "name": "East Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -9645,8 +9645,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "100",
-        "players_completed": "30",
+        "completions": "101",
+        "players_completed": "31",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -9899,8 +9899,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "83",
-        "players_completed": "32",
+        "completions": "84",
+        "players_completed": "33",
         "average_rating": "0.0000",
         "sequence": [
             {

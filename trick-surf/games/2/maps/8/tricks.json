@@ -23322,14 +23322,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 299,
-                "name": "CT-Spawn Hole",
+                "trigger_id": 3216,
+                "name": "T-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             },
             {
-                "trigger_id": 3216,
-                "name": "T-Spawn Hole",
+                "trigger_id": 299,
+                "name": "CT-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             }
@@ -35237,6 +35237,56 @@
                 "trigger_id": 696,
                 "name": "Jail Wall",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12060,
+        "map_id": 8,
+        "name": "Garden",
+        "date": "2024-12-30T18:16:46.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 918,
+                "name": "Fish Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 125,
+                "name": "Bigger Fish Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 783,
+                "name": "Tower Top",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -48583,56 +48633,6 @@
                 "trigger_id": 669,
                 "name": "CT-Spawn Teleporter",
                 "order": 2,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 10334,
-        "map_id": 8,
-        "name": "Tree Garden",
-        "date": "2024-06-16T03:55:58.000Z",
-        "author": "KingYoshi // solidsurf.info",
-        "author_id": 457,
-        "last_updated": null,
-        "last_updated_author_id": 457,
-        "active": 1,
-        "ranked": 1,
-        "tier": 4,
-        "points": 1000,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 918,
-                "name": "Fish Platform",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 125,
-                "name": "Bigger Fish Booster",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 762,
-                "name": "T2 Left Wing",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 652,
-                "name": "Banana Ramp",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3255,
-                "name": "Tower Tree",
-                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -68600,6 +68600,62 @@
         ]
     },
     {
+        "id": 6222,
+        "map_id": 8,
+        "name": "Anime Return To Box v2",
+        "date": "2022-10-13T16:18:36.000Z",
+        "author": "thousand years voyage",
+        "author_id": 416,
+        "last_updated": "2024-12-27T14:54:44.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 783,
+                "name": "Tower Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 731,
+                "name": "Section Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 650,
+                "name": "Banana Hole",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 779,
+                "name": "Tower Box 1",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10515,
         "map_id": 8,
         "name": "Anime Return To Throne",
@@ -86528,6 +86584,56 @@
         ]
     },
     {
+        "id": 10334,
+        "map_id": 8,
+        "name": "Tree Garden",
+        "date": "2024-06-16T03:55:58.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": "2024-12-30T18:17:43.000Z",
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 918,
+                "name": "Fish Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 125,
+                "name": "Bigger Fish Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3255,
+                "name": "Tower Tree",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5719,
         "map_id": 8,
         "name": "Tricycle",
@@ -89513,62 +89619,6 @@
                 "trigger_id": 778,
                 "name": "Tower Base Water",
                 "order": 4,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 6222,
-        "map_id": 8,
-        "name": "Anime Return To Box v2",
-        "date": "2022-10-13T16:18:36.000Z",
-        "author": "Anti-Cheat | Autostrafing detect",
-        "author_id": 416,
-        "last_updated": "2023-10-13T17:18:15.000Z",
-        "last_updated_author_id": 457,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "points": 2800,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 783,
-                "name": "Tower Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 652,
-                "name": "Banana Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 731,
-                "name": "Section Ramp",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 652,
-                "name": "Banana Ramp",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 650,
-                "name": "Banana Hole",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 779,
-                "name": "Tower Box 1",
-                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -92931,6 +92981,86 @@
                 "trigger_id": 3234,
                 "name": "T2 Center Down Platform",
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12047,
+        "map_id": 8,
+        "name": "Flevin Rise For Dalbaoyb",
+        "date": "2024-12-26T12:13:29.000Z",
+        "author": "surfacc",
+        "author_id": 13870,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 780,
+                "name": "Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "name": "Rear Spawn Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 693,
+                "name": "Jail Ledge",
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -98603,6 +98733,56 @@
                 "trigger_id": 692,
                 "name": "Jail Floor",
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12052,
+        "map_id": 8,
+        "name": "Retro Spawn Return to Water",
+        "date": "2024-12-27T18:50:42.000Z",
+        "author": "majin",
+        "author_id": 880,
+        "last_updated": "2024-12-27T21:08:29.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 407,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 747,
+                "name": "T-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 752,
+                "name": "T-Spawn Water",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -106570,6 +106750,86 @@
         ]
     },
     {
+        "id": 12058,
+        "map_id": 8,
+        "name": "Vampire Return",
+        "date": "2024-12-30T16:04:52.000Z",
+        "author": "surfuck",
+        "author_id": 13870,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 705,
+                "name": "Long Ramp Slant",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 657,
+                "name": "Behind Spawn",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 705,
+                "name": "Long Ramp Slant",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7049,
         "map_id": 8,
         "name": "Wedges all day to T2",
@@ -106941,6 +107201,74 @@
                 "trigger_id": 769,
                 "name": "T2 Tower Water",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12044,
+        "map_id": 8,
+        "name": "Triple Hard Lupkes",
+        "date": "2024-12-24T21:47:16.000Z",
+        "author": "winter",
+        "author_id": 406,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "points": 4500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 692,
+                "name": "Jail Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 755,
+                "name": "T1 Right Platform",
+                "order": 7,
                 "passthrough": 0
             }
         ]
