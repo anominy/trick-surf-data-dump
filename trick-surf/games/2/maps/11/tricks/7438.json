@@ -5,8 +5,8 @@
     "date": "2023-04-18T13:49:47.000Z",
     "author": "Paul",
     "author_id": 8969,
-    "last_updated": "2023-04-18T16:20:44.000Z",
-    "last_updated_author_id": 103,
+    "last_updated": "2025-01-06T08:32:35.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 2,
@@ -59,10 +59,22 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 2405,
+            "name": "F Loop Apex",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1830,
             "name": "F Loop Big Ramp",
             "order": 7,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 2405,
+            "name": "F Loop Apex",
+            "order": 7,
+            "passthrough": 1
         },
         {
             "trigger_id": 1833,

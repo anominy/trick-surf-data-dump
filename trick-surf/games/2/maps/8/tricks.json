@@ -16238,6 +16238,50 @@
         ]
     },
     {
+        "id": 12065,
+        "map_id": 8,
+        "name": "KingYoshit",
+        "date": "2025-01-01T16:38:03.000Z",
+        "author": "KingYoshi // solidsurf.info",
+        "author_id": 457,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1032,
+                "name": "Keith Ramp Tip",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 686,
+                "name": "Healbot Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 763,
+                "name": "T2 Right Hole",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "name": "Ski Sign",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8024,
         "map_id": 8,
         "name": "Kira's Journey",
@@ -23322,14 +23366,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3216,
-                "name": "T-Spawn Hole",
+                "trigger_id": 299,
+                "name": "CT-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             },
             {
-                "trigger_id": 299,
-                "name": "CT-Spawn Hole",
+                "trigger_id": 3216,
+                "name": "T-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             }
@@ -72792,6 +72836,62 @@
         ]
     },
     {
+        "id": 12076,
+        "map_id": 8,
+        "name": "Easiest King T3",
+        "date": "2025-01-05T03:29:08.000Z",
+        "author": "wing",
+        "author_id": 10,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3215,
+                "name": "Spawn Divide Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3214,
+                "name": "Ring",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 955,
+                "name": "Jokerge Ramp",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5652,
         "map_id": 8,
         "name": "Elemental Tornado",
@@ -91994,6 +92094,62 @@
         ]
     },
     {
+        "id": 3053,
+        "map_id": 8,
+        "name": "Double Hard Lupkes",
+        "date": "2022-05-05T18:00:00.000Z",
+        "author": "bog",
+        "author_id": 131,
+        "last_updated": "2025-01-06T22:53:20.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 692,
+                "name": "Jail Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 755,
+                "name": "T1 Right Platform",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6077,
         "map_id": 8,
         "name": "Double Impossible Facade",
@@ -102670,62 +102826,6 @@
         ]
     },
     {
-        "id": 3053,
-        "map_id": 8,
-        "name": "Double Hard Lupkes",
-        "date": "2022-05-05T18:00:00.000Z",
-        "author": "bog",
-        "author_id": 131,
-        "last_updated": "2023-10-14T12:59:07.000Z",
-        "last_updated_author_id": 457,
-        "active": 1,
-        "ranked": 1,
-        "tier": 8,
-        "points": 3600,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 692,
-                "name": "Jail Floor",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 709,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 743,
-                "name": "Sriracha",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 709,
-                "name": "Main Ramp",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 743,
-                "name": "Sriracha",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 755,
-                "name": "T1 Right Platform",
-                "order": 5,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 5455,
         "map_id": 8,
         "name": "Double Harder Lupkes",
@@ -102832,6 +102932,62 @@
             {
                 "trigger_id": 742,
                 "name": "Spawn Roof Water",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12073,
+        "map_id": 8,
+        "name": "Easiest King T4",
+        "date": "2025-01-03T23:43:22.000Z",
+        "author": "wing",
+        "author_id": 10,
+        "last_updated": "2025-01-03T23:46:33.000Z",
+        "last_updated_author_id": 10,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 665,
+                "name": "CT-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3214,
+                "name": "Ring",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 955,
+                "name": "Jokerge Ramp",
                 "order": 5,
                 "passthrough": 0
             }
@@ -103251,80 +103407,6 @@
                 "trigger_id": 696,
                 "name": "Jail Wall",
                 "order": 10,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 10505,
-        "map_id": 8,
-        "name": "Full Euphoria",
-        "date": "2024-06-25T09:52:48.000Z",
-        "author": "месмес с флейм",
-        "author_id": 416,
-        "last_updated": null,
-        "last_updated_author_id": 347,
-        "active": 1,
-        "ranked": 1,
-        "tier": 8,
-        "points": 3600,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 648,
-                "name": "Awp Platform",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 649,
-                "name": "Awp Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 676,
-                "name": "Fish Hook Ramp",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 658,
-                "name": "Rear T2 Tower Wedge",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 676,
-                "name": "Fish Hook Ramp",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 678,
-                "name": "Fish Hook Wedge",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 784,
-                "name": "Triomino 1",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 762,
-                "name": "T2 Left Wing",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 738,
-                "name": "Ski Sign",
-                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -105898,6 +105980,68 @@
         ]
     },
     {
+        "id": 12066,
+        "map_id": 8,
+        "name": "Ropopo",
+        "date": "2025-01-01T21:22:53.000Z",
+        "author": "djumster",
+        "author_id": 2687,
+        "last_updated": "2025-01-01T21:25:10.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3215,
+                "name": "Spawn Divide Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "name": "Rear Spawn Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3213,
+                "name": "Rear Awp Window Tip",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11954,
         "map_id": 8,
         "name": "Ruby Walk",
@@ -106420,6 +106564,74 @@
         ]
     },
     {
+        "id": 12044,
+        "map_id": 8,
+        "name": "Triple Hard Lupkes",
+        "date": "2024-12-24T21:47:16.000Z",
+        "author": "winter",
+        "author_id": 406,
+        "last_updated": "2025-01-06T22:52:48.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 692,
+                "name": "Jail Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 755,
+                "name": "T1 Right Platform",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5456,
         "map_id": 8,
         "name": "Triple Lupkes",
@@ -106688,6 +106900,74 @@
             {
                 "trigger_id": 768,
                 "name": "T2 Tower Platform",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12064,
+        "map_id": 8,
+        "name": "Twilight to Box",
+        "date": "2025-01-01T15:04:33.000Z",
+        "author": "djumster",
+        "author_id": 2687,
+        "last_updated": "2025-01-01T15:09:41.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 705,
+                "name": "Long Ramp Slant",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Right Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3242,
+                "name": "T2 Tower Box",
                 "order": 7,
                 "passthrough": 0
             }
@@ -107168,6 +107448,80 @@
         ]
     },
     {
+        "id": 10505,
+        "map_id": 8,
+        "name": "Full Euphoria",
+        "date": "2024-06-25T09:52:48.000Z",
+        "author": "thousand years voyage",
+        "author_id": 416,
+        "last_updated": "2025-01-06T23:21:45.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "points": 4500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "name": "Rear T2 Tower Wedge",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 676,
+                "name": "Fish Hook Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "name": "Ski Sign",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10055,
         "map_id": 8,
         "name": "Impossible Rise to Water",
@@ -107206,12 +107560,12 @@
         ]
     },
     {
-        "id": 12044,
+        "id": 12077,
         "map_id": 8,
-        "name": "Triple Hard Lupkes",
-        "date": "2024-12-24T21:47:16.000Z",
-        "author": "winter",
-        "author_id": 406,
+        "name": "Triple Harder Lupkes",
+        "date": "2025-01-05T21:23:14.000Z",
+        "author": "bog",
+        "author_id": 131,
         "last_updated": null,
         "last_updated_author_id": null,
         "active": 1,
@@ -107266,8 +107620,8 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 755,
-                "name": "T1 Right Platform",
+                "trigger_id": 756,
+                "name": "T1 Right Rail",
                 "order": 7,
                 "passthrough": 0
             }
