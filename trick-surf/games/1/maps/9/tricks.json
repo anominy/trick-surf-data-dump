@@ -539,8 +539,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "74",
-        "players_completed": "29",
+        "completions": "75",
+        "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1027,8 +1027,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "204",
-        "players_completed": "37",
+        "completions": "205",
+        "players_completed": "38",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1691,8 +1691,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "423",
-        "players_completed": "68",
+        "completions": "424",
+        "players_completed": "69",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1791,8 +1791,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "1128",
-        "players_completed": "41",
+        "completions": "1134",
+        "players_completed": "42",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2133,8 +2133,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "52",
-        "players_completed": "22",
+        "completions": "53",
+        "players_completed": "23",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -3317,8 +3317,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "53",
-        "players_completed": "25",
+        "completions": "54",
+        "players_completed": "26",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -4601,8 +4601,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "127",
-        "players_completed": "32",
+        "completions": "129",
+        "players_completed": "33",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -4713,8 +4713,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "39",
-        "players_completed": "15",
+        "completions": "42",
+        "players_completed": "16",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -5851,8 +5851,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "24",
-        "players_completed": "17",
+        "completions": "25",
+        "players_completed": "18",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7099,8 +7099,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "13",
-        "players_completed": "10",
+        "completions": "14",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -9372,14 +9372,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 795,
-                "name": "AWP Platform",
+                "trigger_id": 2310,
+                "name": "AWP Slope",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2310,
-                "name": "AWP Slope",
+                "trigger_id": 795,
+                "name": "AWP Platform",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9414,6 +9414,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 819,
+                "name": "Spawn LvL 1",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 822,
                 "name": "Spawn Slope",
                 "order": 6,
@@ -9422,12 +9428,6 @@
             {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 819,
-                "name": "Spawn LvL 1",
                 "order": 6,
                 "passthrough": 1
             },

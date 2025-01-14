@@ -86,18 +86,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 318,
-                "name": "In-Ground Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 388,
-                "name": "V Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 305,
                 "name": "East Ramp",
                 "order": 1,
@@ -160,6 +148,18 @@
             {
                 "trigger_id": 395,
                 "name": "West Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 318,
+                "name": "In-Ground Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -1637,8 +1637,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "200",
-        "players_completed": "76",
+        "completions": "203",
+        "players_completed": "77",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2745,7 +2745,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "246",
+        "completions": "251",
         "players_completed": "58",
         "average_rating": "0.0000",
         "sequence": [
@@ -3253,8 +3253,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "129",
-        "players_completed": "45",
+        "completions": "133",
+        "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -4699,8 +4699,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "123",
-        "players_completed": "38",
+        "completions": "125",
+        "players_completed": "39",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -5089,8 +5089,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "94",
-        "players_completed": "49",
+        "completions": "102",
+        "players_completed": "50",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -5647,8 +5647,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "94",
-        "players_completed": "44",
+        "completions": "100",
+        "players_completed": "45",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10159,8 +10159,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "129",
-        "players_completed": "43",
+        "completions": "131",
+        "players_completed": "44",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12215,8 +12215,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "31",
-        "players_completed": "28",
+        "completions": "32",
+        "players_completed": "29",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13497,8 +13497,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "98",
-        "players_completed": "33",
+        "completions": "99",
+        "players_completed": "34",
         "average_rating": "0.0000",
         "sequence": [
             {

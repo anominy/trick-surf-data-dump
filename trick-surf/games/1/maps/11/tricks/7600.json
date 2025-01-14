@@ -5,15 +5,15 @@
     "date": "2023-05-22T10:17:32.000Z",
     "author": "william",
     "author_id": 347,
-    "last_updated": "2024-06-26T14:19:22.000Z",
-    "last_updated_author_id": 480,
+    "last_updated": "2025-01-13T13:26:46.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 7,
     "points": 2800,
     "max_prestrafe": null,
-    "completions": "5",
-    "players_completed": "5",
+    "completions": "6",
+    "players_completed": "6",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -87,6 +87,12 @@
             "name": "Window Bottom Ledge",
             "order": 8,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 2188,
+            "name": "Roof L",
+            "order": 8,
+            "passthrough": 1
         }
     ]
 }

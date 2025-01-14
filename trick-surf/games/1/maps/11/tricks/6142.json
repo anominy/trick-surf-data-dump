@@ -12,7 +12,7 @@
     "tier": 2,
     "points": 300,
     "max_prestrafe": 406,
-    "completions": "88",
+    "completions": "89",
     "players_completed": "38",
     "average_rating": "0.0000",
     "sequence": [
@@ -35,12 +35,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 2016,
-            "name": "THE CUBE Front",
-            "order": 2,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 2391,
             "name": "THE CUBE Right",
             "order": 2,
@@ -49,6 +43,12 @@
         {
             "trigger_id": 2390,
             "name": "THE CUBE Left",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2016,
+            "name": "THE CUBE Front",
             "order": 2,
             "passthrough": 1
         }
