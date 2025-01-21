@@ -69,8 +69,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "181",
-        "players_completed": "67",
+        "completions": "183",
+        "players_completed": "68",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -3526,14 +3526,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2315,
-                "name": "HealBot Ramp South",
+                "trigger_id": 2314,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2314,
-                "name": "HealBot Ramp North",
+                "trigger_id": 2315,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
@@ -4169,8 +4169,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "1675",
-        "players_completed": "34",
+        "completions": "1781",
+        "players_completed": "35",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -4445,8 +4445,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "38",
-        "players_completed": "15",
+        "completions": "40",
+        "players_completed": "16",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -6346,14 +6346,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2337,
-                "name": "Outward Ramp South",
+                "trigger_id": 2336,
+                "name": "Outward Ramp North",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2336,
-                "name": "Outward Ramp North",
+                "trigger_id": 2337,
+                "name": "Outward Ramp South",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6821,8 +6821,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "21",
-        "players_completed": "14",
+        "completions": "22",
+        "players_completed": "15",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7149,8 +7149,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "68",
-        "players_completed": "13",
+        "completions": "69",
+        "players_completed": "14",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -8065,8 +8065,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "4",
-        "players_completed": "3",
+        "completions": "5",
+        "players_completed": "4",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -9414,12 +9414,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 819,
-                "name": "Spawn LvL 1",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 822,
                 "name": "Spawn Slope",
                 "order": 6,
@@ -9428,6 +9422,12 @@
             {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 819,
+                "name": "Spawn LvL 1",
                 "order": 6,
                 "passthrough": 1
             },
@@ -11029,7 +11029,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "21",
+        "completions": "25",
         "players_completed": "15",
         "average_rating": "0.0000",
         "sequence": [

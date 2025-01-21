@@ -4608,8 +4608,8 @@
         "date": "2024-09-29T13:04:51.000Z",
         "author": "Schewpid",
         "author_id": 25977,
-        "last_updated": "2024-11-03T17:30:02.000Z",
-        "last_updated_author_id": 123,
+        "last_updated": "2025-01-15T19:02:49.000Z",
+        "last_updated_author_id": 5,
         "active": 1,
         "ranked": 1,
         "tier": 2,
@@ -4632,9 +4632,15 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 28,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
                 "trigger_id": 23,
                 "name": "Deagle 6th",
-                "order": 2,
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -16872,8 +16878,8 @@
         "date": "2020-12-22T00:00:00.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-01-15T19:01:16.000Z",
+        "last_updated_author_id": 5,
         "active": 1,
         "ranked": 1,
         "tier": 3,
@@ -16894,6 +16900,12 @@
                 "name": "Map Divide",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 10,
+                "name": "Behind Main Ramp",
+                "order": 1,
+                "passthrough": 2
             },
             {
                 "trigger_id": 23,
@@ -67960,6 +67972,56 @@
         ]
     },
     {
+        "id": 12119,
+        "map_id": 1,
+        "name": "Awp through Deagle Sonic t1k",
+        "date": "2025-01-17T16:47:49.000Z",
+        "author": "Dr Mulped",
+        "author_id": 70,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4266,
         "map_id": 1,
         "name": "Awp through deagle to 5th",
@@ -75886,10 +75948,10 @@
         "map_id": 1,
         "name": "Hardest Waave Walk Around Back",
         "date": "2022-08-31T21:26:35.000Z",
-        "author": "KingYoshi",
+        "author": "KingYoshi // solidsurf.info",
         "author_id": 457,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-01-16T18:50:06.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
         "ranked": 1,
         "tier": 5,
@@ -96880,6 +96942,124 @@
         ]
     },
     {
+        "id": 12123,
+        "map_id": 1,
+        "name": "Dreamscape Skittles",
+        "date": "2025-01-18T19:32:34.000Z",
+        "author": "roe",
+        "author_id": 74,
+        "last_updated": "2025-01-18T19:32:54.000Z",
+        "last_updated_author_id": 74,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 32,
+                "name": "Over Spawn",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12108,
+        "map_id": 1,
+        "name": "Easy Rise Parachute from spawn",
+        "date": "2025-01-15T19:35:46.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "name": "Main Ramp Slant",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11414,
         "map_id": 1,
         "name": "easy synq_'s Walk",
@@ -100341,6 +100521,56 @@
                 "trigger_id": 45,
                 "name": "Spawn Water",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12115,
+        "map_id": 1,
+        "name": "Hardest Waave Walk Around Back to opposite Spawn Water",
+        "date": "2025-01-16T18:50:32.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 44,
+                "name": "Spawn Wall",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
+                "name": "Spawn Sides",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 33,
+                "name": "Over Spawn Wall",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "name": "Spawn Water",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -105768,6 +105998,116 @@
         ]
     },
     {
+        "id": 12109,
+        "map_id": 1,
+        "name": "Glimpse is Impossible around back to opposite Spawn Water",
+        "date": "2025-01-15T20:50:25.000Z",
+        "author": "Ghostface",
+        "author_id": 5,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 10,
+                "name": "Behind Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
+                "name": "Spawn Sides",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 33,
+                "name": "Over Spawn Wall",
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "name": "Spawn Water",
+                "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4799,
         "map_id": 1,
         "name": "Hard Cracka Sign Rise",
@@ -106373,6 +106713,62 @@
                 "trigger_id": 27,
                 "name": "Main Ramp Slant",
                 "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12021,
+        "map_id": 1,
+        "name": "Heaven from spawn wall",
+        "date": "2024-12-17T18:53:32.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-01-16T18:52:14.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 0,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 44,
+                "name": "Spawn Wall",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 28,
+                "name": "Map Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 5,
                 "passthrough": 0
             }
         ]
