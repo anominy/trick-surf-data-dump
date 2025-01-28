@@ -2700,14 +2700,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3124,
-                "name": "Small Red Corner",
+                "trigger_id": 3080,
+                "name": "White-Red Booster-Bump Spine",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3080,
-                "name": "White-Red Booster-Bump Spine",
+                "trigger_id": 3124,
+                "name": "Small Red Corner",
                 "order": 2,
                 "passthrough": 1
             },
@@ -5510,14 +5510,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2831,
-                "name": "Through Anti Grav Supports",
+                "trigger_id": 2976,
+                "name": "Through Anti Grav Corners",
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2976,
-                "name": "Through Anti Grav Corners",
+                "trigger_id": 2831,
+                "name": "Through Anti Grav Supports",
                 "order": 3,
                 "passthrough": 2
             }
@@ -5708,6 +5708,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3024,
+                "name": "Through buck-wild",
+                "order": 7,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 3032,
                 "name": "Through shimmer",
                 "order": 7,
@@ -5716,12 +5722,6 @@
             {
                 "trigger_id": 3030,
                 "name": "Through machine",
-                "order": 7,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 3024,
-                "name": "Through buck-wild",
                 "order": 7,
                 "passthrough": 1
             }
@@ -38452,14 +38452,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2922,
-                "name": "West Spiral Tower Entrance",
+                "trigger_id": 2779,
+                "name": "South Spiral Tower Entrance",
                 "order": 6,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2779,
-                "name": "South Spiral Tower Entrance",
+                "trigger_id": 2922,
+                "name": "West Spiral Tower Entrance",
                 "order": 6,
                 "passthrough": 2
             },
@@ -39342,12 +39342,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3049,
-                "name": "Pyramid Main Corner South-East",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2512,
                 "name": "Flipped Isosceles Trapezium Ramp Spine",
                 "order": 17,
@@ -39362,6 +39356,12 @@
             {
                 "trigger_id": 3060,
                 "name": "Pyramid Main Ramp Spine South",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3049,
+                "name": "Pyramid Main Corner South-East",
                 "order": 17,
                 "passthrough": 1
             },
@@ -47826,12 +47826,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2922,
-                "name": "West Spiral Tower Entrance",
-                "order": 7,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2883,
                 "name": "Under Red Spiral Platform",
                 "order": 7,
@@ -47840,6 +47834,12 @@
             {
                 "trigger_id": 2864,
                 "name": "Under Blue Spiral Platform",
+                "order": 7,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2922,
+                "name": "West Spiral Tower Entrance",
                 "order": 7,
                 "passthrough": 2
             },

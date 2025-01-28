@@ -8860,8 +8860,8 @@
         "date": "2024-06-16T03:54:42.000Z",
         "author": "KingYoshi // solidsurf.info",
         "author_id": 457,
-        "last_updated": null,
-        "last_updated_author_id": 457,
+        "last_updated": "2025-01-28T04:24:14.000Z",
+        "last_updated_author_id": 13870,
         "active": 1,
         "ranked": 1,
         "tier": 3,
@@ -8890,33 +8890,33 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 789,
-                "name": "Under Center Ramps",
+                "trigger_id": 3235,
+                "name": "T2 Center Down Right Ramp",
                 "order": 3,
                 "passthrough": 0
             },
             {
-                "trigger_id": 3235,
-                "name": "T2 Center Down Right Ramp",
-                "order": 4,
-                "passthrough": 0
+                "trigger_id": 789,
+                "name": "Under Center Ramps",
+                "order": 3,
+                "passthrough": 1
             },
             {
                 "trigger_id": 728,
                 "name": "Right Wing",
-                "order": 5,
+                "order": 4,
                 "passthrough": 0
             },
             {
                 "trigger_id": 709,
                 "name": "Main Ramp",
-                "order": 6,
+                "order": 5,
                 "passthrough": 0
             },
             {
                 "trigger_id": 3214,
                 "name": "Ring",
-                "order": 7,
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -50832,6 +50832,50 @@
         ]
     },
     {
+        "id": 12147,
+        "map_id": 8,
+        "name": "Wing to North",
+        "date": "2025-01-28T06:07:22.000Z",
+        "author": "surf->cringe",
+        "author_id": 28523,
+        "last_updated": "2025-01-28T06:17:23.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 692,
+                "name": "Jail Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 762,
+                "name": "T2 Left Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 721,
+                "name": "North East Booster Platform",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5467,
         "map_id": 8,
         "name": "Wingin' It",
@@ -82790,8 +82834,8 @@
         "date": "2022-05-26T22:32:28.000Z",
         "author": "Unknown",
         "author_id": null,
-        "last_updated": "2023-10-13T13:54:19.000Z",
-        "last_updated_author_id": 457,
+        "last_updated": "2025-01-28T06:18:31.000Z",
+        "last_updated_author_id": 13870,
         "active": 1,
         "ranked": 1,
         "tier": 6,
@@ -82820,9 +82864,15 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
                 "trigger_id": 1038,
                 "name": "T1 Left Platform",
-                "order": 3,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -84217,6 +84267,74 @@
                 "trigger_id": 768,
                 "name": "T2 Tower Platform",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12131,
+        "map_id": 8,
+        "name": "s1m Rise",
+        "date": "2025-01-22T16:20:47.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": "2025-01-22T16:22:29.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 679,
+                "name": "Ground Teleporter",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 692,
+                "name": "Jail Floor",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 926,
+                "name": "Ground Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 656,
+                "name": "Behind Tower",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 7,
                 "passthrough": 0
             }
         ]
@@ -99367,6 +99485,68 @@
                 "trigger_id": 764,
                 "name": "T2 Right Wing",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12132,
+        "map_id": 8,
+        "name": "s1m Rise to Ladder",
+        "date": "2025-01-22T16:33:06.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": "2025-01-22T16:34:01.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 649,
+                "name": "Awp Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 679,
+                "name": "Ground Teleporter",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 692,
+                "name": "Jail Floor",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 926,
+                "name": "Ground Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 684,
+                "name": "Healbot Ladder",
+                "order": 6,
                 "passthrough": 0
             }
         ]
