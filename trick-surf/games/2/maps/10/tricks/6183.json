@@ -203,18 +203,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1546,
-            "name": "S Yellow Ramp 9 Spine",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1656,
-            "name": "SW Yellow Ramp 7",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1513,
             "name": "NW Yellow Platform",
             "order": 3,
@@ -323,16 +311,22 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1546,
+            "name": "S Yellow Ramp 9 Spine",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1656,
+            "name": "SW Yellow Ramp 7",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1757,
             "name": "NE Red Teleporter",
             "order": 4,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1285,
-            "name": "E Red Ramp 3 Spine",
-            "order": 4,
-            "passthrough": 1
         },
         {
             "trigger_id": 1595,
@@ -413,16 +407,16 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1285,
+            "name": "E Red Ramp 3 Spine",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1759,
             "name": "SE Black Teleporter",
             "order": 5,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1437,
-            "name": "NW Black Ramp 1 Spine",
-            "order": 5,
-            "passthrough": 1
         },
         {
             "trigger_id": 1388,
@@ -499,6 +493,12 @@
         {
             "trigger_id": 1550,
             "name": "SE Black Platform",
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1437,
+            "name": "NW Black Ramp 1 Spine",
             "order": 5,
             "passthrough": 1
         }

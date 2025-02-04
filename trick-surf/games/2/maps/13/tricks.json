@@ -3682,6 +3682,92 @@
         ]
     },
     {
+        "id": 12155,
+        "map_id": 13,
+        "name": "Spine it",
+        "date": "2025-02-01T09:31:45.000Z",
+        "author": "prog",
+        "author_id": 20730,
+        "last_updated": "2025-02-03T20:08:45.000Z",
+        "last_updated_author_id": 20730,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3487,
+                "name": "Through T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3446,
+                "name": "T2 High Corner",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3449,
+                "name": "T2 North Window",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3287,
+                "name": "Cage Lower Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3483,
+                "name": "Through South Cage Booster",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3432,
+                "name": "Strafes Fall Teleport",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3433,
+                "name": "Strafes Platform",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3501,
+                "name": "Triangle East Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3293,
+                "name": "East Corner Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3565,
+                "name": "Turtle Large Left Ramp Tip",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11107,
         "map_id": 13,
         "name": "Square Strafes",
@@ -3865,6 +3951,50 @@
                 "trigger_id": 3355,
                 "name": "Monkey Inner Floor",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12154,
+        "map_id": 13,
+        "name": "Type Shit",
+        "date": "2025-02-01T08:03:47.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": "2025-02-03T20:19:02.000Z",
+        "last_updated_author_id": 20730,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3291,
+                "name": "Cage Vent",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3459,
+                "name": "Through Cage",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3448,
+                "name": "T2 Lowest Corner",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3395,
+                "name": "Sausage Ramp",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -4263,6 +4393,62 @@
                 "trigger_id": 3503,
                 "name": "Triangle Floor",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12158,
+        "map_id": 13,
+        "name": "Ayo Chill Tf Out Yo",
+        "date": "2025-02-02T12:05:23.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": "2025-02-02T13:12:09.000Z",
+        "last_updated_author_id": 20730,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3431,
+                "name": "Stairs Top Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3482,
+                "name": "Through S Monkey",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3511,
+                "name": "Monkey Inner Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3472,
+                "name": "Through Monkey",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3356,
+                "name": "Monkey Platform Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3312,
+                "name": "Faucet Ramp",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -7480,6 +7666,86 @@
         ]
     },
     {
+        "id": 12156,
+        "map_id": 13,
+        "name": "Spineless",
+        "date": "2025-02-01T10:11:37.000Z",
+        "author": "Pozy",
+        "author_id": 2668,
+        "last_updated": "2025-02-01T10:20:14.000Z",
+        "last_updated_author_id": 20730,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3413,
+                "name": "Spawn Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3346,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3369,
+                "name": "Over Main Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3485,
+                "name": "Through Spawn",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3363,
+                "name": "North Bro Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3332,
+                "name": "Lazy Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3360,
+                "name": "Never Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3274,
+                "name": "Acid Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3461,
+                "name": "Through E Monkey",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3530,
+                "name": "Monkey Tail Inner Ramp Tip",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11353,
         "map_id": 13,
         "name": "Sunshine",
@@ -9232,14 +9498,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3483,
-                "name": "Through South Cage Booster",
+                "trigger_id": 3474,
+                "name": "Through North Cage",
                 "order": 4,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3474,
-                "name": "Through North Cage",
+                "trigger_id": 3483,
+                "name": "Through South Cage Booster",
                 "order": 4,
                 "passthrough": 1
             },
@@ -11773,44 +12039,6 @@
                 "trigger_id": 3391,
                 "name": "Rear Tower Platform",
                 "order": 3,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 11167,
-        "map_id": 13,
-        "name": "Bangarang Boomerang",
-        "date": "2024-08-28T10:15:44.000Z",
-        "author": "nextir",
-        "author_id": 2994,
-        "last_updated": null,
-        "last_updated_author_id": 2994,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "points": 2100,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 3335,
-                "name": "Left Pillar Floor",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3493,
-                "name": "Top Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3393,
-                "name": "Right Pillar Floor",
-                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -15532,6 +15760,68 @@
         ]
     },
     {
+        "id": 12159,
+        "map_id": 13,
+        "name": "They Give You The Progerty",
+        "date": "2025-02-02T12:23:25.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3431,
+                "name": "Stairs Top Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3482,
+                "name": "Through S Monkey",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3511,
+                "name": "Monkey Inner Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3472,
+                "name": "Through Monkey",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3356,
+                "name": "Monkey Platform Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3358,
+                "name": "Moon Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3446,
+                "name": "T2 High Corner",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11258,
         "map_id": 13,
         "name": "Tourist",
@@ -16222,6 +16512,44 @@
             {
                 "trigger_id": 3494,
                 "name": "Top Ramp Tip",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11167,
+        "map_id": 13,
+        "name": "Bangarang Boomerang",
+        "date": "2024-08-28T10:15:44.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": "2025-01-31T20:40:18.000Z",
+        "last_updated_author_id": 20730,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3335,
+                "name": "Left Pillar Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3493,
+                "name": "Top Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3393,
+                "name": "Right Pillar Floor",
                 "order": 2,
                 "passthrough": 0
             }
@@ -17865,6 +18193,68 @@
                 "trigger_id": 3419,
                 "name": "Spine Platform",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12160,
+        "map_id": 13,
+        "name": "I Bought A Progerty In Egypt",
+        "date": "2025-02-02T12:46:50.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": "2025-02-03T20:08:38.000Z",
+        "last_updated_author_id": 20730,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3431,
+                "name": "Stairs Top Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3482,
+                "name": "Through S Monkey",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3511,
+                "name": "Monkey Inner Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3472,
+                "name": "Through Monkey",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3356,
+                "name": "Monkey Platform Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3358,
+                "name": "Moon Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 6,
                 "passthrough": 0
             }
         ]

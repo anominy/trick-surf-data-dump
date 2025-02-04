@@ -12,8 +12,8 @@
     "tier": 1,
     "points": 100,
     "max_prestrafe": 406,
-    "completions": "685",
-    "players_completed": "115",
+    "completions": "691",
+    "players_completed": "118",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,6 +27,24 @@
             "name": "South Box",
             "order": 1,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 395,
+            "name": "West Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 318,
+            "name": "In-Ground Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 388,
+            "name": "V Ramp",
+            "order": 1,
+            "passthrough": 1
         },
         {
             "trigger_id": 305,
@@ -85,24 +103,6 @@
         {
             "trigger_id": 346,
             "name": "Stage 6 Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 395,
-            "name": "West Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 318,
-            "name": "In-Ground Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 388,
-            "name": "V Ramp",
             "order": 1,
             "passthrough": 1
         }

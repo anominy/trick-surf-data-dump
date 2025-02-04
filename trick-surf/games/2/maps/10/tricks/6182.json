@@ -29,12 +29,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1270,
-            "name": "E Brown Ramp 5 Spine",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1559,
             "name": "SE Brown Ramp 1 Spine",
             "order": 1,
@@ -95,16 +89,16 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1270,
+            "name": "E Brown Ramp 5 Spine",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1762,
             "name": "W Orange Teleporter",
             "order": 2,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1588,
-            "name": "SE Orange Ramp 1",
-            "order": 2,
-            "passthrough": 1
         },
         {
             "trigger_id": 1211,
@@ -191,22 +185,16 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1754,
             "name": "N Blue Teleporter",
             "order": 3,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 1193,
-            "name": "C Blue Ramp 6 Spine",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1445,
-            "name": "NW Blue Ramp 3",
-            "order": 3,
-            "passthrough": 1
         },
         {
             "trigger_id": 1660,
@@ -277,6 +265,18 @@
         {
             "trigger_id": 1661,
             "name": "W Blue Ramp 4 Spine",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1193,
+            "name": "C Blue Ramp 6 Spine",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
             "order": 3,
             "passthrough": 1
         },
@@ -365,12 +365,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1346,
-            "name": "N Teal Ramp 1 Spine",
-            "order": 5,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1256,
             "name": "C Teal Ramp 6",
             "order": 5,
@@ -451,6 +445,12 @@
         {
             "trigger_id": 1418,
             "name": "NE Teal Ramp 3 Spine",
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1346,
+            "name": "N Teal Ramp 1 Spine",
             "order": 5,
             "passthrough": 1
         },
