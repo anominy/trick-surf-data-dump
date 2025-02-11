@@ -3544,14 +3544,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2337,
-                "name": "Outward Ramp South",
+                "trigger_id": 2336,
+                "name": "Outward Ramp North",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2336,
-                "name": "Outward Ramp North",
+                "trigger_id": 2337,
+                "name": "Outward Ramp South",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6328,14 +6328,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2315,
-                "name": "HealBot Ramp South",
+                "trigger_id": 2314,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2314,
-                "name": "HealBot Ramp North",
+                "trigger_id": 2315,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9414,12 +9414,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 819,
-                "name": "Spawn LvL 1",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 822,
                 "name": "Spawn Slope",
                 "order": 6,
@@ -9428,6 +9422,12 @@
             {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 819,
+                "name": "Spawn LvL 1",
                 "order": 6,
                 "passthrough": 1
             },

@@ -1,0 +1,146 @@
+{
+    "id": 12212,
+    "map_id": 13,
+    "name": "bhop_strafes",
+    "date": "2025-02-09T13:23:31.000Z",
+    "author": "nextir",
+    "author_id": 2994,
+    "last_updated": "2025-02-09T13:33:15.000Z",
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "points": 2100,
+    "max_prestrafe": 261,
+    "completions": "1",
+    "players_completed": "1",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3445,
+            "name": "T2 Boost Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3444,
+            "name": "T2 Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3510,
+            "name": "Turtle Big Ramp Floor",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3517,
+            "name": "Turtle IBeam Floor",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3361,
+            "name": "Never Ramp Tip",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3426,
+            "name": "Square Booster",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3327,
+            "name": "Jumper",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3278,
+            "name": "Bedge Platform",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3497,
+            "name": "Top Teleporter",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3391,
+            "name": "Rear Tower Platform",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3364,
+            "name": "North Elevator Window Ground",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3305,
+            "name": "Elevator",
+            "order": 10,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3278,
+            "name": "Bedge Platform",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3305,
+            "name": "Elevator",
+            "order": 11,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3497,
+            "name": "Top Teleporter",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3419,
+            "name": "Spine Platform",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3292,
+            "name": "Convex Platform",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3483,
+            "name": "Through South Cage Booster",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3286,
+            "name": "Cage Lower Platform",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3474,
+            "name": "Through North Cage",
+            "order": 17,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3550,
+            "name": "Sphere Floor",
+            "order": 18,
+            "passthrough": 0
+        }
+    ]
+}

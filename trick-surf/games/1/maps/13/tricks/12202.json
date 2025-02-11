@@ -1,0 +1,38 @@
+{
+    "id": 12202,
+    "map_id": 13,
+    "name": "Viking Strafes",
+    "date": "2025-02-08T13:18:06.000Z",
+    "author": "benlol",
+    "author_id": 32140,
+    "last_updated": "2025-02-08T13:43:38.000Z",
+    "last_updated_author_id": 20730,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "points": 2800,
+    "max_prestrafe": 406,
+    "completions": "25",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3508,
+            "name": "Turtle Beams",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3274,
+            "name": "Acid Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3514,
+            "name": "Turtle Floor",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

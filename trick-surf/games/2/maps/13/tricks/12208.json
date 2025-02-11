@@ -1,0 +1,62 @@
+{
+    "id": 12208,
+    "map_id": 13,
+    "name": "Quit Turtlin Around",
+    "date": "2025-02-09T11:57:59.000Z",
+    "author": "s1m",
+    "author_id": 23687,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "points": 1000,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3413,
+            "name": "Spawn Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3346,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3358,
+            "name": "Moon Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3515,
+            "name": "Turtle Hole",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3519,
+            "name": "Turtle Inner Forward Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3507,
+            "name": "Turtle Acid Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3545,
+            "name": "North Corner Inner Monkey",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

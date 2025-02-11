@@ -1,0 +1,56 @@
+{
+    "id": 12209,
+    "map_id": 13,
+    "name": "Brain Death",
+    "date": "2025-02-09T12:06:07.000Z",
+    "author": "nextir",
+    "author_id": 2994,
+    "last_updated": "2025-02-09T12:09:39.000Z",
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "points": 1500,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3502,
+            "name": "Triangle East Ramp Tip",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3506,
+            "name": "Triangle Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3317,
+            "name": "Fine Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3296,
+            "name": "Crew Ramp Slant",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3319,
+            "name": "Flat Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3292,
+            "name": "Convex Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

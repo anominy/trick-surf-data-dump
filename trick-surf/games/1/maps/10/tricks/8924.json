@@ -12,8 +12,8 @@
     "tier": 3,
     "points": 600,
     "max_prestrafe": 406,
-    "completions": "63",
-    "players_completed": "32",
+    "completions": "65",
+    "players_completed": "33",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -35,18 +35,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1638,
-            "name": "SW Pink Ledge",
-            "order": 2,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2177,
-            "name": "SW Pink Pillar Slant 1",
-            "order": 2,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 1639,
             "name": "SW Pink Ledge Slant",
             "order": 2,
@@ -59,20 +47,32 @@
             "passthrough": 1
         },
         {
+            "trigger_id": 1638,
+            "name": "SW Pink Ledge",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2177,
+            "name": "SW Pink Pillar Slant 1",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
             "trigger_id": 1631,
             "name": "SW Middle Ledge East Pillar",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2177,
-            "name": "SW Pink Pillar Slant 1",
+            "trigger_id": 2178,
+            "name": "SW Pink Pillar Slant 2",
             "order": 3,
             "passthrough": 1
         },
         {
-            "trigger_id": 2178,
-            "name": "SW Pink Pillar Slant 2",
+            "trigger_id": 2177,
+            "name": "SW Pink Pillar Slant 1",
             "order": 3,
             "passthrough": 1
         }
