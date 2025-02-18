@@ -1,0 +1,68 @@
+{
+    "id": 12222,
+    "map_id": 10,
+    "name": "Scroll",
+    "date": "2025-02-15T11:00:08.000Z",
+    "author": "zblunq",
+    "author_id": 18724,
+    "last_updated": "2025-02-15T11:07:26.000Z",
+    "last_updated_author_id": 18724,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "points": 2100,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1418,
+            "name": "NE Teal Ramp 3 Spine",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1417,
+            "name": "NE Teal Ramp 3",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1403,
+            "name": "NE Green Ramp 5",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1421,
+            "name": "NE Undergrounds Entry East",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1387,
+            "name": "NE Black Ramp 3",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1747,
+            "name": "NE Undergrounds Entry West",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1304,
+            "name": "E Upper Ground",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1421,
+            "name": "NE Undergrounds Entry East",
+            "order": 6,
+            "passthrough": 2
+        }
+    ]
+}

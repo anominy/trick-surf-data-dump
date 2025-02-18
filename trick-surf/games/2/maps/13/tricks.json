@@ -2948,6 +2948,50 @@
         ]
     },
     {
+        "id": 12234,
+        "map_id": 13,
+        "name": "Hydrocodone",
+        "date": "2025-02-16T08:49:44.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": "2025-02-17T19:18:24.000Z",
+        "last_updated_author_id": 20730,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3277,
+                "name": "Baffle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3352,
+                "name": "Middle T2 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3446,
+                "name": "T2 High Corner",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11121,
         "map_id": 13,
         "name": "i like turtles",
@@ -3011,6 +3055,44 @@
                 "trigger_id": 3514,
                 "name": "Turtle Floor",
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12230,
+        "map_id": 13,
+        "name": "Ibuprofen",
+        "date": "2025-02-16T08:43:37.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3352,
+                "name": "Middle T2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3446,
+                "name": "T2 High Corner",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -3381,6 +3463,44 @@
                 "trigger_id": 3406,
                 "name": "Snake Top",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12229,
+        "map_id": 13,
+        "name": "Paracetamol",
+        "date": "2025-02-16T08:42:36.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "points": 600,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3277,
+                "name": "Baffle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3454,
+                "name": "T2 Upper Right Window",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -4775,6 +4895,56 @@
                 "trigger_id": 3447,
                 "name": "T2 Ladder",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12231,
+        "map_id": 13,
+        "name": "Codeine",
+        "date": "2025-02-16T08:46:05.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3352,
+                "name": "Middle T2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3327,
+                "name": "Jumper",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3358,
+                "name": "Moon Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3354,
+                "name": "Monkey Floor",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -6620,6 +6790,56 @@
         ]
     },
     {
+        "id": 12232,
+        "map_id": 13,
+        "name": "Naproxen",
+        "date": "2025-02-16T08:47:12.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3277,
+                "name": "Baffle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3454,
+                "name": "T2 Upper Right Window",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3352,
+                "name": "Middle T2 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3446,
+                "name": "T2 High Corner",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11149,
         "map_id": 13,
         "name": "Needle",
@@ -7958,14 +8178,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3369,
-                "name": "Over Main Ramp",
+                "trigger_id": 3485,
+                "name": "Through Spawn",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3485,
-                "name": "Through Spawn",
+                "trigger_id": 3369,
+                "name": "Over Main Ramp",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9954,14 +10174,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3474,
-                "name": "Through North Cage",
+                "trigger_id": 3483,
+                "name": "Through South Cage Booster",
                 "order": 4,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3483,
-                "name": "Through South Cage Booster",
+                "trigger_id": 3474,
+                "name": "Through North Cage",
                 "order": 4,
                 "passthrough": 1
             },
@@ -9972,14 +10192,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3474,
-                "name": "Through North Cage",
+                "trigger_id": 3483,
+                "name": "Through South Cage Booster",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 3483,
-                "name": "Through South Cage Booster",
+                "trigger_id": 3474,
+                "name": "Through North Cage",
                 "order": 5,
                 "passthrough": 1
             },
@@ -11152,6 +11372,50 @@
             {
                 "trigger_id": 3354,
                 "name": "Monkey Floor",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12233,
+        "map_id": 13,
+        "name": "Oxycodone",
+        "date": "2025-02-16T08:48:50.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3453,
+                "name": "T2 Upper Left Window",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3352,
+                "name": "Middle T2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3277,
+                "name": "Baffle Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3454,
+                "name": "T2 Upper Right Window",
                 "order": 3,
                 "passthrough": 0
             }

@@ -13,8 +13,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "6867",
-        "players_completed": "189",
+        "completions": "6876",
+        "players_completed": "190",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -171,8 +171,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "43",
-        "players_completed": "17",
+        "completions": "49",
+        "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -515,8 +515,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "7193",
-        "players_completed": "320",
+        "completions": "7201",
+        "players_completed": "323",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -685,7 +685,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "313",
+        "completions": "314",
         "players_completed": "73",
         "average_rating": "0.0000",
         "sequence": [
@@ -925,8 +925,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "4077",
-        "players_completed": "180",
+        "completions": "4081",
+        "players_completed": "181",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1201,7 +1201,7 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "4186",
+        "completions": "4498",
         "players_completed": "139",
         "average_rating": "0.0000",
         "sequence": [
@@ -1301,8 +1301,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": null,
-        "completions": "1419",
-        "players_completed": "131",
+        "completions": "1420",
+        "players_completed": "132",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -4551,8 +4551,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "69",
-        "players_completed": "21",
+        "completions": "70",
+        "players_completed": "22",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10295,7 +10295,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": null,
-        "completions": "282",
+        "completions": "283",
         "players_completed": "59",
         "average_rating": "0.0000",
         "sequence": [
@@ -10489,8 +10489,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "151",
-        "players_completed": "28",
+        "completions": "152",
+        "players_completed": "29",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13631,7 +13631,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "1326",
+        "completions": "1467",
         "players_completed": "77",
         "average_rating": "0.0000",
         "sequence": [
@@ -16903,7 +16903,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "11",
+        "completions": "13",
         "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
@@ -17977,7 +17977,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "60",
+        "completions": "61",
         "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
@@ -20135,7 +20135,7 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "3",
+        "completions": "4",
         "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
@@ -20809,7 +20809,7 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "350",
+        "completions": "428",
         "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
@@ -21427,6 +21427,80 @@
                 "trigger_id": 452,
                 "name": "South Pool",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12238,
+        "map_id": 5,
+        "name": "Crossover Vault",
+        "date": "2025-02-16T16:58:46.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "2",
+        "players_completed": "2",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 444,
+                "name": "Pillar Small",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 408,
+                "name": "Behind Spine Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 408,
+                "name": "Behind Spine Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 452,
+                "name": "South Pool",
+                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -24013,7 +24087,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "70",
+        "completions": "99",
         "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [
@@ -24998,6 +25072,110 @@
         ]
     },
     {
+        "id": 12237,
+        "map_id": 5,
+        "name": "Hexa Dip",
+        "date": "2025-02-16T14:12:45.000Z",
+        "author": "zblunq",
+        "author_id": 18724,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "points": 3600,
+        "max_prestrafe": 406,
+        "completions": "1",
+        "players_completed": "1",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11956,
         "map_id": 5,
         "name": "Opening Ceremony",
@@ -25079,7 +25257,7 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "8",
+        "completions": "13",
         "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [

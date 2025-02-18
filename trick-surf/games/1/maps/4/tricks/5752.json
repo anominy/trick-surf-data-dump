@@ -12,8 +12,8 @@
     "tier": 1,
     "points": 100,
     "max_prestrafe": 406,
-    "completions": "695",
-    "players_completed": "119",
+    "completions": "697",
+    "players_completed": "121",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,30 +27,6 @@
             "name": "South Box",
             "order": 1,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 396,
-            "name": "West Ramp 1",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 292,
-            "name": "Bonus Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 346,
-            "name": "Stage 6 Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 395,
-            "name": "West Ramp",
-            "order": 1,
-            "passthrough": 1
         },
         {
             "trigger_id": 318,
@@ -103,6 +79,30 @@
         {
             "trigger_id": 350,
             "name": "Lower Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 396,
+            "name": "West Ramp 1",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 292,
+            "name": "Bonus Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 346,
+            "name": "Stage 6 Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 395,
+            "name": "West Ramp",
             "order": 1,
             "passthrough": 1
         }

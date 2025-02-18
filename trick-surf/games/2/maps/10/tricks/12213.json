@@ -1,0 +1,80 @@
+{
+    "id": 12213,
+    "map_id": 10,
+    "name": "dumb",
+    "date": "2025-02-09T14:00:09.000Z",
+    "author": "zblunq",
+    "author_id": 18724,
+    "last_updated": "2025-02-12T16:06:29.000Z",
+    "last_updated_author_id": 18724,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "points": 2800,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1564,
+            "name": "SE East Ledge",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1551,
+            "name": "SE Black Ramp 4",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1733,
+            "name": "SE Large Pillar Gap NW",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1597,
+            "name": "SE Red Ramp 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1775,
+            "name": "SE Large Pillar Gap East",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1636,
+            "name": "E Large Pillar Gap West 1",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1504,
+            "name": "E Large Pillar Gap SW",
+            "order": 7,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 1295,
+            "name": "E Small Structure Beams",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

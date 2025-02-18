@@ -13,8 +13,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "560",
-        "players_completed": "126",
+        "completions": "561",
+        "players_completed": "127",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -113,8 +113,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "381",
-        "players_completed": "96",
+        "completions": "382",
+        "players_completed": "97",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -371,8 +371,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "2536",
-        "players_completed": "172",
+        "completions": "2538",
+        "players_completed": "174",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -459,8 +459,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "154",
-        "players_completed": "75",
+        "completions": "155",
+        "players_completed": "76",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -503,8 +503,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "284",
-        "players_completed": "90",
+        "completions": "285",
+        "players_completed": "91",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -547,8 +547,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "252",
-        "players_completed": "73",
+        "completions": "253",
+        "players_completed": "74",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -609,8 +609,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "110",
-        "players_completed": "63",
+        "completions": "111",
+        "players_completed": "64",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -727,8 +727,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "187",
-        "players_completed": "57",
+        "completions": "189",
+        "players_completed": "59",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2392,12 +2392,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2016,
-                "name": "THE CUBE Front",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
                 "order": 2,
@@ -2406,6 +2400,12 @@
             {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2016,
+                "name": "THE CUBE Front",
                 "order": 2,
                 "passthrough": 1
             }
@@ -5471,8 +5471,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "46",
-        "players_completed": "16",
+        "completions": "48",
+        "players_completed": "18",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -5521,8 +5521,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "24",
-        "players_completed": "12",
+        "completions": "27",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -8069,8 +8069,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "243",
-        "players_completed": "26",
+        "completions": "244",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -15254,18 +15254,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2288,
-                "name": "Above Fence Right",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2285,
-                "name": "Above Fence North Back",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
                 "order": 5,
@@ -15274,6 +15262,18 @@
             {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2288,
+                "name": "Above Fence Right",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "name": "Above Fence North Back",
                 "order": 5,
                 "passthrough": 2
             },
@@ -15296,12 +15296,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2285,
-                "name": "Above Fence North Back",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
                 "order": 8,
@@ -15316,6 +15310,12 @@
             {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "name": "Above Fence North Back",
                 "order": 8,
                 "passthrough": 2
             }
@@ -25888,14 +25888,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2290,
-                "name": "Big H Curvy Boi Out",
+                "trigger_id": 1791,
+                "name": "Big Drop In",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1791,
-                "name": "Big Drop In",
+                "trigger_id": 2290,
+                "name": "Big H Curvy Boi Out",
                 "order": 3,
                 "passthrough": 1
             },

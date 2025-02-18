@@ -1,0 +1,98 @@
+{
+    "id": 12245,
+    "map_id": 1,
+    "name": "Easy Rainbow Road",
+    "date": "2025-02-17T14:22:43.000Z",
+    "author": "Natsu",
+    "author_id": 123,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "points": 2800,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 41,
+            "name": "Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 26,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 37,
+            "name": "Pyramid",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 23,
+            "name": "Deagle 6th",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "name": "Awp Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 69,
+            "name": "Wedge 5th",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 28,
+            "name": "Map Divide",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 69,
+            "name": "Wedge 5th",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "name": "Awp Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 23,
+            "name": "Deagle 6th",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 17,
+            "name": "Deagle 3rd",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 47,
+            "name": "Thru Deagle 2",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 34,
+            "name": "Platform",
+            "order": 12,
+            "passthrough": 0
+        }
+    ]
+}

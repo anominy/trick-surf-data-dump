@@ -1,0 +1,74 @@
+{
+    "id": 12238,
+    "map_id": 5,
+    "name": "Crossover Vault",
+    "date": "2025-02-16T16:58:46.000Z",
+    "author": "wiq",
+    "author_id": 1137,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "points": 2100,
+    "max_prestrafe": 406,
+    "completions": "2",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 444,
+            "name": "Pillar Small",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 461,
+            "name": "Spine Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 404,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 408,
+            "name": "Behind Spine Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 461,
+            "name": "Spine Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 404,
+            "name": "Awp Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 408,
+            "name": "Behind Spine Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 461,
+            "name": "Spine Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 452,
+            "name": "South Pool",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}
