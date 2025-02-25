@@ -183,8 +183,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "2935",
-        "players_completed": "91",
+        "completions": "2940",
+        "players_completed": "92",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -259,7 +259,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "4309",
+        "completions": "4310",
         "players_completed": "303",
         "average_rating": "0.0000",
         "sequence": [
@@ -8973,8 +8973,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "71",
-        "players_completed": "18",
+        "completions": "73",
+        "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -16079,8 +16079,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "28",
-        "players_completed": "17",
+        "completions": "29",
+        "players_completed": "18",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18557,7 +18557,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "466",
+        "completions": "467",
         "players_completed": "38",
         "average_rating": "0.0000",
         "sequence": [
@@ -19769,8 +19769,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "974",
-        "players_completed": "100",
+        "completions": "975",
+        "players_completed": "101",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19981,7 +19981,7 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "263",
+        "completions": "264",
         "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
@@ -21885,6 +21885,68 @@
                 "trigger_id": 547,
                 "name": "Red Room Floor",
                 "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12266,
+        "map_id": 6,
+        "name": "Mercy",
+        "date": "2025-02-22T21:27:38.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "points": 1500,
+        "max_prestrafe": 406,
+        "completions": "2",
+        "players_completed": "2",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 589,
+                "name": "Right Glass Ramp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 503,
+                "name": "Blue Top Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 544,
+                "name": "Red Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 581,
+                "name": "Under Teleporter Box",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 551,
+                "name": "Right Bottom Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 544,
+                "name": "Red Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 543,
+                "name": "Red Deagle Platform",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -28250,6 +28312,74 @@
         ]
     },
     {
+        "id": 12267,
+        "map_id": 6,
+        "name": "Merciless",
+        "date": "2025-02-22T21:34:43.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": "2025-02-22T21:43:49.000Z",
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "1",
+        "players_completed": "1",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 589,
+                "name": "Right Glass Ramp Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 503,
+                "name": "Blue Top Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 544,
+                "name": "Red Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 581,
+                "name": "Under Teleporter Box",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 551,
+                "name": "Right Bottom Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 487,
+                "name": "Around Deagle East",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 550,
+                "name": "Red Top Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 543,
+                "name": "Red Deagle Platform",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5317,
         "map_id": 6,
         "name": "Percy",
@@ -28645,8 +28775,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "339",
-        "players_completed": "20",
+        "completions": "340",
+        "players_completed": "21",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -28911,6 +29041,80 @@
                 "trigger_id": 1007,
                 "name": "Top Sides",
                 "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12268,
+        "map_id": 6,
+        "name": "Tivolit",
+        "date": "2025-02-22T22:07:04.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "1",
+        "players_completed": "1",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 536,
+                "name": "Lower Side Flying Disk",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 587,
+                "name": "Glass Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 553,
+                "name": "Short Deagle Ramp 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 544,
+                "name": "Red Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 491,
+                "name": "Back Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 530,
+                "name": "Left Ramp 1",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 531,
+                "name": "Left Ramp 2",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 532,
+                "name": "Left Ramp 3",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 588,
+                "name": "Left Glass Ramp Platform",
+                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -30113,8 +30317,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "9",
-        "players_completed": "7",
+        "completions": "10",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {

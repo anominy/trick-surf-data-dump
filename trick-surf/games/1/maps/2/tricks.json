@@ -13,8 +13,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "5341",
-        "players_completed": "272",
+        "completions": "5362",
+        "players_completed": "274",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -533,8 +533,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "10046",
-        "players_completed": "260",
+        "completions": "10074",
+        "players_completed": "261",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -8027,8 +8027,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "203",
-        "players_completed": "62",
+        "completions": "204",
+        "players_completed": "63",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10143,8 +10143,8 @@
         "tier": 2,
         "points": 300,
         "max_prestrafe": 406,
-        "completions": "536",
-        "players_completed": "62",
+        "completions": "563",
+        "players_completed": "63",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12675,8 +12675,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "309",
-        "players_completed": "26",
+        "completions": "317",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12773,7 +12773,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "1789",
+        "completions": "1793",
         "players_completed": "91",
         "average_rating": "0.0000",
         "sequence": [
@@ -14353,8 +14353,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "44",
-        "players_completed": "33",
+        "completions": "46",
+        "players_completed": "34",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18573,8 +18573,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "43",
-        "players_completed": "12",
+        "completions": "51",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22821,8 +22821,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "29",
-        "players_completed": "13",
+        "completions": "32",
+        "players_completed": "14",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23523,7 +23523,7 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "620",
+        "completions": "624",
         "players_completed": "90",
         "average_rating": "0.0000",
         "sequence": [
@@ -25397,8 +25397,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "90",
-        "players_completed": "34",
+        "completions": "94",
+        "players_completed": "35",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -34931,8 +34931,8 @@
         "tier": 3,
         "points": 600,
         "max_prestrafe": 406,
-        "completions": "95",
-        "players_completed": "21",
+        "completions": "97",
+        "players_completed": "22",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -35807,8 +35807,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 261,
-        "completions": "6",
-        "players_completed": "3",
+        "completions": "8",
+        "players_completed": "4",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -37225,7 +37225,7 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "228",
+        "completions": "232",
         "players_completed": "52",
         "average_rating": "0.0000",
         "sequence": [
@@ -49707,8 +49707,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "137",
-        "players_completed": "24",
+        "completions": "145",
+        "players_completed": "25",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -53675,8 +53675,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "14",
-        "players_completed": "7",
+        "completions": "20",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -54387,6 +54387,68 @@
                 "trigger_id": 172,
                 "name": "Superhouse Floor 2 Ramp Ends",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12272,
+        "map_id": 2,
+        "name": "Midnight",
+        "date": "2025-02-25T01:00:35.000Z",
+        "author": "d",
+        "author_id": 1363,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "points": 1000,
+        "max_prestrafe": 406,
+        "completions": "119",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 155,
+                "name": "Spawn Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "name": "Grass Spawn Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 154,
+                "name": "Spawn Roof",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -57431,8 +57493,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "116",
-        "players_completed": "24",
+        "completions": "120",
+        "players_completed": "25",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -62625,8 +62687,8 @@
         "tier": 4,
         "points": 1000,
         "max_prestrafe": 406,
-        "completions": "179",
-        "players_completed": "42",
+        "completions": "186",
+        "players_completed": "43",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -63701,7 +63763,7 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "2385",
+        "completions": "2392",
         "players_completed": "99",
         "average_rating": "0.0000",
         "sequence": [
@@ -64947,8 +65009,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "184",
-        "players_completed": "41",
+        "completions": "187",
+        "players_completed": "42",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -65027,8 +65089,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "456",
-        "players_completed": "33",
+        "completions": "457",
+        "players_completed": "34",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -65349,7 +65411,7 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "2369",
+        "completions": "2476",
         "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
@@ -70575,8 +70637,8 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "54",
-        "players_completed": "26",
+        "completions": "56",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -71243,7 +71305,7 @@
         "tier": 5,
         "points": 1500,
         "max_prestrafe": 406,
-        "completions": "2",
+        "completions": "3",
         "players_completed": "1",
         "average_rating": "0.0000",
         "sequence": [
@@ -77605,8 +77667,8 @@
         "tier": 6,
         "points": 2100,
         "max_prestrafe": 406,
-        "completions": "23",
-        "players_completed": "15",
+        "completions": "26",
+        "players_completed": "16",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -79279,6 +79341,104 @@
                 "trigger_id": 84,
                 "name": "Castle House Ramp",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12273,
+        "map_id": 2,
+        "name": "Midnight Walk",
+        "date": "2025-02-25T10:05:01.000Z",
+        "author": "d",
+        "author_id": 1363,
+        "last_updated": "2025-02-25T10:10:18.000Z",
+        "last_updated_author_id": 1363,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "points": 2100,
+        "max_prestrafe": 406,
+        "completions": "13",
+        "players_completed": "1",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 155,
+                "name": "Spawn Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "name": "Grass Spawn Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 154,
+                "name": "Spawn Roof",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "name": "Grass Spawn Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 152,
+                "name": "Spawn House Ramp",
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -82189,8 +82349,8 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "201",
-        "players_completed": "40",
+        "completions": "202",
+        "players_completed": "41",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -85255,7 +85415,7 @@
         "tier": 7,
         "points": 2800,
         "max_prestrafe": 406,
-        "completions": "138",
+        "completions": "139",
         "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
@@ -86345,6 +86505,104 @@
                 "trigger_id": 143,
                 "name": "Main Ramp",
                 "order": 19,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12271,
+        "map_id": 2,
+        "name": "Midnight Run",
+        "date": "2025-02-25T00:15:54.000Z",
+        "author": "d",
+        "author_id": 1363,
+        "last_updated": "2025-02-25T00:59:49.000Z",
+        "last_updated_author_id": 1363,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "points": 2800,
+        "max_prestrafe": 406,
+        "completions": "1",
+        "players_completed": "1",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 155,
+                "name": "Spawn Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "name": "Grass Spawn Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 154,
+                "name": "Spawn Roof",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "name": "Grass Spawn Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 154,
+                "name": "Spawn Roof",
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -88399,7 +88657,7 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "45",
+        "completions": "61",
         "players_completed": "15",
         "average_rating": "0.0000",
         "sequence": [
@@ -88775,8 +89033,8 @@
         "tier": 8,
         "points": 3600,
         "max_prestrafe": 406,
-        "completions": "25",
-        "players_completed": "9",
+        "completions": "26",
+        "players_completed": "10",
         "average_rating": "0.0000",
         "sequence": [
             {

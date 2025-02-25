@@ -3,14 +3,14 @@
     "map_id": 8,
     "name": "Djum and Neuse's PornStory",
     "date": "2025-02-08T01:11:33.000Z",
-    "author": "yadjumess",
+    "author": "djum",
     "author_id": 2687,
-    "last_updated": "2025-02-08T01:14:23.000Z",
+    "last_updated": "2025-02-20T20:05:34.000Z",
     "last_updated_author_id": 10899,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "points": 2800,
+    "tier": 8,
+    "points": 3600,
     "max_prestrafe": 260,
     "completions": "0",
     "players_completed": "0",
@@ -65,9 +65,15 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 774,
+            "name": "Through T2 Back Right",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 738,
             "name": "Ski Sign",
-            "order": 8,
+            "order": 9,
             "passthrough": 0
         }
     ]

@@ -69,7 +69,7 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": null,
-        "completions": "188",
+        "completions": "189",
         "players_completed": "71",
         "average_rating": "0.0000",
         "sequence": [
@@ -193,8 +193,8 @@
         "tier": 1,
         "points": 100,
         "max_prestrafe": 406,
-        "completions": "1874",
-        "players_completed": "114",
+        "completions": "1894",
+        "players_completed": "115",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -3544,14 +3544,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2337,
-                "name": "Outward Ramp South",
+                "trigger_id": 2336,
+                "name": "Outward Ramp North",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2336,
-                "name": "Outward Ramp North",
+                "trigger_id": 2337,
+                "name": "Outward Ramp South",
                 "order": 2,
                 "passthrough": 1
             }
@@ -9414,6 +9414,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 819,
+                "name": "Spawn LvL 1",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 822,
                 "name": "Spawn Slope",
                 "order": 6,
@@ -9422,12 +9428,6 @@
             {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 819,
-                "name": "Spawn LvL 1",
                 "order": 6,
                 "passthrough": 1
             },
