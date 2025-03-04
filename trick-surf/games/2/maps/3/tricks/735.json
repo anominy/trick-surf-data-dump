@@ -10,7 +10,7 @@
     "active": 1,
     "ranked": 1,
     "tier": 4,
-    "points": 1000,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "8",
     "players_completed": "8",
@@ -47,14 +47,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 217,
-            "name": "Jail Ceiling",
+            "trigger_id": 219,
+            "name": "Jail Floor",
             "order": 3,
             "passthrough": 1
         },
         {
-            "trigger_id": 219,
-            "name": "Jail Floor",
+            "trigger_id": 217,
+            "name": "Jail Ceiling",
             "order": 3,
             "passthrough": 1
         },

@@ -10,7 +10,7 @@
     "active": 1,
     "ranked": 1,
     "tier": 3,
-    "points": 600,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
@@ -47,14 +47,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 2337,
-            "name": "Outward Ramp South",
+            "trigger_id": 2336,
+            "name": "Outward Ramp North",
             "order": 2,
             "passthrough": 1
         },
         {
-            "trigger_id": 2336,
-            "name": "Outward Ramp North",
+            "trigger_id": 2337,
+            "name": "Outward Ramp South",
             "order": 2,
             "passthrough": 1
         }

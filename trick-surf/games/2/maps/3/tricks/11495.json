@@ -10,7 +10,7 @@
     "active": 1,
     "ranked": 1,
     "tier": 8,
-    "points": 3600,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
@@ -41,14 +41,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 935,
-            "name": "Ramp 4 Boost",
+            "trigger_id": 243,
+            "name": "Ramp 4",
             "order": 3,
             "passthrough": 1
         },
         {
-            "trigger_id": 243,
-            "name": "Ramp 4",
+            "trigger_id": 935,
+            "name": "Ramp 4 Boost",
             "order": 3,
             "passthrough": 1
         },

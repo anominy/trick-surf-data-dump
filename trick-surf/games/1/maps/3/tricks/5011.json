@@ -10,7 +10,7 @@
     "active": 1,
     "ranked": 1,
     "tier": 3,
-    "points": 600,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "21",
     "players_completed": "14",
@@ -47,14 +47,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 934,
-            "name": "Main Ramp Boost",
+            "trigger_id": 935,
+            "name": "Ramp 4 Boost",
             "order": 3,
             "passthrough": 1
         },
         {
-            "trigger_id": 935,
-            "name": "Ramp 4 Boost",
+            "trigger_id": 934,
+            "name": "Main Ramp Boost",
             "order": 3,
             "passthrough": 1
         },

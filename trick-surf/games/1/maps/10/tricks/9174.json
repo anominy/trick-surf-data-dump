@@ -10,7 +10,7 @@
     "active": 1,
     "ranked": 1,
     "tier": 7,
-    "points": 2800,
+    "subtier": 2,
     "max_prestrafe": 406,
     "completions": "5",
     "players_completed": "3",
@@ -203,14 +203,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1304,
-            "name": "E Upper Ground",
+            "trigger_id": 1569,
+            "name": "SE Ground",
             "order": 30,
             "passthrough": 1
         },
         {
-            "trigger_id": 1569,
-            "name": "SE Ground",
+            "trigger_id": 1304,
+            "name": "E Upper Ground",
             "order": 30,
             "passthrough": 1
         },

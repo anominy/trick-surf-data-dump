@@ -10,7 +10,7 @@
     "active": 1,
     "ranked": 1,
     "tier": 2,
-    "points": 300,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
@@ -41,14 +41,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 2976,
-            "name": "Through Anti Grav Corners",
+            "trigger_id": 2831,
+            "name": "Through Anti Grav Supports",
             "order": 3,
             "passthrough": 2
         },
         {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
+            "trigger_id": 2976,
+            "name": "Through Anti Grav Corners",
             "order": 3,
             "passthrough": 2
         }

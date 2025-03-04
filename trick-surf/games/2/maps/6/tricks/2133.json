@@ -5,12 +5,12 @@
     "date": "2022-03-03T18:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2025-02-26T16:52:52.000Z",
+    "last_updated_author_id": 480,
     "active": 1,
     "ranked": 1,
     "tier": 3,
-    "points": 600,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
@@ -29,21 +29,27 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 525,
+            "name": "Jail Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 553,
             "name": "Short Deagle Ramp 1",
-            "order": 2,
+            "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 554,
             "name": "Short Deagle Ramp 2",
-            "order": 3,
+            "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
             "name": "Main Ramp",
-            "order": 4,
+            "order": 5,
             "passthrough": 0
         }
     ]

@@ -10,10 +10,10 @@
     "active": 1,
     "ranked": 1,
     "tier": 2,
-    "points": 300,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "63",
-    "players_completed": "47",
+    "completions": "64",
+    "players_completed": "48",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,6 +27,24 @@
             "name": "SW Steep Slide",
             "order": 1,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1613,
+            "name": "SW Broken Pillar Slant 1",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1635,
+            "name": "SW Orange Ramp 6 Spine",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
+            "order": 1,
+            "passthrough": 1
         },
         {
             "trigger_id": 1617,
@@ -289,24 +307,6 @@
         {
             "trigger_id": 1781,
             "name": "W Ground West",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1613,
-            "name": "SW Broken Pillar Slant 1",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1635,
-            "name": "SW Orange Ramp 6 Spine",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1654,
-            "name": "SW Yellow Ramp 6",
             "order": 1,
             "passthrough": 1
         },
