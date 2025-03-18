@@ -12396,8 +12396,8 @@
         "date": "2022-03-08T22:52:23.000Z",
         "author": "Addicted",
         "author_id": 209,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-03-17T17:14:26.000Z",
+        "last_updated_author_id": 1137,
         "active": 1,
         "ranked": 1,
         "tier": 4,
@@ -12420,9 +12420,15 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
                 "trigger_id": 1007,
                 "name": "Top Sides",
-                "order": 2,
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -19396,6 +19402,142 @@
         ]
     },
     {
+        "id": 12326,
+        "map_id": 6,
+        "name": "Malte's Remix",
+        "date": "2025-03-17T17:53:41.000Z",
+        "author": "Malte on top",
+        "author_id": 31222,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 517,
+                "name": "Fence",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 525,
+                "name": "Jail Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 496,
+                "name": "Behind Pillar",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 490,
+                "name": "Auto Sniper Disk",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12322,
+        "map_id": 6,
+        "name": "Malte's Rise",
+        "date": "2025-03-17T13:52:21.000Z",
+        "author": "Malte on top",
+        "author_id": 31222,
+        "last_updated": "2025-03-17T13:59:29.000Z",
+        "last_updated_author_id": 92,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": 405,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 560,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 571,
+                "name": "Through Wheel 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 572,
+                "name": "Through Wheel 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 532,
+                "name": "Left Ramp 3",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 495,
+                "name": "Behind Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 528,
+                "name": "Large Sniper Disk",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5289,
         "map_id": 6,
         "name": "A Trip Outside",
@@ -23023,6 +23165,74 @@
                 "trigger_id": 560,
                 "name": "Spawn",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12323,
+        "map_id": 6,
+        "name": "Voidshift",
+        "date": "2025-03-17T15:31:37.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": "2025-03-17T15:34:45.000Z",
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 3,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 536,
+                "name": "Lower Side Flying Disk",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 587,
+                "name": "Glass Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 524,
+                "name": "Jail Glass",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 550,
+                "name": "Red Top Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 534,
+                "name": "Long Deagle Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 543,
+                "name": "Red Deagle Platform",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 531,
+                "name": "Left Ramp 2",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 570,
+                "name": "Teleporter Top",
+                "order": 7,
                 "passthrough": 0
             }
         ]
@@ -26950,6 +27160,56 @@
         ]
     },
     {
+        "id": 12292,
+        "map_id": 6,
+        "name": "Desert Eagle",
+        "date": "2025-03-04T14:00:44.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 510,
+                "name": "Checkered Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 538,
+                "name": "Main Ramp Slant Small",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 568,
+                "name": "Teleporter Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 554,
+                "name": "Short Deagle Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 543,
+                "name": "Red Deagle Platform",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5251,
         "map_id": 6,
         "name": "Brunette over Fence",
@@ -26995,6 +27255,74 @@
                 "trigger_id": 1007,
                 "name": "Top Sides",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12298,
+        "map_id": 6,
+        "name": "Cadenza",
+        "date": "2025-03-07T12:15:48.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated": "2025-03-16T20:05:58.000Z",
+        "last_updated_author_id": 147,
+        "active": 1,
+        "ranked": 0,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 510,
+                "name": "Checkered Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 511,
+                "name": "Checkered Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 553,
+                "name": "Short Deagle Ramp 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 554,
+                "name": "Short Deagle Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 551,
+                "name": "Right Bottom Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 487,
+                "name": "Around Deagle East",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 550,
+                "name": "Red Top Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 543,
+                "name": "Red Deagle Platform",
+                "order": 7,
                 "passthrough": 0
             }
         ]
@@ -28964,10 +29292,10 @@
         "map_id": 6,
         "name": "Spawn Window over Fence from Fence",
         "date": "2023-06-09T05:27:05.000Z",
-        "author": "pakdevil",
+        "author": "(ง ͠° ͟ل͜ ͡°)",
         "author_id": 2028,
-        "last_updated": null,
-        "last_updated_author_id": 2028,
+        "last_updated": "2025-03-17T17:55:52.000Z",
+        "last_updated_author_id": 92,
         "active": 1,
         "ranked": 1,
         "tier": 7,
@@ -28990,15 +29318,21 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 537,
+                "name": "Main Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
                 "trigger_id": 541,
                 "name": "Over Fence",
-                "order": 2,
+                "order": 3,
                 "passthrough": 0
             },
             {
                 "trigger_id": 566,
                 "name": "Spawn Window",
-                "order": 3,
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -29631,6 +29965,62 @@
                 "trigger_id": 546,
                 "name": "Red Room Entry Ramp",
                 "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12325,
+        "map_id": 6,
+        "name": "Me or the World",
+        "date": "2025-03-17T15:59:27.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": "2025-03-17T19:49:10.000Z",
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 510,
+                "name": "Checkered Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 511,
+                "name": "Checkered Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 543,
+                "name": "Red Deagle Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 554,
+                "name": "Short Deagle Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 553,
+                "name": "Short Deagle Ramp 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 973,
+                "name": "After Wheel Floor",
+                "order": 5,
                 "passthrough": 0
             }
         ]

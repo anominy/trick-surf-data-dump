@@ -3,10 +3,10 @@
     "map_id": 7,
     "name": "Hard Jail Walk",
     "date": "2021-09-09T16:44:22.000Z",
-    "author": "Fragzy4",
+    "author": "Frag",
     "author_id": 1,
-    "last_updated": "2021-09-09T16:44:47.000Z",
-    "last_updated_author_id": 1,
+    "last_updated": "2025-03-04T16:08:04.000Z",
+    "last_updated_author_id": 123,
     "active": 1,
     "ranked": 1,
     "tier": 6,
@@ -29,9 +29,15 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 628,
+            "name": "Scout Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 611,
             "name": "Jail",
-            "order": 2,
+            "order": 3,
             "passthrough": 0
         }
     ]

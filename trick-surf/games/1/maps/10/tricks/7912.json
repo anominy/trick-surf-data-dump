@@ -3,49 +3,52 @@
     "map_id": 10,
     "name": "Science Experiment #8",
     "date": "2023-08-05T14:32:51.000Z",
-    "last_updated": "2024-04-19T23:46:16.000Z",
-    "author": "Steve",
+    "author": "King",
     "author_id": 10,
-    "last_updated_author_id": 14724,
+    "last_updated": "2025-03-16T13:49:25.000Z",
+    "last_updated_author_id": 347,
     "active": 1,
-    "points": 5,
+    "ranked": 1,
     "tier": 1,
-    "min_velocity": null,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "max_duration": null,
-    "max_jumps": 1,
-    "no_jump": 0,
-    "hidden": 1,
-    "completions": 13195,
-    "playersCompleted": 115,
-    "trick_sequence": [
+    "completions": "13311",
+    "players_completed": "121",
+    "average_rating": "0.0000",
+    "sequence": [
         {
             "trigger_id": 1279,
+            "name": "E Large Structure Green Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 1194,
+            "name": "E Green Ramp 1",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 1745,
+            "name": "E Through Structure",
             "order": 2,
             "passthrough": 0
         },
         {
             "trigger_id": 1256,
+            "name": "C Teal Ramp 6",
             "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 1753,
+            "name": "E Brown Teleporter",
             "order": 4,
             "passthrough": 0
         },
         {
             "trigger_id": 1587,
+            "name": "SE Orange Platform",
             "order": 5,
             "passthrough": 0
         }

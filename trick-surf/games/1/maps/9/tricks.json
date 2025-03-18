@@ -193,8 +193,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1894",
-        "players_completed": "115",
+        "completions": "1895",
+        "players_completed": "116",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2015,7 +2015,7 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "117",
+        "completions": "118",
         "players_completed": "28",
         "average_rating": "0.0000",
         "sequence": [
@@ -5405,8 +5405,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "86",
-        "players_completed": "35",
+        "completions": "87",
+        "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7377,8 +7377,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "32",
-        "players_completed": "8",
+        "completions": "36",
+        "players_completed": "9",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7623,8 +7623,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "34",
-        "players_completed": "18",
+        "completions": "37",
+        "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -9372,14 +9372,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2310,
-                "name": "AWP Slope",
+                "trigger_id": 795,
+                "name": "AWP Platform",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 795,
-                "name": "AWP Platform",
+                "trigger_id": 2310,
+                "name": "AWP Slope",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9414,12 +9414,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 819,
-                "name": "Spawn LvL 1",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 822,
                 "name": "Spawn Slope",
                 "order": 6,
@@ -9428,6 +9422,12 @@
             {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 819,
+                "name": "Spawn LvL 1",
                 "order": 6,
                 "passthrough": 1
             },

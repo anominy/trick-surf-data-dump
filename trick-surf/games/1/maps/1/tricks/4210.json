@@ -5,8 +5,8 @@
     "date": "2020-12-22T00:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2025-03-12T20:17:38.000Z",
+    "last_updated_author_id": 1,
     "active": 1,
     "ranked": 1,
     "tier": 5,
@@ -35,14 +35,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 26,
-            "name": "Main Ramp",
+            "trigger_id": 11,
+            "name": "Behind Pyramid",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 10,
-            "name": "Behind Main Ramp",
+            "trigger_id": 37,
+            "name": "Pyramid",
             "order": 4,
             "passthrough": 0
         },
@@ -53,8 +53,8 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 37,
-            "name": "Pyramid",
+            "trigger_id": 10,
+            "name": "Behind Main Ramp",
             "order": 6,
             "passthrough": 0
         },
@@ -65,14 +65,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 10,
-            "name": "Behind Main Ramp",
+            "trigger_id": 37,
+            "name": "Pyramid",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 26,
-            "name": "Main Ramp",
+            "trigger_id": 11,
+            "name": "Behind Pyramid",
             "order": 9,
             "passthrough": 0
         },
@@ -107,15 +107,63 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 11,
+            "name": "Behind Pyramid",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 37,
+            "name": "Pyramid",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 26,
             "name": "Main Ramp",
-            "order": 15,
+            "order": 17,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 10,
+            "name": "Behind Main Ramp",
+            "order": 18,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 26,
+            "name": "Main Ramp",
+            "order": 19,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 37,
+            "name": "Pyramid",
+            "order": 20,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 11,
+            "name": "Behind Pyramid",
+            "order": 21,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 37,
+            "name": "Pyramid",
+            "order": 22,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 26,
+            "name": "Main Ramp",
+            "order": 23,
             "passthrough": 0
         },
         {
             "trigger_id": 35,
             "name": "Pool",
-            "order": 16,
+            "order": 24,
             "passthrough": 0
         }
     ]

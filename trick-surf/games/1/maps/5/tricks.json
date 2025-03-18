@@ -13,8 +13,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "6935",
-        "players_completed": "192",
+        "completions": "7015",
+        "players_completed": "193",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -89,7 +89,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "844",
+        "completions": "855",
         "players_completed": "119",
         "average_rating": "0.0000",
         "sequence": [
@@ -171,8 +171,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "55",
-        "players_completed": "22",
+        "completions": "78",
+        "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -515,7 +515,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "7304",
+        "completions": "7338",
         "players_completed": "326",
         "average_rating": "0.0000",
         "sequence": [
@@ -925,7 +925,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "4084",
+        "completions": "4105",
         "players_completed": "181",
         "average_rating": "0.0000",
         "sequence": [
@@ -1095,7 +1095,7 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "1088",
+        "completions": "1103",
         "players_completed": "76",
         "average_rating": "0.0000",
         "sequence": [
@@ -1201,7 +1201,7 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "4932",
+        "completions": "4937",
         "players_completed": "139",
         "average_rating": "0.0000",
         "sequence": [
@@ -1401,8 +1401,8 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "10",
-        "players_completed": "4",
+        "completions": "13",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1697,8 +1697,8 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "797",
-        "players_completed": "59",
+        "completions": "816",
+        "players_completed": "60",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1785,7 +1785,7 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1000",
+        "completions": "1005",
         "players_completed": "61",
         "average_rating": "0.0000",
         "sequence": [
@@ -5483,8 +5483,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "43",
-        "players_completed": "22",
+        "completions": "52",
+        "players_completed": "23",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -6813,8 +6813,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "40",
-        "players_completed": "18",
+        "completions": "49",
+        "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10545,8 +10545,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "152",
-        "players_completed": "29",
+        "completions": "185",
+        "players_completed": "31",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12128,6 +12128,62 @@
         ]
     },
     {
+        "id": 12311,
+        "map_id": 5,
+        "name": "Call Centre",
+        "date": "2025-03-15T14:45:22.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": "2025-03-15T15:48:12.000Z",
+        "last_updated_author_id": 1929,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "11",
+        "players_completed": "4",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 406,
+                "name": "Behind Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 426,
+                "name": "Hub Tele Top",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 441,
+                "name": "Pillar Large",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2641,
         "map_id": 5,
         "name": "A Dip Into The South Pool",
@@ -13487,8 +13543,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "146",
-        "players_completed": "10",
+        "completions": "149",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13687,7 +13743,7 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1644",
+        "completions": "1648",
         "players_completed": "77",
         "average_rating": "0.0000",
         "sequence": [
@@ -14435,8 +14491,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "28",
-        "players_completed": "16",
+        "completions": "29",
+        "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -15983,8 +16039,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "23",
-        "players_completed": "4",
+        "completions": "26",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -16257,8 +16313,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "45",
-        "players_completed": "17",
+        "completions": "46",
+        "players_completed": "18",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -16679,8 +16735,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "104",
-        "players_completed": "31",
+        "completions": "119",
+        "players_completed": "32",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -16711,8 +16767,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "19",
-        "players_completed": "12",
+        "completions": "33",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -16997,6 +17053,62 @@
                 "trigger_id": 452,
                 "name": "South Pool",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12316,
+        "map_id": 5,
+        "name": "OLYMPIAN",
+        "date": "2025-03-16T11:32:29.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "11",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 442,
+                "name": "Pillar Medium",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 420,
+                "name": "Catwalk Roof",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 909,
+                "name": "North Spawn Tele Slants",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 432,
+                "name": "Bottom Pool Upper Platform",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -19194,6 +19306,92 @@
         ]
     },
     {
+        "id": 12291,
+        "map_id": 5,
+        "name": "alfred",
+        "date": "2025-03-04T13:46:27.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": "2025-03-04T14:22:38.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "3",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 443,
+                "name": "Pillar Plate",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 444,
+                "name": "Pillar Small",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 417,
+                "name": "Butter Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 465,
+                "name": "Through Awp Hole",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 446,
+                "name": "Side Pool",
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5130,
         "map_id": 5,
         "name": "A Harder Dip Into The South Pool",
@@ -20016,6 +20214,68 @@
         ]
     },
     {
+        "id": 12317,
+        "map_id": 5,
+        "name": "FTJ",
+        "date": "2025-03-16T12:07:34.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "6",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 442,
+                "name": "Pillar Medium",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 405,
+                "name": "Back Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 483,
+                "name": "Side Pool Upper Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 431,
+                "name": "Lower Curve Ramp Top",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 457,
+                "name": "South Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 483,
+                "name": "Side Pool Upper Platform",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5118,
         "map_id": 5,
         "name": "Gidget",
@@ -20729,7 +20989,7 @@
         "tier": 5,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "169",
+        "completions": "173",
         "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
@@ -20921,7 +21181,7 @@
         "tier": 5,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "521",
+        "completions": "522",
         "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
@@ -21421,8 +21681,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "10",
-        "players_completed": "5",
+        "completions": "11",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -21551,8 +21811,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "39",
-        "players_completed": "28",
+        "completions": "40",
+        "players_completed": "29",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -21607,8 +21867,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "77",
-        "players_completed": "27",
+        "completions": "79",
+        "players_completed": "29",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22125,8 +22385,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "18",
-        "players_completed": "14",
+        "completions": "19",
+        "players_completed": "15",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22396,6 +22656,38 @@
         ]
     },
     {
+        "id": 12312,
+        "map_id": 5,
+        "name": "Spawn Strafe",
+        "date": "2025-03-15T16:14:20.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "34",
+        "players_completed": "6",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 458,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 446,
+                "name": "Side Pool",
+                "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5175,
         "map_id": 5,
         "name": "That's a Wrap!",
@@ -22409,8 +22701,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "20",
-        "players_completed": "11",
+        "completions": "21",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22951,7 +23243,7 @@
         "tier": 6,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "63",
+        "completions": "64",
         "players_completed": "28",
         "average_rating": "0.0000",
         "sequence": [
@@ -23581,7 +23873,7 @@
         "tier": 6,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "46",
+        "completions": "47",
         "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
@@ -24093,8 +24385,8 @@
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "2",
-        "players_completed": "2",
+        "completions": "3",
+        "players_completed": "3",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -24444,6 +24736,68 @@
         ]
     },
     {
+        "id": 12293,
+        "map_id": 5,
+        "name": "Crunch",
+        "date": "2025-03-04T15:34:15.000Z",
+        "author": "mud",
+        "author_id": 480,
+        "last_updated": "2025-03-04T15:46:02.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "2",
+        "players_completed": "2",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 442,
+                "name": "Pillar Medium",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 428,
+                "name": "Jail Pool",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 482,
+                "name": "Upper Curve Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 411,
+                "name": "Blade Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 434,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 452,
+                "name": "South Pool",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7619,
         "map_id": 5,
         "name": "Fish Story",
@@ -24785,7 +25139,7 @@
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "153",
+        "completions": "154",
         "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [

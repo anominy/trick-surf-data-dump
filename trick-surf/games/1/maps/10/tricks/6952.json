@@ -12,8 +12,8 @@
     "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "64",
-    "players_completed": "48",
+    "completions": "65",
+    "players_completed": "49",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,6 +27,24 @@
             "name": "SW Steep Slide",
             "order": 1,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1630,
+            "name": "SW Middle Ledge Lower",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1649,
+            "name": "SW West Wall Upper",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1781,
+            "name": "W Ground West",
+            "order": 1,
+            "passthrough": 1
         },
         {
             "trigger_id": 1613,
@@ -289,24 +307,6 @@
         {
             "trigger_id": 1661,
             "name": "W Blue Ramp 4 Spine",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1630,
-            "name": "SW Middle Ledge Lower",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1649,
-            "name": "SW West Wall Upper",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1781,
-            "name": "W Ground West",
             "order": 1,
             "passthrough": 1
         },

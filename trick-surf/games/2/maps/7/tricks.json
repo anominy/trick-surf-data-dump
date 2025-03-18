@@ -7234,10 +7234,10 @@
         "map_id": 7,
         "name": "Teleports Galore",
         "date": "2021-09-09T10:45:03.000Z",
-        "author": "Fragzy4",
+        "author": "Frag",
         "author_id": 1,
-        "last_updated": "2021-09-10T08:50:17.000Z",
-        "last_updated_author_id": 48,
+        "last_updated": "2025-03-06T23:57:59.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
         "ranked": 1,
         "tier": 4,
@@ -7260,45 +7260,45 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 639,
-                "name": "Spawn Platform",
+                "trigger_id": 633,
+                "name": "Shotgun Top",
                 "order": 2,
                 "passthrough": 0
             },
             {
-                "trigger_id": 633,
-                "name": "Shotgun Top",
-                "order": 3,
-                "passthrough": 0
+                "trigger_id": 639,
+                "name": "Spawn Platform",
+                "order": 2,
+                "passthrough": 1
             },
             {
                 "trigger_id": 878,
                 "name": "Jail T Tele",
-                "order": 4,
+                "order": 3,
                 "passthrough": 0
             },
             {
                 "trigger_id": 839,
                 "name": "Spawn Grass",
-                "order": 5,
+                "order": 4,
                 "passthrough": 0
             },
             {
                 "trigger_id": 593,
                 "name": "Awp Platform",
-                "order": 6,
+                "order": 5,
                 "passthrough": 0
             },
             {
                 "trigger_id": 881,
                 "name": "Awp Shotgun Tele",
-                "order": 7,
+                "order": 6,
                 "passthrough": 0
             },
             {
                 "trigger_id": 880,
                 "name": "Jail Top Tele",
-                "order": 8,
+                "order": 7,
                 "passthrough": 0
             }
         ]
@@ -8644,6 +8644,80 @@
         ]
     },
     {
+        "id": 12302,
+        "map_id": 7,
+        "name": "Around the Map",
+        "date": "2025-03-12T10:48:35.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-03-12T10:53:33.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 635,
+                "name": "Shotgun Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 631,
+                "name": "Shotgun Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 606,
+                "name": "Bent Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 619,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 628,
+                "name": "Scout Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 619,
+                "name": "Map Divide",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 628,
+                "name": "Scout Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 641,
+                "name": "Straight Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 610,
+                "name": "Curved Ramp",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4849,
         "map_id": 7,
         "name": "Extended Boost-A-Wrap",
@@ -8746,10 +8820,10 @@
         "map_id": 7,
         "name": "Hard Jail Walk",
         "date": "2021-09-09T16:44:22.000Z",
-        "author": "Fragzy4",
+        "author": "Frag",
         "author_id": 1,
-        "last_updated": "2021-09-09T16:44:47.000Z",
-        "last_updated_author_id": 1,
+        "last_updated": "2025-03-04T16:08:04.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
         "ranked": 1,
         "tier": 6,
@@ -8772,9 +8846,15 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 628,
+                "name": "Scout Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
                 "trigger_id": 611,
                 "name": "Jail",
-                "order": 2,
+                "order": 3,
                 "passthrough": 0
             }
         ]
