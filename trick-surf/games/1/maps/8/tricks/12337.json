@@ -1,0 +1,68 @@
+{
+    "id": 12337,
+    "map_id": 8,
+    "name": "Double Wedge Rise",
+    "date": "2025-03-21T14:09:37.000Z",
+    "author": "SiИК",
+    "author_id": 6763,
+    "last_updated": "2025-03-21T14:10:30.000Z",
+    "last_updated_author_id": 6763,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "7",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 680,
+            "name": "Gun Room",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "North East Booster Platform",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "North East Booster Platform",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 658,
+            "name": "Rear T2 Tower Wedge",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 649,
+            "name": "Awp Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1044,
+            "name": "Middle Awp Ground",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

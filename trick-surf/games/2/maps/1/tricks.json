@@ -102366,6 +102366,214 @@
         ]
     },
     {
+        "id": 12345,
+        "map_id": 1,
+        "name": "Bogroll Divide Sign Rise",
+        "date": "2025-03-23T10:24:55.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 28,
+                "name": "Map Divide",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 12,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 4535,
+        "map_id": 1,
+        "name": "Bogroll Divide Skittles",
+        "date": "2021-02-28T00:29:52.000Z",
+        "author": "sync",
+        "author_id": 37,
+        "last_updated": "2025-03-23T10:28:26.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 28,
+                "name": "Map Divide",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 32,
+                "name": "Over Spawn",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
+                "name": "Spawn Sides",
+                "order": 12,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5930,
         "map_id": 1,
         "name": "Cracka Sign Rise",
@@ -105075,116 +105283,6 @@
                 "trigger_id": 35,
                 "name": "Pool",
                 "order": 7,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 4535,
-        "map_id": 1,
-        "name": "Bogroll Divide Skittles",
-        "date": "2021-02-28T00:29:52.000Z",
-        "author": "sync",
-        "author_id": 37,
-        "last_updated": "2023-07-06T18:52:48.000Z",
-        "last_updated_author_id": 1,
-        "active": 1,
-        "ranked": 1,
-        "tier": 8,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 15,
-                "name": "Deagle 2nd",
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 28,
-                "name": "Map Divide",
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 15,
-                "name": "Deagle 2nd",
-                "order": 10,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 11,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 32,
-                "name": "Over Spawn",
-                "order": 12,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 43,
-                "name": "Spawn Sides",
-                "order": 12,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 35,
-                "name": "Pool",
-                "order": 13,
                 "passthrough": 0
             }
         ]
@@ -108280,6 +108378,50 @@
         ]
     },
     {
+        "id": 12349,
+        "map_id": 1,
+        "name": "Rise from 5th",
+        "date": "2025-03-24T20:06:32.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-03-24T20:20:49.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 0,
+        "tier": 8,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 21,
+                "name": "Deagle 5th",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "name": "Main Ramp Slant",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 7315,
         "map_id": 1,
         "name": "RK's a dieharder",
@@ -109154,6 +109296,146 @@
         ]
     },
     {
+        "id": 12344,
+        "map_id": 1,
+        "name": "Egyptian Pirate Rise",
+        "date": "2025-03-23T10:22:48.000Z",
+        "author": "Mason",
+        "author_id": 4140,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 0,
+        "tier": 8,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 16,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 17,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 18,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "name": "Main Ramp Slant",
+                "order": 19,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10519,
         "map_id": 1,
         "name": "Nothing is Impossible Twist over Spawn Wall",
@@ -109723,6 +110005,74 @@
                 "trigger_id": 45,
                 "name": "Spawn Water",
                 "order": 16,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12342,
+        "map_id": 1,
+        "name": "V Nothing is Impossible",
+        "date": "2025-03-22T13:44:11.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-03-23T10:23:37.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 0,
+        "tier": 8,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 27,
+                "name": "Main Ramp Slant",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "name": "Spawn Water",
+                "order": 7,
                 "passthrough": 0
             }
         ]

@@ -290,8 +290,8 @@
         "date": "2022-03-03T18:00:00.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-03-19T19:43:02.000Z",
+        "last_updated_author_id": 92,
         "active": 1,
         "ranked": 1,
         "tier": 1,
@@ -320,15 +320,21 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 554,
+                "name": "Short Deagle Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
                 "trigger_id": 553,
                 "name": "Short Deagle Ramp 1",
-                "order": 3,
+                "order": 4,
                 "passthrough": 0
             },
             {
                 "trigger_id": 543,
                 "name": "Red Deagle Platform",
-                "order": 4,
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -27210,6 +27216,62 @@
         ]
     },
     {
+        "id": 12329,
+        "map_id": 6,
+        "name": "Steinadler",
+        "date": "2025-03-19T20:00:25.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-03-19T20:08:27.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 489,
+                "name": "Arrow Ramp Spine",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 534,
+                "name": "Long Deagle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1015,
+                "name": "Long Deagle Ramp Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 543,
+                "name": "Red Deagle Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 554,
+                "name": "Short Deagle Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 570,
+                "name": "Teleporter Top",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5251,
         "map_id": 6,
         "name": "Brunette over Fence",
@@ -30638,8 +30700,8 @@
         "date": "2022-03-09T22:32:19.000Z",
         "author": "Addicted",
         "author_id": 209,
-        "last_updated": "2024-07-17T18:47:18.000Z",
-        "last_updated_author_id": 92,
+        "last_updated": "2025-03-24T01:59:37.000Z",
+        "last_updated_author_id": 2994,
         "active": 1,
         "ranked": 1,
         "tier": 8,
@@ -31272,10 +31334,10 @@
         "date": "2024-03-26T14:33:50.000Z",
         "author": "william",
         "author_id": 347,
-        "last_updated": "2024-10-02T13:48:28.000Z",
+        "last_updated": "2025-03-19T21:31:28.000Z",
         "last_updated_author_id": 406,
         "active": 1,
-        "ranked": 0,
+        "ranked": 1,
         "tier": 9,
         "subtier": 1,
         "max_prestrafe": 406,
