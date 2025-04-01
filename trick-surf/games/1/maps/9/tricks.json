@@ -13,8 +13,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "120",
-        "players_completed": "50",
+        "completions": "121",
+        "players_completed": "51",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -69,8 +69,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "189",
-        "players_completed": "71",
+        "completions": "219",
+        "players_completed": "72",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -107,8 +107,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "86",
-        "players_completed": "40",
+        "completions": "87",
+        "players_completed": "41",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -193,8 +193,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1895",
-        "players_completed": "116",
+        "completions": "2439",
+        "players_completed": "119",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -293,8 +293,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "82",
-        "players_completed": "39",
+        "completions": "83",
+        "players_completed": "40",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -349,8 +349,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "210",
-        "players_completed": "54",
+        "completions": "226",
+        "players_completed": "55",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -463,7 +463,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "2097",
+        "completions": "2102",
         "players_completed": "127",
         "average_rating": "0.0000",
         "sequence": [
@@ -501,7 +501,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "535",
+        "completions": "547",
         "players_completed": "79",
         "average_rating": "0.0000",
         "sequence": [
@@ -633,7 +633,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "178",
+        "completions": "185",
         "players_completed": "61",
         "average_rating": "0.0000",
         "sequence": [
@@ -815,8 +815,8 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "61",
-        "players_completed": "23",
+        "completions": "62",
+        "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1589,8 +1589,8 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "86",
-        "players_completed": "35",
+        "completions": "88",
+        "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1621,8 +1621,8 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "87",
-        "players_completed": "23",
+        "completions": "103",
+        "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -1653,7 +1653,7 @@
         "tier": 2,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "133",
+        "completions": "134",
         "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
@@ -6328,14 +6328,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2314,
-                "name": "HealBot Ramp North",
+                "trigger_id": 2315,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2315,
-                "name": "HealBot Ramp South",
+                "trigger_id": 2314,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9372,14 +9372,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 795,
-                "name": "AWP Platform",
+                "trigger_id": 2310,
+                "name": "AWP Slope",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2310,
-                "name": "AWP Slope",
+                "trigger_id": 795,
+                "name": "AWP Platform",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9414,12 +9414,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 822,
-                "name": "Spawn Slope",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 820,
                 "name": "Spawn LvL 2",
                 "order": 6,
@@ -9428,6 +9422,12 @@
             {
                 "trigger_id": 819,
                 "name": "Spawn LvL 1",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 822,
+                "name": "Spawn Slope",
                 "order": 6,
                 "passthrough": 1
             },
@@ -10851,8 +10851,8 @@
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "26",
-        "players_completed": "16",
+        "completions": "27",
+        "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [
             {

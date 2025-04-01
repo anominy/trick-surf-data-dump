@@ -13,8 +13,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "563",
-        "players_completed": "129",
+        "completions": "564",
+        "players_completed": "130",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -63,8 +63,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "240",
-        "players_completed": "79",
+        "completions": "241",
+        "players_completed": "80",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -113,8 +113,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "397",
-        "players_completed": "98",
+        "completions": "398",
+        "players_completed": "99",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -207,8 +207,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "1392",
-        "players_completed": "152",
+        "completions": "1411",
+        "players_completed": "153",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -257,8 +257,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "834",
-        "players_completed": "120",
+        "completions": "839",
+        "players_completed": "122",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2392,12 +2392,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2016,
-                "name": "THE CUBE Front",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
                 "order": 2,
@@ -2406,6 +2400,12 @@
             {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2016,
+                "name": "THE CUBE Front",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6124,12 +6124,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2391,
-                "name": "THE CUBE Right",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
                 "order": 2,
@@ -6138,6 +6132,12 @@
             {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2391,
+                "name": "THE CUBE Right",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6290,12 +6290,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2391,
-                "name": "THE CUBE Right",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
                 "order": 2,
@@ -6304,6 +6298,12 @@
             {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2391,
+                "name": "THE CUBE Right",
                 "order": 2,
                 "passthrough": 1
             }
@@ -10207,8 +10207,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "28",
-        "players_completed": "15",
+        "completions": "29",
+        "players_completed": "16",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -15254,12 +15254,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2286,
-                "name": "Above Fence North Front",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
                 "order": 5,
@@ -15274,6 +15268,12 @@
             {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2286,
+                "name": "Above Fence North Front",
                 "order": 5,
                 "passthrough": 2
             },
@@ -15296,6 +15296,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2287,
+                "name": "Above Fence Left",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
                 "order": 8,
@@ -15310,12 +15316,6 @@
             {
                 "trigger_id": 2285,
                 "name": "Above Fence North Back",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2287,
-                "name": "Above Fence Left",
                 "order": 8,
                 "passthrough": 2
             }

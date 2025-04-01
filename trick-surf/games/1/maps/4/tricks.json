@@ -86,6 +86,42 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 305,
+                "name": "East Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 296,
+                "name": "Cannon Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 358,
+                "name": "North Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 397,
+                "name": "West Ramp 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 294,
+                "name": "Booster Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 350,
                 "name": "Lower Ramp",
                 "order": 1,
@@ -124,42 +160,6 @@
             {
                 "trigger_id": 388,
                 "name": "V Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 305,
-                "name": "East Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 398,
-                "name": "West Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 296,
-                "name": "Cannon Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 358,
-                "name": "North Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 397,
-                "name": "West Ramp 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 294,
-                "name": "Booster Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -2325,7 +2325,7 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "5372",
+        "completions": "5374",
         "players_completed": "91",
         "average_rating": "0.0000",
         "sequence": [
@@ -5971,8 +5971,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "73",
-        "players_completed": "33",
+        "completions": "74",
+        "players_completed": "34",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -6207,8 +6207,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "26",
-        "players_completed": "12",
+        "completions": "27",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23509,7 +23509,7 @@
         "tier": 8,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "23",
+        "completions": "24",
         "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [

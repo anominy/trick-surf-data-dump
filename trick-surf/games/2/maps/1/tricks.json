@@ -7194,92 +7194,6 @@
         ]
     },
     {
-        "id": 3169,
-        "map_id": 1,
-        "name": "Exported so Beaugosse",
-        "date": "2020-12-22T00:00:00.000Z",
-        "author": "zSkyworld.com",
-        "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
-        "active": 1,
-        "ranked": 1,
-        "tier": 2,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 37,
-                "name": "Pyramid",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 41,
-                "name": "Spawn",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 42,
-                "name": "Spawn Slant",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 41,
-                "name": "Spawn",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 41,
-                "name": "Spawn",
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 42,
-                "name": "Spawn Slant",
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 41,
-                "name": "Spawn",
-                "order": 10,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 3308,
         "map_id": 1,
         "name": "Filifun Waave",
@@ -13421,62 +13335,6 @@
                 "trigger_id": 13,
                 "name": "Deagle 1st",
                 "order": 3,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 3786,
-        "map_id": 1,
-        "name": "2nd through deagle to 1st from strafe",
-        "date": "2020-12-22T00:00:00.000Z",
-        "author": "zSkyworld.com",
-        "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
-        "active": 1,
-        "ranked": 1,
-        "tier": 3,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 15,
-                "name": "Deagle 2nd",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 13,
-                "name": "Deagle 1st",
-                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -41548,6 +41406,56 @@
         ]
     },
     {
+        "id": 12376,
+        "map_id": 1,
+        "name": "Awp recall",
+        "date": "2025-03-31T14:42:06.000Z",
+        "author": "LarzZz",
+        "author_id": 181,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3,
+                "name": "Awp Ramp Wall",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4094,
         "map_id": 1,
         "name": "0tecH Go Home",
@@ -51245,6 +51153,92 @@
                 "trigger_id": 27,
                 "name": "Main Ramp Slant",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 3169,
+        "map_id": 1,
+        "name": "Exported so Beaugosse",
+        "date": "2020-12-22T00:00:00.000Z",
+        "author": "zSkyworld.com",
+        "author_id": null,
+        "last_updated": "2025-03-28T15:45:11.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 42,
+                "name": "Spawn Slant",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 42,
+                "name": "Spawn Slant",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 10,
                 "passthrough": 0
             }
         ]
@@ -66812,6 +66806,62 @@
         ]
     },
     {
+        "id": 3786,
+        "map_id": 1,
+        "name": "2nd through deagle to 1st from strafe",
+        "date": "2020-12-22T00:00:00.000Z",
+        "author": "zSkyworld.com",
+        "author_id": null,
+        "last_updated": "2025-03-28T15:44:22.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4274,
         "map_id": 1,
         "name": "3rd under deagle to Tobe Go Home to opposite awp box",
@@ -78202,6 +78252,92 @@
         ]
     },
     {
+        "id": 12355,
+        "map_id": 1,
+        "name": "Platform to awpx3 from strafe",
+        "date": "2025-03-26T15:20:45.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 34,
+                "name": "Platform",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 28,
+                "name": "Map Divide",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 28,
+                "name": "Map Divide",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4342,
         "map_id": 1,
         "name": "Platform to pool from strafe",
@@ -86460,6 +86596,68 @@
         ]
     },
     {
+        "id": 4520,
+        "map_id": 1,
+        "name": "Nothing Is Impossible",
+        "date": "2020-12-22T00:00:00.000Z",
+        "author": "zSkyworld.com",
+        "author_id": null,
+        "last_updated": "2025-03-28T15:46:56.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "name": "Spawn Water",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4392,
         "map_id": 1,
         "name": "OG Awpx2 from spawn",
@@ -89113,6 +89311,68 @@
                 "trigger_id": 27,
                 "name": "Main Ramp Slant",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12352,
+        "map_id": 1,
+        "name": "Egyptian Waave Walk from Main Spine",
+        "date": "2025-03-25T22:31:22.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-03-25T22:31:30.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 882,
+                "name": "Main Ramp Spine",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -103294,6 +103554,98 @@
         ]
     },
     {
+        "id": 12350,
+        "map_id": 1,
+        "name": "Flogan Divide Sign Rise Skittles",
+        "date": "2025-03-25T20:54:23.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-03-25T20:57:17.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 28,
+                "name": "Map Divide",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4538,
         "map_id": 1,
         "name": "Furby Exy Rise from 4th",
@@ -107335,68 +107687,6 @@
                 "trigger_id": 41,
                 "name": "Spawn",
                 "order": 8,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 4520,
-        "map_id": 1,
-        "name": "Nothing Is Impossible",
-        "date": "2020-12-22T00:00:00.000Z",
-        "author": "zSkyworld.com",
-        "author_id": null,
-        "last_updated": null,
-        "last_updated_author_id": null,
-        "active": 1,
-        "ranked": 1,
-        "tier": 8,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 41,
-                "name": "Spawn",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 37,
-                "name": "Pyramid",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 11,
-                "name": "Behind Pyramid",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 37,
-                "name": "Pyramid",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 45,
-                "name": "Spawn Water",
-                "order": 6,
                 "passthrough": 0
             }
         ]
