@@ -7256,6 +7256,68 @@
         ]
     },
     {
+        "id": 12387,
+        "map_id": 1,
+        "name": "Flicking the bean",
+        "date": "2025-04-04T17:03:32.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 3330,
         "map_id": 1,
         "name": "Gator",
@@ -13093,6 +13155,86 @@
                 "trigger_id": 6,
                 "name": "Awpbox Slant",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12390,
+        "map_id": 1,
+        "name": "Flicking the bean deagle wrap",
+        "date": "2025-04-04T17:08:59.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": "2025-04-04T19:30:07.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -27418,6 +27560,68 @@
         ]
     },
     {
+        "id": 12388,
+        "map_id": 1,
+        "name": "Hard Flicking the bean",
+        "date": "2025-04-04T17:07:57.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": "2025-04-04T17:33:37.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 3612,
         "map_id": 1,
         "name": "Hard Habibi",
@@ -33136,8 +33340,8 @@
         "date": "2020-12-22T00:00:00.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated": "2022-08-06T23:38:56.000Z",
-        "last_updated_author_id": 5,
+        "last_updated": "2025-04-08T09:18:56.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
         "ranked": 1,
         "tier": 3,
@@ -33172,6 +33376,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 34,
                 "name": "Platform",
                 "order": 4,
@@ -33198,8 +33408,8 @@
         "date": "2020-12-22T00:00:00.000Z",
         "author": "zSkyworld.com",
         "author_id": null,
-        "last_updated": "2022-08-06T23:39:03.000Z",
-        "last_updated_author_id": 5,
+        "last_updated": "2025-04-08T09:15:40.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
         "ranked": 1,
         "tier": 3,
@@ -33232,6 +33442,12 @@
                 "name": "Thru Deagle 2",
                 "order": 3,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 3,
+                "passthrough": 1
             },
             {
                 "trigger_id": 34,
@@ -41451,6 +41667,104 @@
                 "trigger_id": 35,
                 "name": "Pool",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12391,
+        "map_id": 1,
+        "name": "Flicking the bean deagle wrap x2",
+        "date": "2025-04-04T17:09:58.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 3,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -66664,6 +66978,198 @@
         ]
     },
     {
+        "id": 12393,
+        "map_id": 1,
+        "name": "Bean the Flicking",
+        "date": "2025-04-04T17:31:06.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12395,
+        "map_id": 1,
+        "name": "flicking the bean at home",
+        "date": "2025-04-04T19:14:55.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 61,
+                "name": "Wedge 1st",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 61,
+                "name": "Wedge 1st",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12394,
+        "map_id": 1,
+        "name": "Pro Flicking the bean to Awp",
+        "date": "2025-04-04T18:50:36.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 17,
+                "name": "Deagle 3rd",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6478,
         "map_id": 1,
         "name": "+leftbind",
@@ -82590,6 +83096,192 @@
         ]
     },
     {
+        "id": 12392,
+        "map_id": 1,
+        "name": "Flicking the chrome bean",
+        "date": "2025-04-04T17:10:41.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": "2025-04-04T17:10:47.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 4,
+                "name": "Awp Ramp Water",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12397,
+        "map_id": 1,
+        "name": "Flicking the Flogan",
+        "date": "2025-04-04T19:30:57.000Z",
+        "author": "FISHMAN",
+        "author_id": 49,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12389,
+        "map_id": 1,
+        "name": "Pro Flicking the bean",
+        "date": "2025-04-04T17:08:14.000Z",
+        "author": "lovely bean",
+        "author_id": 33967,
+        "last_updated": "2025-04-04T18:48:45.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 3,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 17,
+                "name": "Deagle 3rd",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2,
+                "name": "Awp Ramp Slant",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 6,
+                "name": "Awpbox Slant",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4433,
         "map_id": 1,
         "name": "6th around 1st to deagle from strafe",
@@ -86591,68 +87283,6 @@
                 "trigger_id": 26,
                 "name": "Main Ramp",
                 "order": 10,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 4520,
-        "map_id": 1,
-        "name": "Nothing Is Impossible",
-        "date": "2020-12-22T00:00:00.000Z",
-        "author": "zSkyworld.com",
-        "author_id": null,
-        "last_updated": "2025-03-28T15:46:56.000Z",
-        "last_updated_author_id": 123,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 41,
-                "name": "Spawn",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 37,
-                "name": "Pyramid",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 11,
-                "name": "Behind Pyramid",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 37,
-                "name": "Pyramid",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 26,
-                "name": "Main Ramp",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 45,
-                "name": "Spawn Water",
-                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -96248,6 +96878,68 @@
         ]
     },
     {
+        "id": 12396,
+        "map_id": 1,
+        "name": "Flicking the Flogan to water",
+        "date": "2025-04-04T19:26:23.000Z",
+        "author": "FISHMAN",
+        "author_id": 49,
+        "last_updated": "2025-04-04T19:51:06.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "name": "Spawn Water",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4941,
         "map_id": 1,
         "name": "Flogan Divide Sign Rise",
@@ -104542,6 +105234,68 @@
         ]
     },
     {
+        "id": 4520,
+        "map_id": 1,
+        "name": "Nothing Is Impossible",
+        "date": "2020-12-22T00:00:00.000Z",
+        "author": "zSkyworld.com",
+        "author_id": null,
+        "last_updated": "2025-04-04T18:47:13.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 41,
+                "name": "Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 11,
+                "name": "Behind Pyramid",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 45,
+                "name": "Spawn Water",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4512,
         "map_id": 1,
         "name": "Orange Divide Exy Rise",
@@ -106269,6 +107023,80 @@
                 "trigger_id": 35,
                 "name": "Pool",
                 "order": 12,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12398,
+        "map_id": 1,
+        "name": "Flicking the Flogan Skittles",
+        "date": "2025-04-04T19:54:11.000Z",
+        "author": "FISHMAN",
+        "author_id": 49,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 32,
+                "name": "Over Spawn",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 43,
+                "name": "Spawn Sides",
+                "order": 6,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 7,
                 "passthrough": 0
             }
         ]

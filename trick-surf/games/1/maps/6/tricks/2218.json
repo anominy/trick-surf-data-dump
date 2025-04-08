@@ -5,15 +5,15 @@
     "date": "2022-03-03T18:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2022-05-19T09:51:52.000Z",
-    "last_updated_author_id": 209,
+    "last_updated": "2025-04-02T10:10:20.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "21",
-    "players_completed": "16",
+    "completions": "23",
+    "players_completed": "18",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -47,9 +47,15 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 532,
+            "name": "Left Ramp 3",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 556,
             "name": "Shotgun Platform",
-            "order": 5,
+            "order": 6,
             "passthrough": 0
         }
     ]

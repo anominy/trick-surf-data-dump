@@ -1,0 +1,62 @@
+{
+    "id": 12396,
+    "map_id": 1,
+    "name": "Flicking the Flogan to water",
+    "date": "2025-04-04T19:26:23.000Z",
+    "author": "FISHMAN",
+    "author_id": 49,
+    "last_updated": "2025-04-04T19:51:06.000Z",
+    "last_updated_author_id": 123,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "57",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 37,
+            "name": "Pyramid",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 48,
+            "name": "Top",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 13,
+            "name": "Deagle 1st",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 46,
+            "name": "Thru Deagle 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 47,
+            "name": "Thru Deagle 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 15,
+            "name": "Deagle 2nd",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 45,
+            "name": "Spawn Water",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

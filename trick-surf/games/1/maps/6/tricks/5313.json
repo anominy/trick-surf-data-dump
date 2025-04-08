@@ -5,15 +5,15 @@
     "date": "2022-03-31T17:51:04.000Z",
     "author": "Addicted",
     "author_id": 209,
-    "last_updated": "2022-03-31T17:58:33.000Z",
-    "last_updated_author_id": 209,
+    "last_updated": "2025-04-01T13:43:10.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "19",
-    "players_completed": "16",
+    "completions": "21",
+    "players_completed": "18",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -29,21 +29,33 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 537,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 558,
             "name": "Sky Platform 2",
-            "order": 2,
+            "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
             "name": "Main Ramp",
-            "order": 3,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 537,
+            "name": "Main Ramp",
+            "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 558,
             "name": "Sky Platform 2",
-            "order": 4,
+            "order": 6,
             "passthrough": 0
         }
     ]

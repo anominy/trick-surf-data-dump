@@ -3,17 +3,17 @@
     "map_id": 6,
     "name": "Gecko",
     "date": "2022-04-04T13:00:45.000Z",
-    "author": "LarzZz^",
+    "author": "LarzZz",
     "author_id": 181,
-    "last_updated": "2022-04-04T13:18:43.000Z",
-    "last_updated_author_id": 181,
+    "last_updated": "2025-04-02T05:53:53.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "11",
-    "players_completed": "8",
+    "completions": "12",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -47,15 +47,21 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 537,
+            "name": "Main Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 541,
             "name": "Over Fence",
-            "order": 5,
+            "order": 6,
             "passthrough": 0
         },
         {
             "trigger_id": 560,
             "name": "Spawn",
-            "order": 6,
+            "order": 7,
             "passthrough": 0
         }
     ]

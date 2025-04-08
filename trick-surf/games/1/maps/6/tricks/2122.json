@@ -5,15 +5,15 @@
     "date": "2022-03-03T18:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2022-03-11T13:47:31.000Z",
-    "last_updated_author_id": 181,
+    "last_updated": "2025-04-02T09:56:06.000Z",
+    "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "45",
-    "players_completed": "23",
+    "completions": "47",
+    "players_completed": "25",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -29,21 +29,33 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 537,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 563,
             "name": "Top",
-            "order": 2,
+            "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 537,
             "name": "Main Ramp",
-            "order": 3,
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 537,
+            "name": "Main Ramp",
+            "order": 5,
             "passthrough": 0
         },
         {
             "trigger_id": 560,
             "name": "Spawn",
-            "order": 4,
+            "order": 6,
             "passthrough": 0
         }
     ]

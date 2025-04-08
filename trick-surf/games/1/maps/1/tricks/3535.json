@@ -5,15 +5,15 @@
     "date": "2020-12-22T00:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2022-08-06T23:39:03.000Z",
-    "last_updated_author_id": 5,
+    "last_updated": "2025-04-08T09:15:40.000Z",
+    "last_updated_author_id": 123,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "39",
-    "players_completed": "19",
+    "completions": "42",
+    "players_completed": "20",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -39,6 +39,12 @@
             "name": "Thru Deagle 2",
             "order": 3,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 37,
+            "name": "Pyramid",
+            "order": 3,
+            "passthrough": 1
         },
         {
             "trigger_id": 34,

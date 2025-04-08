@@ -5,8 +5,8 @@
     "date": "2022-03-03T18:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2025-04-02T09:54:50.000Z",
+    "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
     "tier": 3,
@@ -29,15 +29,21 @@
             "passthrough": 0
         },
         {
+            "trigger_id": 537,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
             "trigger_id": 495,
             "name": "Behind Main Ramp",
-            "order": 2,
+            "order": 3,
             "passthrough": 0
         },
         {
             "trigger_id": 519,
             "name": "Inside Checkered Ramp Water",
-            "order": 3,
+            "order": 4,
             "passthrough": 0
         }
     ]
