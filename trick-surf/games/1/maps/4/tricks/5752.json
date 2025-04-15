@@ -12,8 +12,8 @@
     "tier": 1,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "708",
-    "players_completed": "128",
+    "completions": "738",
+    "players_completed": "130",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,12 +27,6 @@
             "name": "South Box",
             "order": 1,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 305,
-            "name": "East Ramp",
-            "order": 1,
-            "passthrough": 1
         },
         {
             "trigger_id": 398,
@@ -103,6 +97,12 @@
         {
             "trigger_id": 388,
             "name": "V Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 305,
+            "name": "East Ramp",
             "order": 1,
             "passthrough": 1
         }

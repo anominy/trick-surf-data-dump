@@ -1,0 +1,38 @@
+{
+    "id": 12477,
+    "map_id": 10,
+    "name": "The Cigarette",
+    "date": "2025-04-14T18:02:43.000Z",
+    "author": "whatever dude",
+    "author_id": 24358,
+    "last_updated": "2025-04-14T18:13:08.000Z",
+    "last_updated_author_id": 480,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1359,
+            "name": "N Tower Alley Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1338,
+            "name": "N Purple Ramp 3",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2221,
+            "name": "N Purple Ramp 4 Slant",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

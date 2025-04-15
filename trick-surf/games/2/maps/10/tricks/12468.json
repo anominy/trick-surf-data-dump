@@ -1,0 +1,56 @@
+{
+    "id": 12468,
+    "map_id": 10,
+    "name": "Cake's Double Boost",
+    "date": "2025-04-13T02:59:35.000Z",
+    "author": "AC39",
+    "author_id": 33895,
+    "last_updated": "2025-04-13T03:12:22.000Z",
+    "last_updated_author_id": 4820,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1599,
+            "name": "SE Rooftops",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1600,
+            "name": "SE Rooftops Booster",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1207,
+            "name": "C Orange Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1409,
+            "name": "NE Red Ramp 5",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1371,
+            "name": "N Tower Triangle 3",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

@@ -6328,14 +6328,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2315,
-                "name": "HealBot Ramp South",
+                "trigger_id": 2314,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 2314,
-                "name": "HealBot Ramp North",
+                "trigger_id": 2315,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
@@ -8141,7 +8141,7 @@
         "max_prestrafe": 406,
         "completions": "0",
         "players_completed": "0",
-        "average_rating": "0.0000",
+        "average_rating": "5.0000",
         "sequence": [
             {
                 "trigger_id": 819,

@@ -352,14 +352,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 47,
-                "name": "Thru Deagle 2",
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 46,
-                "name": "Thru Deagle 1",
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
                 "order": 3,
                 "passthrough": 1
             }
@@ -12275,7 +12275,7 @@
         "max_prestrafe": 406,
         "completions": "0",
         "players_completed": "0",
-        "average_rating": "0.0000",
+        "average_rating": "5.0000",
         "sequence": [
             {
                 "trigger_id": 48,
@@ -41667,6 +41667,118 @@
                 "trigger_id": 35,
                 "name": "Pool",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12454,
+        "map_id": 1,
+        "name": "Dog Gap T1000",
+        "date": "2025-04-12T20:56:40.000Z",
+        "author": "Schewpid",
+        "author_id": 25977,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12456,
+        "map_id": 1,
+        "name": "Reverse Deagle Wrap To 3rd",
+        "date": "2025-04-12T21:00:05.000Z",
+        "author": "LarzZz",
+        "author_id": 181,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 47,
+                "name": "Thru Deagle 2",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 17,
+                "name": "Deagle 3rd",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -86556,6 +86668,56 @@
         ]
     },
     {
+        "id": 12449,
+        "map_id": 1,
+        "name": "Jaw Jacker",
+        "date": "2025-04-11T23:46:12.000Z",
+        "author": "Dr Mulped",
+        "author_id": 70,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 48,
+                "name": "Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 42,
+                "name": "Spawn Slant",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 26,
+                "name": "Main Ramp",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 40,
+                "name": "Sign",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4418,
         "map_id": 1,
         "name": "Legacy Rise",
@@ -94659,6 +94821,86 @@
                 "trigger_id": 45,
                 "name": "Spawn Water",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12457,
+        "map_id": 1,
+        "name": "Impossible Stairway to Heaven",
+        "date": "2025-04-12T21:34:11.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-04-12T21:35:58.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 24,
+                "name": "Deagle 6th Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 21,
+                "name": "Deagle 5th",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 19,
+                "name": "Deagle 4th",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 17,
+                "name": "Deagle 3rd",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 15,
+                "name": "Deagle 2nd",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 13,
+                "name": "Deagle 1st",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 46,
+                "name": "Thru Deagle 1",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 34,
+                "name": "Platform",
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -103950,6 +104192,62 @@
         ]
     },
     {
+        "id": 12448,
+        "map_id": 1,
+        "name": "dep dipped in the pier",
+        "date": "2025-04-11T22:44:48.000Z",
+        "author": "Natsu",
+        "author_id": 123,
+        "last_updated": "2025-04-11T22:56:14.000Z",
+        "last_updated_author_id": 123,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 35,
+                "name": "Pool",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 61,
+                "name": "Wedge 1st",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1,
+                "name": "Awp Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 23,
+                "name": "Deagle 6th",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 37,
+                "name": "Pyramid",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 4585,
         "map_id": 1,
         "name": "Divide Skittles from 3rd",
@@ -110420,10 +110718,10 @@
         "date": "2025-03-23T10:22:48.000Z",
         "author": "Mason",
         "author_id": 4140,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-04-12T21:39:19.000Z",
+        "last_updated_author_id": 123,
         "active": 1,
-        "ranked": 0,
+        "ranked": 1,
         "tier": 8,
         "subtier": 2,
         "max_prestrafe": 406,
@@ -112033,44 +112331,6 @@
                 "trigger_id": 6,
                 "name": "Awpbox Slant",
                 "order": 5,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 11773,
-        "map_id": 1,
-        "name": "J-Strafe",
-        "date": "2024-11-06T21:08:48.000Z",
-        "author": "Gatorlangman",
-        "author_id": null,
-        "last_updated": "2024-11-14T12:13:55.000Z",
-        "last_updated_author_id": 457,
-        "active": 1,
-        "ranked": 0,
-        "tier": 9,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 48,
-                "name": "Top",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 35,
-                "name": "Pool",
-                "order": 2,
                 "passthrough": 0
             }
         ]

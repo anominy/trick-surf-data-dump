@@ -1,0 +1,56 @@
+{
+    "id": 12448,
+    "map_id": 1,
+    "name": "dep dipped in the pier",
+    "date": "2025-04-11T22:44:48.000Z",
+    "author": "Natsu",
+    "author_id": 123,
+    "last_updated": "2025-04-11T22:56:14.000Z",
+    "last_updated_author_id": 123,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 3,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1,
+            "name": "Awp Ramp",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 35,
+            "name": "Pool",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 61,
+            "name": "Wedge 1st",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "name": "Awp Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 23,
+            "name": "Deagle 6th",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 37,
+            "name": "Pyramid",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

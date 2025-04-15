@@ -1,0 +1,56 @@
+{
+    "id": 12463,
+    "map_id": 10,
+    "name": "Blowhole",
+    "date": "2025-04-13T02:17:38.000Z",
+    "author": "fish",
+    "author_id": 30043,
+    "last_updated": "2025-04-13T03:04:03.000Z",
+    "last_updated_author_id": 4820,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1395,
+            "name": "NE Crane Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1394,
+            "name": "NE Crane Box Top",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1756,
+            "name": "NE Green Teleporter",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1513,
+            "name": "NW Yellow Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1514,
+            "name": "NW Yellow Ramp 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1441,
+            "name": "NW Black Ramp 2 Floor",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}
