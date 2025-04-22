@@ -1,0 +1,68 @@
+{
+    "id": 12493,
+    "map_id": 10,
+    "name": "Destination Everest",
+    "date": "2025-04-17T00:59:30.000Z",
+    "author": "weatherman115",
+    "author_id": 183,
+    "last_updated": "2025-04-17T01:32:32.000Z",
+    "last_updated_author_id": 147,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1601,
+            "name": "SE Spawn Brown Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1560,
+            "name": "SE Brown Ramp 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1532,
+            "name": "S Fort Top",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1222,
+            "name": "C Strip Through Beams",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1209,
+            "name": "C Orange Ramp 3",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1226,
+            "name": "C Strip Top Light Pillar",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

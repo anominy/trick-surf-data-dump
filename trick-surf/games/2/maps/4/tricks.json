@@ -86,6 +86,24 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 318,
+                "name": "In-Ground Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 305,
+                "name": "East Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 398,
                 "name": "West Ramp 3",
                 "order": 1,
@@ -142,24 +160,6 @@
             {
                 "trigger_id": 395,
                 "name": "West Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 318,
-                "name": "In-Ground Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 388,
-                "name": "V Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 305,
-                "name": "East Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -18121,6 +18121,62 @@
                 "trigger_id": 333,
                 "name": "Stage 3 Platform",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12505,
+        "map_id": 4,
+        "name": "Hop In",
+        "date": "2025-04-18T20:05:29.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 338,
+                "name": "Stage 4 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 287,
+                "name": "Banister",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1134,
+                "name": "Platform Steps",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2403,
+                "name": "Platform Elbows Pillars",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1135,
+                "name": "Small Cylinder",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 308,
+                "name": "Funbox Lower Top",
+                "order": 5,
                 "passthrough": 0
             }
         ]

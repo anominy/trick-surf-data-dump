@@ -13,8 +13,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "852",
-        "players_completed": "160",
+        "completions": "856",
+        "players_completed": "162",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -69,8 +69,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "738",
-        "players_completed": "130",
+        "completions": "740",
+        "players_completed": "132",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -84,12 +84,6 @@
                 "name": "South Box",
                 "order": 1,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 398,
-                "name": "West Ramp 3",
-                "order": 1,
-                "passthrough": 1
             },
             {
                 "trigger_id": 296,
@@ -162,6 +156,12 @@
                 "name": "East Ramp",
                 "order": 1,
                 "passthrough": 1
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 1,
+                "passthrough": 1
             }
         ]
     },
@@ -223,8 +223,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "113",
-        "players_completed": "35",
+        "completions": "114",
+        "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -267,8 +267,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "341",
-        "players_completed": "123",
+        "completions": "346",
+        "players_completed": "125",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -329,8 +329,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "325",
-        "players_completed": "41",
+        "completions": "360",
+        "players_completed": "42",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -397,8 +397,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "116",
-        "players_completed": "35",
+        "completions": "118",
+        "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -447,8 +447,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1483",
-        "players_completed": "263",
+        "completions": "1484",
+        "players_completed": "264",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -583,8 +583,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "847",
-        "players_completed": "204",
+        "completions": "848",
+        "players_completed": "205",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -639,8 +639,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "642",
-        "players_completed": "165",
+        "completions": "643",
+        "players_completed": "166",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -733,7 +733,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1386",
+        "completions": "1543",
         "players_completed": "123",
         "average_rating": "0.0000",
         "sequence": [
@@ -2783,7 +2783,7 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "2458",
+        "completions": "2463",
         "players_completed": "98",
         "average_rating": "0.0000",
         "sequence": [
@@ -3389,7 +3389,7 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "201",
+        "completions": "202",
         "players_completed": "20",
         "average_rating": "0.0000",
         "sequence": [
@@ -5163,8 +5163,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "224",
-        "players_completed": "48",
+        "completions": "225",
+        "players_completed": "49",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -6163,8 +6163,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "70",
-        "players_completed": "39",
+        "completions": "72",
+        "players_completed": "40",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18126,6 +18126,62 @@
         ]
     },
     {
+        "id": 12505,
+        "map_id": 4,
+        "name": "Hop In",
+        "date": "2025-04-18T20:05:29.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "6",
+        "players_completed": "2",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 338,
+                "name": "Stage 4 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 287,
+                "name": "Banister",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1134,
+                "name": "Platform Steps",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2403,
+                "name": "Platform Elbows Pillars",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1135,
+                "name": "Small Cylinder",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 308,
+                "name": "Funbox Lower Top",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8781,
         "map_id": 4,
         "name": "At The End, There's Nothing",
@@ -18257,8 +18313,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "31",
-        "players_completed": "18",
+        "completions": "32",
+        "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18595,8 +18651,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "15",
-        "players_completed": "11",
+        "completions": "16",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19223,8 +19279,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "15",
-        "players_completed": "6",
+        "completions": "16",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22685,8 +22741,8 @@
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "6",
-        "players_completed": "6",
+        "completions": "7",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23135,8 +23191,8 @@
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "9",
-        "players_completed": "7",
+        "completions": "10",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23429,8 +23485,8 @@
         "tier": 8,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "10",
-        "players_completed": "10",
+        "completions": "13",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {

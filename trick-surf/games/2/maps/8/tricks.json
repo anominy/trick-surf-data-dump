@@ -7116,10 +7116,10 @@
         "map_id": 8,
         "name": "Why Make It Simple",
         "date": "2024-07-25T16:59:59.000Z",
-        "author": "skin",
+        "author": "IziYani",
         "author_id": 24229,
-        "last_updated": null,
-        "last_updated_author_id": 147,
+        "last_updated": "2025-04-21T10:09:58.000Z",
+        "last_updated_author_id": 13870,
         "active": 1,
         "ranked": 1,
         "tier": 2,
@@ -91016,6 +91016,62 @@
         ]
     },
     {
+        "id": 12515,
+        "map_id": 8,
+        "name": "Another Cat Rise Trick",
+        "date": "2025-04-19T09:14:06.000Z",
+        "author": "sadisfaction",
+        "author_id": 13870,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 108,
+                "name": "Alpha UFO Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 725,
+                "name": "Bonus Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 743,
+                "name": "Sriracha",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 785,
+                "name": "Triomino 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Triomino 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 11446,
         "map_id": 8,
         "name": "Another Reverb Remix",
@@ -105513,6 +105569,50 @@
                 "trigger_id": 714,
                 "name": "Mario Room Teleporter",
                 "order": 11,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12527,
+        "map_id": 8,
+        "name": "Impossible Banana Return To Box",
+        "date": "2025-04-21T12:41:29.000Z",
+        "author": "на ее трупе расте",
+        "author_id": 1390,
+        "last_updated": "2025-04-21T12:44:10.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 780,
+                "name": "Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 779,
+                "name": "Tower Box 1",
+                "order": 3,
                 "passthrough": 0
             }
         ]

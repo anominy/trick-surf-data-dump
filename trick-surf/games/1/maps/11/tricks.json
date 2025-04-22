@@ -13,8 +13,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "565",
-        "players_completed": "131",
+        "completions": "566",
+        "players_completed": "132",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -63,8 +63,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "243",
-        "players_completed": "81",
+        "completions": "244",
+        "players_completed": "82",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -113,8 +113,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "449",
-        "players_completed": "101",
+        "completions": "450",
+        "players_completed": "102",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -207,7 +207,7 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": null,
-        "completions": "1419",
+        "completions": "1420",
         "players_completed": "155",
         "average_rating": "0.0000",
         "sequence": [
@@ -371,8 +371,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "2809",
-        "players_completed": "182",
+        "completions": "2810",
+        "players_completed": "183",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -15296,6 +15296,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2286,
+                "name": "Above Fence North Front",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
                 "order": 8,
@@ -15310,12 +15316,6 @@
             {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2286,
-                "name": "Above Fence North Front",
                 "order": 8,
                 "passthrough": 2
             }
@@ -25414,14 +25414,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2290,
-                "name": "Big H Curvy Boi Out",
+                "trigger_id": 1791,
+                "name": "Big Drop In",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1791,
-                "name": "Big Drop In",
+                "trigger_id": 2290,
+                "name": "Big H Curvy Boi Out",
                 "order": 3,
                 "passthrough": 1
             },
