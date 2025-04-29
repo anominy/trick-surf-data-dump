@@ -3,10 +3,10 @@
     "map_id": 4,
     "name": "Push It To The Limit",
     "date": "2022-07-04T18:06:45.000Z",
-    "author": "Boomer",
+    "author": "ttv/the_boomer (ttv/the_boomer)",
     "author_id": 1663,
-    "last_updated": "2023-08-01T15:28:21.000Z",
-    "last_updated_author_id": 174,
+    "last_updated": "2025-04-26T08:47:02.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 7,
@@ -27,6 +27,12 @@
             "name": "Southwest Cannon Push",
             "order": 1,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1142,
+            "name": "Southwest Lower Slant",
+            "order": 1,
+            "passthrough": 1
         },
         {
             "trigger_id": 318,

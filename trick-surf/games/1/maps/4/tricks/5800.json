@@ -3,17 +3,17 @@
     "map_id": 4,
     "name": "Push it Real Good",
     "date": "2022-07-03T18:41:19.000Z",
-    "author": "Xiao",
+    "author": "Lucy",
     "author_id": 103,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2025-04-26T08:47:48.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "183",
-    "players_completed": "37",
+    "completions": "188",
+    "players_completed": "38",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,6 +27,12 @@
             "name": "Southwest Cannon Push",
             "order": 1,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1142,
+            "name": "Southwest Lower Slant",
+            "order": 1,
+            "passthrough": 1
         },
         {
             "trigger_id": 318,

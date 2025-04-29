@@ -69,8 +69,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "740",
-        "players_completed": "132",
+        "completions": "744",
+        "players_completed": "133",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -84,6 +84,30 @@
                 "name": "South Box",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "name": "In-Ground Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 305,
+                "name": "East Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 296,
@@ -136,30 +160,6 @@
             {
                 "trigger_id": 395,
                 "name": "West Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 318,
-                "name": "In-Ground Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 388,
-                "name": "V Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 305,
-                "name": "East Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 398,
-                "name": "West Ramp 3",
                 "order": 1,
                 "passthrough": 1
             }
@@ -733,8 +733,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1543",
-        "players_completed": "123",
+        "completions": "1699",
+        "players_completed": "124",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2783,7 +2783,7 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "2463",
+        "completions": "2477",
         "players_completed": "98",
         "average_rating": "0.0000",
         "sequence": [
@@ -3595,8 +3595,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "54",
-        "players_completed": "21",
+        "completions": "60",
+        "players_completed": "22",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -5703,7 +5703,7 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "576",
+        "completions": "580",
         "players_completed": "66",
         "average_rating": "0.0000",
         "sequence": [
@@ -7049,8 +7049,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "127",
-        "players_completed": "46",
+        "completions": "128",
+        "players_completed": "47",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7922,17 +7922,17 @@
         "map_id": 4,
         "name": "Push it Real Good",
         "date": "2022-07-03T18:41:19.000Z",
-        "author": "Xiao",
+        "author": "Lucy",
         "author_id": 103,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-04-26T08:47:48.000Z",
+        "last_updated_author_id": 2994,
         "active": 1,
         "ranked": 1,
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "183",
-        "players_completed": "37",
+        "completions": "188",
+        "players_completed": "38",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -7946,6 +7946,12 @@
                 "name": "Southwest Cannon Push",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1142,
+                "name": "Southwest Lower Slant",
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 318,
@@ -8249,8 +8255,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "64",
-        "players_completed": "39",
+        "completions": "65",
+        "players_completed": "40",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10363,8 +10369,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "242",
-        "players_completed": "33",
+        "completions": "243",
+        "players_completed": "34",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -14395,8 +14401,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "614",
-        "players_completed": "40",
+        "completions": "623",
+        "players_completed": "41",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -17953,8 +17959,8 @@
         "tier": 5,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "413",
-        "players_completed": "30",
+        "completions": "425",
+        "players_completed": "31",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18182,6 +18188,68 @@
         ]
     },
     {
+        "id": 12546,
+        "map_id": 4,
+        "name": "Cement",
+        "date": "2025-04-23T15:28:49.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated": "2025-04-23T15:30:00.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "7",
+        "players_completed": "2",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 326,
+                "name": "Ladder Platform Lower",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "name": "West Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 397,
+                "name": "West Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 396,
+                "name": "West Ramp 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "name": "Booster Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 353,
+                "name": "Lower Ramp Gravel",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8781,
         "map_id": 4,
         "name": "At The End, There's Nothing",
@@ -18195,8 +18263,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "19",
-        "players_completed": "14",
+        "completions": "20",
+        "players_completed": "15",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18257,7 +18325,7 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "62",
+        "completions": "64",
         "players_completed": "32",
         "average_rating": "0.0000",
         "sequence": [
@@ -18295,6 +18363,104 @@
                 "trigger_id": 1092,
                 "name": "Stage 1 Water",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12560,
+        "map_id": 4,
+        "name": "Bolbi Stroganovsky",
+        "date": "2025-04-24T17:35:43.000Z",
+        "author": "Neuse",
+        "author_id": 10899,
+        "last_updated": "2025-04-24T17:44:56.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "2",
+        "players_completed": "2",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 295,
+                "name": "Cannon Pillar Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "name": "Cannon Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1122,
+                "name": "Map Floor",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1084,
+                "name": "Funbox Top Slant",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "name": "Lower Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "name": "East Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1122,
+                "name": "Map Floor",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1082,
+                "name": "Funbox Lower Slant",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "name": "Cannon Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 358,
+                "name": "North Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 292,
+                "name": "Bonus Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 333,
+                "name": "Stage 3 Platform",
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -18515,8 +18681,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "78",
-        "players_completed": "28",
+        "completions": "79",
+        "players_completed": "29",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18651,8 +18817,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "16",
-        "players_completed": "12",
+        "completions": "17",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18799,8 +18965,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "20",
-        "players_completed": "16",
+        "completions": "21",
+        "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -18965,8 +19131,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "11",
-        "players_completed": "8",
+        "completions": "12",
+        "players_completed": "9",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19051,8 +19217,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "8",
-        "players_completed": "7",
+        "completions": "9",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19119,8 +19285,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "6",
-        "players_completed": "6",
+        "completions": "7",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19229,8 +19395,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "38",
-        "players_completed": "16",
+        "completions": "39",
+        "players_completed": "17",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19279,8 +19445,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "16",
-        "players_completed": "7",
+        "completions": "17",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19433,8 +19599,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "31",
-        "players_completed": "21",
+        "completions": "32",
+        "players_completed": "22",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19501,8 +19667,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "4",
-        "players_completed": "4",
+        "completions": "5",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19661,8 +19827,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "21",
-        "players_completed": "12",
+        "completions": "22",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19723,8 +19889,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "17",
-        "players_completed": "11",
+        "completions": "18",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -19785,8 +19951,8 @@
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "15",
-        "players_completed": "13",
+        "completions": "16",
+        "players_completed": "14",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -20355,7 +20521,7 @@
         "tier": 6,
         "subtier": 2,
         "max_prestrafe": 406,
-        "completions": "83",
+        "completions": "98",
         "players_completed": "15",
         "average_rating": "0.0000",
         "sequence": [
@@ -21299,8 +21465,8 @@
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "4",
-        "players_completed": "4",
+        "completions": "5",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -21367,8 +21533,8 @@
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "8",
-        "players_completed": "4",
+        "completions": "9",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -21429,6 +21595,68 @@
                 "trigger_id": 393,
                 "name": "West Floor 2",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12534,
+        "map_id": 4,
+        "name": "Frederick Knickerbocker",
+        "date": "2025-04-23T00:14:00.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated": "2025-04-23T00:14:10.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "5",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 348,
+                "name": "Lever Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 389,
+                "name": "V Ramp Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 396,
+                "name": "West Ramp 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 397,
+                "name": "West Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 391,
+                "name": "Wall Top",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -21663,8 +21891,8 @@
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "23",
-        "players_completed": "10",
+        "completions": "24",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -21713,8 +21941,8 @@
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "4",
-        "players_completed": "4",
+        "completions": "5",
+        "players_completed": "5",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -21811,8 +22039,8 @@
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "31",
-        "players_completed": "12",
+        "completions": "32",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -21910,6 +22138,86 @@
         ]
     },
     {
+        "id": 12550,
+        "map_id": 4,
+        "name": "Adventure Time",
+        "date": "2025-04-23T21:49:47.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": "2025-04-23T21:51:10.000Z",
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "3",
+        "players_completed": "3",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 291,
+                "name": "Bonus Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 292,
+                "name": "Bonus Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 293,
+                "name": "Bonus Water",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "name": "West Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "name": "Upper Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "name": "Booster Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "name": "Lower Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 342,
+                "name": "Stage 5 Platform",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5824,
         "map_id": 4,
         "name": "Bonus Pocus",
@@ -21923,8 +22231,8 @@
         "tier": 7,
         "subtier": 2,
         "max_prestrafe": 406,
-        "completions": "90",
-        "players_completed": "30",
+        "completions": "95",
+        "players_completed": "31",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22329,8 +22637,8 @@
         "tier": 7,
         "subtier": 2,
         "max_prestrafe": 406,
-        "completions": "25",
-        "players_completed": "15",
+        "completions": "26",
+        "players_completed": "16",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22397,8 +22705,8 @@
         "tier": 7,
         "subtier": 2,
         "max_prestrafe": 406,
-        "completions": "14",
-        "players_completed": "7",
+        "completions": "15",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22527,8 +22835,8 @@
         "tier": 7,
         "subtier": 2,
         "max_prestrafe": 406,
-        "completions": "18",
-        "players_completed": "5",
+        "completions": "19",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22661,8 +22969,8 @@
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "35",
-        "players_completed": "18",
+        "completions": "37",
+        "players_completed": "19",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22848,17 +23156,17 @@
         "map_id": 4,
         "name": "Push It To The Limit",
         "date": "2022-07-04T18:06:45.000Z",
-        "author": "Boomer",
+        "author": "ttv/the_boomer (ttv/the_boomer)",
         "author_id": 1663,
-        "last_updated": "2023-08-01T15:28:21.000Z",
-        "last_updated_author_id": 174,
+        "last_updated": "2025-04-26T08:47:02.000Z",
+        "last_updated_author_id": 2994,
         "active": 1,
         "ranked": 1,
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "8",
-        "players_completed": "6",
+        "completions": "9",
+        "players_completed": "7",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22872,6 +23180,12 @@
                 "name": "Southwest Cannon Push",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1142,
+                "name": "Southwest Lower Slant",
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 318,
@@ -22919,8 +23233,8 @@
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "5",
-        "players_completed": "5",
+        "completions": "6",
+        "players_completed": "6",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -22993,8 +23307,8 @@
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "6",
-        "players_completed": "6",
+        "completions": "8",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23135,8 +23449,8 @@
         "tier": 7,
         "subtier": 3,
         "max_prestrafe": 406,
-        "completions": "12",
-        "players_completed": "8",
+        "completions": "13",
+        "players_completed": "9",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23265,8 +23579,8 @@
         "tier": 8,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "7",
-        "players_completed": "6",
+        "completions": "9",
+        "players_completed": "8",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23381,8 +23695,8 @@
         "tier": 8,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "10",
-        "players_completed": "9",
+        "completions": "12",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23485,8 +23799,8 @@
         "tier": 8,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "13",
-        "players_completed": "11",
+        "completions": "14",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23565,7 +23879,7 @@
         "tier": 8,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "24",
+        "completions": "27",
         "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [

@@ -12,8 +12,8 @@
     "tier": 5,
     "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "35",
-    "players_completed": "7",
+    "completions": "36",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -77,14 +77,14 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 1771,
-            "name": "C Strip Top Under Beam",
+            "trigger_id": 2208,
+            "name": "C Strip Top Over Beam",
             "order": 9,
             "passthrough": 2
         },
         {
-            "trigger_id": 2208,
-            "name": "C Strip Top Over Beam",
+            "trigger_id": 1771,
+            "name": "C Strip Top Under Beam",
             "order": 9,
             "passthrough": 2
         },

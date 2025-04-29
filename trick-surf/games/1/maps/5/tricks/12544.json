@@ -1,0 +1,80 @@
+{
+    "id": 12544,
+    "map_id": 5,
+    "name": "vali bop",
+    "date": "2025-04-23T15:13:48.000Z",
+    "author": "fatlonzo",
+    "author_id": 1929,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "5",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 428,
+            "name": "Jail Pool",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 429,
+            "name": "Jail Pool Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 429,
+            "name": "Jail Pool Boost",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 434,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3641,
+            "name": "Through Upper South Pool",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 430,
+            "name": "Lower Curve Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "name": "Map Divide",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3611,
+            "name": "Angle Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "name": "Map Divide",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3617,
+            "name": "Upper South Pool",
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

@@ -86,12 +86,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 318,
-                "name": "In-Ground Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 388,
                 "name": "V Ramp",
                 "order": 1,
@@ -160,6 +154,12 @@
             {
                 "trigger_id": 395,
                 "name": "West Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 318,
+                "name": "In-Ground Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -7922,10 +7922,10 @@
         "map_id": 4,
         "name": "Push it Real Good",
         "date": "2022-07-03T18:41:19.000Z",
-        "author": "Xiao",
+        "author": "Lucy",
         "author_id": 103,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-04-26T08:47:48.000Z",
+        "last_updated_author_id": 2994,
         "active": 1,
         "ranked": 1,
         "tier": 3,
@@ -7946,6 +7946,12 @@
                 "name": "Southwest Cannon Push",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1142,
+                "name": "Southwest Lower Slant",
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 318,
@@ -18182,6 +18188,68 @@
         ]
     },
     {
+        "id": 12546,
+        "map_id": 4,
+        "name": "Cement",
+        "date": "2025-04-23T15:28:49.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated": "2025-04-23T15:30:00.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 326,
+                "name": "Ladder Platform Lower",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "name": "West Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 397,
+                "name": "West Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 396,
+                "name": "West Ramp 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "name": "Booster Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 353,
+                "name": "Lower Ramp Gravel",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 8781,
         "map_id": 4,
         "name": "At The End, There's Nothing",
@@ -18295,6 +18363,104 @@
                 "trigger_id": 1092,
                 "name": "Stage 1 Water",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12560,
+        "map_id": 4,
+        "name": "Bolbi Stroganovsky",
+        "date": "2025-04-24T17:35:43.000Z",
+        "author": "Neuse",
+        "author_id": 10899,
+        "last_updated": "2025-04-24T17:44:56.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 295,
+                "name": "Cannon Pillar Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "name": "Cannon Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1122,
+                "name": "Map Floor",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1084,
+                "name": "Funbox Top Slant",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "name": "Lower Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "name": "East Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1122,
+                "name": "Map Floor",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1082,
+                "name": "Funbox Lower Slant",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 296,
+                "name": "Cannon Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 358,
+                "name": "North Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 292,
+                "name": "Bonus Ramp",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 333,
+                "name": "Stage 3 Platform",
+                "order": 12,
                 "passthrough": 0
             }
         ]
@@ -21434,6 +21600,68 @@
         ]
     },
     {
+        "id": 12534,
+        "map_id": 4,
+        "name": "Frederick Knickerbocker",
+        "date": "2025-04-23T00:14:00.000Z",
+        "author": "Formal",
+        "author_id": 480,
+        "last_updated": "2025-04-23T00:14:10.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 348,
+                "name": "Lever Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 389,
+                "name": "V Ramp Top",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 396,
+                "name": "West Ramp 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 397,
+                "name": "West Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 391,
+                "name": "Wall Top",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5866,
         "map_id": 4,
         "name": "Llama's Dive Bomb",
@@ -21905,6 +22133,86 @@
                 "trigger_id": 326,
                 "name": "Ladder Platform Lower",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12550,
+        "map_id": 4,
+        "name": "Adventure Time",
+        "date": "2025-04-23T21:49:47.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": "2025-04-23T21:51:10.000Z",
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 291,
+                "name": "Bonus Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 292,
+                "name": "Bonus Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 293,
+                "name": "Bonus Water",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 388,
+                "name": "V Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 395,
+                "name": "West Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 387,
+                "name": "Upper Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 294,
+                "name": "Booster Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 350,
+                "name": "Lower Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 342,
+                "name": "Stage 5 Platform",
+                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -22848,10 +23156,10 @@
         "map_id": 4,
         "name": "Push It To The Limit",
         "date": "2022-07-04T18:06:45.000Z",
-        "author": "Boomer",
+        "author": "ttv/the_boomer (ttv/the_boomer)",
         "author_id": 1663,
-        "last_updated": "2023-08-01T15:28:21.000Z",
-        "last_updated_author_id": 174,
+        "last_updated": "2025-04-26T08:47:02.000Z",
+        "last_updated_author_id": 2994,
         "active": 1,
         "ranked": 1,
         "tier": 7,
@@ -22872,6 +23180,12 @@
                 "name": "Southwest Cannon Push",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1142,
+                "name": "Southwest Lower Slant",
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 318,

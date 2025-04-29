@@ -1,0 +1,74 @@
+{
+    "id": 12539,
+    "map_id": 10,
+    "name": "Snap My Finger",
+    "date": "2025-04-23T08:32:10.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated": "2025-04-24T08:53:03.000Z",
+    "last_updated_author_id": 147,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1547,
+            "name": "SE Spawn Roof",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1558,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1654,
+            "name": "SW Yellow Ramp 6",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2234,
+            "name": "W Large Pillar Gap SW",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2233,
+            "name": "W Large Pillar Gap South",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1670,
+            "name": "W Orange Ramp 5",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1660,
+            "name": "W Blue Ramp 4",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1633,
+            "name": "SW Middle Ledge West",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

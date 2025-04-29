@@ -1,0 +1,62 @@
+{
+    "id": 12546,
+    "map_id": 4,
+    "name": "Cement",
+    "date": "2025-04-23T15:28:49.000Z",
+    "author": "Formal",
+    "author_id": 480,
+    "last_updated": "2025-04-23T15:30:00.000Z",
+    "last_updated_author_id": 480,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "7",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 326,
+            "name": "Ladder Platform Lower",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 395,
+            "name": "West Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 398,
+            "name": "West Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 397,
+            "name": "West Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 396,
+            "name": "West Ramp 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 294,
+            "name": "Booster Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 353,
+            "name": "Lower Ramp Gravel",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

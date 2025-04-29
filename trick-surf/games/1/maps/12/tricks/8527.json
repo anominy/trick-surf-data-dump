@@ -41,18 +41,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 2883,
-            "name": "Under Red Spiral Platform",
-            "order": 3,
-            "passthrough": 2
-        },
-        {
-            "trigger_id": 2652,
-            "name": "Over Checkered Spiral Platform",
-            "order": 3,
-            "passthrough": 2
-        },
-        {
             "trigger_id": 2864,
             "name": "Under Blue Spiral Platform",
             "order": 3,
@@ -61,6 +49,18 @@
         {
             "trigger_id": 2893,
             "name": "Under White Spiral Platform",
+            "order": 3,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2883,
+            "name": "Under Red Spiral Platform",
+            "order": 3,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2652,
+            "name": "Over Checkered Spiral Platform",
             "order": 3,
             "passthrough": 2
         },
