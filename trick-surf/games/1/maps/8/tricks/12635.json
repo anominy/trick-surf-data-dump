@@ -1,0 +1,56 @@
+{
+    "id": 12635,
+    "map_id": 8,
+    "name": "Healbot Return To Top",
+    "date": "2025-05-06T11:45:00.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-06T11:52:11.000Z",
+    "last_updated_author_id": 13870,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "3",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3259,
+            "name": "UFO Roof",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 698,
+            "name": "Kevin Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Keith Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 685,
+            "name": "Healbot Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 768,
+            "name": "T2 Tower Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

@@ -2,7 +2,7 @@
     "id": 15,
     "name": "[CJUNGLE247] trick.surf | SurfTricks/Timer/Stats/100T",
     "server_ip": "142.132.204.111:27018",
-    "players_online": "1",
+    "players_online": "3",
     "map": {
         "id": 10,
         "name": "tsurf_concretejungle",
@@ -11,13 +11,25 @@
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 1,
+    "numberOfPlayers": 3,
     "passwordRequired": false,
     "players": [
         {
-            "player_id": 1177,
-            "name": "alexander",
-            "avatar_url": "https://avatars.steamstatic.com/03c6bff1c4cb3849bbfd077cb1263e6c987fbe3b_full.jpg",
+            "player_id": 27070,
+            "name": "herø",
+            "avatar_url": "https://avatars.steamstatic.com/b3851bfb93e1766d62b40ab0ef87a9cc04df1cff_full.jpg",
+            "server_id": 15
+        },
+        {
+            "player_id": 17974,
+            "name": "CrazyTroll",
+            "avatar_url": "https://avatars.steamstatic.com/889bf28942322948593844737e75e134a6a095e5_full.jpg",
+            "server_id": 15
+        },
+        {
+            "player_id": 35036,
+            "name": "Hoodoo",
+            "avatar_url": null,
             "server_id": 15
         }
     ]

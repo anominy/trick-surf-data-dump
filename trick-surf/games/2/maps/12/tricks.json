@@ -5708,12 +5708,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3030,
-                "name": "Through machine",
-                "order": 7,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 3024,
                 "name": "Through buck-wild",
                 "order": 7,
@@ -5722,6 +5716,12 @@
             {
                 "trigger_id": 3032,
                 "name": "Through shimmer",
+                "order": 7,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3030,
+                "name": "Through machine",
                 "order": 7,
                 "passthrough": 1
             }
@@ -46094,14 +46094,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2961,
-                "name": "Under Anti Grav",
+                "trigger_id": 2831,
+                "name": "Through Anti Grav Supports",
                 "order": 3,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2831,
-                "name": "Through Anti Grav Supports",
+                "trigger_id": 2961,
+                "name": "Under Anti Grav",
                 "order": 3,
                 "passthrough": 2
             },

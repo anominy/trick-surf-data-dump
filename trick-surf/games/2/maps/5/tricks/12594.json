@@ -1,0 +1,68 @@
+{
+    "id": 12594,
+    "map_id": 5,
+    "name": "Angular",
+    "date": "2025-04-29T13:03:17.000Z",
+    "author": "wiq",
+    "author_id": 1137,
+    "last_updated": "2025-04-29T13:08:36.000Z",
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 2,
+    "max_prestrafe": 262,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3638,
+            "name": "Spine Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3627,
+            "name": "Spine Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 404,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3611,
+            "name": "Angle Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "name": "Map Divide",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3611,
+            "name": "Angle Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 954,
+            "name": "Behind Side Pool",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 422,
+            "name": "Hub",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

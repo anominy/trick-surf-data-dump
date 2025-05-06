@@ -4276,6 +4276,118 @@
         ]
     },
     {
+        "id": 12634,
+        "map_id": 8,
+        "name": "Healbot Return To Front Tip",
+        "date": "2025-05-06T11:42:23.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T12:07:44.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 919,
+                "name": "Front Awp Window Tip",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12633,
+        "map_id": 8,
+        "name": "Healbot Return To Rear Tip",
+        "date": "2025-05-06T11:38:53.000Z",
+        "author": "рапсодия отчаяни",
+        "author_id": 13870,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3213,
+                "name": "Rear Awp Window Tip",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10699,
         "map_id": 8,
         "name": "I am so PUZZLED",
@@ -7344,6 +7456,62 @@
         ]
     },
     {
+        "id": 12632,
+        "map_id": 8,
+        "name": "Healbot To Radio",
+        "date": "2025-05-06T11:35:45.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3245,
+                "name": "Telepad Tower",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2832,
         "map_id": 8,
         "name": "90210",
@@ -8650,6 +8818,44 @@
             {
                 "trigger_id": 756,
                 "name": "T1 Right Rail",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12631,
+        "map_id": 8,
+        "name": "Bonus Stop",
+        "date": "2025-05-06T11:33:21.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 661,
+                "name": "Bonus Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 746,
+                "name": "Starlight South",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 725,
+                "name": "Bonus Ramp",
                 "order": 2,
                 "passthrough": 0
             }
@@ -31386,6 +31592,38 @@
         ]
     },
     {
+        "id": 12630,
+        "map_id": 8,
+        "name": "Cube Strafe",
+        "date": "2025-05-06T11:29:05.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T11:58:25.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 660,
+                "name": "Bonus Cube",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 735,
+                "name": "Side Spawn Ladder",
+                "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10181,
         "map_id": 8,
         "name": "Cursed Boulder",
@@ -38501,6 +38739,62 @@
                 "trigger_id": 682,
                 "name": "Gun Room Sign",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12636,
+        "map_id": 8,
+        "name": "Healbot Return To Awp",
+        "date": "2025-05-06T11:54:35.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -68770,6 +69064,62 @@
         ]
     },
     {
+        "id": 12635,
+        "map_id": 8,
+        "name": "Healbot Return To Top",
+        "date": "2025-05-06T11:45:00.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T11:52:11.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 3022,
         "map_id": 8,
         "name": "1dayumay",
@@ -84942,6 +85292,38 @@
         ]
     },
     {
+        "id": 12626,
+        "map_id": 8,
+        "name": "tanigina vagina",
+        "date": "2025-05-05T14:53:42.000Z",
+        "author": "taniga",
+        "author_id": 25029,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3245,
+                "name": "Telepad Tower",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 695,
+                "name": "Jail Teleporter",
+                "order": 1,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10151,
         "map_id": 8,
         "name": "Totem Return",
@@ -87515,6 +87897,74 @@
                 "trigger_id": 648,
                 "name": "Awp Platform",
                 "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12613,
+        "map_id": 8,
+        "name": "haise",
+        "date": "2025-05-03T10:55:55.000Z",
+        "author": "rest in peace",
+        "author_id": 13870,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 780,
+                "name": "Tower Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 653,
+                "name": "Behind Banana Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 780,
+                "name": "Tower Platform",
+                "order": 7,
                 "passthrough": 0
             }
         ]

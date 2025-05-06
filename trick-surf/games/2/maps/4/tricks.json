@@ -86,6 +86,30 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 292,
+                "name": "Bonus Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 395,
+                "name": "West Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 318,
+                "name": "In-Ground Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 388,
                 "name": "V Ramp",
                 "order": 1,
@@ -136,30 +160,6 @@
             {
                 "trigger_id": 396,
                 "name": "West Ramp 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 292,
-                "name": "Bonus Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 346,
-                "name": "Stage 6 Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 395,
-                "name": "West Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 318,
-                "name": "In-Ground Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -7746,80 +7746,6 @@
         ]
     },
     {
-        "id": 2375,
-        "map_id": 4,
-        "name": "Purple Pillars",
-        "date": "2022-06-27T18:00:00.000Z",
-        "author": "zSkyworld.com",
-        "author_id": null,
-        "last_updated": "2024-04-10T20:26:03.000Z",
-        "last_updated_author_id": 1137,
-        "active": 1,
-        "ranked": 1,
-        "tier": 3,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 345,
-                "name": "Stage 6 Platform",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 344,
-                "name": "Stage 6 Booster",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 371,
-                "name": "South Loop",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 310,
-                "name": "Green Circle",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 384,
-                "name": "Under Red Circle",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 346,
-                "name": "Stage 6 Ramp",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 306,
-                "name": "East Ramp Pillars",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 364,
-                "name": "Purple Platform",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 306,
-                "name": "East Ramp Pillars",
-                "order": 7,
-                "passthrough": 1
-            }
-        ]
-    },
-    {
         "id": 2330,
         "map_id": 4,
         "name": "Purple Skate",
@@ -11767,62 +11693,6 @@
                 "trigger_id": 339,
                 "name": "Stage 4 Upper Platform",
                 "order": 7,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 5766,
-        "map_id": 4,
-        "name": "Flick 'Ard",
-        "date": "2022-06-30T20:12:51.000Z",
-        "author": "chief .͜.",
-        "author_id": 75,
-        "last_updated": "2022-07-01T14:15:21.000Z",
-        "last_updated_author_id": 174,
-        "active": 1,
-        "ranked": 1,
-        "tier": 4,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 1094,
-                "name": "Column West Upper",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 318,
-                "name": "In-Ground Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 378,
-                "name": "Under Blue Platform",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 384,
-                "name": "Under Red Circle",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 346,
-                "name": "Stage 6 Ramp",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 367,
-                "name": "Slanted Cylinder",
-                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -18132,6 +18002,62 @@
         ]
     },
     {
+        "id": 5766,
+        "map_id": 4,
+        "name": "Flick 'Ard",
+        "date": "2022-06-30T20:12:51.000Z",
+        "author": "chefe",
+        "author_id": 75,
+        "last_updated": "2025-05-03T06:54:41.000Z",
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1094,
+                "name": "Column West Upper",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 318,
+                "name": "In-Ground Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 378,
+                "name": "Under Blue Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 384,
+                "name": "Under Red Circle",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 367,
+                "name": "Slanted Cylinder",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12505,
         "map_id": 4,
         "name": "Hop In",
@@ -18184,6 +18110,80 @@
                 "name": "Funbox Lower Top",
                 "order": 5,
                 "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 2375,
+        "map_id": 4,
+        "name": "Purple Pillars",
+        "date": "2022-06-27T18:00:00.000Z",
+        "author": "zSkyworld.com",
+        "author_id": null,
+        "last_updated": "2025-05-01T15:52:37.000Z",
+        "last_updated_author_id": 2994,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 345,
+                "name": "Stage 6 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 344,
+                "name": "Stage 6 Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 371,
+                "name": "South Loop",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 310,
+                "name": "Green Circle",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 384,
+                "name": "Under Red Circle",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 346,
+                "name": "Stage 6 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 306,
+                "name": "East Ramp Pillars",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 364,
+                "name": "Purple Platform",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 306,
+                "name": "East Ramp Pillars",
+                "order": 7,
+                "passthrough": 1
             }
         ]
     },

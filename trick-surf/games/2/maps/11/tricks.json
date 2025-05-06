@@ -1698,6 +1698,56 @@
         ]
     },
     {
+        "id": 12620,
+        "map_id": 11,
+        "name": "Woop 'n' Scoop",
+        "date": "2025-05-04T05:00:27.000Z",
+        "author": "microwae",
+        "author_id": 23542,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 2184,
+                "name": "N Upper Catwalk Back",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2020,
+                "name": "The Curviest Boi",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1794,
+                "name": "Big H Curvy Boi",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2077,
+                "name": "Big Loop Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1795,
+                "name": "Under Resi Floor",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6946,
         "map_id": 11,
         "name": "(F)or (R)eal yo",
@@ -2392,12 +2442,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2391,
-                "name": "THE CUBE Right",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
                 "order": 2,
@@ -2406,6 +2450,12 @@
             {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2391,
+                "name": "THE CUBE Right",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6124,12 +6174,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2390,
-                "name": "THE CUBE Left",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
                 "order": 2,
@@ -6138,6 +6182,12 @@
             {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2390,
+                "name": "THE CUBE Left",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6290,12 +6340,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2390,
-                "name": "THE CUBE Left",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
                 "order": 2,
@@ -6304,6 +6348,12 @@
             {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2390,
+                "name": "THE CUBE Left",
                 "order": 2,
                 "passthrough": 1
             }
@@ -15254,18 +15304,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2285,
-                "name": "Above Fence North Back",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2287,
-                "name": "Above Fence Left",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
                 "order": 5,
@@ -15274,6 +15312,18 @@
             {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2285,
+                "name": "Above Fence North Back",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2287,
+                "name": "Above Fence Left",
                 "order": 5,
                 "passthrough": 2
             },
@@ -15296,12 +15346,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2287,
-                "name": "Above Fence Left",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
                 "order": 8,
@@ -15316,6 +15360,12 @@
             {
                 "trigger_id": 2285,
                 "name": "Above Fence North Back",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2287,
+                "name": "Above Fence Left",
                 "order": 8,
                 "passthrough": 2
             }
@@ -17764,14 +17814,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1891,
-                "name": "Lower Rail Box Right",
+                "trigger_id": 1889,
+                "name": "Lower Rail Box Front",
                 "order": 8,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1889,
-                "name": "Lower Rail Box Front",
+                "trigger_id": 1891,
+                "name": "Lower Rail Box Right",
                 "order": 8,
                 "passthrough": 1
             },

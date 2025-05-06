@@ -578,6 +578,50 @@
         ]
     },
     {
+        "id": 12595,
+        "map_id": 5,
+        "name": "Pro Second Main Wrap",
+        "date": "2025-04-29T13:04:42.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3624,
+                "name": "Over Second Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3599,
+                "name": "Behind Second Main Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 5086,
         "map_id": 5,
         "name": "Rand Skyhigh",
@@ -623,6 +667,44 @@
                 "trigger_id": 441,
                 "name": "Pillar Large",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12593,
+        "map_id": 5,
+        "name": "Second Main Wrap",
+        "date": "2025-04-29T13:01:48.000Z",
+        "author": "nextir",
+        "author_id": 2994,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3599,
+                "name": "Behind Second Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -17292,6 +17374,62 @@
         ]
     },
     {
+        "id": 12600,
+        "map_id": 5,
+        "name": "Neon",
+        "date": "2025-04-30T14:44:17.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 483,
+                "name": "Side Pool Upper Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3611,
+                "name": "Angle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3602,
+                "name": "Bottom Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3611,
+                "name": "Angle Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 416,
+                "name": "Bottom Pool Tele Top",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 2614,
         "map_id": 5,
         "name": "Nightmare Gap",
@@ -20964,6 +21102,86 @@
         ]
     },
     {
+        "id": 12624,
+        "map_id": 5,
+        "name": "LarzZz's Ring Route",
+        "date": "2025-05-04T16:44:56.000Z",
+        "author": "LarzZz",
+        "author_id": 181,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 443,
+                "name": "Pillar Plate",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3641,
+                "name": "Through Upper South Pool",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3641,
+                "name": "Through Upper South Pool",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 430,
+                "name": "Lower Curve Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 461,
+                "name": "Spine Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 468,
+                "name": "Through Pillar Medium",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 412,
+                "name": "Boosting Pool",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12518,
         "map_id": 5,
         "name": "Nordwestkurve",
@@ -22096,6 +22314,130 @@
         ]
     },
     {
+        "id": 12594,
+        "map_id": 5,
+        "name": "Angular",
+        "date": "2025-04-29T13:03:17.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": "2025-04-29T13:08:36.000Z",
+        "last_updated_author_id": 1137,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 262,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3638,
+                "name": "Spine Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3627,
+                "name": "Spine Boost",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3611,
+                "name": "Angle Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 435,
+                "name": "Map Divide",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3611,
+                "name": "Angle Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 954,
+                "name": "Behind Side Pool",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 422,
+                "name": "Hub",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12603,
+        "map_id": 5,
+        "name": "Change",
+        "date": "2025-05-01T04:16:41.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 260,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 422,
+                "name": "Hub",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 423,
+                "name": "Hub Boosts",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3611,
+                "name": "Angle Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 404,
+                "name": "Awp Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 420,
+                "name": "Catwalk Roof",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12507,
         "map_id": 5,
         "name": "Euphoria",
@@ -22893,6 +23235,68 @@
                 "trigger_id": 422,
                 "name": "Hub",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12599,
+        "map_id": 5,
+        "name": "Duelist Remix",
+        "date": "2025-04-30T14:13:10.000Z",
+        "author": "fatlonzo",
+        "author_id": 1929,
+        "last_updated": "2025-04-30T14:18:40.000Z",
+        "last_updated_author_id": 1929,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3634,
+                "name": "Second Main Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 437,
+                "name": "Over Main Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3624,
+                "name": "Over Second Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3599,
+                "name": "Behind Second Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3617,
+                "name": "Upper South Pool",
+                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -24589,6 +24993,68 @@
                 "trigger_id": 459,
                 "name": "Spawn Wall",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12592,
+        "map_id": 5,
+        "name": "Duelist",
+        "date": "2025-04-29T12:30:33.000Z",
+        "author": "wiq",
+        "author_id": 1137,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 3,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3634,
+                "name": "Second Main Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 437,
+                "name": "Over Main Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3635,
+                "name": "Second Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3599,
+                "name": "Behind Second Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3624,
+                "name": "Over Second Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3617,
+                "name": "Upper South Pool",
+                "order": 6,
                 "passthrough": 0
             }
         ]
