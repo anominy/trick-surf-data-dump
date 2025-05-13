@@ -3,18 +3,25 @@
         "id": 12,
         "name": "[PUBLIC1] trick.surf | SurfTricks/Timer/Stats/100T",
         "server_ip": "142.132.204.111:27015",
-        "players_online": "0",
+        "players_online": "1",
         "map": {
-            "id": 2,
-            "name": "tsurf_japan_ptad",
-            "target_name": "tsurf_japan_ptad_b04",
-            "image_url": "https://media.trick.surf/tsurf_japan_ptad.png"
+            "id": 1,
+            "name": "tsurf_skyworld",
+            "target_name": "tsurf_skyworld",
+            "image_url": "https://media.trick.surf/tsurf_skyworld.jpg"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 0,
+        "numberOfPlayers": 1,
         "passwordRequired": false,
-        "players": []
+        "players": [
+            {
+                "player_id": 598,
+                "name": "can't strafe",
+                "avatar_url": "https://avatars.steamstatic.com/9ab9c7cedb39e6c6999d578ed6f27b569567ec76_full.jpg",
+                "server_id": 12
+            }
+        ]
     },
     {
         "id": 13,
@@ -22,10 +29,10 @@
         "server_ip": "142.132.204.111:27016",
         "players_online": "0",
         "map": {
-            "id": 9,
-            "name": "tsurf_innovation",
-            "target_name": "tsurf_innovation_b01",
-            "image_url": "https://media.trick.surf/tsurf_innovation.jpg"
+            "id": 5,
+            "name": "tsurf_shimmer",
+            "target_name": "tsurf_shimmer_b01",
+            "image_url": "https://media.trick.surf/tsurf_shimmer.jpg"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -39,10 +46,10 @@
         "server_ip": "142.132.204.111:27017",
         "players_online": "0",
         "map": {
-            "id": 12,
-            "name": "tsurf_appreciation",
-            "target_name": "tsurf_appreciation_b09",
-            "image_url": "https://media.trick.surf/tsurf_appreciation.png"
+            "id": 4,
+            "name": "tsurf_parc_colore",
+            "target_name": "tsurf_parc_colore_b06",
+            "image_url": "https://media.trick.surf/tsurf_parc_colore.jpg"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -54,7 +61,7 @@
         "id": 15,
         "name": "[CJUNGLE247] trick.surf | SurfTricks/Timer/Stats/100T",
         "server_ip": "142.132.204.111:27018",
-        "players_online": "3",
+        "players_online": "8",
         "map": {
             "id": 10,
             "name": "tsurf_concretejungle",
@@ -63,9 +70,33 @@
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 3,
+        "numberOfPlayers": 8,
         "passwordRequired": false,
         "players": [
+            {
+                "player_id": 18519,
+                "name": "agent nex",
+                "avatar_url": "https://avatars.steamstatic.com/ddd469138364e9acb7618476465e236b96fb3f43_full.jpg",
+                "server_id": 15
+            },
+            {
+                "player_id": 101,
+                "name": "unmöglich",
+                "avatar_url": "https://avatars.steamstatic.com/e02c4bcf6d16c8d8f969cbd3fdda34348ee51e40_full.jpg",
+                "server_id": 15
+            },
+            {
+                "player_id": 347,
+                "name": "william",
+                "avatar_url": "https://avatars.steamstatic.com/159f5e17cce5d8140a4d3de8075e1a98cee6640e_full.jpg",
+                "server_id": 15
+            },
+            {
+                "player_id": 29458,
+                "name": "brandøn",
+                "avatar_url": "https://avatars.steamstatic.com/471431642fb24fdc630f89bd284a9f632211e732_full.jpg",
+                "server_id": 15
+            },
             {
                 "player_id": 27070,
                 "name": "herø",
@@ -73,15 +104,21 @@
                 "server_id": 15
             },
             {
+                "player_id": 147,
+                "name": "influx",
+                "avatar_url": "https://avatars.steamstatic.com/bb217c92d52ae51169886a1e8f21b510a474596f_full.jpg",
+                "server_id": 15
+            },
+            {
                 "player_id": 17974,
-                "name": "CrazyTroll",
+                "name": "agent ct",
                 "avatar_url": "https://avatars.steamstatic.com/889bf28942322948593844737e75e134a6a095e5_full.jpg",
                 "server_id": 15
             },
             {
-                "player_id": 35036,
-                "name": "Hoodoo",
-                "avatar_url": null,
+                "player_id": 1858,
+                "name": "Irønic",
+                "avatar_url": "https://avatars.steamstatic.com/29b24d28cabd993874b1017109aa39c09b3998af_full.jpg",
                 "server_id": 15
             }
         ]
@@ -104,26 +141,26 @@
         "players": [
             {
                 "player_id": 1390,
-                "name": "подарите пачку а",
-                "avatar_url": "https://avatars.steamstatic.com/7c2d0c1fc63281e3d8b64a2e3e07f504582d3357_full.jpg",
+                "name": "XVII",
+                "avatar_url": "https://avatars.steamstatic.com/906c29c2b5a21caaa1ac0aaebc3314e90292ea40_full.jpg",
                 "server_id": 16
             },
             {
                 "player_id": 10483,
                 "name": "><",
-                "avatar_url": "https://avatars.steamstatic.com/55cbf91271ba83f57f828591a047168b2747a1fb_full.jpg",
+                "avatar_url": "https://avatars.steamstatic.com/91689f655bd0c0d09f1b6937b5c5a9563abb110f_full.jpg",
                 "server_id": 16
             },
             {
-                "player_id": 722,
-                "name": "хей бейби брекет",
-                "avatar_url": "https://avatars.steamstatic.com/0be05db634e9d5e3164de2e5efb9ee3fc8a63c14_full.jpg",
+                "player_id": 1388,
+                "name": "Yuki",
+                "avatar_url": "https://avatars.steamstatic.com/ac7db308fedf7208ab38e22e3ce5cb4298595e7a_full.jpg",
                 "server_id": 16
             },
             {
-                "player_id": 28523,
-                "name": "practice",
-                "avatar_url": "https://avatars.steamstatic.com/32c1b2f2b139bcfb9cdd0f5aad00298d7b6e7a7f_full.jpg",
+                "player_id": 35204,
+                "name": "skinape Plumyflumy",
+                "avatar_url": null,
                 "server_id": 16
             }
         ]
@@ -134,10 +171,10 @@
         "server_ip": "103.25.59.61:27015",
         "players_online": "0",
         "map": {
-            "id": 4,
-            "name": "tsurf_parc_colore",
-            "target_name": "tsurf_parc_colore_b06",
-            "image_url": "https://media.trick.surf/tsurf_parc_colore.jpg"
+            "id": 1,
+            "name": "tsurf_skyworld",
+            "target_name": "tsurf_skyworld",
+            "image_url": "https://media.trick.surf/tsurf_skyworld.jpg"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -149,12 +186,36 @@
         "id": 25,
         "name": "[AU2] trick.surf | SurfTricks/Timer/Stats/100T",
         "server_ip": "103.25.59.61:27016",
+        "players_online": "1",
+        "map": {
+            "id": 13,
+            "name": "tsurf_strafes",
+            "target_name": "tsurf_strafes_b02",
+            "image_url": "https://media.trick.surf/tsurf_strafes.png"
+        },
+        "gameName": "Counter-Strike: Source",
+        "maxNumberOfPlayers": 32,
+        "numberOfPlayers": 1,
+        "passwordRequired": false,
+        "players": [
+            {
+                "player_id": 35203,
+                "name": "@",
+                "avatar_url": null,
+                "server_id": 25
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "[US1] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "5.161.100.59:27015",
         "players_online": "0",
         "map": {
-            "id": 5,
-            "name": "tsurf_shimmer",
-            "target_name": "tsurf_shimmer_b01",
-            "image_url": "https://media.trick.surf/tsurf_shimmer.jpg"
+            "id": 10,
+            "name": "tsurf_concretejungle",
+            "target_name": "tsurf_concretejungle_b15",
+            "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -163,34 +224,10 @@
         "players": []
     },
     {
-        "id": 26,
-        "name": "[US1] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "5.161.100.59:27015",
-        "players_online": "1",
-        "map": {
-            "id": 10,
-            "name": "tsurf_concretejungle",
-            "target_name": "tsurf_concretejungle_b15",
-            "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
-        },
-        "gameName": "Counter-Strike: Source",
-        "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 2,
-        "passwordRequired": false,
-        "players": [
-            {
-                "player_id": 18519,
-                "name": "nex",
-                "avatar_url": "https://avatars.steamstatic.com/d94621210076f8c081befa493f618825c5841827_full.jpg",
-                "server_id": 26
-            }
-        ]
-    },
-    {
         "id": 27,
         "name": "[US2] trick.surf | SurfTricks/Timer/Stats/100T",
         "server_ip": "5.161.100.59:27016",
-        "players_online": "1",
+        "players_online": "0",
         "map": {
             "id": 10,
             "name": "tsurf_concretejungle",
@@ -199,15 +236,8 @@
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 1,
+        "numberOfPlayers": 0,
         "passwordRequired": false,
-        "players": [
-            {
-                "player_id": 29458,
-                "name": "brandøn",
-                "avatar_url": "https://avatars.steamstatic.com/471431642fb24fdc630f89bd284a9f632211e732_full.jpg",
-                "server_id": 27
-            }
-        ]
+        "players": []
     }
 ]

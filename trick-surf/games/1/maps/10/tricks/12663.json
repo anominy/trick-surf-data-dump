@@ -1,0 +1,56 @@
+{
+    "id": 12663,
+    "map_id": 10,
+    "name": "Daily Quota",
+    "date": "2025-05-09T16:21:30.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated": "2025-05-10T06:33:00.000Z",
+    "last_updated_author_id": 147,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "10",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1646,
+            "name": "SW Upper Ledge",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1656,
+            "name": "SW Yellow Ramp 7",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1641,
+            "name": "SW Purple Ramp 6",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1238,
+            "name": "C Purple Ramp 5",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1445,
+            "name": "NW Blue Ramp 3",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1332,
+            "name": "N Low Gray Box",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

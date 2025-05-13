@@ -1,0 +1,56 @@
+{
+    "id": 12644,
+    "map_id": 8,
+    "name": "Healbot Return To Sign",
+    "date": "2025-05-06T13:41:38.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-06T13:58:33.000Z",
+    "last_updated_author_id": 6763,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "105",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3259,
+            "name": "UFO Roof",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 698,
+            "name": "Kevin Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Keith Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 685,
+            "name": "Healbot Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 738,
+            "name": "Ski Sign",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

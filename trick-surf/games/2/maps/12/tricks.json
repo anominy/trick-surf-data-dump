@@ -45750,18 +45750,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2860,
-                "name": "Trapezium Ramps Mid Floor",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 3060,
-                "name": "Pyramid Main Ramp Spine South",
-                "order": 17,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 3049,
                 "name": "Pyramid Main Corner South-East",
                 "order": 17,
@@ -45770,6 +45758,18 @@
             {
                 "trigger_id": 2512,
                 "name": "Flipped Isosceles Trapezium Ramp Spine",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2860,
+                "name": "Trapezium Ramps Mid Floor",
+                "order": 17,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 3060,
+                "name": "Pyramid Main Ramp Spine South",
                 "order": 17,
                 "passthrough": 1
             },
@@ -54190,12 +54190,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2652,
-                "name": "Over Checkered Spiral Platform",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2864,
                 "name": "Under Blue Spiral Platform",
                 "order": 3,
@@ -54210,6 +54204,12 @@
             {
                 "trigger_id": 2883,
                 "name": "Under Red Spiral Platform",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2652,
+                "name": "Over Checkered Spiral Platform",
                 "order": 3,
                 "passthrough": 2
             },
@@ -54984,12 +54984,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2510,
-                "name": "East Spiral Tower Tunnel",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2637,
                 "name": "North Spiral Tower Entrance",
                 "order": 5,
@@ -54998,6 +54992,12 @@
             {
                 "trigger_id": 2922,
                 "name": "West Spiral Tower Entrance",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2510,
+                "name": "East Spiral Tower Tunnel",
                 "order": 5,
                 "passthrough": 2
             },

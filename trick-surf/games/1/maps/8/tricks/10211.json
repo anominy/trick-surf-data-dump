@@ -3,16 +3,16 @@
     "map_id": 8,
     "name": "Angel Symbol",
     "date": "2024-06-12T17:17:49.000Z",
-    "author": "neposeda",
+    "author": "><",
     "author_id": 10483,
-    "last_updated": "2024-06-21T17:52:54.000Z",
-    "last_updated_author_id": 406,
+    "last_updated": "2025-05-11T06:31:20.000Z",
+    "last_updated_author_id": 13870,
     "active": 1,
     "ranked": 1,
     "tier": 6,
     "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "27",
+    "completions": "41",
     "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
@@ -35,16 +35,16 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 764,
-            "name": "T2 Right Wing",
+            "trigger_id": 738,
+            "name": "Ski Sign",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 738,
-            "name": "Ski Sign",
-            "order": 4,
-            "passthrough": 0
+            "trigger_id": 764,
+            "name": "T2 Right Wing",
+            "order": 3,
+            "passthrough": 1
         }
     ]
 }

@@ -2724,6 +2724,324 @@
         ]
     },
     {
+        "id": 12637,
+        "map_id": 8,
+        "name": "Drop N' Ring",
+        "date": "2025-05-06T13:27:03.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T13:29:23.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1046,
+                "name": "Tower Box 3",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 700,
+                "name": "Left Wing",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3214,
+                "name": "Ring",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12645,
+        "map_id": 8,
+        "name": "Luna To Sign",
+        "date": "2025-05-06T13:49:46.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T13:57:01.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "name": "Ski Sign",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12651,
+        "map_id": 8,
+        "name": "Luna To Sign V2",
+        "date": "2025-05-06T14:09:18.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 724,
+                "name": "Over Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "name": "Ski Sign",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12646,
+        "map_id": 8,
+        "name": "Luna To Top",
+        "date": "2025-05-06T13:51:22.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T13:56:50.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12643,
+        "map_id": 8,
+        "name": "Rise to Healbot Sign",
+        "date": "2025-05-06T13:40:10.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 687,
+                "name": "Healbot Sign",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12640,
+        "map_id": 8,
+        "name": "Rough",
+        "date": "2025-05-06T13:34:14.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 1,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1046,
+                "name": "Tower Box 3",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3252,
+                "name": "Tower Middle Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10926,
         "map_id": 8,
         "name": "Ankle Injury Strafes",
@@ -7456,6 +7774,62 @@
         ]
     },
     {
+        "id": 12644,
+        "map_id": 8,
+        "name": "Healbot Return To Sign",
+        "date": "2025-05-06T13:41:38.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T13:58:33.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 738,
+                "name": "Ski Sign",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12632,
         "map_id": 8,
         "name": "Healbot To Radio",
@@ -7507,6 +7881,80 @@
                 "trigger_id": 3245,
                 "name": "Telepad Tower",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12650,
+        "map_id": 8,
+        "name": "Luna To Top V2",
+        "date": "2025-05-06T14:08:01.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 724,
+                "name": "Over Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -23608,14 +24056,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 299,
-                "name": "CT-Spawn Hole",
+                "trigger_id": 3216,
+                "name": "T-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             },
             {
-                "trigger_id": 3216,
-                "name": "T-Spawn Hole",
+                "trigger_id": 299,
+                "name": "CT-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             }
@@ -26691,6 +27139,198 @@
                 "trigger_id": 696,
                 "name": "Jail Wall",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12647,
+        "map_id": 8,
+        "name": "Moonflower",
+        "date": "2025-05-06T13:53:56.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 763,
+                "name": "T2 Right Hole",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12648,
+        "map_id": 8,
+        "name": "Moonflower V2",
+        "date": "2025-05-06T14:00:16.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 724,
+                "name": "Over Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 763,
+                "name": "T2 Right Hole",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12642,
+        "map_id": 8,
+        "name": "Signal",
+        "date": "2025-05-06T13:38:21.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T13:55:10.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 783,
+                "name": "Tower Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 652,
+                "name": "Banana Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 768,
+                "name": "T2 Tower Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 648,
+                "name": "Awp Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 706,
+                "name": "Center Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 684,
+                "name": "Healbot Ladder",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -52448,6 +53088,44 @@
         ]
     },
     {
+        "id": 12641,
+        "map_id": 8,
+        "name": "Floret",
+        "date": "2025-05-06T13:35:05.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1046,
+                "name": "Tower Box 3",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 658,
+                "name": "Rear T2 Tower Wedge",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12288,
         "map_id": 8,
         "name": "Freaks & Geeks",
@@ -52493,6 +53171,82 @@
                 "trigger_id": 648,
                 "name": "Awp Platform",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12639,
+        "map_id": 8,
+        "name": "Rise To Front Tip",
+        "date": "2025-05-06T13:30:43.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1046,
+                "name": "Tower Box 3",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 919,
+                "name": "Front Awp Window Tip",
+                "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12638,
+        "map_id": 8,
+        "name": "Rise To Rear Tip",
+        "date": "2025-05-06T13:29:06.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": "2025-05-06T13:29:36.000Z",
+        "last_updated_author_id": 6763,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1046,
+                "name": "Tower Box 3",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 678,
+                "name": "Fish Hook Wedge",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3213,
+                "name": "Rear Awp Window Tip",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -68940,6 +69694,68 @@
         ]
     },
     {
+        "id": 12649,
+        "map_id": 8,
+        "name": "Luna To Block",
+        "date": "2025-05-06T14:01:45.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 767,
+                "name": "T2 Top Right Block",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12336,
         "map_id": 8,
         "name": "Wedge Rise",
@@ -72104,6 +72920,62 @@
             {
                 "trigger_id": 955,
                 "name": "Jokerge Ramp",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12668,
+        "map_id": 8,
+        "name": "El s1m",
+        "date": "2025-05-09T23:35:13.000Z",
+        "author": "s1m",
+        "author_id": 23687,
+        "last_updated": "2025-05-10T00:07:21.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 747,
+                "name": "T-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 727,
+                "name": "Rear Spawn Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3214,
+                "name": "Ring",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 716,
+                "name": "Middle Wing",
                 "order": 5,
                 "passthrough": 0
             }
@@ -84516,6 +85388,80 @@
         ]
     },
     {
+        "id": 12652,
+        "map_id": 8,
+        "name": "Luna To Block V2",
+        "date": "2025-05-06T14:09:57.000Z",
+        "author": "><",
+        "author_id": 10483,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3259,
+                "name": "UFO Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 698,
+                "name": "Kevin Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 697,
+                "name": "Keith Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 685,
+                "name": "Healbot Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 724,
+                "name": "Over Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 771,
+                "name": "Telepad Water",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 767,
+                "name": "T2 Top Right Block",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 3031,
         "map_id": 8,
         "name": "Mayweather",
@@ -86318,10 +87264,10 @@
         "map_id": 8,
         "name": "Angel Symbol",
         "date": "2024-06-12T17:17:49.000Z",
-        "author": "neposeda",
+        "author": "><",
         "author_id": 10483,
-        "last_updated": "2024-06-21T17:52:54.000Z",
-        "last_updated_author_id": 406,
+        "last_updated": "2025-05-11T06:31:20.000Z",
+        "last_updated_author_id": 13870,
         "active": 1,
         "ranked": 1,
         "tier": 6,
@@ -86350,16 +87296,16 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 764,
-                "name": "T2 Right Wing",
+                "trigger_id": 738,
+                "name": "Ski Sign",
                 "order": 3,
                 "passthrough": 0
             },
             {
-                "trigger_id": 738,
-                "name": "Ski Sign",
-                "order": 4,
-                "passthrough": 0
+                "trigger_id": 764,
+                "name": "T2 Right Wing",
+                "order": 3,
+                "passthrough": 1
             }
         ]
     },
@@ -93479,6 +94425,50 @@
                 "trigger_id": 692,
                 "name": "Jail Floor",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10201,
+        "map_id": 8,
+        "name": "fnap4ik",
+        "date": "2024-06-11T22:28:15.000Z",
+        "author": "^ᴥ^",
+        "author_id": 259,
+        "last_updated": "2025-05-10T00:26:26.000Z",
+        "last_updated_author_id": 10899,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 747,
+                "name": "T-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3262,
+                "name": "Weapon Lower Abyss Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3223,
+                "name": "T1 Middle Platform",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -102618,50 +103608,6 @@
         ]
     },
     {
-        "id": 10201,
-        "map_id": 8,
-        "name": "fnap4ik",
-        "date": "2024-06-11T22:28:15.000Z",
-        "author": "sonki",
-        "author_id": 259,
-        "last_updated": "2024-11-12T23:57:50.000Z",
-        "last_updated_author_id": 10899,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "subtier": 3,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 747,
-                "name": "T-Spawn",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 709,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3262,
-                "name": "Weapon Lower Abyss Ramp",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3223,
-                "name": "T1 Middle Platform",
-                "order": 3,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 5784,
         "map_id": 8,
         "name": "George's Rise",
@@ -110823,6 +111769,50 @@
                 "trigger_id": 769,
                 "name": "T2 Tower Water",
                 "order": 2,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12678,
+        "map_id": 8,
+        "name": "Trilogy Finale To Box",
+        "date": "2025-05-11T20:55:38.000Z",
+        "author": "djᵾm",
+        "author_id": 2687,
+        "last_updated": "2025-05-11T21:01:16.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 742,
+                "name": "Spawn Roof Water",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 709,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 704,
+                "name": "Long Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3242,
+                "name": "T2 Tower Box",
+                "order": 3,
                 "passthrough": 0
             }
         ]
