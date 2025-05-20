@@ -1,0 +1,38 @@
+{
+    "id": 12713,
+    "map_id": 8,
+    "name": "Tiny Flight",
+    "date": "2025-05-16T10:55:09.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-18T15:40:50.000Z",
+    "last_updated_author_id": 13870,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "2006",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1044,
+            "name": "Middle Awp Ground",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "name": "Triomino 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 778,
+            "name": "Tower Base Water",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

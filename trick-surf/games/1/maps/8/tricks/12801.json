@@ -1,0 +1,44 @@
+{
+    "id": 12801,
+    "map_id": 8,
+    "name": "My Heart To Jail Box 4 V2",
+    "date": "2025-05-18T14:51:54.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "28",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 742,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 740,
+            "name": "Spawn Roof Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 691,
+            "name": "Jail Box 4",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 12895,
+    "map_id": 8,
+    "name": "Remote",
+    "date": "2025-05-20T09:18:36.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-20T09:20:12.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "12",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 663,
+            "name": "Center Wedge Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

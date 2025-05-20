@@ -1,0 +1,50 @@
+{
+    "id": 12728,
+    "map_id": 8,
+    "name": "Sweet To Jail Wall",
+    "date": "2025-05-16T11:49:56.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-16T11:51:19.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "20",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 783,
+            "name": "Tower Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 743,
+            "name": "Sriracha",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 696,
+            "name": "Jail Wall",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

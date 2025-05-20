@@ -1,0 +1,62 @@
+{
+    "id": 12755,
+    "map_id": 8,
+    "name": "Snowflake To Top V2",
+    "date": "2025-05-16T14:59:56.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-16T15:02:34.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "89",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 783,
+            "name": "Tower Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 696,
+            "name": "Jail Wall",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 696,
+            "name": "Jail Wall",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "name": "Banana Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 768,
+            "name": "T2 Tower Platform",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 12889,
+    "map_id": 8,
+    "name": "Lesson To Middle V2",
+    "date": "2025-05-20T08:37:35.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "4",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3254,
+            "name": "Tower Right Middle Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3252,
+            "name": "Tower Middle Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 649,
+            "name": "Awp Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1044,
+            "name": "Middle Awp Ground",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

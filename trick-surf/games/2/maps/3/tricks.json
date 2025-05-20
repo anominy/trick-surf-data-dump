@@ -14012,14 +14012,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
-                "name": "Main Ramp Boost",
+                "trigger_id": 935,
+                "name": "Ramp 4 Boost",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 935,
-                "name": "Ramp 4 Boost",
+                "trigger_id": 934,
+                "name": "Main Ramp Boost",
                 "order": 3,
                 "passthrough": 1
             },
@@ -32308,14 +32308,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 934,
-                "name": "Main Ramp Boost",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 934,
+                "name": "Main Ramp Boost",
                 "order": 5,
                 "passthrough": 1
             },
@@ -33476,14 +33476,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 934,
+                "name": "Main Ramp Boost",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
-                "name": "Main Ramp Boost",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 5,
                 "passthrough": 1
             },
@@ -48520,14 +48520,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 272,
-                "name": "Top River",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 272,
+                "name": "Top River",
                 "order": 1,
                 "passthrough": 1
             },
@@ -49600,14 +49600,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 211,
-                "name": "Box Window South",
+                "trigger_id": 209,
+                "name": "Box Window East",
                 "order": 9,
                 "passthrough": 2
             },
             {
-                "trigger_id": 209,
-                "name": "Box Window East",
+                "trigger_id": 211,
+                "name": "Box Window South",
                 "order": 9,
                 "passthrough": 2
             },
@@ -51870,14 +51870,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 934,
+                "name": "Main Ramp Boost",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
-                "name": "Main Ramp Boost",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 5,
                 "passthrough": 1
             },
@@ -54698,14 +54698,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 217,
-                "name": "Jail Ceiling",
+                "trigger_id": 219,
+                "name": "Jail Floor",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 219,
-                "name": "Jail Floor",
+                "trigger_id": 217,
+                "name": "Jail Ceiling",
                 "order": 3,
                 "passthrough": 1
             },
@@ -64038,14 +64038,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 934,
+                "name": "Main Ramp Boost",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
-                "name": "Main Ramp Boost",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 5,
                 "passthrough": 1
             },
@@ -71463,68 +71463,6 @@
                 "trigger_id": 255,
                 "name": "Sky North",
                 "order": 24,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 7103,
-        "map_id": 3,
-        "name": "A Trick borziy Can't Do",
-        "date": "2023-02-21T19:35:03.000Z",
-        "author": "sonki",
-        "author_id": 259,
-        "last_updated": "2024-08-22T08:18:54.000Z",
-        "last_updated_author_id": 4561,
-        "active": 1,
-        "ranked": 1,
-        "tier": 5,
-        "subtier": 1,
-        "max_prestrafe": 398,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 925,
-                "name": "Behind Garage Platform 3",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 243,
-                "name": "Ramp 4",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 935,
-                "name": "Ramp 4 Boost",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 243,
-                "name": "Ramp 4",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 201,
-                "name": "Behind Main",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 229,
-                "name": "Main Ramp",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 217,
-                "name": "Jail Ceiling",
-                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -80500,6 +80438,68 @@
         ]
     },
     {
+        "id": 7103,
+        "map_id": 3,
+        "name": "A Trick borziy Can't Do",
+        "date": "2023-02-21T19:35:03.000Z",
+        "author": "^ᴥ^",
+        "author_id": 259,
+        "last_updated": "2025-05-15T02:47:12.000Z",
+        "last_updated_author_id": 15261,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 398,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 925,
+                "name": "Behind Garage Platform 3",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 243,
+                "name": "Ramp 4",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 935,
+                "name": "Ramp 4 Boost",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 243,
+                "name": "Ramp 4",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 201,
+                "name": "Behind Main",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 229,
+                "name": "Main Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 217,
+                "name": "Jail Ceiling",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 850,
         "map_id": 3,
         "name": "Advanced 0tecH's G1",
@@ -80824,14 +80824,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 243,
-                "name": "Ramp 4",
+                "trigger_id": 935,
+                "name": "Ramp 4 Boost",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 935,
-                "name": "Ramp 4 Boost",
+                "trigger_id": 243,
+                "name": "Ramp 4",
                 "order": 3,
                 "passthrough": 1
             }
@@ -81952,14 +81952,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2304,
-                "name": "Supertop Slant",
+                "trigger_id": 271,
+                "name": "Supertop Water",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 271,
-                "name": "Supertop Water",
+                "trigger_id": 2304,
+                "name": "Supertop Slant",
                 "order": 2,
                 "passthrough": 1
             },
@@ -83154,56 +83154,6 @@
         ]
     },
     {
-        "id": 10602,
-        "map_id": 3,
-        "name": "VRise",
-        "date": "2024-07-07T04:02:20.000Z",
-        "author": "jessetooler",
-        "author_id": 4561,
-        "last_updated": null,
-        "last_updated_author_id": 4561,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 284,
-                "name": "V Wall Top Slant",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 240,
-                "name": "Ramp 3",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 231,
-                "name": "Map Divide",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 240,
-                "name": "Ramp 3",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 922,
-                "name": "Top Tele Water Platform",
-                "order": 4,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 10647,
         "map_id": 3,
         "name": "Abusive G1",
@@ -83504,14 +83454,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
-                "name": "Ramp 1 Boost",
+                "trigger_id": 934,
+                "name": "Main Ramp Boost",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 934,
-                "name": "Main Ramp Boost",
+                "trigger_id": 933,
+                "name": "Ramp 1 Boost",
                 "order": 5,
                 "passthrough": 1
             },
@@ -86135,6 +86085,56 @@
                 "trigger_id": 217,
                 "name": "Jail Ceiling",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10602,
+        "map_id": 3,
+        "name": "VRise",
+        "date": "2024-07-07T04:02:20.000Z",
+        "author": "jessetooler",
+        "author_id": 4561,
+        "last_updated": "2025-05-16T19:35:17.000Z",
+        "last_updated_author_id": 15261,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 284,
+                "name": "V Wall Top Slant",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "name": "Ramp 3",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 231,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 240,
+                "name": "Ramp 3",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 922,
+                "name": "Top Tele Water Platform",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -89966,14 +89966,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 243,
-                "name": "Ramp 4",
+                "trigger_id": 935,
+                "name": "Ramp 4 Boost",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 935,
-                "name": "Ramp 4 Boost",
+                "trigger_id": 243,
+                "name": "Ramp 4",
                 "order": 3,
                 "passthrough": 1
             },

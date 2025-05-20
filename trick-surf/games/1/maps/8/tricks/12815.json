@@ -1,0 +1,50 @@
+{
+    "id": 12815,
+    "map_id": 8,
+    "name": "Nightfall To Center",
+    "date": "2025-05-18T16:11:03.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "16",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 742,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 740,
+            "name": "Spawn Roof Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "name": "Banana Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 700,
+            "name": "Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 663,
+            "name": "Center Wedge Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

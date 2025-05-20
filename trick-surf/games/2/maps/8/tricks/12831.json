@@ -1,0 +1,44 @@
+{
+    "id": 12831,
+    "map_id": 8,
+    "name": "Haze 2",
+    "date": "2025-05-18T20:27:37.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-18T20:40:20.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 742,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 955,
+            "name": "Jokerge Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 1
+        }
+    ]
+}

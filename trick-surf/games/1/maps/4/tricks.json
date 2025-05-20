@@ -13,8 +13,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "861",
-        "players_completed": "165",
+        "completions": "862",
+        "players_completed": "166",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -69,8 +69,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "750",
-        "players_completed": "136",
+        "completions": "754",
+        "players_completed": "137",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -84,6 +84,24 @@
                 "name": "South Box",
                 "order": 1,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 305,
+                "name": "East Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 398,
+                "name": "West Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 296,
+                "name": "Cannon Ramp",
+                "order": 1,
+                "passthrough": 1
             },
             {
                 "trigger_id": 358,
@@ -142,24 +160,6 @@
             {
                 "trigger_id": 388,
                 "name": "V Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 305,
-                "name": "East Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 398,
-                "name": "West Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 296,
-                "name": "Cannon Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -223,8 +223,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "124",
-        "players_completed": "40",
+        "completions": "125",
+        "players_completed": "41",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -267,8 +267,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "349",
-        "players_completed": "127",
+        "completions": "350",
+        "players_completed": "128",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -329,8 +329,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "363",
-        "players_completed": "45",
+        "completions": "364",
+        "players_completed": "46",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -397,8 +397,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "123",
-        "players_completed": "39",
+        "completions": "124",
+        "players_completed": "40",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -447,8 +447,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1485",
-        "players_completed": "266",
+        "completions": "1486",
+        "players_completed": "267",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -509,8 +509,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "104",
-        "players_completed": "54",
+        "completions": "105",
+        "players_completed": "55",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -583,8 +583,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "864",
-        "players_completed": "208",
+        "completions": "865",
+        "players_completed": "209",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -639,8 +639,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "646",
-        "players_completed": "169",
+        "completions": "647",
+        "players_completed": "170",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -689,8 +689,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "341",
-        "players_completed": "62",
+        "completions": "345",
+        "players_completed": "63",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -733,8 +733,8 @@
         "tier": 1,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "1711",
-        "players_completed": "125",
+        "completions": "1750",
+        "players_completed": "126",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -2325,7 +2325,7 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "5558",
+        "completions": "5572",
         "players_completed": "91",
         "average_rating": "0.0000",
         "sequence": [
@@ -3013,8 +3013,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "40",
-        "players_completed": "34",
+        "completions": "42",
+        "players_completed": "35",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -5163,7 +5163,7 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "237",
+        "completions": "244",
         "players_completed": "50",
         "average_rating": "0.0000",
         "sequence": [
@@ -7857,8 +7857,8 @@
         "tier": 3,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "188",
-        "players_completed": "38",
+        "completions": "193",
+        "players_completed": "39",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -10591,8 +10591,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "103",
-        "players_completed": "25",
+        "completions": "104",
+        "players_completed": "26",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11129,8 +11129,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "52",
-        "players_completed": "37",
+        "completions": "53",
+        "players_completed": "38",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11209,8 +11209,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "45",
-        "players_completed": "34",
+        "completions": "46",
+        "players_completed": "35",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11271,8 +11271,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "96",
-        "players_completed": "40",
+        "completions": "97",
+        "players_completed": "41",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11315,8 +11315,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "43",
-        "players_completed": "19",
+        "completions": "44",
+        "players_completed": "20",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11383,8 +11383,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "112",
-        "players_completed": "40",
+        "completions": "113",
+        "players_completed": "41",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11457,8 +11457,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "9",
-        "players_completed": "9",
+        "completions": "11",
+        "players_completed": "10",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11507,8 +11507,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "19",
-        "players_completed": "11",
+        "completions": "20",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11557,8 +11557,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "33",
-        "players_completed": "26",
+        "completions": "34",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11643,8 +11643,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "31",
-        "players_completed": "29",
+        "completions": "32",
+        "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11711,8 +11711,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "10",
-        "players_completed": "10",
+        "completions": "11",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11791,8 +11791,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "11",
-        "players_completed": "10",
+        "completions": "12",
+        "players_completed": "11",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11895,8 +11895,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "34",
-        "players_completed": "11",
+        "completions": "38",
+        "players_completed": "12",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -11987,8 +11987,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "56",
-        "players_completed": "29",
+        "completions": "57",
+        "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12091,8 +12091,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "34",
-        "players_completed": "31",
+        "completions": "35",
+        "players_completed": "32",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12159,8 +12159,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "34",
-        "players_completed": "26",
+        "completions": "35",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12203,8 +12203,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "42",
-        "players_completed": "28",
+        "completions": "43",
+        "players_completed": "29",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12271,8 +12271,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "33",
-        "players_completed": "26",
+        "completions": "34",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12369,8 +12369,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "24",
-        "players_completed": "21",
+        "completions": "25",
+        "players_completed": "22",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12449,8 +12449,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "59",
-        "players_completed": "25",
+        "completions": "60",
+        "players_completed": "26",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12511,8 +12511,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "55",
-        "players_completed": "32",
+        "completions": "56",
+        "players_completed": "33",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12567,8 +12567,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "48",
-        "players_completed": "25",
+        "completions": "49",
+        "players_completed": "26",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12659,8 +12659,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "22",
-        "players_completed": "9",
+        "completions": "23",
+        "players_completed": "10",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12733,8 +12733,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "138",
-        "players_completed": "35",
+        "completions": "139",
+        "players_completed": "36",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12813,8 +12813,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "166",
-        "players_completed": "29",
+        "completions": "167",
+        "players_completed": "30",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12893,8 +12893,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "139",
-        "players_completed": "41",
+        "completions": "140",
+        "players_completed": "42",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -12931,8 +12931,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "29",
-        "players_completed": "26",
+        "completions": "30",
+        "players_completed": "27",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13005,8 +13005,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "61",
-        "players_completed": "32",
+        "completions": "62",
+        "players_completed": "33",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13109,8 +13109,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "52",
-        "players_completed": "30",
+        "completions": "53",
+        "players_completed": "31",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13183,8 +13183,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "8",
-        "players_completed": "8",
+        "completions": "9",
+        "players_completed": "9",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13269,8 +13269,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "112",
-        "players_completed": "33",
+        "completions": "113",
+        "players_completed": "34",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13373,8 +13373,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "101",
-        "players_completed": "36",
+        "completions": "102",
+        "players_completed": "37",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13447,8 +13447,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "68",
-        "players_completed": "30",
+        "completions": "69",
+        "players_completed": "31",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -13521,8 +13521,8 @@
         "tier": 4,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "40",
-        "players_completed": "23",
+        "completions": "41",
+        "players_completed": "24",
         "average_rating": "0.0000",
         "sequence": [
             {
@@ -23799,8 +23799,8 @@
         "tier": 8,
         "subtier": 1,
         "max_prestrafe": 406,
-        "completions": "14",
-        "players_completed": "12",
+        "completions": "16",
+        "players_completed": "13",
         "average_rating": "0.0000",
         "sequence": [
             {

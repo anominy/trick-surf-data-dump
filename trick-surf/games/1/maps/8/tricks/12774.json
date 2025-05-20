@@ -1,0 +1,56 @@
+{
+    "id": 12774,
+    "map_id": 8,
+    "name": "Backwards",
+    "date": "2025-05-18T11:23:25.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-18T11:24:22.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "39",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 741,
+            "name": "Spawn Roof Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 683,
+            "name": "Hamburger",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 793,
+            "name": "Weapons Teleporter",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 680,
+            "name": "Gun Room",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3266,
+            "name": "Through Gun Room",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 720,
+            "name": "North East Booster",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

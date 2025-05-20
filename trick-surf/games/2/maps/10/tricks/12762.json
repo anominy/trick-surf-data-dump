@@ -1,0 +1,68 @@
+{
+    "id": 12762,
+    "map_id": 10,
+    "name": "field work for toddlers",
+    "date": "2025-05-17T15:18:29.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1413,
+            "name": "NE Lower Rooftops",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1400,
+            "name": "NE Green Ramp 4",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1263,
+            "name": "E Black Jumppad",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1286,
+            "name": "E Red Ramp 4",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1284,
+            "name": "E Red Ramp 3",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1588,
+            "name": "SE Orange Ramp 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1545,
+            "name": "S Yellow Ramp 9",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1542,
+            "name": "S Yellow Platform",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

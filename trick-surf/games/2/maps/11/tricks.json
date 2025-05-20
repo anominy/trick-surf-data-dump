@@ -2442,12 +2442,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2016,
-                "name": "THE CUBE Front",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
                 "order": 2,
@@ -2456,6 +2450,12 @@
             {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2016,
+                "name": "THE CUBE Front",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6174,6 +6174,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2016,
+                "name": "THE CUBE Front",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
                 "order": 2,
@@ -6182,12 +6188,6 @@
             {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2016,
-                "name": "THE CUBE Front",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6340,6 +6340,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2016,
+                "name": "THE CUBE Front",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 2391,
                 "name": "THE CUBE Right",
                 "order": 2,
@@ -6348,12 +6354,6 @@
             {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2016,
-                "name": "THE CUBE Front",
                 "order": 2,
                 "passthrough": 1
             }
@@ -15304,6 +15304,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2287,
+                "name": "Above Fence Left",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
                 "order": 5,
@@ -15318,12 +15324,6 @@
             {
                 "trigger_id": 2285,
                 "name": "Above Fence North Back",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2287,
-                "name": "Above Fence Left",
                 "order": 5,
                 "passthrough": 2
             },
@@ -15346,6 +15346,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 2286,
+                "name": "Above Fence North Front",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 2288,
                 "name": "Above Fence Right",
                 "order": 8,
@@ -15360,12 +15366,6 @@
             {
                 "trigger_id": 2287,
                 "name": "Above Fence Left",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 2286,
-                "name": "Above Fence North Front",
                 "order": 8,
                 "passthrough": 2
             }
@@ -23562,170 +23562,6 @@
         ]
     },
     {
-        "id": 8985,
-        "map_id": 11,
-        "name": "Euthanasia Coaster",
-        "date": "2024-02-16T16:55:13.000Z",
-        "author": "william",
-        "author_id": 347,
-        "last_updated": "2024-02-16T17:00:45.000Z",
-        "last_updated_author_id": 347,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "subtier": 3,
-        "max_prestrafe": null,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 1831,
-                "name": "F Loop Floor",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1836,
-                "name": "F Loop Small Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1829,
-                "name": "F Loop",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1943,
-                "name": "Random Cube",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1829,
-                "name": "F Loop",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2405,
-                "name": "F Loop Apex",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1862,
-                "name": "Hole Gap Landing",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1855,
-                "name": "Half Pipe Big Deck",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1984,
-                "name": "Seriously End Cap",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 2151,
-                "name": "U Curvy Boi",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1935,
-                "name": "Pre Loop Ramp",
-                "order": 7,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1807,
-                "name": "Big Loop Start",
-                "order": 8,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1798,
-                "name": "Big Loop",
-                "order": 9,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 2404,
-                "name": "Big Loop Apex",
-                "order": 10,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 2077,
-                "name": "Big Loop Ramp",
-                "order": 11,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1798,
-                "name": "Big Loop",
-                "order": 11,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1798,
-                "name": "Big Loop",
-                "order": 12,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1800,
-                "name": "Big Loop End",
-                "order": 12,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 2404,
-                "name": "Big Loop Apex",
-                "order": 13,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 2000,
-                "name": "Smol Curvy Boi",
-                "order": 14,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1798,
-                "name": "Big Loop",
-                "order": 14,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1791,
-                "name": "Big Drop In",
-                "order": 15,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 2290,
-                "name": "Big H Curvy Boi Out",
-                "order": 15,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1981,
-                "name": "Secret Tape Floor",
-                "order": 16,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 7814,
         "map_id": 11,
         "name": "It's ya boi, Skinny P...",
@@ -25464,14 +25300,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2290,
-                "name": "Big H Curvy Boi Out",
+                "trigger_id": 1791,
+                "name": "Big Drop In",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1791,
-                "name": "Big Drop In",
+                "trigger_id": 2290,
+                "name": "Big H Curvy Boi Out",
                 "order": 3,
                 "passthrough": 1
             },
@@ -25829,6 +25665,170 @@
                 "trigger_id": 2003,
                 "name": "Smol Curvy Boi Spine",
                 "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 8985,
+        "map_id": 11,
+        "name": "Euthanasia Coaster",
+        "date": "2024-02-16T16:55:13.000Z",
+        "author": "william",
+        "author_id": 347,
+        "last_updated": "2025-05-16T01:29:13.000Z",
+        "last_updated_author_id": 480,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": null,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1831,
+                "name": "F Loop Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1836,
+                "name": "F Loop Small Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1829,
+                "name": "F Loop",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1943,
+                "name": "Random Cube",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2405,
+                "name": "F Loop Apex",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1829,
+                "name": "F Loop",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1862,
+                "name": "Hole Gap Landing",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1855,
+                "name": "Half Pipe Big Deck",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1984,
+                "name": "Seriously End Cap",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2151,
+                "name": "U Curvy Boi",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1935,
+                "name": "Pre Loop Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1807,
+                "name": "Big Loop Start",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1798,
+                "name": "Big Loop",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2404,
+                "name": "Big Loop Apex",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2077,
+                "name": "Big Loop Ramp",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1798,
+                "name": "Big Loop",
+                "order": 11,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1798,
+                "name": "Big Loop",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1800,
+                "name": "Big Loop End",
+                "order": 12,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2404,
+                "name": "Big Loop Apex",
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2000,
+                "name": "Smol Curvy Boi",
+                "order": 14,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1798,
+                "name": "Big Loop",
+                "order": 14,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1791,
+                "name": "Big Drop In",
+                "order": 15,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2290,
+                "name": "Big H Curvy Boi Out",
+                "order": 15,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1981,
+                "name": "Secret Tape Floor",
+                "order": 16,
                 "passthrough": 0
             }
         ]

@@ -2,7 +2,7 @@
     "id": 26,
     "name": "[US1] trick.surf | SurfTricks/Timer/Stats/100T",
     "server_ip": "5.161.100.59:27015",
-    "players_online": "0",
+    "players_online": "2",
     "map": {
         "id": 10,
         "name": "tsurf_concretejungle",
@@ -11,7 +11,20 @@
     },
     "gameName": "Counter-Strike: Source",
     "maxNumberOfPlayers": 32,
-    "numberOfPlayers": 0,
+    "numberOfPlayers": 2,
     "passwordRequired": false,
-    "players": []
+    "players": [
+        {
+            "player_id": 1858,
+            "name": "Irønic",
+            "avatar_url": "https://avatars.steamstatic.com/29b24d28cabd993874b1017109aa39c09b3998af_full.jpg",
+            "server_id": 26
+        },
+        {
+            "player_id": 4820,
+            "name": "hunter",
+            "avatar_url": "https://avatars.steamstatic.com/3ca39e12e1f263c574cf1780139a67d4508a98cb_full.jpg",
+            "server_id": 26
+        }
+    ]
 }
