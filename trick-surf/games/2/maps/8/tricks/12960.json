@@ -1,0 +1,50 @@
+{
+    "id": 12960,
+    "map_id": 8,
+    "name": "Lumi To Spawn V2",
+    "date": "2025-05-21T08:24:05.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-21T08:24:34.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 744,
+            "name": "Sriracha Tip",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 743,
+            "name": "Sriracha",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 747,
+            "name": "T-Spawn",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

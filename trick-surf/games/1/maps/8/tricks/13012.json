@@ -1,0 +1,62 @@
+{
+    "id": 13012,
+    "map_id": 8,
+    "name": "Kitty Walk To CT Teleport",
+    "date": "2025-05-25T19:15:13.000Z",
+    "author": "☿♀♂⚥⚧⚩⚤⚣⚢⚨",
+    "author_id": 10483,
+    "last_updated": "2025-05-25T19:41:05.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "2",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 663,
+            "name": "Center Wedge Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Center Wedge",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 728,
+            "name": "Right Wing",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 704,
+            "name": "Long Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 669,
+            "name": "CT-Spawn Teleporter",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

@@ -11202,6 +11202,68 @@
         ]
     },
     {
+        "id": 13030,
+        "map_id": 2,
+        "name": "Wat A Guder",
+        "date": "2025-05-26T14:05:02.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 139,
+                "name": "House 2 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 140,
+                "name": "House 2 Floor 2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 81,
+                "name": "Castle Front Ramp Flat",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 71,
+                "name": "Around Castle",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 80,
+                "name": "Castle Front Ramp",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 1177,
         "map_id": 2,
         "name": "Water Gap",
@@ -16085,6 +16147,50 @@
                 "trigger_id": 143,
                 "name": "Main Ramp",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13023,
+        "map_id": 2,
+        "name": "Concrete Theory",
+        "date": "2025-05-26T13:54:18.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 79,
+                "name": "Castle Front Ledge",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -22667,6 +22773,86 @@
                 "trigger_id": 156,
                 "name": "Spawn Top Hidden Platform",
                 "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13036,
+        "map_id": 2,
+        "name": "High 4 Square Roof Return",
+        "date": "2025-05-26T14:12:37.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 155,
+                "name": "Spawn Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 139,
+                "name": "House 2 Floor 2 Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 139,
+                "name": "House 2 Floor 2 Platform",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "name": "Grass Spawn Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 152,
+                "name": "Spawn House Ramp",
+                "order": 9,
                 "passthrough": 0
             }
         ]
@@ -35789,6 +35975,452 @@
                 "trigger_id": 83,
                 "name": "Castle House Platform",
                 "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13029,
+        "map_id": 2,
+        "name": "Golden King",
+        "date": "2025-05-26T14:02:46.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 139,
+                "name": "House 2 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 140,
+                "name": "House 2 Floor 2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13026,
+        "map_id": 2,
+        "name": "Hard Refined Theory",
+        "date": "2025-05-26T13:58:30.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 81,
+                "name": "Castle Front Ramp Flat",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13031,
+        "map_id": 2,
+        "name": "JMatta 2x",
+        "date": "2025-05-26T14:06:34.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 132,
+                "name": "House 1 Floor 2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 140,
+                "name": "House 2 Floor 2 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 140,
+                "name": "House 2 Floor 2 Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13032,
+        "map_id": 2,
+        "name": "Kramron",
+        "date": "2025-05-26T14:07:35.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 139,
+                "name": "House 2 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 140,
+                "name": "House 2 Floor 2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 132,
+                "name": "House 1 Floor 2 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13022,
+        "map_id": 2,
+        "name": "Owens Hard Normark Inspired Trick",
+        "date": "2025-05-26T13:51:23.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 128,
+                "name": "House 1 Floor 1 Platform",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13021,
+        "map_id": 2,
+        "name": "Owens Weird Normark Inspired Trick",
+        "date": "2025-05-26T13:49:39.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 136,
+                "name": "House 2 Floor 1 Platform",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13025,
+        "map_id": 2,
+        "name": "Hard Concrete Theory",
+        "date": "2025-05-26T13:57:33.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 3,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 79,
+                "name": "Castle Front Ledge",
+                "order": 5,
                 "passthrough": 0
             }
         ]
@@ -51052,6 +51684,86 @@
         ]
     },
     {
+        "id": 13037,
+        "map_id": 2,
+        "name": "High 4 Square House Return",
+        "date": "2025-05-26T14:14:04.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 155,
+                "name": "Spawn Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 139,
+                "name": "House 2 Floor 2 Platform",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 139,
+                "name": "House 2 Floor 2 Platform",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 143,
+                "name": "Main Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 121,
+                "name": "Grass Spawn Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 154,
+                "name": "Spawn Roof",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 1569,
         "map_id": 2,
         "name": "Hustler",
@@ -54966,6 +55678,130 @@
             {
                 "trigger_id": 197,
                 "name": "Water Sides",
+                "order": 5,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13034,
+        "map_id": 2,
+        "name": "On the Grind 2x JMatta",
+        "date": "2025-05-26T14:10:17.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 132,
+                "name": "House 1 Floor 2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 140,
+                "name": "House 2 Floor 2 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 132,
+                "name": "House 1 Floor 2 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 79,
+                "name": "Castle Front Ledge",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13035,
+        "map_id": 2,
+        "name": "On the Grind JMatta",
+        "date": "2025-05-26T14:11:13.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 132,
+                "name": "House 1 Floor 2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 140,
+                "name": "House 2 Floor 2 Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 79,
+                "name": "Castle Front Ledge",
                 "order": 5,
                 "passthrough": 0
             }
@@ -63745,6 +64581,94 @@
                 "trigger_id": 172,
                 "name": "Superhouse Floor 2 Ramp Ends",
                 "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13033,
+        "map_id": 2,
+        "name": "Grass Canvass",
+        "date": "2025-05-26T14:08:53.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 154,
+                "name": "Spawn Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 152,
+                "name": "Spawn House Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 120,
+                "name": "Grass Spawn",
+                "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13024,
+        "map_id": 2,
+        "name": "Refined Theory",
+        "date": "2025-05-26T13:56:21.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 81,
+                "name": "Castle Front Ramp Flat",
+                "order": 3,
                 "passthrough": 0
             }
         ]
@@ -75373,6 +76297,166 @@
                 "trigger_id": 83,
                 "name": "Castle House Platform",
                 "order": 10,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13027,
+        "map_id": 2,
+        "name": "Twisted Concrete Theory",
+        "date": "2025-05-26T14:00:02.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 79,
+                "name": "Castle Front Ledge",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13028,
+        "map_id": 2,
+        "name": "Twisted Refined Theory",
+        "date": "2025-05-26T14:01:25.000Z",
+        "author": "owen608 passtime.tf",
+        "author_id": 32145,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 131,
+                "name": "House 1 Floor 2 Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 145,
+                "name": "Map Divide",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 129,
+                "name": "House 1 Floor 1 Ramp",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 137,
+                "name": "House 2 Floor 1 Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 81,
+                "name": "Castle Front Ramp Flat",
+                "order": 9,
                 "passthrough": 0
             }
         ]

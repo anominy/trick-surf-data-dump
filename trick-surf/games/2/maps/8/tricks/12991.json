@@ -1,0 +1,62 @@
+{
+    "id": 12991,
+    "map_id": 8,
+    "name": "Instant V2",
+    "date": "2025-05-25T12:23:01.000Z",
+    "author": "☿♀♂⚥⚧⚩⚤⚣⚢⚨",
+    "author_id": 10483,
+    "last_updated": "2025-05-25T14:38:00.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 692,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 727,
+            "name": "Rear Spawn Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 675,
+            "name": "Elevator Hole Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

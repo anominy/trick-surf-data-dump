@@ -1,0 +1,50 @@
+{
+    "id": 13001,
+    "map_id": 8,
+    "name": "Object To Jail Wall",
+    "date": "2025-05-25T16:48:24.000Z",
+    "author": "☿♀♂⚥⚧⚩⚤⚣⚢⚨",
+    "author_id": 10483,
+    "last_updated": "2025-05-25T19:47:18.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 780,
+            "name": "Tower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 696,
+            "name": "Jail Wall",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

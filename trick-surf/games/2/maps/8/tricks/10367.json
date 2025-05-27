@@ -5,12 +5,12 @@
     "date": "2024-06-16T17:03:16.000Z",
     "author": "zxcdima121",
     "author_id": null,
-    "last_updated": null,
+    "last_updated": "2025-05-26T16:53:57.000Z",
     "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
+    "tier": 5,
+    "subtier": 3,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
@@ -35,8 +35,8 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 3214,
-            "name": "Ring",
+            "trigger_id": 1058,
+            "name": "Ring Ground",
             "order": 3,
             "passthrough": 0
         },
@@ -45,6 +45,12 @@
             "name": "Bonus Ramp",
             "order": 4,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 3214,
+            "name": "Ring",
+            "order": 4,
+            "passthrough": 1
         },
         {
             "trigger_id": 727,

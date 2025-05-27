@@ -1,0 +1,50 @@
+{
+    "id": 12915,
+    "map_id": 8,
+    "name": "My Soul To Water 2",
+    "date": "2025-05-20T15:11:36.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-20T15:12:38.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 692,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 704,
+            "name": "Long Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 757,
+            "name": "T1 Water",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

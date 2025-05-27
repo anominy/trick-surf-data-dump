@@ -1,0 +1,50 @@
+{
+    "id": 12953,
+    "map_id": 8,
+    "name": "Story To Spawn",
+    "date": "2025-05-21T07:57:13.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "174",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 744,
+            "name": "Sriracha Tip",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 743,
+            "name": "Sriracha",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 747,
+            "name": "T-Spawn",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 1
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 13007,
+    "map_id": 8,
+    "name": "Object To Joker",
+    "date": "2025-05-25T17:19:34.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "12",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 780,
+            "name": "Tower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 652,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3166,
+            "name": "Over Jail Wall",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 955,
+            "name": "Jokerge Ramp",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

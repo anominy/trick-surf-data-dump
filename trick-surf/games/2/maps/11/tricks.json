@@ -2442,12 +2442,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2391,
-                "name": "THE CUBE Right",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 2390,
                 "name": "THE CUBE Left",
                 "order": 2,
@@ -2456,6 +2450,12 @@
             {
                 "trigger_id": 2016,
                 "name": "THE CUBE Front",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 2391,
+                "name": "THE CUBE Right",
                 "order": 2,
                 "passthrough": 1
             }
@@ -15304,12 +15304,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2287,
-                "name": "Above Fence Left",
-                "order": 5,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 2286,
                 "name": "Above Fence North Front",
                 "order": 5,
@@ -15324,6 +15318,12 @@
             {
                 "trigger_id": 2285,
                 "name": "Above Fence North Back",
+                "order": 5,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2287,
+                "name": "Above Fence Left",
                 "order": 5,
                 "passthrough": 2
             },
@@ -17814,14 +17814,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1891,
-                "name": "Lower Rail Box Right",
+                "trigger_id": 1889,
+                "name": "Lower Rail Box Front",
                 "order": 8,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1889,
-                "name": "Lower Rail Box Front",
+                "trigger_id": 1891,
+                "name": "Lower Rail Box Right",
                 "order": 8,
                 "passthrough": 1
             },
@@ -25712,14 +25712,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2405,
-                "name": "F Loop Apex",
+                "trigger_id": 1829,
+                "name": "F Loop",
                 "order": 3,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1829,
-                "name": "F Loop",
+                "trigger_id": 2405,
+                "name": "F Loop Apex",
                 "order": 3,
                 "passthrough": 1
             },

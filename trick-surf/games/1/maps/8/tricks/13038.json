@@ -1,0 +1,74 @@
+{
+    "id": 13038,
+    "map_id": 8,
+    "name": "legalmano",
+    "date": "2025-05-26T14:16:13.000Z",
+    "author": "reyted",
+    "author_id": 422,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "3",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 692,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 740,
+            "name": "Spawn Roof Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Side Spawn Booster",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 679,
+            "name": "Ground Teleporter",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 692,
+            "name": "Jail Floor",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 785,
+            "name": "Triomino 2",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3214,
+            "name": "Ring",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 683,
+            "name": "Hamburger",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 783,
+            "name": "Tower Top",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}
