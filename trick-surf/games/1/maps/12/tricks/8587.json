@@ -1,55 +1,67 @@
 {
     "id": 8587,
     "map_id": 12,
-    "name": "Kyle Hyde",
-    "date": "2023-12-28T21:43:14.000Z",
-    "author": "change name",
-    "author_id": 17456,
-    "last_updated": "2023-12-28T22:33:35.000Z",
-    "last_updated_author_id": 1137,
+    "name": "Instant Regret",
+    "date": "2023-12-29T18:55:52.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": null,
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "135",
-    "players_completed": "21",
+    "completions": "31",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
+            "trigger_id": 2582,
             "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2596,
-            "name": "Main Boost Left",
+            "trigger_id": 2576,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2565,
-            "name": "Left Name Towers Ramp",
+            "trigger_id": 2981,
+            "name": "Through instantdeath",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2472,
-            "name": "Center House Ramp",
+            "trigger_id": 2564,
+            "name": "Lower Spiral Stairs",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2909,
-            "name": "West Hanging Center Ramp",
+            "trigger_id": 2941,
+            "name": "Through Anti Grav Corners",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2736,
-            "name": "Sky Grassbed",
+            "trigger_id": 2578,
+            "name": "Main Floor Block",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2920,
+            "name": "White Pool Divider",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2566,
+            "name": "Lower White Pool Ledge",
+            "order": 7,
             "passthrough": 0
         }
     ]

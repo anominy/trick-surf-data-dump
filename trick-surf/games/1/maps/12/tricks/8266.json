@@ -1,79 +1,91 @@
 {
     "id": 8266,
     "map_id": 12,
-    "name": "The O",
+    "name": "Cool Grapefruit",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "๖ۣۜKïñgYo§hi ٿـ",
-    "author_id": 457,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-11-09T18:13:22.000Z",
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "96",
-    "players_completed": "36",
+    "completions": "17",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2939,
-            "name": "White Pool Roof",
+            "trigger_id": 2811,
+            "name": "Star Red Roof",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2559,
-            "name": "Left Beam Ramp",
+            "trigger_id": 2380,
+            "name": "Anti Grav North Slide",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2868,
-            "name": "Under Left Front Pillar Beam",
+            "trigger_id": 2382,
+            "name": "Anti Grav Top",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2377,
+            "name": "Anti Grav",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2885,
-            "name": "Under Right Front Pillar Beam",
+            "trigger_id": 2939,
+            "name": "Over Anti Grav",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2724,
-            "name": "Right Beam Ramp",
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
+            "trigger_id": 2939,
+            "name": "Over Anti Grav",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
+            "trigger_id": 2377,
+            "name": "Anti Grav",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2937,
-            "name": "White Pool Ramp",
+            "trigger_id": 2848,
+            "name": "Under Anti Grav",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2561,
-            "name": "Left Front Pillar Beam",
+            "trigger_id": 2544,
+            "name": "Logo Roof",
             "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2548,
+            "name": "Logo Window",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2539,
+            "name": "Logo Platform",
+            "order": 11,
             "passthrough": 0
         }
     ]

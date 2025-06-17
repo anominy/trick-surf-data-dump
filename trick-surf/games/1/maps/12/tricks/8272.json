@@ -1,31 +1,55 @@
 {
     "id": 8272,
     "map_id": 12,
-    "name": "Roll The Credits?",
+    "name": "Center Wing Rise",
     "date": "2023-11-07T18:00:00.000Z",
     "author": "Lucy",
     "author_id": 103,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2023-12-18T04:20:04.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "15",
-    "players_completed": "13",
+    "completions": "80",
+    "players_completed": "17",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2953,
-            "name": "Lucy's Platform",
+            "trigger_id": 2448,
+            "name": "Center Sky Beams",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2969,
-            "name": "Meow Room",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2395,
+            "name": "Balu's Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3010,
+            "name": "Left Wing Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2582,
+            "name": "Main Platform",
+            "order": 5,
             "passthrough": 0
         }
     ]

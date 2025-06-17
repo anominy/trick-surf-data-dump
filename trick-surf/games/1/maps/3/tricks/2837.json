@@ -1,0 +1,44 @@
+{
+    "id": 2837,
+    "map_id": 3,
+    "name": "Reverse Bend Around Main",
+    "date": "2021-09-09T19:03:58.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "276",
+    "players_completed": "69",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 216,
+            "name": "Bent Ramp",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 244,
+            "name": "Over Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 210,
+            "name": "Behind Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 216,
+            "name": "Bent Ramp",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

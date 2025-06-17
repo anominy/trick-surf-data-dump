@@ -1,15 +1,15 @@
 {
     "id": 10988,
     "map_id": 12,
-    "name": "i am one with the hops",
-    "date": "2024-08-19T05:42:52.000Z",
-    "author": "Steve",
-    "author_id": 10,
-    "last_updated": "2024-08-19T05:45:13.000Z",
+    "name": "Unit Slurf",
+    "date": "2024-08-20T02:21:27.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": null,
     "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 8,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "3",
@@ -17,57 +17,63 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2723,
-            "name": "Right Back Pillar Beam",
+            "trigger_id": 2539,
+            "name": "Logo Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2536,
-            "name": "Green-White Ramp",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2531,
-            "name": "Green Corner Block",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2686,
-            "name": "Purple-Green Ramp",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2680,
-            "name": "Purple Corner Block",
+            "trigger_id": 3054,
+            "name": "Center In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2721,
-            "name": "Red-Purple Ramp",
+            "trigger_id": 2502,
+            "name": "Green-White Edge Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2713,
-            "name": "Red Corner Block",
+            "trigger_id": 2659,
+            "name": "Purple-Green Edge Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2693,
+            "name": "Red-Purple Edge Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2586,
-            "name": "Low Wall Fixture",
+            "trigger_id": 2930,
+            "name": "White-Red Edge Ramp",
             "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2635,
+            "name": "Pink Pool",
+            "order": 9,
             "passthrough": 0
         }
     ]

@@ -1,103 +1,61 @@
 {
     "id": 8397,
     "map_id": 12,
-    "name": "chief's Circus Trick",
-    "date": "2023-11-19T19:22:41.000Z",
-    "author": "chief❤ ⸜(˃ ᵕ ˂ )⸝",
-    "author_id": 75,
-    "last_updated": null,
-    "last_updated_author_id": 75,
+    "name": "Block Transfer",
+    "date": "2023-11-21T20:15:49.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2024-06-04T09:14:01.000Z",
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "subtier": 2,
+    "tier": 2,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "4",
-    "players_completed": "4",
+    "completions": "96",
+    "players_completed": "26",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2786,
-            "name": "Spawn Middle Floor",
+            "trigger_id": 2471,
+            "name": "East Inner Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2784,
-            "name": "Spawn Bottom Ramp",
+            "trigger_id": 2469,
+            "name": "East Inner Entrance",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2783,
-            "name": "Spawn Bottom Floor",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2614,
+            "name": "North Spiral Tower Entrance",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2867,
-            "name": "Under Left Back Pillar Beam",
+            "trigger_id": 2741,
+            "name": "Snake Ramp 1",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2734,
-            "name": "Side Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2972,
-            "name": "Over Anti Grav",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2849,
-            "name": "Through Spiral Loop",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2842,
-            "name": "Through Hanging Loop",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2536,
-            "name": "Green-White Ramp",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2654,
-            "name": "Over Main Ramp",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2933,
+            "trigger_id": 2918,
             "name": "White Pool Block",
-            "order": 13,
+            "order": 6,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,62 @@
+{
+    "id": 2731,
+    "map_id": 3,
+    "name": "Shotty Bender",
+    "date": "2021-08-16T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-08-05T03:05:36.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "66",
+    "players_completed": "27",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 269,
+            "name": "Shotgun Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 265,
+            "name": "Shotgun Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 287,
+            "name": "Under Shotgun",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 265,
+            "name": "Shotgun Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 280,
+            "name": "Straight Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 215,
+            "name": "Bent Gap",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 221,
+            "name": "Curved Ramp",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

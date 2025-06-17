@@ -1,67 +1,73 @@
 {
     "id": 8597,
     "map_id": 12,
-    "name": "Instant Regret",
-    "date": "2023-12-29T18:55:52.000Z",
-    "author": "Lucy",
-    "author_id": 103,
+    "name": "Buoyant Cucumber",
+    "date": "2023-12-30T15:27:56.000Z",
+    "author": "william",
+    "author_id": 347,
     "last_updated": null,
-    "last_updated_author_id": 103,
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "31",
-    "players_completed": "13",
+    "completions": "24",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2847,
+            "name": "Trapezium Ramps Top Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2597,
-            "name": "Main Boost Right",
+            "trigger_id": 2481,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3028,
-            "name": "Through instantdeath",
+            "trigger_id": 2845,
+            "name": "Trapezium Ramps Bottom Floor",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2590,
-            "name": "Lower Spiral Stairs",
+            "trigger_id": 2642,
+            "name": "Pink Pool Ramp Floor",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2976,
-            "name": "Through Anti Grav Corners",
+            "trigger_id": 2688,
+            "name": "Red Corner Slide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2599,
-            "name": "Main Floor Block",
+            "trigger_id": 2930,
+            "name": "White-Red Edge Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2935,
-            "name": "White Pool Divider",
+            "trigger_id": 2932,
+            "name": "White-Red Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2592,
-            "name": "Lower White Pool Ledge",
+            "trigger_id": 2481,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2847,
+            "name": "Trapezium Ramps Top Floor",
+            "order": 8,
             "passthrough": 0
         }
     ]

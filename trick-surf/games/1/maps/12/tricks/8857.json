@@ -1,55 +1,85 @@
 {
     "id": 8857,
     "map_id": 12,
-    "name": "Write On",
-    "date": "2024-01-21T03:12:38.000Z",
-    "author": "ᴛꜱ ٠ King",
-    "author_id": 10,
+    "name": "Tweakin",
+    "date": "2024-01-25T17:32:27.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
     "last_updated": null,
-    "last_updated_author_id": 10,
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "33",
-    "players_completed": "11",
+    "completions": "5",
+    "players_completed": "4",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2723,
-            "name": "Right Back Pillar Beam",
+            "trigger_id": 2596,
+            "name": "Name Towers Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2536,
-            "name": "Green-White Ramp",
+            "trigger_id": 2597,
+            "name": "Name Towers Platform Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2534,
-            "name": "Green-White Edge Ramp",
+            "trigger_id": 2629,
+            "name": "Over Center Sky Supports",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2927,
-            "name": "White Corner Block",
+            "trigger_id": 2821,
+            "name": "Through Center Sky Supports",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2485,
+            "name": "Front Color Star Platform",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2658,
-            "name": "Pink Pool Block",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3108,
+            "name": "Upper Left Small Main Tunnel Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2395,
+            "name": "Balu's Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2513,
+            "name": "Hanging Sky Orange Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2761,
+            "name": "South Sewer Tower Headsurf Platform",
+            "order": 10,
             "passthrough": 0
         }
     ]

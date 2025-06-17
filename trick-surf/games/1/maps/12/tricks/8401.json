@@ -1,109 +1,49 @@
 {
     "id": 8401,
     "map_id": 12,
-    "name": "SP404",
-    "date": "2023-11-20T11:43:07.000Z",
-    "author": "n0doz",
-    "author_id": 2944,
-    "last_updated": null,
-    "last_updated_author_id": 347,
+    "name": "Dina's Climb to Cat Tree",
+    "date": "2023-11-22T16:22:30.000Z",
+    "author": "oski",
+    "author_id": 194,
+    "last_updated": "2023-11-22T16:24:54.000Z",
+    "last_updated_author_id": 75,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "16",
-    "players_completed": "11",
+    "completions": "98",
+    "players_completed": "20",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2817,
-            "name": "Spiral Tower Top",
+            "trigger_id": 2507,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2812,
-            "name": "Spiral Tower Middle Ramp",
+            "trigger_id": 2508,
+            "name": "Grey Tower Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2513,
+            "name": "Hanging Sky Orange Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2883,
-            "name": "Under Red Spiral Platform",
+            "trigger_id": 2512,
+            "name": "Hanging Loop",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2521,
-            "name": "Front Ramp",
+            "trigger_id": 2726,
+            "name": "Sky Orange Platform Block",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2536,
-            "name": "Green-White Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2410,
-            "name": "Anti Grav Booster",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2410,
-            "name": "Anti Grav Booster",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
-            "order": 9,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
-            "order": 10,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2903,
-            "name": "Vent Ramp",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2633,
-            "name": "North Sewer Tower Headsurf Platform",
-            "order": 12,
             "passthrough": 0
         }
     ]

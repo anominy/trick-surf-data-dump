@@ -1,79 +1,91 @@
 {
     "id": 8333,
     "map_id": 12,
-    "name": "Boundless Plum",
-    "date": "2023-11-08T21:00:58.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-12-31T12:35:16.000Z",
+    "name": "Eclipse",
+    "date": "2023-11-09T15:34:11.000Z",
+    "author": "winter",
+    "author_id": 406,
+    "last_updated": "2023-11-16T17:31:02.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 2,
+    "tier": 5,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "5",
-    "players_completed": "5",
+    "completions": "42",
+    "players_completed": "14",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2646,
-            "name": "Orange Floor",
+            "trigger_id": 2811,
+            "name": "Star Red Roof",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2923,
-            "name": "White Booster",
+            "trigger_id": 2489,
+            "name": "Front Outer Color Star Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2891,
-            "name": "Under White Corner Block",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2555,
-            "name": "Isosceles Trapezium Ramp",
+            "trigger_id": 2938,
+            "name": "Logo Entrance West",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2946,
-            "name": "White-Red Edge Ramp",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2650,
+            "name": "Pools Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2821,
+            "name": "Through Center Sky Supports",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2657,
-            "name": "Pink Pool",
+            "trigger_id": 2938,
+            "name": "Logo Entrance West",
             "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2553,
+            "name": "Low Color Star Tower Detail",
+            "order": 11,
             "passthrough": 0
         }
     ]

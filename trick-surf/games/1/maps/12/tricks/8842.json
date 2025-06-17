@@ -1,56 +1,116 @@
 {
     "id": 8842,
     "map_id": 12,
-    "name": "Cat Food",
-    "date": "2024-01-18T00:50:07.000Z",
-    "author": "freakacele",
-    "author_id": 169,
-    "last_updated": null,
-    "last_updated_author_id": 169,
+    "name": "Scintillating Durian",
+    "date": "2024-01-19T20:54:09.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2024-01-20T11:41:15.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "71",
-    "players_completed": "19",
+    "completions": "13",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3164,
-            "name": "West Spiral Grav Beam",
+            "trigger_id": 2790,
+            "name": "Spiral Pool Shelf",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2797,
+            "name": "Spiral Tower Middle Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3137,
-            "name": "Spiral Tower Bottom Floor Blocks",
+            "trigger_id": 2796,
+            "name": "Spiral Tower Middle",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2593,
+            "name": "Middle Spiral Stairs Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3162,
-            "name": "West Right Spiral Grav Ramp",
+            "trigger_id": 2382,
+            "name": "Anti Grav Top",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3136,
-            "name": "Spiral Tower Bottom Block",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 5,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 2765,
+            "name": "South Spiral Tower Entrance",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2626,
+            "name": "Over Blue Spiral Platform",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2564,
+            "name": "Lower Spiral Stairs",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2565,
+            "name": "Lower Spiral Stairs Platform",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2526,
+            "name": "Left Back Pillar Beam",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2470,
+            "name": "East Inner Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2899,
+            "name": "West Inner Ramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3107,
+            "name": "Under West Spiral Grav Beam",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2783,
+            "name": "Spiral Grassbed",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2817,
+            "name": "Through Anti Grav Supports",
+            "order": 14,
+            "passthrough": 2
         }
     ]
 }

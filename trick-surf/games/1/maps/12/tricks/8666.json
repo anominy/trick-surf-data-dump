@@ -1,31 +1,91 @@
 {
     "id": 8666,
     "map_id": 12,
-    "name": "Blue Strafe",
-    "date": "2024-01-02T16:09:09.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": "2024-01-02T16:14:36.000Z",
-    "last_updated_author_id": 103,
+    "name": "Elsa",
+    "date": "2024-01-02T23:38:43.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": null,
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "249",
-    "players_completed": "42",
+    "completions": "13",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2802,
-            "name": "Spiral Pole Top",
+            "trigger_id": 2507,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3089,
-            "name": "Blue Spiral Platform Window",
+            "trigger_id": 2508,
+            "name": "Grey Tower Boost",
             "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2973,
+            "name": "Left Gravity Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2495,
+            "name": "Gravity Floor",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3037,
+            "name": "Pyramid Middle Ramp East",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2388,
+            "name": "Back Outer Color Star Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2489,
+            "name": "Front Outer Color Star Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3037,
+            "name": "Pyramid Middle Ramp East",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2607,
+            "name": "North Sewer Grate Teleporter",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2559,
+            "name": "Lower Main Tunnel Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2533,
+            "name": "Left Name Towers Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2777,
+            "name": "Spawn Top Channel",
+            "order": 11,
             "passthrough": 0
         }
     ]

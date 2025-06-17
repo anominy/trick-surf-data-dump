@@ -1,74 +1,38 @@
 {
     "id": 8188,
     "map_id": 12,
-    "name": "Open Arms Circuit",
+    "name": "Balu's Main Wrap",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "william",
-    "author_id": 347,
+    "author": "ᴛꜱ ٠ Lucy",
+    "author_id": 103,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": null,
-    "completions": "96",
-    "players_completed": "52",
+    "completions": "88",
+    "players_completed": "35",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2854,
-            "name": "Through Vent Anti Grav Support",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
+            "trigger_id": 2819,
+            "name": "Through Balu's Tunnel",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2410,
-            "name": "Anti Grav Booster",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2432,
-            "name": "Behind Main Ramp",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 2410,
-            "name": "Anti Grav Booster",
-            "order": 2,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2410,
-            "name": "Anti Grav Booster",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2854,
-            "name": "Through Vent Anti Grav Support",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2410,
-            "name": "Anti Grav Booster",
-            "order": 4,
-            "passthrough": 1
         }
     ]
 }

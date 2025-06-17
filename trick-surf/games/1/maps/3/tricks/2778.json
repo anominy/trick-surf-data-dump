@@ -1,0 +1,56 @@
+{
+    "id": 2778,
+    "map_id": 3,
+    "name": "Howdy Partner",
+    "date": "2021-09-04T03:00:35.000Z",
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated": "2022-05-19T09:43:42.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "67",
+    "players_completed": "25",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 251,
+            "name": "Rifle Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 247,
+            "name": "Rifle Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 236,
+            "name": "Jail Top Tele",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 284,
+            "name": "Top Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 216,
+            "name": "Bent Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 220,
+            "name": "Buy Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,43 +1,67 @@
 {
     "id": 8592,
     "map_id": 12,
-    "name": "Pinksaw++",
-    "date": "2023-12-29T01:56:59.000Z",
-    "author": "ᴛꜱ ٠ King",
-    "author_id": 10,
+    "name": "Hollow",
+    "date": "2023-12-30T13:36:14.000Z",
+    "author": "Lucy",
+    "author_id": 103,
     "last_updated": null,
-    "last_updated_author_id": 10,
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "71",
-    "players_completed": "14",
+    "completions": "160",
+    "players_completed": "18",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2666,
-            "name": "Pink Pool Roof",
+            "trigger_id": 2582,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
+            "trigger_id": 2576,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
+            "trigger_id": 2408,
+            "name": "Between Liquidator and roee",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2894,
-            "name": "Upper Pink Pool Ledge",
+            "trigger_id": 2409,
+            "name": "Between Liquidator and william",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2707,
+            "name": "Right Name Towers Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2976,
+            "name": "Through Thanks",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2934,
+            "name": "mbsurfer's Jumppad",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2582,
+            "name": "Main Platform",
+            "order": 7,
             "passthrough": 0
         }
     ]

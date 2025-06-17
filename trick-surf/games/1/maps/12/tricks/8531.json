@@ -1,74 +1,104 @@
 {
     "id": 8531,
     "map_id": 12,
-    "name": "Skyscraper",
-    "date": "2023-12-16T19:30:49.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": "2023-12-16T19:31:24.000Z",
-    "last_updated_author_id": 103,
+    "name": "Profuse Pomelo",
+    "date": "2023-12-19T10:00:16.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": null,
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 8,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "32",
-    "players_completed": "9",
+    "completions": "2",
+    "players_completed": "2",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2397,
+            "name": "Balu's Tunnel",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2597,
-            "name": "Main Boost Right",
+            "trigger_id": 2391,
+            "name": "Balu's Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3034,
-            "name": "Through skyworld",
+            "trigger_id": 2382,
+            "name": "Anti Grav Top",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2606,
-            "name": "Main Ramp Spine",
+            "trigger_id": 2377,
+            "name": "Anti Grav",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2578,
-            "name": "Logo Tunnel",
+            "trigger_id": 2758,
+            "name": "South Sewer Grate Teleporter",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2902,
-            "name": "Vent Headsurf Teleport",
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2613,
-            "name": "mbsurfer's Jumppad",
+            "trigger_id": 2939,
+            "name": "Over Anti Grav",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2377,
+            "name": "Anti Grav",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2945,
-            "name": "Right White Tower Detail",
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
             "order": 8,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 2607,
+            "name": "North Sewer Grate Teleporter",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2559,
+            "name": "Lower Main Tunnel Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2539,
+            "name": "Logo Platform",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 12,
+            "passthrough": 1
         }
     ]
 }

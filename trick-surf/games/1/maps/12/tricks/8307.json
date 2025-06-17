@@ -1,109 +1,85 @@
 {
     "id": 8307,
     "map_id": 12,
-    "name": "Control",
+    "name": "Sauce Material",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "Xiao",
-    "author_id": 103,
+    "author": "rec",
+    "author_id": 1107,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "38",
-    "players_completed": "15",
+    "completions": "12",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2727,
+            "name": "Sky Orange Slide",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2596,
-            "name": "Main Boost Left",
+            "trigger_id": 2696,
+            "name": "Red-Purple Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2732,
-            "name": "roee's Tower",
+            "trigger_id": 2870,
+            "name": "Under Right Back Pillar Beam",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2440,
-            "name": "Between Liquidator and william",
+            "trigger_id": 2504,
+            "name": "Green-White Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2675,
-            "name": "Pools Ramp",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2580,
-            "name": "Logo Window",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2936,
-            "name": "White Pool Platform",
+            "trigger_id": 2410,
+            "name": "Between Main Ramp Pillars",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2832,
-            "name": "Through Back Main Pillar",
+            "trigger_id": 2821,
+            "name": "Through Center Sky Supports",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2838,
-            "name": "Through Front Main Pillar",
+            "trigger_id": 2833,
+            "name": "Through Pink Pool",
+            "order": 8,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2924,
+            "name": "White Pool Roof",
             "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2560,
-            "name": "Left Beam Ramp Spine",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2855,
-            "name": "Through White Pool",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2475,
-            "name": "Center Ramp",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
-            "order": 13,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2424,
-            "name": "Balu's Platform",
-            "order": 14,
             "passthrough": 0
         }
     ]

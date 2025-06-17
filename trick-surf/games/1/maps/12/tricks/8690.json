@@ -1,49 +1,73 @@
 {
     "id": 8690,
     "map_id": 12,
-    "name": "East vs West",
-    "date": "2024-01-04T00:24:36.000Z",
-    "author": "ᴛꜱ ٠ King",
-    "author_id": 10,
-    "last_updated": "2024-01-04T00:28:25.000Z",
-    "last_updated_author_id": 10,
+    "name": "Love Story",
+    "date": "2024-01-04T20:45:42.000Z",
+    "author": "ᴛꜱ ٠ lockedd",
+    "author_id": 180,
+    "last_updated": "2024-01-05T02:13:07.000Z",
+    "last_updated_author_id": 169,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "28",
-    "players_completed": "8",
+    "completions": "24",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2692,
-            "name": "Pyramid Loop Top",
+            "trigger_id": 3101,
+            "name": "Spiral Tower Top Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3078,
-            "name": "Pyramid Top Ramp East",
+            "trigger_id": 2801,
+            "name": "Spiral Tower Ring Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3077,
-            "name": "Pyramid Middle Ramp West",
+            "trigger_id": 3075,
+            "name": "Red Spiral Platform Window Block",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3078,
-            "name": "Pyramid Top Ramp East",
+            "trigger_id": 3053,
+            "name": "Blue Spiral Platform Window Block",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2631,
-            "name": "North Sewer Tower Detail",
+            "trigger_id": 3057,
+            "name": "Checkered Spiral Platform Window Block",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2480,
+            "name": "East Spiral Tower Tunnel",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2569,
+            "name": "Luna",
+            "order": 8,
             "passthrough": 0
         }
     ]

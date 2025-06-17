@@ -1,49 +1,55 @@
 {
     "id": 8322,
     "map_id": 12,
-    "name": "Gapping",
-    "date": "2023-11-07T18:00:00.000Z",
-    "author": "ᴛꜱ٠ Arzt",
-    "author_id": 190,
+    "name": "La La Land",
+    "date": "2023-11-08T19:12:20.000Z",
+    "author": "Façade",
+    "author_id": 2,
     "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated_author_id": 5,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "55",
-    "players_completed": "22",
+    "completions": "77",
+    "players_completed": "15",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2567,
-            "name": "Liquidator's Tower",
+            "trigger_id": 2598,
+            "name": "North Center Sky Rope Support",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2730,
-            "name": "Right Name Towers Ramp",
+            "trigger_id": 2601,
+            "name": "North Hanging Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2565,
-            "name": "Left Name Towers Ramp",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2802,
-            "name": "Spiral Pole Top",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2582,
+            "name": "Main Platform",
+            "order": 5,
             "passthrough": 0
         }
     ]

@@ -1,139 +1,43 @@
 {
     "id": 8736,
     "map_id": 12,
-    "name": "what we did in the desert",
-    "date": "2024-01-10T02:23:06.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": "2024-01-10T02:51:57.000Z",
-    "last_updated_author_id": 103,
+    "name": "Poleposition",
+    "date": "2024-01-11T01:17:06.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2024-01-11T01:17:34.000Z",
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "7",
-    "players_completed": "5",
+    "completions": "47",
+    "players_completed": "14",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 3101,
+            "name": "Spiral Tower Top Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2597,
-            "name": "Main Boost Right",
+            "trigger_id": 2801,
+            "name": "Spiral Tower Ring Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2439,
-            "name": "Between Liquidator and roee",
+            "trigger_id": 2801,
+            "name": "Spiral Tower Ring Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2437,
-            "name": "Between Formal and roee",
+            "trigger_id": 2788,
+            "name": "Spiral Pole Top",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2800,
-            "name": "Spiral Name Connector",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2801,
-            "name": "Spiral Name Connector Slide",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2845,
-            "name": "Through Main Loop",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3157,
-            "name": "Upper Main Tunnel Window",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2972,
-            "name": "Over Anti Grav",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2600,
-            "name": "Main In-Ground Ramp",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3145,
-            "name": "Through Checkered Spiral Platform Window",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2779,
-            "name": "South Spiral Tower Entrance",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2499,
-            "name": "East Inner Entrance",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2500,
-            "name": "East Inner Ramp",
-            "order": 13,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2912,
-            "name": "West Inner Ramp",
-            "order": 14,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2911,
-            "name": "West Inner Entrance",
-            "order": 15,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3149,
-            "name": "Under West Spiral Grav Beam",
-            "order": 16,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3107,
-            "name": "Mirrored Side Ramp",
-            "order": 17,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2972,
-            "name": "Over Anti Grav",
-            "order": 18,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3093,
-            "name": "Checkered Spiral Platform Window",
-            "order": 19,
             "passthrough": 0
         }
     ]

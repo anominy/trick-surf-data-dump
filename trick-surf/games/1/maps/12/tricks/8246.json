@@ -1,0 +1,50 @@
+{
+    "id": 8246,
+    "map_id": 12,
+    "name": "Beam Rise",
+    "date": "2023-11-07T18:00:00.000Z",
+    "author": "freakacele",
+    "author_id": 169,
+    "last_updated": "2023-11-13T02:14:41.000Z",
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "48",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2596,
+            "name": "Name Towers Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2597,
+            "name": "Name Towers Platform Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2450,
+            "name": "Center Sky Supports",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2707,
+            "name": "Right Name Towers Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2778,
+            "name": "Spawn Top Floor",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

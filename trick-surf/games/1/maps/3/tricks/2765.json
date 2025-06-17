@@ -1,0 +1,38 @@
+{
+    "id": 2765,
+    "map_id": 3,
+    "name": "Go Home",
+    "date": "2021-08-31T12:40:30.000Z",
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated": "2022-10-08T14:01:22.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "163",
+    "players_completed": "49",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 284,
+            "name": "Top Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 236,
+            "name": "Jail Top Tele",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 284,
+            "name": "Top Platform",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

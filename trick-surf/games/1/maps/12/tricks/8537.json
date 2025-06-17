@@ -1,79 +1,43 @@
 {
     "id": 8537,
     "map_id": 12,
-    "name": "Bilingual Pea",
-    "date": "2023-12-19T09:42:08.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-12-31T09:09:39.000Z",
+    "name": "Can We Go To McDonalds?",
+    "date": "2023-12-20T03:47:47.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2023-12-20T04:08:35.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "12",
-    "players_completed": "9",
+    "completions": "9",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2944,
-            "name": "Right White Tower",
+            "trigger_id": 2786,
+            "name": "Spiral Name Connector",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2929,
-            "name": "Right White Tower Ramp",
+            "trigger_id": 2533,
+            "name": "Left Name Towers Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2670,
-            "name": "Right Pink Tower",
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2686,
-            "name": "Purple-Green Ramp",
+            "trigger_id": 2558,
+            "name": "Lower Main Tunnel Connector",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2721,
-            "name": "Red-Purple Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2840,
-            "name": "Through Gravity Front",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2839,
-            "name": "Through Gravity Back",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2646,
-            "name": "Orange Floor",
-            "order": 9,
             "passthrough": 0
         }
     ]

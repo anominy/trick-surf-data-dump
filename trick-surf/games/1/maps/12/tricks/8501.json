@@ -1,73 +1,97 @@
 {
     "id": 8501,
     "map_id": 12,
-    "name": "Corpse Explosion",
-    "date": "2023-12-12T17:05:24.000Z",
-    "author": "ᴛꜱ٠ synq_",
-    "author_id": 6763,
+    "name": "Festive Watermelon",
+    "date": "2023-12-13T18:47:21.000Z",
+    "author": "william",
+    "author_id": 347,
     "last_updated": null,
-    "last_updated_author_id": 103,
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "40",
-    "players_completed": "15",
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "4",
+    "players_completed": "4",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2809,
-            "name": "Spiral Tower Hole",
+            "trigger_id": 2448,
+            "name": "Center Sky Beams",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2655,
-            "name": "Over Red Spiral Platform",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2893,
-            "name": "Under White Spiral Platform",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2652,
-            "name": "Over Checkered Spiral Platform",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2864,
-            "name": "Under Blue Spiral Platform",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2821,
+            "name": "Through Center Sky Supports",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2519,
-            "name": "Front Outer Color Star Ramp",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2420,
-            "name": "Back Outer Color Star Ramp",
+            "trigger_id": 2821,
+            "name": "Through Center Sky Supports",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2451,
-            "name": "Big Battery",
+            "trigger_id": 2650,
+            "name": "Pools Ramp",
             "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2444,
+            "name": "Center Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2650,
+            "name": "Pools Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2485,
+            "name": "Front Color Star Platform",
+            "order": 12,
             "passthrough": 0
         }
     ]

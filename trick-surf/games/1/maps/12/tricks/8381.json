@@ -1,49 +1,37 @@
 {
     "id": 8381,
     "map_id": 12,
-    "name": "The Gap",
-    "date": "2023-11-16T23:36:16.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": "2023-11-16T23:38:30.000Z",
-    "last_updated_author_id": 92,
+    "name": "Weeeeeeee",
+    "date": "2023-11-19T03:20:20.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2023-11-21T18:15:52.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
+    "tier": 4,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "10",
-    "players_completed": "8",
+    "max_prestrafe": null,
+    "completions": "45",
+    "players_completed": "19",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2858,
-            "name": "Top Spiral Stairs Platform",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
+            "trigger_id": 2585,
+            "name": "Main Ramp Spine",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2426,
-            "name": "Balu's Ramp",
+            "trigger_id": 2722,
+            "name": "Sky Grassbed",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2951,
-            "name": "Right Wing Ramp",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2778,
-            "name": "South Sewer Tower Top",
-            "order": 4,
             "passthrough": 0
         }
     ]

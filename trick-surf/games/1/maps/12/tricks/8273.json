@@ -1,55 +1,73 @@
 {
     "id": 8273,
     "map_id": 12,
-    "name": "Chickadee",
+    "name": "Clover Jump",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "ᴛꜱ٠ Formal",
-    "author_id": 480,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2023-12-31T08:27:04.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "49",
-    "players_completed": "16",
+    "completions": "21",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2469,
-            "name": "Center House Floor",
+            "trigger_id": 2509,
+            "name": "Grey Tower Detail",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2475,
-            "name": "Center Ramp",
+            "trigger_id": 3008,
+            "name": "Left White Tower Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
+            "trigger_id": 2655,
+            "name": "Purple Corner Block",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
+            "trigger_id": 2377,
+            "name": "Anti Grav",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2624,
+            "name": "Orange Floor Block",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2430,
-            "name": "Behind Logo Ramp",
+            "trigger_id": 2498,
+            "name": "Green Corner",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2584,
-            "name": "Logo Window Slides",
+            "trigger_id": 2498,
+            "name": "Green Corner",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2793,
+            "name": "Spiral Tower Cross Ramp Spine",
+            "order": 7,
             "passthrough": 0
         }
     ]

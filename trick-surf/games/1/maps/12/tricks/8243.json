@@ -1,0 +1,44 @@
+{
+    "id": 8243,
+    "map_id": 12,
+    "name": "Yangie",
+    "date": "2023-11-07T18:00:00.000Z",
+    "author": "Kassihici",
+    "author_id": 3123,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "33",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2505,
+            "name": "Green-White Ramp Spine",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2504,
+            "name": "Green-White Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2502,
+            "name": "Green-White Edge Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2499,
+            "name": "Green Corner Block",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

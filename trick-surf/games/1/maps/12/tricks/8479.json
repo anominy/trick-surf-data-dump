@@ -1,97 +1,145 @@
 {
     "id": 8479,
     "map_id": 12,
-    "name": "Overshooting",
-    "date": "2023-12-08T18:21:27.000Z",
+    "name": "Polyphemus",
+    "date": "2023-12-10T15:59:55.000Z",
     "author": "Lucy",
     "author_id": 103,
-    "last_updated": "2023-12-08T18:22:04.000Z",
+    "last_updated": "2024-01-06T18:58:44.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "35",
-    "players_completed": "13",
+    "completions": "9",
+    "players_completed": "5",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2469,
-            "name": "Center House Floor",
+            "trigger_id": 2507,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2675,
-            "name": "Pools Ramp",
+            "trigger_id": 2508,
+            "name": "Grey Tower Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2974,
-            "name": "Logo Entrance East",
+            "trigger_id": 2560,
+            "name": "Lower Main Tunnel Ramp Spine",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
+            "trigger_id": 2565,
+            "name": "Lower Spiral Stairs Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2975,
-            "name": "Logo Entrance West",
+            "trigger_id": 2560,
+            "name": "Lower Main Tunnel Ramp Spine",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2564,
+            "name": "Lower Spiral Stairs",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2430,
-            "name": "Behind Logo Ramp",
+            "trigger_id": 2565,
+            "name": "Lower Spiral Stairs Platform",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
+            "trigger_id": 2440,
+            "name": "Center House Holes",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2974,
-            "name": "Logo Entrance East",
+            "trigger_id": 2639,
+            "name": "Pink Pool Platform",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
+            "trigger_id": 2860,
+            "name": "Under Main Front Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2975,
-            "name": "Logo Entrance West",
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 2675,
-            "name": "Pools Ramp",
+            "trigger_id": 2853,
+            "name": "Under Left Back Pillar Beam",
             "order": 10,
             "passthrough": 0
         },
         {
-            "trigger_id": 2834,
-            "name": "Through Center House",
+            "trigger_id": 2858,
+            "name": "Under Main Back Ramp",
             "order": 11,
             "passthrough": 0
         },
         {
-            "trigger_id": 2469,
-            "name": "Center House Floor",
+            "trigger_id": 2870,
+            "name": "Under Right Back Pillar Beam",
             "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2410,
+            "name": "Between Main Ramp Pillars",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2860,
+            "name": "Under Main Front Ramp",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2955,
+            "name": "Over Right Beam Ramp",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2941,
+            "name": "Through Anti Grav Corners",
+            "order": 17,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2636,
+            "name": "Pink Pool Block",
+            "order": 18,
             "passthrough": 0
         }
     ]

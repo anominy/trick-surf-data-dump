@@ -1,49 +1,61 @@
 {
     "id": 8337,
     "map_id": 12,
-    "name": "Liq Certified",
-    "date": "2023-11-09T13:00:31.000Z",
+    "name": "Trapezoiding",
+    "date": "2023-11-10T09:19:08.000Z",
     "author": "Liquidator",
     "author_id": 1137,
     "last_updated": null,
     "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
+    "tier": 5,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "68",
-    "players_completed": "26",
+    "completions": "30",
+    "players_completed": "12",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2567,
-            "name": "Liquidator's Tower",
+            "trigger_id": 2847,
+            "name": "Trapezium Ramps Top Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2730,
-            "name": "Right Name Towers Ramp",
+            "trigger_id": 2523,
+            "name": "Isosceles Trapezium Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2481,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
+            "trigger_id": 2930,
+            "name": "White-Red Edge Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2802,
-            "name": "Spiral Pole Top",
+            "trigger_id": 2932,
+            "name": "White-Red Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2932,
+            "name": "White-Red Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2701,
+            "name": "Right Front Pillar Beam",
+            "order": 6,
             "passthrough": 0
         }
     ]

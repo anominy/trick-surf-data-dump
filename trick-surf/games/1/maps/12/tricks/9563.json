@@ -1,85 +1,49 @@
 {
     "id": 9563,
     "map_id": 12,
-    "name": "Have Faith",
-    "date": "2024-04-12T02:05:18.000Z",
-    "author": "Kingaru",
+    "name": "Smooth 1",
+    "date": "2024-04-13T03:23:37.000Z",
+    "author": "steve",
     "author_id": 10,
-    "last_updated": "2024-04-12T02:14:57.000Z",
+    "last_updated": "2024-04-13T03:32:11.000Z",
     "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 2,
+    "tier": 4,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "22",
-    "players_completed": "7",
+    "completions": "25",
+    "players_completed": "12",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2805,
-            "name": "Middle Spiral Stairs Platform Block",
+            "trigger_id": 2665,
+            "name": "Pyramid Lights",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2618,
-            "name": "Luna's Ramp",
+            "trigger_id": 2517,
+            "name": "Inner Pyramid Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2933,
-            "name": "White Pool Block",
+            "trigger_id": 2671,
+            "name": "Pyramid Main Ramp North",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2755,
-            "name": "Snake Floor",
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2614,
-            "name": "Mid Snake Divider",
+            "trigger_id": 3068,
+            "name": "Northern Grassbed Block",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2467,
-            "name": "Center Grey Front Left Platform",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2468,
-            "name": "Center Grey Front Right Platform",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2674,
-            "name": "Pools Floor",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2674,
-            "name": "Pools Floor",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2663,
-            "name": "Pink Pool Ramp Divider",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2658,
-            "name": "Pink Pool Block",
-            "order": 10,
             "passthrough": 0
         }
     ]

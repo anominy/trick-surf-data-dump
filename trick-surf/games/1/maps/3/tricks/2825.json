@@ -1,0 +1,38 @@
+{
+    "id": 2825,
+    "map_id": 3,
+    "name": "Lil' Strafe",
+    "date": "2021-09-09T16:47:03.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": "2021-09-09T16:51:32.000Z",
+    "last_updated_author_id": 1,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 385,
+    "completions": "404",
+    "players_completed": "52",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 234,
+            "name": "Jail Teleporter",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 243,
+            "name": "Over Jail Bridge",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 232,
+            "name": "Jail Slope",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

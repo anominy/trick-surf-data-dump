@@ -1,61 +1,85 @@
 {
     "id": 8875,
     "map_id": 12,
-    "name": "Winter's Outsourced Trick",
-    "date": "2024-01-25T22:49:36.000Z",
+    "name": "Sentinel",
+    "date": "2024-01-27T15:43:13.000Z",
     "author": "Liquidator",
     "author_id": 1137,
-    "last_updated": "2024-01-25T22:51:27.000Z",
+    "last_updated": null,
     "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "7",
-    "players_completed": "5",
+    "completions": "4",
+    "players_completed": "4",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2424,
-            "name": "Balu's Platform",
+            "trigger_id": 2584,
+            "name": "Main Ramp Slant",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2426,
-            "name": "Balu's Ramp",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2521,
-            "name": "Front Ramp",
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2684,
-            "name": "Purple-Green Edge Ramp",
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2718,
-            "name": "Red-Purple Edge Ramp",
+            "trigger_id": 3054,
+            "name": "Center In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3040,
-            "name": "Left Pink Tower Ramp",
+            "trigger_id": 2964,
+            "name": "Under Left Beam Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
+            "trigger_id": 2841,
+            "name": "Through White Pool",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2869,
+            "name": "Under Red Spiral Platform",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3095,
+            "name": "Spiral Tower Bottom Floor Blocks",
+            "order": 10,
             "passthrough": 0
         }
     ]

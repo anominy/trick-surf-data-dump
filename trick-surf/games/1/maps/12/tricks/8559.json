@@ -1,66 +1,66 @@
 {
     "id": 8559,
     "map_id": 12,
-    "name": "Mizu",
-    "date": "2023-12-23T05:47:34.000Z",
-    "author": "Lucy",
-    "author_id": 103,
+    "name": "Battery Leakage",
+    "date": "2023-12-25T14:40:51.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
     "last_updated": null,
-    "last_updated_author_id": 103,
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 7,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "24",
-    "players_completed": "11",
+    "completions": "15",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2576,
-            "name": "Logo Roof",
+            "trigger_id": 2420,
+            "name": "Big Battery",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2584,
-            "name": "Logo Window Slides",
+            "trigger_id": 2423,
+            "name": "Big Battery Ramps",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2975,
-            "name": "Logo Entrance West",
+            "trigger_id": 2731,
+            "name": "Small Battery Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
+            "trigger_id": 2817,
+            "name": "Through Anti Grav Supports",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2974,
-            "name": "Logo Entrance East",
+            "trigger_id": 2747,
+            "name": "Snake Ramp 4",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
+            "trigger_id": 2542,
+            "name": "Logo Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2976,
-            "name": "Through Anti Grav Corners",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2657,
-            "name": "Pink Pool",
+            "trigger_id": 2881,
+            "name": "Upper White Pool Ledge",
             "order": 7,
             "passthrough": 0
         }

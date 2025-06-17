@@ -1,36 +1,36 @@
 {
     "id": 8390,
     "map_id": 12,
-    "name": "Weeeeeeee",
-    "date": "2023-11-19T03:20:20.000Z",
+    "name": "Fixed The Carpal Tunnel Syndrome",
+    "date": "2023-11-19T19:42:39.000Z",
     "author": "Lucy",
     "author_id": 103,
-    "last_updated": "2023-11-21T18:15:52.000Z",
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 1,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "45",
-    "players_completed": "19",
+    "max_prestrafe": 406,
+    "completions": "277",
+    "players_completed": "52",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2487,
+            "name": "Front Main Pillar",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2606,
-            "name": "Main Ramp Spine",
+            "trigger_id": 2860,
+            "name": "Under Main Front Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2736,
-            "name": "Sky Grassbed",
+            "trigger_id": 2554,
+            "name": "Low Wall Fixture",
             "order": 2,
             "passthrough": 0
         }

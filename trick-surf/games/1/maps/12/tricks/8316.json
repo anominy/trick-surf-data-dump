@@ -1,43 +1,61 @@
 {
     "id": 8316,
     "map_id": 12,
-    "name": "DLLM",
+    "name": "Lunacy",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "ᴛꜱ٠ synq_",
-    "author_id": 6763,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "author": "freakacele",
+    "author_id": 169,
+    "last_updated": "2023-11-24T18:54:26.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 6,
-    "subtier": 1,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "31",
-    "players_completed": "23",
+    "completions": "19",
+    "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2620,
-            "name": "Name Towers Platform",
+            "trigger_id": 2844,
+            "name": "Top Spiral Stairs Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2842,
+            "name": "Top Spiral Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2518,
-            "name": "Front Main Pillar Ramp",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2472,
-            "name": "Center House Ramp",
+            "trigger_id": 2410,
+            "name": "Between Main Ramp Pillars",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2410,
+            "name": "Between Main Ramp Pillars",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2570,
+            "name": "Luna's Podium",
+            "order": 6,
             "passthrough": 0
         }
     ]

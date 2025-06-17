@@ -1,43 +1,55 @@
 {
     "id": 8311,
     "map_id": 12,
-    "name": "Lefty",
+    "name": "Squiggly Tree Bears Nightmare",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "Xiao",
-    "author_id": 103,
+    "author": "rec",
+    "author_id": 1107,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "100",
-    "players_completed": "30",
+    "completions": "25",
+    "players_completed": "12",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2605,
-            "name": "Main Ramp Slant",
+            "trigger_id": 2507,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2508,
+            "name": "Grey Tower Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2559,
+            "name": "Lower Main Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2964,
-            "name": "Luna's Podium Left Side",
+            "trigger_id": 2831,
+            "name": "Through Lower Main Tunnel",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2842,
+            "name": "Top Spiral Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2449,
+            "name": "Center Sky Platform",
+            "order": 5,
             "passthrough": 0
         }
     ]

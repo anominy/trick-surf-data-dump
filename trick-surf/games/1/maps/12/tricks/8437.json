@@ -1,67 +1,79 @@
 {
     "id": 8437,
     "map_id": 12,
-    "name": "Gravity Defying",
-    "date": "2023-11-30T23:47:39.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": "2023-12-18T05:15:04.000Z",
+    "name": "Figure Eight",
+    "date": "2023-12-02T20:20:00.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "13",
-    "players_completed": "9",
+    "completions": "136",
+    "players_completed": "23",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2527,
-            "name": "Right Gravity Ramp Spine",
+            "trigger_id": 2538,
+            "name": "Logo Headsurf Beam",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2526,
-            "name": "Right Gravity Ramp",
+            "trigger_id": 2542,
+            "name": "Logo Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2525,
-            "name": "Gravity Floor",
+            "trigger_id": 2830,
+            "name": "Through Logo Tunnel",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2840,
-            "name": "Through Gravity Front",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2721,
-            "name": "Red-Purple Ramp",
+            "trigger_id": 2938,
+            "name": "Logo Entrance West",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2961,
-            "name": "Under Anti Grav",
+            "trigger_id": 2830,
+            "name": "Through Logo Tunnel",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 3043,
-            "name": "Left White Tower Detail",
+            "trigger_id": 2937,
+            "name": "Logo Entrance East",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2830,
+            "name": "Through Logo Tunnel",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2545,
+            "name": "Logo Teleporter Platform",
+            "order": 9,
             "passthrough": 0
         }
     ]

@@ -1,79 +1,85 @@
 {
     "id": 8416,
     "map_id": 12,
-    "name": "Forkle Washington",
-    "date": "2023-11-23T14:37:39.000Z",
-    "author": "Formal",
-    "author_id": 480,
-    "last_updated": "2023-11-23T14:40:12.000Z",
-    "last_updated_author_id": 480,
+    "name": "Torrent Of Oblivion",
+    "date": "2023-11-24T19:11:27.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2023-11-24T19:28:05.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "27",
-    "players_completed": "11",
+    "completions": "12",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2572,
+            "name": "Luna's Podium Right Side",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2597,
-            "name": "Main Boost Right",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2607,
-            "name": "Main Slide",
+            "trigger_id": 2850,
+            "name": "Under Blue Spiral Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2733,
-            "name": "Sayt's Ring",
+            "trigger_id": 2630,
+            "name": "Over Checkered Spiral Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2473,
-            "name": "Center House Ramp Spine",
+            "trigger_id": 2879,
+            "name": "Under White Spiral Platform",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2472,
-            "name": "Center House Ramp",
+            "trigger_id": 2869,
+            "name": "Under Red Spiral Platform",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2613,
-            "name": "mbsurfer's Jumppad",
+            "trigger_id": 2850,
+            "name": "Under Blue Spiral Platform",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2766,
-            "name": "South Hanging Center Ramp",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2624,
-            "name": "North Hanging Center Ramp",
+            "trigger_id": 2614,
+            "name": "North Spiral Tower Entrance",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2480,
-            "name": "Center Sky Platform",
+            "trigger_id": 2741,
+            "name": "Snake Ramp 1",
             "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2566,
+            "name": "Lower White Pool Ledge",
+            "order": 10,
             "passthrough": 0
         }
     ]

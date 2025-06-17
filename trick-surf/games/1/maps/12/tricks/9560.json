@@ -1,43 +1,37 @@
 {
     "id": 9560,
     "map_id": 12,
-    "name": "Take me Back",
-    "date": "2024-04-12T01:29:56.000Z",
-    "author": "Kingaru",
+    "name": "Dr. House M.D",
+    "date": "2024-04-13T02:50:06.000Z",
+    "author": "steve",
     "author_id": 10,
-    "last_updated": "2024-04-12T01:39:36.000Z",
+    "last_updated": "2024-04-13T02:50:11.000Z",
     "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
     "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "16",
-    "players_completed": "6",
+    "completions": "38",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2732,
-            "name": "roee's Tower",
+            "trigger_id": 2442,
+            "name": "Center House Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2565,
-            "name": "Left Name Towers Ramp",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2734,
-            "name": "Side Ramp",
+            "trigger_id": 2544,
+            "name": "Logo Roof",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2463,
-            "name": "Center Front Left Corner",
-            "order": 3,
             "passthrough": 0
         }
     ]

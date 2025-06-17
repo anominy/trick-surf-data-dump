@@ -1,0 +1,50 @@
+{
+    "id": 2830,
+    "map_id": 3,
+    "name": "Sign Strafe Rodeo",
+    "date": "2021-09-09T17:26:43.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 395,
+    "completions": "37",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 277,
+            "name": "Spawn Sign",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 243,
+            "name": "Over Jail Bridge",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 230,
+            "name": "Jail Pillar",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 231,
+            "name": "Jail Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 230,
+            "name": "Jail Pillar",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,66 +1,66 @@
 {
     "id": 8876,
     "map_id": 12,
-    "name": "Riichi",
-    "date": "2024-01-26T14:05:06.000Z",
-    "author": "lockedd",
-    "author_id": 180,
-    "last_updated": null,
-    "last_updated_author_id": 180,
+    "name": "Orbiting Onion",
+    "date": "2024-01-27T15:50:23.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2024-01-27T22:54:27.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "8",
-    "players_completed": "7",
+    "completions": "28",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2539,
-            "name": "Grey Tower",
+            "trigger_id": 2438,
+            "name": "Center House Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2540,
-            "name": "Grey Tower Boost",
+            "trigger_id": 2444,
+            "name": "Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3014,
-            "name": "Left Gravity Ramp",
+            "trigger_id": 3054,
+            "name": "Center In-Ground Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2506,
-            "name": "East Sewer Tower Headsurf Platform",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2848,
-            "name": "Through Pyramid Loop",
+            "trigger_id": 2950,
+            "name": "Over Left Back Pillar Beam",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3072,
-            "name": "Pyramid Middle Ramp East",
+            "trigger_id": 2470,
+            "name": "East Inner Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2545,
-            "name": "Hanging Sky Orange Ramp",
+            "trigger_id": 2755,
+            "name": "South Inner Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2605,
-            "name": "Main Ramp Slant",
+            "trigger_id": 2565,
+            "name": "Lower Spiral Stairs Platform",
             "order": 7,
             "passthrough": 0
         }

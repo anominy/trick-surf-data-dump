@@ -1,0 +1,44 @@
+{
+    "id": 8467,
+    "map_id": 12,
+    "name": "Moment",
+    "date": "2023-12-08T17:45:53.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": null,
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "63",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2946,
+            "name": "Main Anti Grav Fixture Right",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2720,
+            "name": "Side Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2782,
+            "name": "Spiral Flower Pot Floor",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,37 +1,73 @@
 {
     "id": 10987,
     "map_id": 12,
-    "name": "260 1 Ramp",
-    "date": "2024-08-19T05:33:26.000Z",
-    "author": "Deer",
-    "author_id": 10,
-    "last_updated": "2024-10-28T11:10:38.000Z",
-    "last_updated_author_id": 10,
+    "name": "Soho",
+    "date": "2024-08-20T02:11:54.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated": "2024-08-20T02:50:20.000Z",
+    "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
     "tier": 7,
     "subtier": 1,
-    "max_prestrafe": 262,
-    "completions": "23",
-    "players_completed": "10",
+    "max_prestrafe": 406,
+    "completions": "7",
+    "players_completed": "5",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
+            "trigger_id": 2442,
+            "name": "Center House Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2903,
-            "name": "Vent Ramp",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2870,
-            "name": "Under Logo Ramp Floor",
+            "trigger_id": 2504,
+            "name": "Green-White Ramp",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3054,
+            "name": "Center In-Ground Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2871,
+            "name": "Under Right Front Pillar Beam",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2824,
+            "name": "Through Front Main Pillar",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2645,
+            "name": "Pink Pool Roof Block",
+            "order": 8,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,50 @@
+{
+    "id": 2761,
+    "map_id": 3,
+    "name": "Gyros",
+    "date": "2021-08-31T11:24:18.000Z",
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated": "2021-08-31T11:43:42.000Z",
+    "last_updated_author_id": 48,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "123",
+    "players_completed": "36",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 276,
+            "name": "Spawn Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 265,
+            "name": "Shotgun Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 258,
+            "name": "SMG Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,61 +1,67 @@
 {
     "id": 8343,
     "map_id": 12,
-    "name": "Trapezoiding",
-    "date": "2023-11-10T09:19:08.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": null,
-    "last_updated_author_id": 347,
+    "name": "uonder's Rise",
+    "date": "2023-11-10T18:40:41.000Z",
+    "author": "uonder",
+    "author_id": 6919,
+    "last_updated": "2023-11-10T19:06:04.000Z",
+    "last_updated_author_id": 480,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "30",
-    "players_completed": "12",
+    "completions": "17",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2861,
-            "name": "Trapezium Ramps Top Floor",
+            "trigger_id": 2645,
+            "name": "Pink Pool Roof Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2555,
-            "name": "Isosceles Trapezium Ramp",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2511,
-            "name": "Flipped Isosceles Trapezium Ramp",
+            "trigger_id": 2930,
+            "name": "White-Red Edge Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2946,
-            "name": "White-Red Edge Ramp",
+            "trigger_id": 2481,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2847,
+            "name": "Trapezium Ramps Top Floor",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2930,
+            "name": "White-Red Edge Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2726,
-            "name": "Right Front Pillar Beam",
+            "trigger_id": 2699,
+            "name": "Right Beam Ramp",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
+            "order": 7,
             "passthrough": 0
         }
     ]

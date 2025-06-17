@@ -1,55 +1,61 @@
 {
     "id": 8342,
     "map_id": 12,
-    "name": "Made it Out the Guttuh",
-    "date": "2023-11-09T19:56:29.000Z",
-    "author": "ᴛꜱ ٠ jude",
-    "author_id": 264,
+    "name": "chief's Xiao Disco",
+    "date": "2023-11-10T17:49:31.000Z",
+    "author": "chief❤ ⸜(˃ ᵕ ˂ )⸝",
+    "author_id": 75,
     "last_updated": null,
-    "last_updated_author_id": 480,
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
     "tier": 6,
-    "subtier": 1,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "48",
-    "players_completed": "23",
+    "completions": "25",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2916,
-            "name": "West Sewer Tower Detail",
+            "trigger_id": 2567,
+            "name": "Lucy's Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2919,
-            "name": "West Sewer Tower Ramp",
+            "trigger_id": 2568,
+            "name": "Lucy's Slant",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2758,
-            "name": "Snake Ramp 2",
+            "trigger_id": 2775,
+            "name": "Spawn Right Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2627,
-            "name": "North Inner Ramp",
+            "trigger_id": 2770,
+            "name": "Spawn Bottom Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2769,
-            "name": "South Inner Ramp",
+            "trigger_id": 2772,
+            "name": "Spawn Front Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2591,
-            "name": "Lower Spiral Stairs Platform",
+            "trigger_id": 2770,
+            "name": "Spawn Bottom Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2796,
+            "name": "Spiral Tower Middle",
+            "order": 6,
             "passthrough": 0
         }
     ]

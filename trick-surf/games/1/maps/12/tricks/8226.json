@@ -1,55 +1,79 @@
 {
     "id": 8226,
     "map_id": 12,
-    "name": "Boosting Bonanza",
+    "name": "Dance",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "Lucy",
+    "author": "Xiao",
     "author_id": 103,
-    "last_updated": "2023-12-31T08:21:07.000Z",
-    "last_updated_author_id": 103,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "48",
-    "players_completed": "26",
+    "completions": "27",
+    "players_completed": "20",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2646,
-            "name": "Orange Floor",
+            "trigger_id": 2925,
+            "name": "White Pool Roof Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2710,
-            "name": "Red Booster",
+            "trigger_id": 2650,
+            "name": "Pools Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2677,
-            "name": "Purple Booster",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2528,
-            "name": "Green Booster",
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2923,
-            "name": "White Booster",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2932,
-            "name": "White Pool",
+            "trigger_id": 2818,
+            "name": "Through Back Main Pillar",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2824,
+            "name": "Through Front Main Pillar",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2566,
+            "name": "Lower White Pool Ledge",
+            "order": 9,
             "passthrough": 0
         }
     ]

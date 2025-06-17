@@ -1,79 +1,73 @@
 {
     "id": 8465,
     "map_id": 12,
-    "name": "Heat",
-    "date": "2023-12-05T16:56:07.000Z",
+    "name": "Wonky Slide Up",
+    "date": "2023-12-07T17:03:39.000Z",
     "author": "Lucy",
     "author_id": 103,
-    "last_updated": "2023-12-05T16:58:31.000Z",
+    "last_updated": "2023-12-07T17:04:42.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "15",
-    "players_completed": "10",
+    "max_prestrafe": null,
+    "completions": "101",
+    "players_completed": "18",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2620,
-            "name": "Name Towers Platform",
+            "trigger_id": 2976,
+            "name": "Through Thanks",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2621,
-            "name": "Name Towers Platform Booster",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2988,
-            "name": "Top Spiral Headsurf",
+            "trigger_id": 2549,
+            "name": "Logo Window Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2830,
+            "name": "Through Logo Tunnel",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2654,
-            "name": "Over Main Ramp",
+            "trigger_id": 2886,
+            "name": "Vent Headsurf",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2988,
-            "name": "Top Spiral Headsurf",
+            "trigger_id": 2888,
+            "name": "Vent Headsurf Teleport",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2799,
-            "name": "Spiral Loop",
+            "trigger_id": 2484,
+            "name": "Frag's Base",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2937,
-            "name": "White Pool Ramp",
+            "trigger_id": 2753,
+            "name": "South Hanging Center Ramp Spine",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2701,
-            "name": "Pyramid Middle Floor Hole",
+            "trigger_id": 2722,
+            "name": "Sky Grassbed",
             "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2688,
-            "name": "Pyramid Block",
-            "order": 9,
             "passthrough": 0
         }
     ]

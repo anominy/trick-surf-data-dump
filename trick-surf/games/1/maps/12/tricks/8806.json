@@ -1,98 +1,86 @@
 {
     "id": 8806,
     "map_id": 12,
-    "name": "The Ronnie O'Sullivan",
-    "date": "2024-01-15T21:48:12.000Z",
-    "author": "Mason",
-    "author_id": 4140,
-    "last_updated": null,
-    "last_updated_author_id": 480,
+    "name": "Spinal Tap",
+    "date": "2024-01-16T02:00:01.000Z",
+    "author": "freakacele",
+    "author_id": 169,
+    "last_updated": "2024-01-16T03:43:10.000Z",
+    "last_updated_author_id": 169,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "14",
-    "players_completed": "6",
+    "completions": "6",
+    "players_completed": "5",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2451,
-            "name": "Big Battery",
+            "trigger_id": 2442,
+            "name": "Center House Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2454,
-            "name": "Big Battery Ramps",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3110,
-            "name": "Northern Grassbed Block",
+            "trigger_id": 2585,
+            "name": "Main Ramp Spine",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2644,
-            "name": "Northern Divider",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2902,
-            "name": "Vent Headsurf Teleport",
+            "trigger_id": 2937,
+            "name": "Logo Entrance East",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2849,
-            "name": "Through Spiral Loop",
+            "trigger_id": 2548,
+            "name": "Logo Window",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2555,
-            "name": "Isosceles Trapezium Ramp",
+            "trigger_id": 2440,
+            "name": "Center House Holes",
+            "order": 7,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2917,
+            "name": "White Pool",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2848,
-            "name": "Through Pyramid Loop",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2503,
-            "name": "East Sewer Grate Teleporter",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2758,
-            "name": "Snake Ramp 2",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2837,
-            "name": "Through Color Star Loop",
-            "order": 12,
-            "passthrough": 0
+            "trigger_id": 2440,
+            "name": "Center House Holes",
+            "order": 8,
+            "passthrough": 2
         }
     ]
 }

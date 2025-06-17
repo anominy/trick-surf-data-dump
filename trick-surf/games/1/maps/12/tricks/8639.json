@@ -1,49 +1,43 @@
 {
     "id": 8639,
     "map_id": 12,
-    "name": "Lord Of The Windows",
-    "date": "2023-12-31T16:50:03.000Z",
+    "name": "New Age",
+    "date": "2024-01-01T02:47:26.000Z",
     "author": "Liquidator",
     "author_id": 1137,
-    "last_updated": null,
-    "last_updated_author_id": 1137,
+    "last_updated": "2024-01-04T05:40:09.000Z",
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
-    "max_prestrafe": null,
-    "completions": "45",
-    "players_completed": "8",
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "9",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2805,
-            "name": "Middle Spiral Stairs Platform Block",
+            "trigger_id": 2593,
+            "name": "Middle Spiral Stairs Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3146,
-            "name": "Through Red Spiral Platform Window",
+            "trigger_id": 2574,
+            "name": "Luna's Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3144,
-            "name": "Through Blue Spiral Platform Window",
+            "trigger_id": 3097,
+            "name": "Spiral Tower Lower Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3145,
-            "name": "Through Checkered Spiral Platform Window",
+            "trigger_id": 2924,
+            "name": "White Pool Roof",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3136,
-            "name": "Spiral Tower Bottom Block",
-            "order": 4,
             "passthrough": 0
         }
     ]

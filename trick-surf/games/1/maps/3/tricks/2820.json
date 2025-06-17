@@ -1,0 +1,80 @@
+{
+    "id": 2820,
+    "map_id": 3,
+    "name": "Slope Journey",
+    "date": "2021-09-09T11:38:02.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": "2021-09-09T16:49:48.000Z",
+    "last_updated_author_id": 1,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "11",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 196,
+            "name": "Aug Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "name": "Scout Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 252,
+            "name": "Rifle Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 248,
+            "name": "Rifle Bot",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "name": "Scout Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 192,
+            "name": "Aug Bot",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "name": "Scout Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 252,
+            "name": "Rifle Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 248,
+            "name": "Rifle Bot",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 250,
+            "name": "Rifle Button",
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

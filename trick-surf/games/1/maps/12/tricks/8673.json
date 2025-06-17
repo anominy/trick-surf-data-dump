@@ -1,61 +1,73 @@
 {
     "id": 8673,
     "map_id": 12,
-    "name": "Illiteracy",
-    "date": "2024-01-02T23:34:47.000Z",
-    "author": "lockedd",
-    "author_id": 180,
-    "last_updated": "2024-01-03T00:52:53.000Z",
+    "name": "Windows Vista",
+    "date": "2024-01-03T16:26:11.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2024-01-03T16:31:45.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "subtier": 2,
-    "max_prestrafe": 406,
-    "completions": "5",
-    "players_completed": "5",
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "46",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3042,
-            "name": "Left White Tower",
+            "trigger_id": 2565,
+            "name": "Lower Spiral Stairs Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3044,
-            "name": "Left White Tower Ramp",
+            "trigger_id": 2564,
+            "name": "Lower Spiral Stairs",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3038,
-            "name": "Left Pink Tower",
+            "trigger_id": 3102,
+            "name": "Through Blue Spiral Platform Window",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2686,
-            "name": "Purple-Green Ramp",
+            "trigger_id": 3104,
+            "name": "Through Red Spiral Platform Window",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2521,
-            "name": "Front Ramp",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3105,
-            "name": "Lower Spiral Stairs Platform Ramp",
+            "trigger_id": 2614,
+            "name": "North Spiral Tower Entrance",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2426,
-            "name": "Balu's Ramp",
+            "trigger_id": 3103,
+            "name": "Through Checkered Spiral Platform Window",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3102,
+            "name": "Through Blue Spiral Platform Window",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2929,
+            "name": "White Spiral Platform",
+            "order": 8,
             "passthrough": 0
         }
     ]

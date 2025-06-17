@@ -1,67 +1,55 @@
 {
     "id": 8568,
     "map_id": 12,
-    "name": "Battery Leakage",
-    "date": "2023-12-25T14:40:51.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": null,
-    "last_updated_author_id": 1137,
+    "name": "Pinksaw Redemption",
+    "date": "2023-12-25T17:10:00.000Z",
+    "author": "Kingaru",
+    "author_id": 10,
+    "last_updated": "2024-04-11T00:50:20.000Z",
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
+    "tier": 8,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "15",
-    "players_completed": "9",
+    "completions": "12",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2451,
-            "name": "Big Battery",
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2454,
-            "name": "Big Battery Ramps",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2744,
-            "name": "Small Battery Ramp",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2762,
-            "name": "Snake Ramp 4",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2574,
-            "name": "Logo Ramp",
+            "trigger_id": 2539,
+            "name": "Logo Platform",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2895,
-            "name": "Upper White Pool Ledge",
-            "order": 7,
             "passthrough": 0
         }
     ]

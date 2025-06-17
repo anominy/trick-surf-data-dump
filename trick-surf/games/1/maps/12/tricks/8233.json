@@ -1,67 +1,49 @@
 {
     "id": 8233,
     "map_id": 12,
-    "name": "Third Time's A Charm",
+    "name": "Big Battery Return",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "Lucy",
-    "author_id": 103,
+    "author": "ᴛꜱ ٠ summer",
+    "author_id": 264,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 3,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "60",
-    "players_completed": "31",
+    "max_prestrafe": 406,
+    "completions": "268",
+    "players_completed": "35",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2473,
-            "name": "Center House Ramp Spine",
+            "trigger_id": 2420,
+            "name": "Big Battery",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2569,
-            "name": "Logo Headsurf",
+            "trigger_id": 2423,
+            "name": "Big Battery Ramps",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2574,
-            "name": "Logo Ramp",
+            "trigger_id": 2621,
+            "name": "Northern Divider",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2569,
-            "name": "Logo Headsurf",
+            "trigger_id": 2423,
+            "name": "Big Battery Ramps",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2574,
-            "name": "Logo Ramp",
+            "trigger_id": 2420,
+            "name": "Big Battery",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2569,
-            "name": "Logo Headsurf",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2574,
-            "name": "Logo Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2415,
-            "name": "Anti Grav West Slide",
-            "order": 7,
             "passthrough": 0
         }
     ]

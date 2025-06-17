@@ -1,79 +1,55 @@
 {
     "id": 8267,
     "map_id": 12,
-    "name": "The O!",
+    "name": "Jade Tip",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "๖ۣۜKïñgYo§hi ٿـ",
-    "author_id": 457,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "author": "tricksurf.summer",
+    "author_id": 264,
+    "last_updated": "2023-11-11T21:10:54.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "31",
-    "players_completed": "11",
+    "completions": "19",
+    "players_completed": "15",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2939,
-            "name": "White Pool Roof",
+            "trigger_id": 2700,
+            "name": "Right Beam Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2559,
-            "name": "Left Beam Ramp",
+            "trigger_id": 2699,
+            "name": "Right Beam Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2868,
-            "name": "Under Left Front Pillar Beam",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2833,
+            "name": "Through Pink Pool",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2885,
-            "name": "Under Right Front Pillar Beam",
+            "trigger_id": 2561,
+            "name": "Lower Pink Pool Ledge",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2724,
-            "name": "Right Beam Ramp",
+            "trigger_id": 2446,
+            "name": "Center Ramp Fixture Right",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2937,
-            "name": "White Pool Ramp",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2558,
-            "name": "Left Back Pillar Beam",
-            "order": 9,
             "passthrough": 0
         }
     ]

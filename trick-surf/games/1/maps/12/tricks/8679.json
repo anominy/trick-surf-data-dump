@@ -1,109 +1,61 @@
 {
     "id": 8679,
     "map_id": 12,
-    "name": "Windows 8",
-    "date": "2024-01-03T01:34:04.000Z",
+    "name": "SBF Return",
+    "date": "2024-01-03T23:17:17.000Z",
     "author": "Liquidator",
     "author_id": 1137,
-    "last_updated": "2024-01-03T01:34:20.000Z",
+    "last_updated": "2024-01-03T23:17:53.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
-    "max_prestrafe": null,
-    "completions": "18",
-    "players_completed": "6",
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "16",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2617,
-            "name": "Middle Spiral Stairs Platform",
+            "trigger_id": 2769,
+            "name": "Spawn Bottom Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3144,
-            "name": "Through Blue Spiral Platform Window",
+            "trigger_id": 2717,
+            "name": "Right Wing Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2655,
-            "name": "Over Red Spiral Platform",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3145,
-            "name": "Through Checkered Spiral Platform Window",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2590,
-            "name": "Lower Spiral Stairs",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3144,
-            "name": "Through Blue Spiral Platform Window",
+            "trigger_id": 3010,
+            "name": "Left Wing Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 3146,
-            "name": "Through Red Spiral Platform Window",
+            "trigger_id": 2769,
+            "name": "Spawn Bottom Floor",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2805,
-            "name": "Middle Spiral Stairs Platform Block",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3144,
-            "name": "Through Blue Spiral Platform Window",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3145,
-            "name": "Through Checkered Spiral Platform Window",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2810,
-            "name": "Spiral Tower Lower",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3144,
-            "name": "Through Blue Spiral Platform Window",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3146,
-            "name": "Through Red Spiral Platform Window",
-            "order": 13,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3117,
-            "name": "Red Spiral Platform Window Block",
-            "order": 14,
             "passthrough": 0
         }
     ]

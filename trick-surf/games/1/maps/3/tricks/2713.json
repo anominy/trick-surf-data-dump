@@ -1,0 +1,44 @@
+{
+    "id": 2713,
+    "map_id": 3,
+    "name": "Big Flick",
+    "date": "2021-08-16T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-05-19T09:41:34.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "206",
+    "players_completed": "70",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 220,
+            "name": "Buy Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 219,
+            "name": "Buy Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 269,
+            "name": "Shotgun Top",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

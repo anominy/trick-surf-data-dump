@@ -1,73 +1,61 @@
 {
     "id": 8662,
     "map_id": 12,
-    "name": "Priest in Peril",
-    "date": "2024-01-02T02:20:10.000Z",
-    "author": "cinder^",
-    "author_id": 1898,
-    "last_updated": "2024-01-02T03:55:46.000Z",
-    "last_updated_author_id": 103,
+    "name": "Literacy",
+    "date": "2024-01-02T23:33:49.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": null,
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "37",
-    "players_completed": "19",
+    "completions": "32",
+    "players_completed": "14",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2858,
-            "name": "Top Spiral Stairs Platform",
+            "trigger_id": 3006,
+            "name": "Left White Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
+            "trigger_id": 3008,
+            "name": "Left White Tower Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3107,
-            "name": "Mirrored Side Ramp",
+            "trigger_id": 3002,
+            "name": "Left Pink Tower",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2734,
-            "name": "Side Ramp",
+            "trigger_id": 2661,
+            "name": "Purple-Green Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2600,
-            "name": "Main In-Ground Ramp",
+            "trigger_id": 2491,
+            "name": "Front Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2684,
-            "name": "Purple-Green Edge Ramp",
+            "trigger_id": 3063,
+            "name": "Lower Spiral Stairs Platform Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2880,
-            "name": "Under Purple Corner Block",
+            "trigger_id": 2587,
+            "name": "Map Sign",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2718,
-            "name": "Red-Purple Edge Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2861,
-            "name": "Trapezium Ramps Top Floor",
-            "order": 8,
             "passthrough": 0
         }
     ]

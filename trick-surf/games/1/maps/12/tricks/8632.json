@@ -1,55 +1,79 @@
 {
     "id": 8632,
     "map_id": 12,
-    "name": "Caterpillar",
-    "date": "2023-12-31T15:10:42.000Z",
+    "name": "Elf on the Shelf",
+    "date": "2023-12-31T17:39:00.000Z",
     "author": "Liquidator",
     "author_id": 1137,
-    "last_updated": null,
+    "last_updated": "2023-12-31T17:40:41.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "79",
-    "players_completed": "32",
+    "completions": "18",
+    "players_completed": "12",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3133,
-            "name": "Spiral Corner Platform Level 5",
+            "trigger_id": 3125,
+            "name": "chief's Cave West",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3132,
-            "name": "Spiral Corner Platform Level 4",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3131,
-            "name": "Spiral Corner Platform Level 3",
+            "trigger_id": 2856,
+            "name": "Under Logo Ramp Floor",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3130,
-            "name": "Spiral Corner Platform Level 2",
+            "trigger_id": 2705,
+            "name": "Right Logo Teleporter Boost",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3100,
-            "name": "Left Spiral Grassbed Ramp",
+            "trigger_id": 2706,
+            "name": "Right Logo Teleporter Slide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3136,
-            "name": "Spiral Tower Bottom Block",
+            "trigger_id": 2704,
+            "name": "Right Logo Teleporter",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2520,
+            "name": "Inner Teleport",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2787,
+            "name": "Spiral Name Connector Slide",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3097,
+            "name": "Spiral Tower Lower Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2595,
+            "name": "Middle Spiral Stairs Shelf",
+            "order": 9,
             "passthrough": 0
         }
     ]

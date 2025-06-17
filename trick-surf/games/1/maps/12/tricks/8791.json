@@ -1,61 +1,85 @@
 {
     "id": 8791,
     "map_id": 12,
-    "name": "Hoppin about",
-    "date": "2024-01-14T06:10:43.000Z",
-    "author": "ᴛꜱ ٠ King",
-    "author_id": 10,
-    "last_updated": null,
-    "last_updated_author_id": 10,
+    "name": "Overthinking",
+    "date": "2024-01-15T01:49:36.000Z",
+    "author": "ᴛꜱ ٠ lockedd",
+    "author_id": 180,
+    "last_updated": "2024-01-15T01:54:32.000Z",
+    "last_updated_author_id": 180,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "44",
-    "players_completed": "14",
+    "completions": "15",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2858,
-            "name": "Top Spiral Stairs Platform",
+            "trigger_id": 2679,
+            "name": "Pyramid Roof",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
+            "trigger_id": 3044,
+            "name": "Pyramid Top Ramp South",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2590,
-            "name": "Lower Spiral Stairs",
+            "trigger_id": 3038,
+            "name": "Pyramid Middle Ramp South",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3106,
-            "name": "Lower Spiral Stairs Platform Ramp Spine",
+            "trigger_id": 2817,
+            "name": "Through Anti Grav Supports",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2591,
-            "name": "Lower Spiral Stairs Platform",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3136,
-            "name": "Spiral Tower Bottom Block",
+            "trigger_id": 2956,
+            "name": "Over Right Front Pillar Beam",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2796,
-            "name": "Spiral Flower Pot Floor",
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3054,
+            "name": "Center In-Ground Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2932,
+            "name": "White-Red Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2523,
+            "name": "Isosceles Trapezium Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2474,
+            "name": "East Sewer Tower Detail",
+            "order": 10,
             "passthrough": 0
         }
     ]

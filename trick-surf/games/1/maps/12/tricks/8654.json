@@ -1,79 +1,91 @@
 {
     "id": 8654,
     "map_id": 12,
-    "name": "Lockedd Visits Luna",
-    "date": "2024-01-01T16:40:11.000Z",
-    "author": "lockedd",
-    "author_id": 180,
-    "last_updated": "2024-01-01T16:40:35.000Z",
-    "last_updated_author_id": 1137,
+    "name": "Getting Over It 2: Shooty Edition",
+    "date": "2024-01-02T14:18:02.000Z",
+    "author": "change name",
+    "author_id": 17440,
+    "last_updated": "2024-01-04T14:55:40.000Z",
+    "last_updated_author_id": 480,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 2,
+    "tier": 1,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "7",
-    "players_completed": "5",
+    "completions": "29",
+    "players_completed": "20",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3104,
-            "name": "lockedd's Block Level 3",
+            "trigger_id": 2856,
+            "name": "Under Logo Ramp Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2489,
-            "name": "Color Star Tower Ramp",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2420,
-            "name": "Back Outer Color Star Ramp",
+            "trigger_id": 2857,
+            "name": "Under Logo Ramp Spine",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2484,
-            "name": "Color Star Hole",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2486,
-            "name": "Color Star Ramp",
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2634,
-            "name": "North Sewer Tower Ramp",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 3057,
-            "name": "Pyramid Main Ramp East",
+            "trigger_id": 2548,
+            "name": "Logo Window",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2551,
+            "name": "Logo Window Ramp Spine",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2549,
+            "name": "Logo Window Platform",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2639,
+            "name": "Pink Pool Platform",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2964,
-            "name": "Luna's Podium Left Side",
+            "trigger_id": 2699,
+            "name": "Right Beam Ramp",
             "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2700,
+            "name": "Right Beam Ramp Spine",
+            "order": 10,
             "passthrough": 0
         }
     ]

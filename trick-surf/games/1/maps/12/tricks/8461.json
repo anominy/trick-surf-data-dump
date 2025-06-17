@@ -1,103 +1,109 @@
 {
     "id": 8461,
     "map_id": 12,
-    "name": "Cute Blush",
-    "date": "2023-12-03T19:10:23.000Z",
+    "name": "Thanks Frag",
+    "date": "2023-12-06T12:00:26.000Z",
     "author": "Lucy",
     "author_id": 103,
-    "last_updated": "2024-01-06T17:49:11.000Z",
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "5",
-    "players_completed": "4",
+    "completions": "14",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2791,
-            "name": "Spawn Top Channel",
+            "trigger_id": 2596,
+            "name": "Name Towers Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2783,
-            "name": "Spawn Bottom Floor",
+            "trigger_id": 2597,
+            "name": "Name Towers Platform Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2596,
-            "name": "Main Boost Left",
+            "trigger_id": 2601,
+            "name": "North Hanging Center Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2513,
-            "name": "Formal's Tower",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2713,
-            "name": "Red Corner Block",
+            "trigger_id": 2407,
+            "name": "Between Formal and william",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2555,
-            "name": "Isosceles Trapezium Ramp",
+            "trigger_id": 2976,
+            "name": "Through Thanks",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2891,
-            "name": "Under White Corner Block",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 3124,
-            "name": "Small Red Corner",
+            "trigger_id": 2548,
+            "name": "Logo Window",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 2721,
-            "name": "Red-Purple Ramp",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 10,
             "passthrough": 0
         },
         {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
+            "trigger_id": 2548,
+            "name": "Logo Window",
             "order": 11,
             "passthrough": 0
         },
         {
-            "trigger_id": 3044,
-            "name": "Left White Tower Ramp",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 12,
             "passthrough": 0
         },
         {
-            "trigger_id": 2944,
-            "name": "Right White Tower",
+            "trigger_id": 2976,
+            "name": "Through Thanks",
             "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2484,
+            "name": "Frag's Base",
+            "order": 14,
             "passthrough": 0
         }
     ]

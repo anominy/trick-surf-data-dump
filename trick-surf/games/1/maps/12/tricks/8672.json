@@ -1,62 +1,62 @@
 {
     "id": 8672,
     "map_id": 12,
-    "name": "Literacy",
-    "date": "2024-01-02T23:33:49.000Z",
-    "author": "lockedd",
-    "author_id": 180,
-    "last_updated": null,
+    "name": "Windows ME",
+    "date": "2024-01-03T16:17:33.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2024-01-03T16:30:43.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "32",
-    "players_completed": "14",
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": null,
+    "completions": "45",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3042,
-            "name": "Left White Tower",
+            "trigger_id": 2565,
+            "name": "Lower Spiral Stairs Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3044,
-            "name": "Left White Tower Ramp",
+            "trigger_id": 2564,
+            "name": "Lower Spiral Stairs",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3038,
-            "name": "Left Pink Tower",
+            "trigger_id": 3104,
+            "name": "Through Red Spiral Platform Window",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2686,
-            "name": "Purple-Green Ramp",
+            "trigger_id": 2634,
+            "name": "Over White Spiral Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2521,
-            "name": "Front Ramp",
+            "trigger_id": 3052,
+            "name": "Blue Spiral Platform Window",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3105,
-            "name": "Lower Spiral Stairs Platform Ramp",
+            "trigger_id": 3094,
+            "name": "Spiral Tower Bottom Block",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2957,
-            "name": "Map Sign",
-            "order": 6,
-            "passthrough": 0
+            "trigger_id": 3103,
+            "name": "Through Checkered Spiral Platform Window",
+            "order": 5,
+            "passthrough": 2
         }
     ]
 }

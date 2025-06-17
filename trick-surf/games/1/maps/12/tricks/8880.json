@@ -1,61 +1,79 @@
 {
     "id": 8880,
     "map_id": 12,
-    "name": "Fisher",
-    "date": "2024-01-26T21:21:46.000Z",
-    "author": "FISHMAN",
-    "author_id": 49,
+    "name": "Squiggly Tree Bears Slide",
+    "date": "2024-01-28T10:37:38.000Z",
+    "author": "rec",
+    "author_id": 1107,
     "last_updated": null,
-    "last_updated_author_id": 406,
+    "last_updated_author_id": 180,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "14",
-    "players_completed": "8",
+    "completions": "27",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2424,
-            "name": "Balu's Platform",
+            "trigger_id": 2507,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2600,
-            "name": "Main In-Ground Ramp",
+            "trigger_id": 2508,
+            "name": "Grey Tower Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3126,
-            "name": "South Spiral Grav Ramp",
+            "trigger_id": 2761,
+            "name": "South Sewer Tower Headsurf Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3162,
-            "name": "West Right Spiral Grav Ramp",
+            "trigger_id": 3113,
+            "name": "Upper Main Tunnel Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 3105,
+            "name": "Through Upper Main Tunnel",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2756,
-            "name": "Snake Ramp 1",
+            "trigger_id": 2832,
+            "name": "Through Main Loop",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2467,
-            "name": "Center Grey Front Left Platform",
+            "trigger_id": 2559,
+            "name": "Lower Main Tunnel Ramp",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2831,
+            "name": "Through Lower Main Tunnel",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2787,
+            "name": "Spiral Name Connector Slide",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3088,
+            "name": "Spiral Corner Platform Level 2",
+            "order": 9,
             "passthrough": 0
         }
     ]

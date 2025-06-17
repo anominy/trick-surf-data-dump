@@ -1,74 +1,110 @@
 {
     "id": 8429,
     "map_id": 12,
-    "name": "Sushi Phantom",
-    "date": "2023-11-26T16:08:12.000Z",
-    "author": "discount",
-    "author_id": 5482,
-    "last_updated": "2023-11-26T16:38:58.000Z",
+    "name": "Purple Haze",
+    "date": "2023-11-30T23:49:29.000Z",
+    "author": "royssi",
+    "author_id": 10103,
+    "last_updated": "2023-12-01T00:21:47.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "46",
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "34",
     "players_completed": "15",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2872,
-            "name": "Under Main Back Ramp",
+            "trigger_id": 2844,
+            "name": "Top Spiral Stairs Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2441,
-            "name": "Between Main Ramp Pillars",
+            "trigger_id": 2842,
+            "name": "Top Spiral Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2838,
-            "name": "Through Front Main Pillar",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2877,
-            "name": "Under Main Ramp Front",
+            "trigger_id": 2410,
+            "name": "Between Main Ramp Pillars",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2956,
+            "name": "Over Right Front Pillar Beam",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2845,
-            "name": "Through Main Loop",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2607,
-            "name": "Main Slide",
+            "trigger_id": 2650,
+            "name": "Pools Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2782,
-            "name": "Spawn Bottom Channel",
+            "trigger_id": 2604,
+            "name": "North Inner Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
-            "order": 7,
-            "passthrough": 1
+            "trigger_id": 2755,
+            "name": "South Inner Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2848,
+            "name": "Under Anti Grav",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2491,
+            "name": "Front Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2939,
+            "name": "Over Anti Grav",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2820,
+            "name": "Through Center House",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2544,
+            "name": "Logo Roof",
+            "order": 14,
+            "passthrough": 0
         }
     ]
 }

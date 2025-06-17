@@ -1,67 +1,43 @@
 {
     "id": 8589,
     "map_id": 12,
-    "name": "Starwalk",
-    "date": "2023-12-28T23:47:36.000Z",
-    "author": "lockedd",
-    "author_id": 180,
-    "last_updated": "2023-12-28T23:48:03.000Z",
+    "name": "Triangulum",
+    "date": "2023-12-30T00:44:53.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2023-12-30T00:45:20.000Z",
     "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
+    "tier": 3,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "4",
-    "players_completed": "4",
+    "completions": "47",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2826,
-            "name": "Star Red Roof",
+            "trigger_id": 2383,
+            "name": "Anti Grav West Slide",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2420,
-            "name": "Back Outer Color Star Ramp",
+            "trigger_id": 2745,
+            "name": "Snake Ramp 3",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2430,
-            "name": "Behind Logo Ramp",
+            "trigger_id": 2747,
+            "name": "Snake Ramp 4",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2475,
-            "name": "Center Ramp",
+            "trigger_id": 2882,
+            "name": "Vent Anti Grav Support",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2627,
-            "name": "North Inner Ramp",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2500,
-            "name": "East Inner Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2734,
-            "name": "Side Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2611,
-            "name": "Lower Main Tunnel Ramp Spine",
-            "order": 7,
             "passthrough": 0
         }
     ]

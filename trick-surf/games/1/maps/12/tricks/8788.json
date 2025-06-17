@@ -1,55 +1,97 @@
 {
     "id": 8788,
     "map_id": 12,
-    "name": "Mountain",
-    "date": "2024-01-14T02:05:51.000Z",
-    "author": "lockedd",
-    "author_id": 180,
-    "last_updated": "2024-03-06T16:05:54.000Z",
+    "name": "Skulltula",
+    "date": "2024-01-15T00:35:21.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": null,
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "19",
-    "players_completed": "8",
+    "completions": "11",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2944,
-            "name": "Right White Tower",
+            "trigger_id": 2673,
+            "name": "Pyramid Middle Corner North-West",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2450,
-            "name": "Between White Tower Ramps",
+            "trigger_id": 3042,
+            "name": "Pyramid Middle Ramp West",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2542,
-            "name": "Grey Tower Ramp",
+            "trigger_id": 3027,
+            "name": "Pyramid Main Ramp West",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2684,
-            "name": "Purple-Green Edge Ramp",
+            "trigger_id": 2611,
+            "name": "North Sewer Tower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2521,
-            "name": "Front Ramp",
+            "trigger_id": 2412,
+            "name": "Between Pyramid Main Pillars North",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2957,
-            "name": "Map Sign",
+            "trigger_id": 2517,
+            "name": "Inner Pyramid Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2414,
+            "name": "Between Pyramid Main Pillars West",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2965,
+            "name": "Under Right Beam Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3054,
+            "name": "Center In-Ground Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2853,
+            "name": "Under Left Back Pillar Beam",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2578,
+            "name": "Main Floor Block",
+            "order": 12,
             "passthrough": 0
         }
     ]

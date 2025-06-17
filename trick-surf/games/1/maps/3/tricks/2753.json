@@ -1,0 +1,32 @@
+{
+    "id": 2753,
+    "map_id": 3,
+    "name": "Spawn Bump",
+    "date": "2021-08-31T03:49:47.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": "2021-08-31T12:03:46.000Z",
+    "last_updated_author_id": 48,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "217",
+    "players_completed": "88",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 276,
+            "name": "Spawn Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 279,
+            "name": "Spawn Top",
+            "order": 1,
+            "passthrough": 0
+        }
+    ]
+}

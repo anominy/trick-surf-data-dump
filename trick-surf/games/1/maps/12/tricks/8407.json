@@ -1,67 +1,79 @@
 {
     "id": 8407,
     "map_id": 12,
-    "name": "Checkered Transfer",
-    "date": "2023-11-21T20:18:57.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": "2023-11-22T14:37:03.000Z",
-    "last_updated_author_id": 103,
+    "name": "Forkle Washington",
+    "date": "2023-11-23T14:37:39.000Z",
+    "author": "Formal",
+    "author_id": 480,
+    "last_updated": "2023-11-23T14:40:12.000Z",
+    "last_updated_author_id": 480,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "134",
-    "players_completed": "25",
+    "completions": "27",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2501,
-            "name": "East Inner Ramp Spine",
+            "trigger_id": 2582,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2499,
-            "name": "East Inner Entrance",
+            "trigger_id": 2576,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2586,
+            "name": "Main Slide",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2637,
-            "name": "North Spiral Tower Entrance",
+            "trigger_id": 2719,
+            "name": "Sayt's Ring",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2442,
+            "name": "Center House Ramp Spine",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2637,
-            "name": "North Spiral Tower Entrance",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2864,
-            "name": "Under Blue Spiral Platform",
+            "trigger_id": 2934,
+            "name": "mbsurfer's Jumppad",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2483,
-            "name": "Checkered Spiral Platform",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2601,
+            "name": "North Hanging Center Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2449,
+            "name": "Center Sky Platform",
+            "order": 9,
             "passthrough": 0
         }
     ]

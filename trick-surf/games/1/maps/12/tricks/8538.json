@@ -1,61 +1,91 @@
 {
     "id": 8538,
     "map_id": 12,
-    "name": "Dynamic Peach",
-    "date": "2023-12-19T09:50:54.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-12-19T23:31:37.000Z",
+    "name": "1.11 You Are (Not) Alone",
+    "date": "2023-12-20T04:20:55.000Z",
+    "author": "nextir",
+    "author_id": 2994,
+    "last_updated": "2023-12-20T04:50:13.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "24",
-    "players_completed": "15",
+    "completions": "26",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2723,
-            "name": "Right Back Pillar Beam",
+            "trigger_id": 2811,
+            "name": "Star Red Roof",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2536,
-            "name": "Green-White Ramp",
+            "trigger_id": 2938,
+            "name": "Logo Entrance West",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2534,
-            "name": "Green-White Edge Ramp",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2937,
+            "name": "Logo Entrance East",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2874,
-            "name": "Under Main Front Ramp",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2475,
-            "name": "Center Ramp",
+            "trigger_id": 2871,
+            "name": "Under Right Front Pillar Beam",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2581,
-            "name": "Logo Window Platform",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2820,
+            "name": "Through Center House",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3046,
+            "name": "Right Center Support Platform",
+            "order": 11,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,56 @@
+{
+    "id": 8867,
+    "map_id": 12,
+    "name": "Blessing Of Earth",
+    "date": "2024-01-26T14:36:53.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": "2024-01-27T04:59:44.000Z",
+    "last_updated_author_id": 169,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "15",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3101,
+            "name": "Spiral Tower Top Block",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2909,
+            "name": "West Spiral Tower Entrance",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3103,
+            "name": "Through Checkered Spiral Platform Window",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3065,
+            "name": "Mirrored Side Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3089,
+            "name": "Spiral Corner Platform Level 3",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

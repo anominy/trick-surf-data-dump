@@ -1,61 +1,49 @@
 {
     "id": 8874,
     "map_id": 12,
-    "name": "Midnight Stroll in Detroit",
-    "date": "2024-01-25T21:46:44.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": null,
-    "last_updated_author_id": 1137,
+    "name": "Annual Wealth Exchange",
+    "date": "2024-01-27T02:09:45.000Z",
+    "author": "winter",
+    "author_id": 406,
+    "last_updated": "2024-01-27T02:17:30.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
-    "tier": 8,
-    "subtier": 1,
+    "tier": 7,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "20",
-    "players_completed": "11",
+    "completions": "21",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2522,
-            "name": "Front Ramp Floor",
+            "trigger_id": 2887,
+            "name": "Vent Headsurf Beam",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2600,
-            "name": "Main In-Ground Ramp",
+            "trigger_id": 2888,
+            "name": "Vent Headsurf Teleport",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2734,
-            "name": "Side Ramp",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3107,
-            "name": "Mirrored Side Ramp",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3126,
-            "name": "South Spiral Grav Ramp",
+            "trigger_id": 2474,
+            "name": "East Sewer Tower Detail",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3120,
-            "name": "Right Spiral Grassbed Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3130,
-            "name": "Spiral Corner Platform Level 2",
-            "order": 6,
             "passthrough": 0
         }
     ]

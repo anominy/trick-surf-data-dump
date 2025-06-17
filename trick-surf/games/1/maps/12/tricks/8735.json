@@ -1,67 +1,55 @@
 {
     "id": 8735,
     "map_id": 12,
-    "name": "YAWT",
-    "date": "2024-01-10T01:53:15.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": null,
+    "name": "Bad Luck",
+    "date": "2024-01-10T23:00:15.000Z",
+    "author": "зима застрелила ",
+    "author_id": 385,
+    "last_updated": "2024-01-11T03:48:20.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "20",
-    "players_completed": "10",
+    "completions": "10",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2786,
-            "name": "Spawn Middle Floor",
+            "trigger_id": 2535,
+            "name": "Liquidator's Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2951,
-            "name": "Right Wing Ramp",
+            "trigger_id": 2707,
+            "name": "Right Name Towers Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3157,
-            "name": "Upper Main Tunnel Window",
+            "trigger_id": 2533,
+            "name": "Left Name Towers Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3107,
-            "name": "Mirrored Side Ramp",
+            "trigger_id": 3108,
+            "name": "Upper Left Small Main Tunnel Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3139,
-            "name": "Spiral Tower Lower Ramp",
+            "trigger_id": 3106,
+            "name": "Through Upper Main Tunnel Window",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3144,
-            "name": "Through Blue Spiral Platform Window",
+            "trigger_id": 2717,
+            "name": "Right Wing Ramp",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3146,
-            "name": "Through Red Spiral Platform Window",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2805,
-            "name": "Middle Spiral Stairs Platform Block",
-            "order": 7,
             "passthrough": 0
         }
     ]

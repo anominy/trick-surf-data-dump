@@ -1,37 +1,67 @@
 {
     "id": 8659,
     "map_id": 12,
-    "name": "bfur",
-    "date": "2024-01-01T19:49:00.000Z",
+    "name": "Windows Of The Lord",
+    "date": "2024-01-02T17:26:18.000Z",
     "author": "Liquidator",
     "author_id": 1137,
-    "last_updated": "2024-05-10T10:32:14.000Z",
-    "last_updated_author_id": 347,
+    "last_updated": "2024-01-02T17:28:14.000Z",
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
-    "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "1226",
-    "players_completed": "89",
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": null,
+    "completions": "21",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2765,
-            "name": "South Edge Pipe",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2598,
-            "name": "Main Floor",
+            "trigger_id": 2614,
+            "name": "North Spiral Tower Entrance",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2867,
-            "name": "Under Left Back Pillar Beam",
+            "trigger_id": 2765,
+            "name": "South Spiral Tower Entrance",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3103,
+            "name": "Through Checkered Spiral Platform Window",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3102,
+            "name": "Through Blue Spiral Platform Window",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3063,
+            "name": "Lower Spiral Stairs Platform Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3104,
+            "name": "Through Red Spiral Platform Window",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2594,
+            "name": "Middle Spiral Stairs Platform Block",
+            "order": 7,
             "passthrough": 0
         }
     ]

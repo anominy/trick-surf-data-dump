@@ -1,86 +1,38 @@
 {
     "id": 8369,
     "map_id": 12,
-    "name": "Catching The Bus",
-    "date": "2023-11-14T00:08:46.000Z",
-    "author": "XiaoLucy",
-    "author_id": 103,
-    "last_updated": "2023-11-14T00:11:52.000Z",
-    "last_updated_author_id": 103,
+    "name": "Goro Gap",
+    "date": "2023-11-15T20:04:23.000Z",
+    "author": "LarzZz",
+    "author_id": 181,
+    "last_updated": null,
+    "last_updated_author_id": 92,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 3,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "142",
-    "players_completed": "52",
+    "max_prestrafe": null,
+    "completions": "70",
+    "players_completed": "23",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2415,
-            "name": "Anti Grav West Slide",
+            "trigger_id": 2936,
+            "name": "william's Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2413,
-            "name": "Anti Grav South Slide",
+            "trigger_id": 2601,
+            "name": "North Hanging Center Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2428,
-            "name": "Balu's Tunnel",
+            "trigger_id": 2788,
+            "name": "Spiral Pole Top",
             "order": 2,
             "passthrough": 0
-        },
-        {
-            "trigger_id": 2411,
-            "name": "Anti Grav East Slide",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
-            "order": 3,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2412,
-            "name": "Anti Grav North Slide",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
-            "order": 4,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2837,
-            "name": "Through Color Star Loop",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2415,
-            "name": "Anti Grav West Slide",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
-            "order": 6,
-            "passthrough": 1
         }
     ]
 }

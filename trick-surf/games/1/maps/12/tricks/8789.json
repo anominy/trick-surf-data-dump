@@ -1,55 +1,79 @@
 {
     "id": 8789,
     "map_id": 12,
-    "name": "Blaze It",
-    "date": "2024-01-14T03:03:31.000Z",
-    "author": "ᴛꜱ ٠ King",
-    "author_id": 10,
-    "last_updated": "2024-01-14T03:05:47.000Z",
-    "last_updated_author_id": 10,
+    "name": "Womp",
+    "date": "2024-01-15T01:05:23.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2024-01-15T01:07:28.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "11",
-    "players_completed": "10",
+    "completions": "67",
+    "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2591,
-            "name": "Lower Spiral Stairs Platform",
+            "trigger_id": 2549,
+            "name": "Logo Window Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2548,
+            "name": "Logo Window",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2893,
-            "name": "Under White Spiral Platform",
+            "trigger_id": 2856,
+            "name": "Under Logo Ramp Floor",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2705,
+            "name": "Right Logo Teleporter Boost",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3126,
-            "name": "South Spiral Grav Ramp",
+            "trigger_id": 2706,
+            "name": "Right Logo Teleporter Slide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2794,
-            "name": "Spiral Flower Pot",
+            "trigger_id": 2704,
+            "name": "Right Logo Teleporter",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2899,
+            "name": "West Inner Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2521,
+            "name": "Inner Teleport Platform",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2470,
+            "name": "East Inner Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2578,
+            "name": "Main Floor Block",
+            "order": 9,
             "passthrough": 0
         }
     ]

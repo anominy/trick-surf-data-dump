@@ -1,49 +1,91 @@
 {
     "id": 8569,
     "map_id": 12,
-    "name": "Mouse",
-    "date": "2023-12-25T14:45:14.000Z",
-    "author": "ᴛꜱ ٠ King",
-    "author_id": 10,
-    "last_updated": null,
-    "last_updated_author_id": 10,
+    "name": "Same Tasks",
+    "date": "2023-12-25T20:14:59.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": "2023-12-26T20:20:41.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "27",
-    "players_completed": "13",
+    "completions": "37",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2469,
-            "name": "Center House Floor",
+            "trigger_id": 2585,
+            "name": "Main Ramp Spine",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2475,
-            "name": "Center Ramp",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2874,
-            "name": "Under Main Front Ramp",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2938,
+            "name": "Logo Entrance West",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2927,
-            "name": "White Corner Block",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2548,
+            "name": "Logo Window",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2941,
+            "name": "Through Anti Grav Corners",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2937,
+            "name": "Logo Entrance East",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
+            "order": 11,
             "passthrough": 0
         }
     ]

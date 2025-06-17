@@ -1,49 +1,103 @@
 {
     "id": 8410,
     "map_id": 12,
-    "name": "Dina's Climb to Cat Tree",
-    "date": "2023-11-22T16:22:30.000Z",
-    "author": "oski",
-    "author_id": 194,
-    "last_updated": "2023-11-22T16:24:54.000Z",
-    "last_updated_author_id": 75,
+    "name": "Channeling",
+    "date": "2023-11-23T20:13:39.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2023-12-18T04:21:06.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "98",
-    "players_completed": "20",
+    "completions": "87",
+    "players_completed": "27",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2539,
-            "name": "Grey Tower",
+            "trigger_id": 2778,
+            "name": "Spawn Top Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2540,
-            "name": "Grey Tower Boost",
+            "trigger_id": 2775,
+            "name": "Spawn Right Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2545,
-            "name": "Hanging Sky Orange Ramp",
+            "trigger_id": 2777,
+            "name": "Spawn Top Channel",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2544,
-            "name": "Hanging Loop",
+            "trigger_id": 2962,
+            "name": "Through Spawn Top Channel",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2971,
-            "name": "Sky Orange Platform Block",
+            "trigger_id": 2777,
+            "name": "Spawn Top Channel",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2768,
+            "name": "Spawn Bottom Channel",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2777,
+            "name": "Spawn Top Channel",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2961,
+            "name": "Through Spawn Bottom Channel",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2768,
+            "name": "Spawn Bottom Channel",
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2717,
+            "name": "Right Wing Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2768,
+            "name": "Spawn Bottom Channel",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2395,
+            "name": "Balu's Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3010,
+            "name": "Left Wing Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2769,
+            "name": "Spawn Bottom Floor",
+            "order": 9,
             "passthrough": 0
         }
     ]

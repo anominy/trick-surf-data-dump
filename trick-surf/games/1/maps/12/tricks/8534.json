@@ -1,61 +1,55 @@
 {
     "id": 8534,
     "map_id": 12,
-    "name": "Wing Slide",
-    "date": "2023-12-19T02:18:47.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": null,
+    "name": "Slop",
+    "date": "2023-12-19T15:53:59.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-12-28T12:58:47.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "39",
-    "players_completed": "14",
+    "completions": "163",
+    "players_completed": "30",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2701,
+            "name": "Right Front Pillar Beam",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2596,
-            "name": "Main Boost Left",
+            "trigger_id": 2699,
+            "name": "Right Beam Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2732,
-            "name": "roee's Tower",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
+            "trigger_id": 2817,
+            "name": "Through Anti Grav Supports",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3047,
-            "name": "Left Wing Ramp Spine",
+            "trigger_id": 3023,
+            "name": "Pyramid Main Ramp South",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
+            "trigger_id": 2663,
+            "name": "Pyramid Block",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2818,
-            "name": "Spiral Tower Top Corner",
-            "order": 6,
             "passthrough": 0
         }
     ]

@@ -1,79 +1,73 @@
 {
     "id": 8520,
     "map_id": 12,
-    "name": "Where's The Surf?",
-    "date": "2023-12-15T17:54:47.000Z",
+    "name": "Konichiwa",
+    "date": "2023-12-16T18:34:51.000Z",
     "author": "Lucy",
     "author_id": 103,
-    "last_updated": null,
+    "last_updated": "2023-12-16T18:35:30.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "10",
-    "players_completed": "6",
+    "completions": "15",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2965,
-            "name": "Luna's Podium Right Side",
+            "trigger_id": 2582,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2627,
-            "name": "North Inner Ramp",
+            "trigger_id": 2576,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2552,
-            "name": "Inner Teleport",
+            "trigger_id": 2408,
+            "name": "Between Liquidator and roee",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2801,
-            "name": "Spiral Name Connector Slide",
+            "trigger_id": 2409,
+            "name": "Between Liquidator and william",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2940,
-            "name": "White Pool Roof Block",
+            "trigger_id": 2707,
+            "name": "Right Name Towers Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2572,
-            "name": "Logo Platform Beam Base",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2974,
-            "name": "Logo Entrance East",
+            "trigger_id": 2559,
+            "name": "Lower Main Tunnel Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2904,
-            "name": "Vent Ramp Block",
+            "trigger_id": 2842,
+            "name": "Top Spiral Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2903,
-            "name": "Vent Ramp",
+            "trigger_id": 2936,
+            "name": "william's Tower",
             "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2742,
-            "name": "Small Battery Floor",
-            "order": 9,
             "passthrough": 0
         }
     ]

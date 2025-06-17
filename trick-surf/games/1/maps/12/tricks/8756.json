@@ -1,73 +1,97 @@
 {
     "id": 8756,
     "map_id": 12,
-    "name": "Night Walk",
-    "date": "2024-01-12T00:08:41.000Z",
-    "author": "ᴛꜱ ٠ lockedd",
-    "author_id": 180,
-    "last_updated": "2024-01-12T00:46:37.000Z",
-    "last_updated_author_id": 180,
+    "name": "Chase The Devil",
+    "date": "2024-01-12T23:06:23.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2024-01-12T23:06:36.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
+    "tier": 7,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "24",
-    "players_completed": "10",
+    "completions": "9",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3042,
-            "name": "Left White Tower",
+            "trigger_id": 2582,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3044,
-            "name": "Left White Tower Ramp",
+            "trigger_id": 2575,
+            "name": "Main Boost Left",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3038,
-            "name": "Left Pink Tower",
+            "trigger_id": 2935,
+            "name": "roee's Tower",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
+            "trigger_id": 2876,
+            "name": "Under Top Spiral Stairs",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2721,
-            "name": "Red-Purple Ramp",
+            "trigger_id": 2594,
+            "name": "Middle Spiral Stairs Platform Block",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2880,
-            "name": "Under Purple Corner Block",
+            "trigger_id": 3074,
+            "name": "Red Spiral Platform Window",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2684,
-            "name": "Purple-Green Edge Ramp",
+            "trigger_id": 2634,
+            "name": "Over White Spiral Platform",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2521,
-            "name": "Front Ramp",
+            "trigger_id": 3052,
+            "name": "Blue Spiral Platform Window",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2428,
-            "name": "Balu's Tunnel",
+            "trigger_id": 3063,
+            "name": "Lower Spiral Stairs Platform Ramp",
             "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2765,
+            "name": "South Spiral Tower Entrance",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2634,
+            "name": "Over White Spiral Platform",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3104,
+            "name": "Through Red Spiral Platform Window",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2594,
+            "name": "Middle Spiral Stairs Platform Block",
+            "order": 12,
             "passthrough": 0
         }
     ]

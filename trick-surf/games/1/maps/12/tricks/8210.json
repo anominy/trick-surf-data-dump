@@ -1,0 +1,74 @@
+{
+    "id": 8210,
+    "map_id": 12,
+    "name": "Tarocco Orange",
+    "date": "2023-11-07T18:00:00.000Z",
+    "author": "rec",
+    "author_id": 1107,
+    "last_updated": "2023-12-31T08:57:48.000Z",
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "52",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2623,
+            "name": "Orange Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2910,
+            "name": "White Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2877,
+            "name": "Under White Corner Block",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2915,
+            "name": "White Corner Slide",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2854,
+            "name": "Under Left Front Pillar Beam",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2829,
+            "name": "Through Logo Platform Beams",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2539,
+            "name": "Logo Platform",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

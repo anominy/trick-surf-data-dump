@@ -1,43 +1,61 @@
 {
     "id": 8270,
     "map_id": 12,
-    "name": "Not So Simple Teleport Rise",
+    "name": "Hot Sauce",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "Lucy",
-    "author_id": 103,
+    "author": "rec",
+    "author_id": 1107,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "20",
-    "players_completed": "12",
+    "completions": "52",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2633,
-            "name": "North Sewer Tower Headsurf Platform",
+            "trigger_id": 2727,
+            "name": "Sky Orange Slide",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2630,
-            "name": "North Sewer Grate Teleporter",
+            "trigger_id": 2696,
+            "name": "Red-Purple Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2776,
-            "name": "South Sewer Tower Ramp",
+            "trigger_id": 2870,
+            "name": "Under Right Back Pillar Beam",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2929,
-            "name": "Right White Tower Ramp",
+            "trigger_id": 2504,
+            "name": "Green-White Ramp",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2699,
+            "name": "Right Beam Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2924,
+            "name": "White Pool Roof",
+            "order": 6,
             "passthrough": 0
         }
     ]

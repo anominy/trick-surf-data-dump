@@ -1,0 +1,56 @@
+{
+    "id": 2829,
+    "map_id": 3,
+    "name": "★ StatTrak™ Marble Fade",
+    "date": "2021-09-09T17:11:32.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": "2022-05-19T09:43:09.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "23",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 220,
+            "name": "Buy Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 219,
+            "name": "Buy Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 216,
+            "name": "Bent Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 284,
+            "name": "Top Platform",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 272,
+            "name": "Side Target",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

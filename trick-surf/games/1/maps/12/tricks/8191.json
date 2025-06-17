@@ -1,54 +1,54 @@
 {
     "id": 8191,
     "map_id": 12,
-    "name": "Thread the Needle",
+    "name": "Hole In Green",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "william",
-    "author_id": 347,
+    "author": "Xiao",
+    "author_id": 103,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 2,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "15",
-    "players_completed": "9",
+    "max_prestrafe": 406,
+    "completions": "131",
+    "players_completed": "30",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2484,
-            "name": "Color Star Hole",
+            "trigger_id": 2778,
+            "name": "Spawn Top Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2903,
-            "name": "Vent Ramp",
+            "trigger_id": 2770,
+            "name": "Spawn Bottom Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2854,
-            "name": "Through Vent Anti Grav Support",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2484,
+            "trigger_id": 2453,
             "name": "Color Star Hole",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2932,
-            "name": "White Pool",
+            "trigger_id": 2808,
+            "name": "Star Green Tunnel",
             "order": 5,
             "passthrough": 0
         }

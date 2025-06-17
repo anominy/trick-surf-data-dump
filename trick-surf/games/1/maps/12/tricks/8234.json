@@ -1,55 +1,133 @@
 {
     "id": 8234,
     "map_id": 12,
-    "name": "Teleporting Turnaround",
+    "name": "Bonhomme de Neige",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "author": "winter",
+    "author_id": 406,
+    "last_updated": "2024-01-28T04:36:51.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": null,
-    "completions": "395",
-    "players_completed": "41",
+    "completions": "28",
+    "players_completed": "18",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2473,
-            "name": "Center House Ramp Spine",
+            "trigger_id": 2581,
+            "name": "Main Loop",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2569,
-            "name": "Logo Headsurf",
+            "trigger_id": 2835,
+            "name": "Through Spiral Loop",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2574,
-            "name": "Logo Ramp",
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2902,
-            "name": "Vent Headsurf Teleport",
+            "trigger_id": 2401,
+            "name": "Behind Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2613,
-            "name": "mbsurfer's Jumppad",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2820,
+            "name": "Through Center House",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2817,
+            "name": "Through Anti Grav Supports",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2650,
+            "name": "Pools Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2820,
+            "name": "Through Center House",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2651,
+            "name": "Pools Ramp Spine",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2377,
+            "name": "Anti Grav",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2378,
+            "name": "Anti Grav Booster",
+            "order": 11,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2378,
+            "name": "Anti Grav Booster",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2377,
+            "name": "Anti Grav",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2747,
+            "name": "Snake Ramp 4",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2377,
+            "name": "Anti Grav",
+            "order": 14,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2377,
+            "name": "Anti Grav",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2620,
+            "name": "North-West Corner Pillar",
+            "order": 16,
             "passthrough": 0
         }
     ]

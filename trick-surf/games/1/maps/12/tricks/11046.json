@@ -1,0 +1,44 @@
+{
+    "id": 11046,
+    "map_id": 12,
+    "name": "2 ramper but one of the ramps is curved :o",
+    "date": "2024-08-26T18:57:41.000Z",
+    "author": "Schewpid",
+    "author_id": 25884,
+    "last_updated": "2024-08-26T18:58:33.000Z",
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "50",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2544,
+            "name": "Logo Roof",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2542,
+            "name": "Logo Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2745,
+            "name": "Snake Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2738,
+            "name": "Snake Block",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

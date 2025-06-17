@@ -1,79 +1,67 @@
 {
     "id": 8325,
     "map_id": 12,
-    "name": "chief's trick",
-    "date": "2023-11-08T02:45:09.000Z",
-    "author": "chief❤ ⸜(˃ ᵕ ˂ )⸝",
-    "author_id": 75,
-    "last_updated": "2023-12-18T05:12:35.000Z",
-    "last_updated_author_id": 103,
+    "name": "Misfit",
+    "date": "2023-11-08T19:21:45.000Z",
+    "author": "FISHMAN",
+    "author_id": 49,
+    "last_updated": "2023-11-08T21:24:17.000Z",
+    "last_updated_author_id": 5,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "19",
-    "players_completed": "12",
+    "completions": "20",
+    "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2944,
-            "name": "Right White Tower",
+            "trigger_id": 2582,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3044,
-            "name": "Left White Tower Ramp",
+            "trigger_id": 2575,
+            "name": "Main Boost Left",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2410,
-            "name": "Anti Grav Booster",
+            "trigger_id": 2441,
+            "name": "Center House Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
+            "trigger_id": 2453,
+            "name": "Color Star Hole",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2511,
-            "name": "Flipped Isosceles Trapezium Ramp",
+            "trigger_id": 2517,
+            "name": "Inner Pyramid Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2503,
-            "name": "East Sewer Grate Teleporter",
+            "trigger_id": 2458,
+            "name": "Color Star Tower Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2744,
-            "name": "Small Battery Ramp",
+            "trigger_id": 2460,
+            "name": "Color Star Tower Top",
             "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2409,
-            "name": "Anti Grav",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2570,
-            "name": "Logo Headsurf Beam",
-            "order": 9,
             "passthrough": 0
         }
     ]

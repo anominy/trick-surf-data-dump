@@ -1,68 +1,80 @@
 {
     "id": 8561,
     "map_id": 12,
-    "name": "Eventually",
-    "date": "2023-12-23T22:58:11.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": "2023-12-23T22:59:25.000Z",
-    "last_updated_author_id": 103,
+    "name": "December",
+    "date": "2023-12-25T15:03:28.000Z",
+    "author": "freakacele",
+    "author_id": 169,
+    "last_updated": null,
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
+    "tier": 7,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "43",
-    "players_completed": "15",
+    "completions": "4",
+    "players_completed": "4",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2586,
-            "name": "Low Wall Fixture",
+            "trigger_id": 2584,
+            "name": "Main Ramp Slant",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2474,
-            "name": "Center Pink Platform",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2475,
-            "name": "Center Ramp",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2482,
-            "name": "Center White Platform",
+            "trigger_id": 2870,
+            "name": "Under Right Back Pillar Beam",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2548,
-            "name": "High Wall Fixture",
+            "trigger_id": 2862,
+            "name": "Under Main Ramp Back",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2475,
-            "name": "Center Ramp",
-            "order": 4,
-            "passthrough": 1
+            "trigger_id": 2526,
+            "name": "Left Back Pillar Beam",
+            "order": 5,
+            "passthrough": 0
         },
         {
-            "trigger_id": 2474,
-            "name": "Center Pink Platform",
-            "order": 4,
-            "passthrough": 1
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
+            "order": 6,
+            "passthrough": 0
         },
         {
-            "trigger_id": 2482,
-            "name": "Center White Platform",
-            "order": 4,
-            "passthrough": 1
+            "trigger_id": 2820,
+            "name": "Through Center House",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2883,
+            "name": "Vent Floor",
+            "order": 9,
+            "passthrough": 0
         }
     ]
 }

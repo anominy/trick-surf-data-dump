@@ -1,0 +1,50 @@
+{
+    "id": 8359,
+    "map_id": 12,
+    "name": "Slanting",
+    "date": "2023-11-13T23:58:01.000Z",
+    "author": "XiaoLucy",
+    "author_id": 103,
+    "last_updated": "2023-11-14T00:12:45.000Z",
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "58",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2761,
+            "name": "South Sewer Tower Headsurf Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2486,
+            "name": "Front Gravity Slants",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2591,
+            "name": "Middle Gravity Slants",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2385,
+            "name": "Back Gravity Slants",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2914,
+            "name": "White Corner Block",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

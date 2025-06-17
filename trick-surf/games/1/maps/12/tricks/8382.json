@@ -1,79 +1,91 @@
 {
     "id": 8382,
     "map_id": 12,
-    "name": "Stairing Away",
-    "date": "2023-11-17T00:09:19.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
+    "name": "Comfort Zone",
+    "date": "2023-11-19T18:36:16.000Z",
+    "author": "Lucy",
+    "author_id": 103,
     "last_updated": null,
-    "last_updated_author_id": 92,
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "20",
-    "players_completed": "10",
+    "completions": "19",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2620,
-            "name": "Name Towers Platform",
+            "trigger_id": 2582,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2621,
-            "name": "Name Towers Platform Booster",
+            "trigger_id": 2576,
+            "name": "Main Boost Right",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2890,
-            "name": "Under Top Spiral Stairs",
+            "trigger_id": 2408,
+            "name": "Between Liquidator and roee",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2415,
-            "name": "Anti Grav West Slide",
+            "trigger_id": 2409,
+            "name": "Between Liquidator and william",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2916,
-            "name": "West Sewer Tower Detail",
+            "trigger_id": 2707,
+            "name": "Right Name Towers Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2807,
-            "name": "Spiral Tower Cross Ramp",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2590,
-            "name": "Lower Spiral Stairs",
+            "trigger_id": 2629,
+            "name": "Over Center Sky Supports",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2574,
-            "name": "Logo Ramp",
+            "trigger_id": 2601,
+            "name": "North Hanging Center Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2420,
-            "name": "Back Outer Color Star Ramp",
+            "trigger_id": 2467,
+            "name": "East Hanging Center Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2491,
-            "name": "Color Star Tower Top",
+            "trigger_id": 2629,
+            "name": "Over Center Sky Supports",
             "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2896,
+            "name": "West Hanging Center Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2876,
+            "name": "Under Top Spiral Stairs",
+            "order": 11,
             "passthrough": 0
         }
     ]

@@ -1,43 +1,61 @@
 {
     "id": 8553,
     "map_id": 12,
-    "name": "Wait I Forgot Something",
-    "date": "2023-12-21T17:02:06.000Z",
+    "name": "Guillotine",
+    "date": "2023-12-24T00:37:14.000Z",
     "author": "Lucy",
     "author_id": 103,
-    "last_updated": "2024-06-01T11:45:19.000Z",
-    "last_updated_author_id": 10,
+    "last_updated": "2023-12-24T00:52:39.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 7,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "72",
-    "players_completed": "17",
+    "completions": "15",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2479,
-            "name": "Center Sky Beams",
+            "trigger_id": 2545,
+            "name": "Logo Teleporter Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2497,
-            "name": "East Hanging Center Ramp",
+            "trigger_id": 2705,
+            "name": "Right Logo Teleporter Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2497,
-            "name": "East Hanging Center Ramp",
+            "trigger_id": 2856,
+            "name": "Under Logo Ramp Floor",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2479,
-            "name": "Center Sky Beams",
+            "trigger_id": 2531,
+            "name": "Left Logo Teleporter Boost",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2548,
+            "name": "Logo Window",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2544,
+            "name": "Logo Roof",
+            "order": 6,
             "passthrough": 0
         }
     ]

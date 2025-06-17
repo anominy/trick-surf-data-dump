@@ -1,0 +1,38 @@
+{
+    "id": 11413,
+    "map_id": 12,
+    "name": "pink 1 ramper",
+    "date": "2024-09-18T02:35:41.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-09-18T02:41:52.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "16",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2645,
+            "name": "Pink Pool Roof Block",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2883,
+            "name": "Vent Floor",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

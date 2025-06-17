@@ -1,0 +1,74 @@
+{
+    "id": 2813,
+    "map_id": 3,
+    "name": "Buck 100",
+    "date": "2021-09-07T07:43:17.000Z",
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated": "2022-05-19T09:41:43.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "30",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 220,
+            "name": "Buy Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 219,
+            "name": "Buy Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 216,
+            "name": "Bent Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 200,
+            "name": "Awp Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 209,
+            "name": "Behind Awp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 280,
+            "name": "Straight Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 221,
+            "name": "Curved Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 269,
+            "name": "Shotgun Top",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

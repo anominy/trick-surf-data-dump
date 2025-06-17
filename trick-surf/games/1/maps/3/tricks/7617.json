@@ -1,0 +1,98 @@
+{
+    "id": 7617,
+    "map_id": 3,
+    "name": "Updraft",
+    "date": "2023-05-26T18:30:59.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": null,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "9",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 230,
+            "name": "Jail Pillar",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 232,
+            "name": "Jail Slope",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 225,
+            "name": "Jail",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 229,
+            "name": "Jail Lift",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 272,
+            "name": "Side Target",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 216,
+            "name": "Bent Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 238,
+            "name": "Main Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 305,
+            "name": "Under Jail Bridge",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 232,
+            "name": "Jail Slope",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 232,
+            "name": "Jail Slope",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 241,
+            "name": "Map Divide",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 200,
+            "name": "Awp Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 205,
+            "name": "Awp Slope",
+            "order": 12,
+            "passthrough": 0
+        }
+    ]
+}

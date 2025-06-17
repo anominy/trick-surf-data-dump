@@ -1,0 +1,56 @@
+{
+    "id": 10803,
+    "map_id": 3,
+    "name": "Target Strafe to Jail Wall",
+    "date": "2024-08-04T23:58:53.000Z",
+    "author": "skin",
+    "author_id": 24151,
+    "last_updated": null,
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "41",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 269,
+            "name": "Shotgun Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 283,
+            "name": "Target",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 280,
+            "name": "Straight Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 251,
+            "name": "Rifle Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 258,
+            "name": "SMG Platform",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 237,
+            "name": "Jail Wall",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": 12476,
+    "map_id": 12,
+    "name": "Wanted",
+    "date": "2025-04-16T15:29:54.000Z",
+    "author": "uonder",
+    "author_id": 6919,
+    "last_updated": "2025-04-16T15:31:00.000Z",
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 3,
+    "max_prestrafe": null,
+    "completions": "1",
+    "players_completed": "1",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2855,
+            "name": "Under Logo Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2817,
+            "name": "Through Anti Grav Supports",
+            "order": 2,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2888,
+            "name": "Vent Headsurf Teleport",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2533,
+            "name": "Left Name Towers Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2628,
+            "name": "Over Center Sky Platform",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2805,
+            "name": "Star Blue Tunnel Top",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3038,
+            "name": "Pyramid Middle Ramp South",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2476,
+            "name": "East Sewer Tower Headsurf Platform",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

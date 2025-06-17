@@ -1,55 +1,79 @@
 {
     "id": 8334,
     "map_id": 12,
-    "name": "Catfish",
-    "date": "2023-11-08T21:41:05.000Z",
-    "author": "Ghostface",
-    "author_id": 5,
-    "last_updated": "2024-08-18T21:21:13.000Z",
-    "last_updated_author_id": 10,
+    "name": "Liq's Rise",
+    "date": "2023-11-09T15:46:50.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": null,
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 7,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "56",
-    "players_completed": "20",
+    "completions": "29",
+    "players_completed": "19",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2622,
-            "name": "North Center Sky Rope Support",
+            "trigger_id": 2507,
+            "name": "Grey Tower",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2624,
-            "name": "North Hanging Center Ramp",
+            "trigger_id": 2508,
+            "name": "Grey Tower Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2472,
-            "name": "Center House Ramp",
+            "trigger_id": 2513,
+            "name": "Hanging Sky Orange Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2835,
-            "name": "Through Center Sky Supports",
+            "trigger_id": 2542,
+            "name": "Logo Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2472,
-            "name": "Center House Ramp",
+            "trigger_id": 2574,
+            "name": "Luna's Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2733,
-            "name": "Sayt's Ring",
+            "trigger_id": 2842,
+            "name": "Top Spiral Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2632,
+            "name": "Over Main Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2707,
+            "name": "Right Name Towers Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2535,
+            "name": "Liquidator's Tower",
+            "order": 9,
             "passthrough": 0
         }
     ]

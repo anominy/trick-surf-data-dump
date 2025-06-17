@@ -1,49 +1,55 @@
 {
     "id": 11014,
     "map_id": 12,
-    "name": "Booster Trainer",
-    "date": "2024-08-21T03:32:02.000Z",
-    "author": "influx",
-    "author_id": 147,
+    "name": "Dreamscape",
+    "date": "2024-08-22T00:40:35.000Z",
+    "author": "Steve",
+    "author_id": 10,
     "last_updated": null,
-    "last_updated_author_id": 147,
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 7,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "24",
-    "players_completed": "10",
+    "completions": "5",
+    "players_completed": "4",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2647,
-            "name": "Orange Floor Block",
+            "trigger_id": 3111,
+            "name": "Upper Main Tunnel Beam",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2710,
-            "name": "Red Booster",
+            "trigger_id": 3116,
+            "name": "Upper Right Small Main Tunnel Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2882,
-            "name": "Under Red Corner Block",
+            "trigger_id": 2559,
+            "name": "Lower Main Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2948,
-            "name": "White-Red Ramp",
+            "trigger_id": 3065,
+            "name": "Mirrored Side Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2666,
-            "name": "Pink Pool Roof",
+            "trigger_id": 3061,
+            "name": "Left Spiral Grassbed Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3067,
+            "name": "Mirrored Side Ramp Spine",
+            "order": 5,
             "passthrough": 0
         }
     ]

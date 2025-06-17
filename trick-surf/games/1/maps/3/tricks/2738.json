@@ -1,0 +1,50 @@
+{
+    "id": 2738,
+    "map_id": 3,
+    "name": "Rifle Round-up",
+    "date": "2021-08-26T14:38:11.000Z",
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated": "2022-05-19T09:43:51.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "91",
+    "players_completed": "26",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 251,
+            "name": "Rifle Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 247,
+            "name": "Rifle Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 252,
+            "name": "Rifle Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 241,
+            "name": "Map Divide",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 230,
+            "name": "Jail Pillar",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

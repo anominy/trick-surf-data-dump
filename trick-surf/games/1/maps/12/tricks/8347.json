@@ -1,67 +1,55 @@
 {
     "id": 8347,
     "map_id": 12,
-    "name": "Heavenly Dumpling",
-    "date": "2023-11-10T16:54:22.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-11-17T18:35:51.000Z",
-    "last_updated_author_id": 103,
+    "name": "Pool Party at King's",
+    "date": "2023-11-11T04:59:48.000Z",
+    "author": "ᴛꜱ ٠ King",
+    "author_id": 10,
+    "last_updated": "2023-11-11T05:03:03.000Z",
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "subtier": 3,
+    "tier": 3,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "14",
-    "players_completed": "7",
+    "completions": "63",
+    "players_completed": "20",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2939,
-            "name": "White Pool Roof",
+            "trigger_id": 2925,
+            "name": "White Pool Roof Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2937,
+            "trigger_id": 2922,
             "name": "White Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2874,
-            "name": "Under Main Front Ramp",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2872,
-            "name": "Under Main Back Ramp",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2534,
-            "name": "Green-White Edge Ramp",
+            "trigger_id": 2444,
+            "name": "Center Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2536,
-            "name": "Green-White Ramp",
+            "trigger_id": 2918,
+            "name": "White Pool Block",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2592,
-            "name": "Lower White Pool Ledge",
-            "order": 7,
             "passthrough": 0
         }
     ]

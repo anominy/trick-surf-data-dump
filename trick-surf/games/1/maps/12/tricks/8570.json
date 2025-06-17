@@ -1,79 +1,67 @@
 {
     "id": 8570,
     "map_id": 12,
-    "name": "December",
-    "date": "2023-12-25T15:03:28.000Z",
-    "author": "freakacele",
-    "author_id": 169,
-    "last_updated": null,
-    "last_updated_author_id": 1137,
+    "name": "Stunlockedd",
+    "date": "2023-12-25T20:17:05.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": "2023-12-25T20:34:35.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "subtier": 3,
+    "tier": 3,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "4",
-    "players_completed": "4",
+    "completions": "22",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2605,
-            "name": "Main Ramp Slant",
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2699,
+            "name": "Right Beam Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2871,
+            "name": "Under Right Front Pillar Beam",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2884,
-            "name": "Under Right Back Pillar Beam",
+            "trigger_id": 2504,
+            "name": "Green-White Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2876,
-            "name": "Under Main Ramp Back",
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2558,
-            "name": "Left Back Pillar Beam",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2937,
-            "name": "White Pool Ramp",
+            "trigger_id": 2480,
+            "name": "East Spiral Tower Tunnel",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2834,
-            "name": "Through Center House",
+            "trigger_id": 2426,
+            "name": "Blue Spiral Platform",
             "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2897,
-            "name": "Vent Floor",
-            "order": 9,
             "passthrough": 0
         }
     ]

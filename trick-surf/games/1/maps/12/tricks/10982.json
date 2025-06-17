@@ -1,85 +1,55 @@
 {
     "id": 10982,
     "map_id": 12,
-    "name": "Gates of Dusk",
-    "date": "2024-08-19T04:29:06.000Z",
-    "author": "Steve",
-    "author_id": 10,
-    "last_updated": null,
+    "name": "Narcton Diablo",
+    "date": "2024-08-19T22:14:11.000Z",
+    "author": "Schewpid",
+    "author_id": 25884,
+    "last_updated": "2024-08-19T22:21:30.000Z",
     "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
     "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "17",
-    "players_completed": "6",
+    "completions": "161",
+    "players_completed": "12",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2925,
+            "name": "White Pool Roof Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2596,
-            "name": "Main Boost Left",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2732,
-            "name": "roee's Tower",
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2965,
-            "name": "Luna's Podium Right Side",
+            "trigger_id": 2504,
+            "name": "Green-White Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2920,
-            "name": "West Sewer Tower Ramp Spine",
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2456,
-            "name": "Big Battery Ramps Spine",
+            "trigger_id": 2565,
+            "name": "Lower Spiral Stairs Platform",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2746,
-            "name": "Small Battery Ramp Spine",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2746,
-            "name": "Small Battery Ramp Spine",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2456,
-            "name": "Big Battery Ramps Spine",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3110,
-            "name": "Northern Grassbed Block",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2905,
-            "name": "Vent Ramp Floor",
-            "order": 10,
             "passthrough": 0
         }
     ]

@@ -1,85 +1,49 @@
 {
     "id": 11003,
     "map_id": 12,
-    "name": "cat",
-    "date": "2024-08-20T13:46:27.000Z",
-    "author": "Schewpid",
-    "author_id": 25977,
+    "name": "Booster Trainer",
+    "date": "2024-08-21T03:32:02.000Z",
+    "author": "influx",
+    "author_id": 147,
     "last_updated": null,
-    "last_updated_author_id": 2994,
+    "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "3",
-    "players_completed": "3",
+    "completions": "24",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3096,
-            "name": "chief's Cave West",
+            "trigger_id": 2624,
+            "name": "Orange Floor Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2869,
-            "name": "Under Logo Ramp",
+            "trigger_id": 2684,
+            "name": "Red Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2728,
-            "name": "Left Logo Teleporter Boost",
+            "trigger_id": 2868,
+            "name": "Under Red Corner Block",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2729,
-            "name": "Left Logo Teleporter Slide",
+            "trigger_id": 2932,
+            "name": "White-Red Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2727,
-            "name": "Left Logo Teleporter",
+            "trigger_id": 2644,
+            "name": "Pink Pool Roof",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3105,
-            "name": "Lower Spiral Stairs Platform Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3105,
-            "name": "Lower Spiral Stairs Platform Ramp",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3139,
-            "name": "Spiral Tower Lower Ramp",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2587,
-            "name": "Lower Luna's Podium",
-            "order": 10,
             "passthrough": 0
         }
     ]

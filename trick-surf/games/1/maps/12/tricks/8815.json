@@ -1,85 +1,79 @@
 {
     "id": 8815,
     "map_id": 12,
-    "name": "Fall Dragon",
-    "date": "2024-01-16T01:47:45.000Z",
-    "author": "ᴛꜱ ٠ lockedd",
-    "author_id": 180,
+    "name": "Lesson 1: Boarding",
+    "date": "2024-01-16T20:08:40.000Z",
+    "author": "Lucy",
+    "author_id": 103,
     "last_updated": null,
-    "last_updated_author_id": 180,
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "21",
-    "players_completed": "10",
+    "completions": "20",
+    "players_completed": "14",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2944,
-            "name": "Right White Tower",
+            "trigger_id": 2667,
+            "name": "Pyramid Loop Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2929,
-            "name": "Right White Tower Ramp",
+            "trigger_id": 3044,
+            "name": "Pyramid Top Ramp South",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2670,
-            "name": "Right Pink Tower",
+            "trigger_id": 2683,
+            "name": "Pyramid Top Ramp North",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2772,
-            "name": "South Sewer Grate Teleporter",
+            "trigger_id": 3038,
+            "name": "Pyramid Middle Ramp South",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2443,
-            "name": "Between Pyramid Main Pillars North",
+            "trigger_id": 2677,
+            "name": "Pyramid Middle Ramp North",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2549,
-            "name": "Inner Pyramid Ramp",
+            "trigger_id": 3023,
+            "name": "Pyramid Main Ramp South",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2443,
-            "name": "Between Pyramid Main Pillars North",
+            "trigger_id": 2671,
+            "name": "Pyramid Main Ramp North",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 3073,
-            "name": "Pyramid Middle Ramp South",
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2430,
+            "trigger_id": 2399,
             "name": "Behind Logo Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2963,
-            "name": "White Pool Roof Gap",
+            "trigger_id": 2645,
+            "name": "Pink Pool Roof Block",
             "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2592,
-            "name": "Lower White Pool Ledge",
-            "order": 10,
             "passthrough": 0
         }
     ]

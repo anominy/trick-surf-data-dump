@@ -1,0 +1,38 @@
+{
+    "id": 10976,
+    "map_id": 12,
+    "name": "260 1 Ramp",
+    "date": "2024-08-19T05:33:26.000Z",
+    "author": "Deer",
+    "author_id": 10,
+    "last_updated": "2024-10-28T11:10:38.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 262,
+    "completions": "24",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2382,
+            "name": "Anti Grav Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2856,
+            "name": "Under Logo Ramp Floor",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

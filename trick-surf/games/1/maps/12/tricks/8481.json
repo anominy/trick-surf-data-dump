@@ -1,73 +1,103 @@
 {
     "id": 8481,
     "map_id": 12,
-    "name": "Bumper",
-    "date": "2023-12-08T18:47:11.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": "2023-12-18T05:21:14.000Z",
-    "last_updated_author_id": 103,
+    "name": "Buck Off",
+    "date": "2023-12-11T00:50:53.000Z",
+    "author": "chefe",
+    "author_id": 75,
+    "last_updated": "2025-02-27T05:47:08.000Z",
+    "last_updated_author_id": 18496,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
-    "subtier": 1,
+    "tier": 7,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "167",
-    "players_completed": "32",
+    "completions": "32",
+    "players_completed": "18",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2667,
-            "name": "Pink Pool Roof Block",
+            "trigger_id": 2484,
+            "name": "Frag's Base",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
+            "trigger_id": 2977,
+            "name": "Through buck-wild",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
+            "trigger_id": 2583,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
+            "trigger_id": 2700,
+            "name": "Right Beam Ramp Spine",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
+            "trigger_id": 2833,
+            "name": "Through Pink Pool",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2414,
-            "name": "Anti Grav Top",
+            "trigger_id": 2444,
+            "name": "Center Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2412,
-            "name": "Anti Grav North Slide",
+            "trigger_id": 2841,
+            "name": "Through White Pool",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 3068,
-            "name": "Pyramid Middle Floor Bump West",
+            "trigger_id": 2938,
+            "name": "Logo Entrance West",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2904,
-            "name": "Vent Ramp Block",
+            "trigger_id": 2550,
+            "name": "Logo Window Ramp",
             "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2937,
+            "name": "Logo Entrance East",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2817,
+            "name": "Through Anti Grav Supports",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2399,
+            "name": "Behind Logo Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2440,
+            "name": "Center House Holes",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2635,
+            "name": "Pink Pool",
+            "order": 13,
             "passthrough": 0
         }
     ]

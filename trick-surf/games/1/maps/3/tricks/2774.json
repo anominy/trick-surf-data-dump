@@ -1,0 +1,62 @@
+{
+    "id": 2774,
+    "map_id": 3,
+    "name": "Guava Groove",
+    "date": "2021-09-02T08:20:41.000Z",
+    "author": "adzicents",
+    "author_id": 48,
+    "last_updated": "2021-09-02T10:08:49.000Z",
+    "last_updated_author_id": 48,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "85",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 196,
+            "name": "Aug Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "name": "Scout Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 251,
+            "name": "Rifle Platform",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "name": "Scout Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 241,
+            "name": "Map Divide",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 259,
+            "name": "Scout Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 251,
+            "name": "Rifle Platform",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

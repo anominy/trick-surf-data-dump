@@ -1,0 +1,38 @@
+{
+    "id": 2663,
+    "map_id": 3,
+    "name": "Yump",
+    "date": "2021-08-16T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2021-08-28T06:57:58.000Z",
+    "last_updated_author_id": 48,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "3674",
+    "players_completed": "101",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 225,
+            "name": "Jail",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 231,
+            "name": "Jail Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 258,
+            "name": "SMG Platform",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

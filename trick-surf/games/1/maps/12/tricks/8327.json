@@ -1,55 +1,79 @@
 {
     "id": 8327,
     "map_id": 12,
-    "name": "La La Land",
-    "date": "2023-11-08T19:12:20.000Z",
-    "author": "Façade",
-    "author_id": 2,
-    "last_updated": null,
-    "last_updated_author_id": 5,
+    "name": "Boundless Plum",
+    "date": "2023-11-08T21:00:58.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-12-31T12:35:16.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "77",
-    "players_completed": "15",
+    "completions": "5",
+    "players_completed": "5",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2622,
-            "name": "North Center Sky Rope Support",
+            "trigger_id": 2623,
+            "name": "Orange Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2624,
-            "name": "North Hanging Center Ramp",
+            "trigger_id": 2910,
+            "name": "White Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2472,
-            "name": "Center House Ramp",
+            "trigger_id": 2877,
+            "name": "Under White Corner Block",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2834,
-            "name": "Through Center House",
+            "trigger_id": 2932,
+            "name": "White-Red Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2523,
+            "name": "Isosceles Trapezium Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2930,
+            "name": "White-Red Edge Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2932,
+            "name": "White-Red Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2814,
+            "name": "Surf Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2635,
+            "name": "Pink Pool",
+            "order": 9,
             "passthrough": 0
         }
     ]

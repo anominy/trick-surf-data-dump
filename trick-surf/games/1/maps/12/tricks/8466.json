@@ -1,43 +1,67 @@
 {
     "id": 8466,
     "map_id": 12,
-    "name": "Slide Up",
-    "date": "2023-12-05T17:23:42.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": "2023-12-05T17:26:16.000Z",
+    "name": "Reinstate",
+    "date": "2023-12-07T19:56:41.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": "2023-12-08T03:44:22.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "165",
-    "players_completed": "31",
+    "completions": "11",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2620,
-            "name": "Name Towers Platform",
+            "trigger_id": 2492,
+            "name": "Front Ramp Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2621,
-            "name": "Name Towers Platform Booster",
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2767,
-            "name": "South Hanging Center Ramp Spine",
+            "trigger_id": 2851,
+            "name": "Under Glass Bridge",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2736,
-            "name": "Sky Grassbed",
+            "trigger_id": 2720,
+            "name": "Side Ramp",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2720,
+            "name": "Side Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2579,
+            "name": "Main In-Ground Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2851,
+            "name": "Under Glass Bridge",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2578,
+            "name": "Main Floor Block",
+            "order": 7,
             "passthrough": 0
         }
     ]

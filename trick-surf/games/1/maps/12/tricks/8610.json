@@ -1,61 +1,91 @@
 {
     "id": 8610,
     "map_id": 12,
-    "name": "Ozara",
-    "date": "2023-12-30T16:02:37.000Z",
-    "author": "lockedd",
-    "author_id": 180,
+    "name": "Crossfire",
+    "date": "2023-12-30T22:01:05.000Z",
+    "author": "Mason",
+    "author_id": 4140,
     "last_updated": null,
-    "last_updated_author_id": 1137,
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 4,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "13",
-    "players_completed": "7",
+    "max_prestrafe": null,
+    "completions": "14",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2782,
-            "name": "Spawn Bottom Channel",
+            "trigger_id": 2542,
+            "name": "Logo Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3046,
-            "name": "Left Wing Ramp",
+            "trigger_id": 2821,
+            "name": "Through Center Sky Supports",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2855,
-            "name": "Through White Pool",
+            "trigger_id": 2628,
+            "name": "Over Center Sky Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2937,
-            "name": "White Pool Ramp",
+            "trigger_id": 2601,
+            "name": "North Hanging Center Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2629,
+            "name": "Over Center Sky Supports",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2424,
-            "name": "Balu's Platform",
+            "trigger_id": 2752,
+            "name": "South Hanging Center Ramp",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2407,
+            "name": "Between Formal and william",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2934,
+            "name": "mbsurfer's Jumppad",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2408,
+            "name": "Between Liquidator and roee",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2707,
+            "name": "Right Name Towers Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2449,
+            "name": "Center Sky Platform",
+            "order": 11,
             "passthrough": 0
         }
     ]

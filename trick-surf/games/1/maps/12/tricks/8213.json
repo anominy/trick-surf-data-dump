@@ -1,67 +1,49 @@
 {
     "id": 8213,
     "map_id": 12,
-    "name": "Recharge",
+    "name": "Roof Removal",
     "date": "2023-11-07T18:00:00.000Z",
-    "author": "Lucy",
+    "author": "Xiao",
     "author_id": 103,
-    "last_updated": "2023-12-18T05:46:54.000Z",
-    "last_updated_author_id": 103,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "28",
-    "players_completed": "11",
+    "completions": "64",
+    "players_completed": "24",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2525,
-            "name": "Gravity Floor",
+            "trigger_id": 2925,
+            "name": "White Pool Roof Block",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2721,
-            "name": "Red-Purple Ramp",
+            "trigger_id": 2650,
+            "name": "Pools Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2861,
-            "name": "Trapezium Ramps Top Floor",
+            "trigger_id": 2444,
+            "name": "Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3057,
-            "name": "Pyramid Main Ramp East",
+            "trigger_id": 2841,
+            "name": "Through White Pool",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2503,
-            "name": "East Sewer Grate Teleporter",
+            "trigger_id": 2918,
+            "name": "White Pool Block",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2758,
-            "name": "Snake Ramp 2",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2741,
-            "name": "Small Battery",
-            "order": 7,
             "passthrough": 0
         }
     ]

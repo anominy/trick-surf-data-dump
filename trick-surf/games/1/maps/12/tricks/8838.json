@@ -1,49 +1,73 @@
 {
     "id": 8838,
     "map_id": 12,
-    "name": "The Inner Eye",
-    "date": "2024-01-17T20:01:15.000Z",
-    "author": "Lucy",
-    "author_id": 103,
+    "name": "Dandelion",
+    "date": "2024-01-18T22:31:07.000Z",
+    "author": "lockedd",
+    "author_id": 180,
     "last_updated": null,
-    "last_updated_author_id": 103,
+    "last_updated_author_id": 180,
     "active": 1,
     "ranked": 1,
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "9",
-    "players_completed": "6",
+    "completions": "12",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2810,
-            "name": "Spiral Tower Lower",
+            "trigger_id": 2566,
+            "name": "Lower White Pool Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3139,
-            "name": "Spiral Tower Lower Ramp",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3139,
-            "name": "Spiral Tower Lower Ramp",
+            "trigger_id": 2918,
+            "name": "White Pool Block",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3139,
-            "name": "Spiral Tower Lower Ramp",
+            "trigger_id": 2922,
+            "name": "White Pool Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2588,
-            "name": "Lower Luna's Podium Stairs",
+            "trigger_id": 3054,
+            "name": "Center In-Ground Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2516,
+            "name": "High Wall Fixture",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2860,
+            "name": "Under Main Front Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2858,
+            "name": "Under Main Back Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2386,
+            "name": "Back Main Pillar",
+            "order": 8,
             "passthrough": 0
         }
     ]

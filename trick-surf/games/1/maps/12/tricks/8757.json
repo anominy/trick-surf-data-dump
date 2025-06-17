@@ -1,73 +1,67 @@
 {
     "id": 8757,
     "map_id": 12,
-    "name": "Femboy Friday",
-    "date": "2024-01-12T01:33:14.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": null,
+    "name": "ion wanna talk rn",
+    "date": "2024-01-13T00:53:26.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": "2024-01-31T12:35:34.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "33",
-    "players_completed": "12",
+    "completions": "9",
+    "players_completed": "6",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2953,
-            "name": "Lucy's Platform",
+            "trigger_id": 2777,
+            "name": "Spawn Top Channel",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2792,
-            "name": "Spawn Top Floor",
+            "trigger_id": 3010,
+            "name": "Left Wing Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2951,
-            "name": "Right Wing Ramp",
+            "trigger_id": 2792,
+            "name": "Spiral Tower Cross Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2772,
-            "name": "South Sewer Grate Teleporter",
+            "trigger_id": 3103,
+            "name": "Through Checkered Spiral Platform Window",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3062,
-            "name": "Pyramid Main Ramp West",
+            "trigger_id": 3102,
+            "name": "Through Blue Spiral Platform Window",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
+            "trigger_id": 3103,
+            "name": "Through Checkered Spiral Platform Window",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2654,
-            "name": "Over Main Ramp",
+            "trigger_id": 3063,
+            "name": "Lower Spiral Stairs Platform Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2604,
-            "name": "Main Ramp",
+            "trigger_id": 2394,
+            "name": "Balu's Platform Hole",
             "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2603,
-            "name": "Main Platform",
-            "order": 8,
             "passthrough": 0
         }
     ]

@@ -1,109 +1,85 @@
 {
     "id": 8517,
     "map_id": 12,
-    "name": "Black Haze",
-    "date": "2023-12-13T23:07:51.000Z",
-    "author": "royssi",
-    "author_id": 10103,
-    "last_updated": "2023-12-13T23:18:33.000Z",
-    "last_updated_author_id": 103,
+    "name": "Towering",
+    "date": "2023-12-16T15:05:01.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": null,
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 3,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "15",
-    "players_completed": "10",
+    "max_prestrafe": 405,
+    "completions": "22",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2576,
-            "name": "Logo Roof",
+            "trigger_id": 2582,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2574,
-            "name": "Logo Ramp",
+            "trigger_id": 2575,
+            "name": "Main Boost Left",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2975,
-            "name": "Logo Entrance West",
+            "trigger_id": 2935,
+            "name": "roee's Tower",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2582,
-            "name": "Logo Window Ramp",
+            "trigger_id": 2552,
+            "name": "Logo Window Slides",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2974,
-            "name": "Logo Entrance East",
+            "trigger_id": 2888,
+            "name": "Vent Headsurf Teleport",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2831,
-            "name": "Through Anti Grav Supports",
+            "trigger_id": 2483,
+            "name": "Formal's Tower",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2662,
-            "name": "Pink Pool Ramp",
+            "trigger_id": 2885,
+            "name": "Vent Floor Platform",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2885,
-            "name": "Under Right Front Pillar Beam",
+            "trigger_id": 2888,
+            "name": "Vent Headsurf Teleport",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2829,
-            "name": "Surf Ramp",
+            "trigger_id": 2936,
+            "name": "william's Tower",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2867,
-            "name": "Under Left Back Pillar Beam",
+            "trigger_id": 2843,
+            "name": "Top Spiral Stairs",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 2500,
-            "name": "East Inner Ramp",
+            "trigger_id": 2535,
+            "name": "Liquidator's Tower",
             "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2552,
-            "name": "Inner Teleport",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2856,
-            "name": "Top Spiral Ramp",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2610,
-            "name": "Lower Main Tunnel Ramp",
-            "order": 13,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2539,
-            "name": "Grey Tower",
-            "order": 14,
             "passthrough": 0
         }
     ]

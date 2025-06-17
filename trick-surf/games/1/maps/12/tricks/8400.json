@@ -1,0 +1,68 @@
+{
+    "id": 8400,
+    "map_id": 12,
+    "name": "Adjudicator",
+    "date": "2023-11-22T14:58:16.000Z",
+    "author": "PW",
+    "author_id": 14847,
+    "last_updated": null,
+    "last_updated_author_id": 480,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "101",
+    "players_completed": "43",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2778,
+            "name": "Spawn Top Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2770,
+            "name": "Spawn Bottom Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2583,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2444,
+            "name": "Center Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2926,
+            "name": "White Pool Roof Gap",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2848,
+            "name": "Under Anti Grav",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2889,
+            "name": "Vent Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2679,
+            "name": "Pyramid Roof",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

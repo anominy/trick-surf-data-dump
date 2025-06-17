@@ -1,67 +1,55 @@
 {
     "id": 8602,
     "map_id": 12,
-    "name": "Hollow",
-    "date": "2023-12-30T13:36:14.000Z",
-    "author": "Lucy",
-    "author_id": 103,
-    "last_updated": null,
-    "last_updated_author_id": 103,
+    "name": "Roadworks",
+    "date": "2023-12-30T16:48:23.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2023-12-30T17:03:42.000Z",
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 3,
     "max_prestrafe": 406,
-    "completions": "160",
-    "players_completed": "18",
+    "completions": "10",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2603,
-            "name": "Main Platform",
+            "trigger_id": 2561,
+            "name": "Lower Pink Pool Ledge",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2597,
-            "name": "Main Boost Right",
+            "trigger_id": 2640,
+            "name": "Pink Pool Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2439,
-            "name": "Between Liquidator and roee",
+            "trigger_id": 2930,
+            "name": "White-Red Edge Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2440,
-            "name": "Between Liquidator and william",
+            "trigger_id": 2481,
+            "name": "Flipped Isosceles Trapezium Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2730,
-            "name": "Right Name Towers Ramp",
+            "trigger_id": 3023,
+            "name": "Pyramid Main Ramp South",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3035,
-            "name": "Through Thanks",
+            "trigger_id": 2635,
+            "name": "Pink Pool",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2613,
-            "name": "mbsurfer's Jumppad",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2603,
-            "name": "Main Platform",
-            "order": 7,
             "passthrough": 0
         }
     ]
