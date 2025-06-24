@@ -1,15 +1,15 @@
 {
     "id": 7734,
     "map_id": 11,
-    "name": "Forgive Me",
-    "date": "2023-06-24T16:33:35.000Z",
-    "author": "ᴛꜱ٠ Miao",
-    "author_id": 103,
-    "last_updated": null,
-    "last_updated_author_id": 103,
+    "name": "Snowman Walk To Tokyo",
+    "date": "2023-06-24T20:07:32.000Z",
+    "author": "ᴛꜱ٠ winter",
+    "author_id": 406,
+    "last_updated": "2023-06-24T20:17:06.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,27 +17,81 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1847,
-            "name": "Fence Top Center",
+            "trigger_id": 2160,
+            "name": "SHORTCUT Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
+            "trigger_id": 2158,
+            "name": "SHORTCUT Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1937,
-            "name": "Poorly Rotated Ramp",
+            "trigger_id": 2174,
+            "name": "Side Ledge Grind",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1943,
-            "name": "Random Cube",
+            "trigger_id": 2169,
+            "name": "Side Curvy Thing",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2170,
+            "name": "Side Hump",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2269,
+            "name": "Through Loop",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2297,
+            "name": "Under Logo Left Side",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2028,
+            "name": "Main Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2034,
+            "name": "Main TP Deck",
+            "order": 12,
             "passthrough": 0
         }
     ]

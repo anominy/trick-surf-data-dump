@@ -1,0 +1,68 @@
+{
+    "id": 8892,
+    "map_id": 7,
+    "name": "Wyvern",
+    "date": "2024-01-31T23:05:33.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2024-01-31T23:06:20.000Z",
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "10",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 810,
+            "name": "Side Spawn Upper Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 736,
+            "name": "Ground Teleporter",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 804,
+            "name": "Section Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 816,
+            "name": "Sriracha",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

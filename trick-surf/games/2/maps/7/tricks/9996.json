@@ -1,0 +1,50 @@
+{
+    "id": 9996,
+    "map_id": 7,
+    "name": "Spring's Coffin",
+    "date": "2024-05-21T01:50:34.000Z",
+    "author": "Formal",
+    "author_id": 480,
+    "last_updated": null,
+    "last_updated_author_id": 480,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 805,
+            "name": "Section Ramp Tip",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 804,
+            "name": "Section Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 816,
+            "name": "Sriracha",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 740,
+            "name": "Hamburger",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 759,
+            "name": "Jail Side Rail",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

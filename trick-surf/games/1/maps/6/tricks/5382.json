@@ -1,67 +1,55 @@
 {
     "id": 5382,
     "map_id": 6,
-    "name": "Checkered Silsa's Wife from Fence",
-    "date": "2022-04-26T16:38:27.000Z",
-    "author": "dimy",
-    "author_id": 174,
+    "name": "Long Blonde From Fence",
+    "date": "2022-05-23T13:15:58.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "7",
-    "players_completed": "5",
+    "completions": "49",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 517,
+            "trigger_id": 585,
             "name": "Fence",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 537,
+            "trigger_id": 613,
             "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 511,
-            "name": "Checkered Ramp",
+            "trigger_id": 608,
+            "name": "Long Deagle Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 571,
-            "name": "Through Wheel 1",
+            "trigger_id": 616,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 511,
-            "name": "Checkered Ramp",
+            "trigger_id": 613,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 537,
-            "name": "Main Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 562,
-            "name": "Behind Fence",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 560,
+            "trigger_id": 646,
             "name": "Spawn",
-            "order": 7,
+            "order": 5,
             "passthrough": 0
         }
     ]

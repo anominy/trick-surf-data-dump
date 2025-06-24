@@ -1,0 +1,62 @@
+{
+    "id": 10337,
+    "map_id": 7,
+    "name": "Chopsticks",
+    "date": "2024-06-16T16:03:03.000Z",
+    "author": "shprot bossman",
+    "author_id": 195,
+    "last_updated": null,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3255,
+            "name": "Tower Right Beam",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3250,
+            "name": "Tower Left Beam",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3203,
+            "name": "Ground Ramp Reverse",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 766,
+            "name": "Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3207,
+            "name": "Middle Awp Ground",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 9028,
+    "map_id": 9,
+    "name": "Science Experiment #10",
+    "date": "2024-02-22T09:38:12.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2025-03-16T13:59:27.000Z",
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "10638",
+    "players_completed": "245",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1414,
+            "name": "NW Ground Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1413,
+            "name": "NW Ground Slide",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1412,
+            "name": "NW Ground",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

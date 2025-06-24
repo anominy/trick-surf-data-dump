@@ -1,10 +1,10 @@
 {
     "id": 7012,
     "map_id": 10,
-    "name": "Kingaru",
-    "date": "2023-02-11T05:40:09.000Z",
-    "author": "Steve",
-    "author_id": 10,
+    "name": "Curvy Rise",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "FISHMAN",
+    "author_id": null,
     "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
@@ -17,27 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1235,
-            "name": "C Strip West Light Pillar",
+            "trigger_id": 1792,
+            "name": "Jail Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1212,
-            "name": "C Orange Ramp 4",
+            "trigger_id": 1825,
+            "name": "Outward Ramp North",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1670,
-            "name": "W Orange Ramp 5",
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1523,
-            "name": "S Fort Dark Box",
+            "trigger_id": 1777,
+            "name": "HealBot Ramp North",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1823,
+            "name": "Outward Platform North",
+            "order": 4,
             "passthrough": 0
         }
     ]

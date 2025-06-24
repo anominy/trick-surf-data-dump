@@ -1,67 +1,133 @@
 {
     "id": 7520,
     "map_id": 11,
-    "name": "Not used flick",
-    "date": "2023-05-04T16:10:39.000Z",
-    "author": "Natsu",
-    "author_id": 123,
-    "last_updated": "2023-05-20T17:42:48.000Z",
+    "name": "Canonical",
+    "date": "2023-05-05T16:50:05.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-05-19T18:43:45.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "12",
-    "players_completed": "10",
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": null,
+    "completions": "13",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1930,
-            "name": "Not Used Box",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2104,
-            "name": "Not Used Ramp",
+            "trigger_id": 2354,
+            "name": "Undersplat S",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1859,
-            "name": "Half Pipe Right Ramp",
+            "trigger_id": 2157,
+            "name": "SHORTCUT Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1836,
-            "name": "F Loop Small Ramp",
+            "trigger_id": 2025,
+            "name": "Main Floor Left",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1830,
-            "name": "F Loop Big Ramp",
+            "trigger_id": 2180,
+            "name": "Side Slide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2052,
-            "name": "Under Main Ramp",
+            "trigger_id": 2025,
+            "name": "Main Floor Left",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2256,
+            "name": "THE CUBE Top",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2064,
-            "name": "W L Front",
+            "trigger_id": 2026,
+            "name": "Main Floor Right",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2383,
-            "name": "Side Ledge Side Deck",
+            "trigger_id": 2188,
+            "name": "Skinny Slide",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2275,
+            "name": "Transition Deck",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2009,
+            "name": "Logo Roller",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2275,
+            "name": "Transition Deck",
+            "order": 9,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2189,
+            "name": "Slanterino",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2157,
+            "name": "SHORTCUT Hole",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2354,
+            "name": "Undersplat S",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1913,
+            "name": "Big Loop Top",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1906,
+            "name": "Big Loop Ramp",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1992,
+            "name": "I Hate You william",
+            "order": 16,
             "passthrough": 0
         }
     ]

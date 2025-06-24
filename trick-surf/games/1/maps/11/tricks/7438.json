@@ -1,91 +1,55 @@
 {
     "id": 7438,
     "map_id": 11,
-    "name": "Loop Launcher",
-    "date": "2023-04-18T13:49:47.000Z",
-    "author": "Paul",
-    "author_id": 8969,
-    "last_updated": "2025-01-06T08:32:35.000Z",
-    "last_updated_author_id": 2994,
+    "name": "Noob",
+    "date": "2023-04-18T22:02:20.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2023-05-20T17:41:10.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "200",
-    "players_completed": "27",
+    "completions": "181",
+    "players_completed": "32",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2184,
-            "name": "N Upper Catwalk Back",
+            "trigger_id": 2025,
+            "name": "Main Floor Left",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2098,
-            "name": "N Upper Catwalk Hole",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2020,
-            "name": "The Curviest Boi",
+            "trigger_id": 2277,
+            "name": "Tucksy's Back Door",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1920,
-            "name": "N Tramp",
+            "trigger_id": 2327,
+            "name": "W L Front",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1836,
-            "name": "F Loop Small Ramp",
+            "trigger_id": 2329,
+            "name": "W L Side",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1829,
-            "name": "F Loop",
+            "trigger_id": 2126,
+            "name": "S Funbox Deck",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1933,
-            "name": "F Trigger",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2405,
-            "name": "F Loop Apex",
-            "order": 6,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1830,
-            "name": "F Loop Big Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2405,
-            "name": "F Loop Apex",
-            "order": 7,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1833,
-            "name": "F Loop L Ramp",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1895,
-            "name": "Main Platform",
-            "order": 9,
             "passthrough": 0
         }
     ]

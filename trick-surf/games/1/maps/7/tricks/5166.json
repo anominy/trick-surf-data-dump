@@ -1,0 +1,50 @@
+{
+    "id": 5166,
+    "map_id": 7,
+    "name": "eXy Rise",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "eXydos",
+    "author_id": 565,
+    "last_updated": "2023-10-13T13:07:36.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "70",
+    "players_completed": "37",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 761,
+            "name": "Jail Wall",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 842,
+            "name": "T2 Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 743,
+            "name": "Healbot Ladder",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

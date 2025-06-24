@@ -1,49 +1,37 @@
 {
     "id": 11103,
     "map_id": 13,
-    "name": "Crew Rise",
-    "date": "2024-08-27T19:46:58.000Z",
+    "name": "Inevitable Meanness",
+    "date": "2024-08-27T20:29:47.000Z",
     "author": "CrazyTroll",
-    "author_id": 17974,
-    "last_updated": "2024-08-27T19:47:09.000Z",
-    "last_updated_author_id": 2994,
+    "author_id": 17957,
+    "last_updated": "2024-09-03T13:03:34.000Z",
+    "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
+    "tier": 8,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "122",
-    "players_completed": "43",
+    "completions": "33",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3388,
-            "name": "Prison Top Beam",
+            "trigger_id": 3467,
+            "name": "T2 Roof",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3467,
-            "name": "Through Jail Roof",
+            "trigger_id": 3471,
+            "name": "T2 Wing",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3477,
-            "name": "Through Prison Floor",
+            "trigger_id": 3544,
+            "name": "Turtle Floor",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3295,
-            "name": "Crew Ramp",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3419,
-            "name": "Spine Platform",
-            "order": 4,
             "passthrough": 0
         }
     ]

@@ -1,61 +1,67 @@
 {
     "id": 5658,
     "map_id": 8,
-    "name": "Pro Banana Wrap from Tower",
-    "date": "2022-06-11T18:00:32.000Z",
-    "author": "Addicted",
-    "author_id": 209,
-    "last_updated": "2024-02-06T17:38:23.000Z",
-    "last_updated_author_id": 406,
+    "name": "Under V for Vendetta",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "26",
-    "players_completed": "20",
+    "completions": "117",
+    "players_completed": "33",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 783,
-            "name": "Tower Top",
+            "trigger_id": 984,
+            "name": "Red Circle",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 652,
-            "name": "Banana Ramp",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 652,
-            "name": "Banana Ramp",
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 653,
-            "name": "Behind Banana Ramp",
+            "trigger_id": 953,
+            "name": "Lower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 656,
-            "name": "Behind Tower",
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1051,
-            "name": "Around Tower",
+            "trigger_id": 943,
+            "name": "Large Cylinder",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 652,
-            "name": "Banana Ramp",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1078,
+            "name": "Under V Platform",
+            "order": 7,
             "passthrough": 0
         }
     ]

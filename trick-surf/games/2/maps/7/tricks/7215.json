@@ -1,0 +1,92 @@
+{
+    "id": 7215,
+    "map_id": 7,
+    "name": "devil to jail",
+    "date": "2023-04-02T15:21:20.000Z",
+    "author": "pakdevil",
+    "author_id": 2028,
+    "last_updated": null,
+    "last_updated_author_id": 2028,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 863,
+            "name": "Tower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 804,
+            "name": "Section Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Behind Tower",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 798,
+            "name": "Rear T2 Tower Wedge",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 800,
+            "name": "Right Wing",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 755,
+            "name": "Jail Box 4",
+            "order": 11,
+            "passthrough": 0
+        }
+    ]
+}

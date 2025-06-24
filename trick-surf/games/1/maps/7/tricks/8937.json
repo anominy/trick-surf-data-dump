@@ -1,0 +1,86 @@
+{
+    "id": 8937,
+    "map_id": 7,
+    "name": "Apotheosis",
+    "date": "2024-02-10T19:03:33.000Z",
+    "author": "ᴛꜱ٠ 0 synq_",
+    "author_id": 6763,
+    "last_updated": "2024-02-10T19:06:55.000Z",
+    "last_updated_author_id": 74,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "26",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 815,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 736,
+            "name": "Ground Teleporter",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 798,
+            "name": "Rear T2 Tower Wedge",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 855,
+            "name": "Through T2 Back Right",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 843,
+            "name": "T2 Right Hole",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 744,
+            "name": "Healbot Platform",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

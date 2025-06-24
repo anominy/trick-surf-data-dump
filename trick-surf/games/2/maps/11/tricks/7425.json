@@ -1,91 +1,73 @@
 {
     "id": 7425,
     "map_id": 11,
-    "name": "Cannonball",
-    "date": "2023-04-17T18:00:34.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-04-17T18:18:48.000Z",
-    "last_updated_author_id": 347,
+    "name": "devil trick n1",
+    "date": "2023-04-17T21:54:54.000Z",
+    "author": "Xiao",
+    "author_id": 103,
+    "last_updated": "2023-05-19T22:09:23.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
-    "max_prestrafe": null,
+    "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1815,
-            "name": "Bottom Floor",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2108,
-            "name": "Pre Loop Base",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2152,
-            "name": "U Curvy Boi Spine",
+            "trigger_id": 2350,
+            "name": "granis Gap Base",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2014,
-            "name": "Seriously",
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1920,
-            "name": "N Tramp",
+            "trigger_id": 2002,
+            "name": "Letter S Ramp Left",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2020,
-            "name": "The Curviest Boi",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2041,
-            "name": "U Tunnel Floor",
+            "trigger_id": 2044,
+            "name": "Mini Mega Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 1790,
-            "name": "Big Curvy Thing",
+            "trigger_id": 2116,
+            "name": "S Curvy Boi Left",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 2147,
-            "name": "Through Loop",
+            "trigger_id": 2025,
+            "name": "Main Floor Left",
             "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1815,
-            "name": "Bottom Floor",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1866,
-            "name": "Horse Main QP",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2118,
-            "name": "Rafter 10",
-            "order": 11,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,56 @@
+{
+    "id": 10784,
+    "map_id": 8,
+    "name": "Unit Hoard",
+    "date": "2024-08-02T11:29:00.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-08-02T11:54:24.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 984,
+            "name": "Red Circle",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 914,
+            "name": "East Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 893,
+            "name": "Booster Ramp Floor",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": 12002,
+    "map_id": 9,
+    "name": "Witch Hunt",
+    "date": "2024-12-15T00:03:30.000Z",
+    "author": "progoat",
+    "author_id": 20679,
+    "last_updated": "2024-12-15T00:42:40.000Z",
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1171,
+            "name": "C Strip Top Light Pillar",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1138,
+            "name": "C Orange Ramp 4",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1135,
+            "name": "C Orange Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1175,
+            "name": "C Strip Top Under Beam",
+            "order": 2,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 1222,
+            "name": "E Large Pillar Gap West 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1260,
+            "name": "E Upper Ground Island",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3133,
+            "name": "E Large Pillar Gap North",
+            "order": 4,
+            "passthrough": 2
+        }
+    ]
+}

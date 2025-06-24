@@ -1,0 +1,44 @@
+{
+    "id": 13231,
+    "map_id": 7,
+    "name": "Hard O-Rise",
+    "date": "2025-06-18T16:11:08.000Z",
+    "author": "owen608 passtime.tf",
+    "author_id": 32029,
+    "last_updated": "2025-06-18T16:14:28.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 761,
+            "name": "Jail Wall",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 826,
+            "name": "T-Spawn Water",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

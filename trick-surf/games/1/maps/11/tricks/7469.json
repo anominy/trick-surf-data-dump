@@ -1,84 +1,96 @@
 {
     "id": 7469,
     "map_id": 11,
-    "name": "Daydream Clobber",
-    "date": "2023-04-21T14:22:47.000Z",
+    "name": "Commute",
+    "date": "2023-04-22T12:56:18.000Z",
     "author": "william",
     "author_id": 347,
-    "last_updated": "2023-05-30T19:59:31.000Z",
+    "last_updated": "2023-05-19T18:54:25.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 8,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "16",
-    "players_completed": "14",
+    "completions": "10",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2184,
-            "name": "N Upper Catwalk Back",
+            "trigger_id": 2256,
+            "name": "THE CUBE Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2020,
-            "name": "The Curviest Boi",
+            "trigger_id": 2189,
+            "name": "Slanterino",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1784,
-            "name": "Another Curvy Boi",
+            "trigger_id": 2253,
+            "name": "THE CUBE Front",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1791,
-            "name": "Big Drop In",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2286,
-            "name": "Above Fence North Front",
+            "trigger_id": 2002,
+            "name": "Letter S Ramp Left",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2088,
-            "name": "Letter S Main Ramp",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1894,
+            "name": "Big Drop In",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1935,
-            "name": "Pre Loop Ramp",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 1794,
-            "name": "Big H Curvy Boi",
+            "trigger_id": 1900,
+            "name": "Big H Curvy Boi Out",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 1791,
-            "name": "Big Drop In",
+            "trigger_id": 2253,
+            "name": "THE CUBE Front",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 2286,
-            "name": "Above Fence North Front",
+            "trigger_id": 2189,
+            "name": "Slanterino",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 1919,
-            "name": "N Deck",
+            "trigger_id": 2256,
+            "name": "THE CUBE Top",
             "order": 10,
             "passthrough": 0
         }

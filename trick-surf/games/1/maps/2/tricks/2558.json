@@ -1,0 +1,62 @@
+{
+    "id": 2558,
+    "map_id": 2,
+    "name": "BBBBB",
+    "date": "2021-03-10T19:15:12.000Z",
+    "author": "Ghostface",
+    "author_id": 5,
+    "last_updated": "2022-08-05T02:27:00.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "71",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 136,
+            "name": "Spawn Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 124,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 113,
+            "name": "House 1 Floor 2 Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 126,
+            "name": "Map Divide",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 77,
+            "name": "Castle House Ramp",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,12 +1,12 @@
 {
     "id": 11178,
     "map_id": 13,
-    "name": "Imaginal Disk",
-    "date": "2024-08-29T20:55:49.000Z",
-    "author": "Schewpid",
-    "author_id": 25977,
-    "last_updated": null,
-    "last_updated_author_id": 2994,
+    "name": "Lucidity",
+    "date": "2024-08-30T00:51:00.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated": "2024-08-30T00:51:34.000Z",
+    "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
     "tier": 4,
@@ -17,45 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3388,
-            "name": "Prison Top Beam",
+            "trigger_id": 3548,
+            "name": "Turtle Inner Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3404,
-            "name": "Snake Ramp",
+            "trigger_id": 3320,
+            "name": "Faucet Under Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3310,
-            "name": "Fall Ramp",
+            "trigger_id": 3324,
+            "name": "Flat Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3368,
-            "name": "Over Faucet Ramp Teleport",
+            "trigger_id": 3298,
+            "name": "Crew Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3312,
-            "name": "Faucet Ramp",
+            "trigger_id": 3391,
+            "name": "Prison Corner",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3312,
-            "name": "Faucet Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3441,
-            "name": "SW Sky Platform",
-            "order": 6,
             "passthrough": 0
         }
     ]

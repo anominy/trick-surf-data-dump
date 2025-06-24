@@ -1,0 +1,86 @@
+{
+    "id": 7126,
+    "map_id": 10,
+    "name": "chief's less epic rise",
+    "date": "2023-03-03T23:12:44.000Z",
+    "author": "chief",
+    "author_id": 75,
+    "last_updated": "2024-04-08T14:04:09.000Z",
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "22",
+    "players_completed": "10",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1841,
+            "name": "Spawn LvL 2",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1810,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1783,
+            "name": "Infinite Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1785,
+            "name": "Infinite TP",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1782,
+            "name": "Infinite Platform",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1783,
+            "name": "Infinite Ramp",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1772,
+            "name": "Bottom Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1853,
+            "name": "Top TP",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1844,
+            "name": "Spawn Ramp Slant",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1852,
+            "name": "Top Platform",
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

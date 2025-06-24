@@ -1,12 +1,12 @@
 {
     "id": 5679,
     "map_id": 8,
-    "name": "I Love Julian",
-    "date": "2022-06-15T19:31:16.000Z",
-    "author": "chief",
-    "author_id": 75,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Tumor Party",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2024-04-10T21:10:22.000Z",
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
     "tier": 4,
@@ -17,46 +17,70 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 1019,
+            "name": "Stage 1 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1016,
+            "name": "Stage 1 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 663,
-            "name": "Center Wedge Platform",
+            "trigger_id": 1093,
+            "name": "West Ramp 1",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1035,
-            "name": "Right Wing Tip",
+            "trigger_id": 1098,
+            "name": "West Ramp 2",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1033,
-            "name": "Long Ramp Tip",
+            "trigger_id": 1103,
+            "name": "West Ramp 3",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 728,
-            "name": "Right Wing",
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 738,
-            "name": "Ski Sign",
+            "trigger_id": 953,
+            "name": "Lower Ramp",
             "order": 6,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 914,
+            "name": "East Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 986,
+            "name": "Slanted Cylinder",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 914,
+            "name": "East Ramp",
+            "order": 9,
+            "passthrough": 1
         }
     ]
 }

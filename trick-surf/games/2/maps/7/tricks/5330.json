@@ -1,0 +1,62 @@
+{
+    "id": 5330,
+    "map_id": 7,
+    "name": "Azure Rose",
+    "date": "2022-05-16T17:41:21.000Z",
+    "author": "Addicted",
+    "author_id": 209,
+    "last_updated": "2022-05-17T22:25:39.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 810,
+            "name": "Side Spawn Upper Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 807,
+            "name": "Side Spawn Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 844,
+            "name": "T2 Right Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 842,
+            "name": "T2 Left Wing",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 810,
+            "name": "Side Spawn Upper Platform",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

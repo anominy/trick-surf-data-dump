@@ -1,0 +1,56 @@
+{
+    "id": 2148,
+    "map_id": 2,
+    "name": "Aboriginal Magic",
+    "date": "2020-12-25T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "3848",
+    "players_completed": "82",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 101,
+            "name": "Grass",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 106,
+            "name": "Hole",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 141,
+            "name": "Stone Wall",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 151,
+            "name": "Superhouse Floor 2 Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

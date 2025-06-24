@@ -1,0 +1,56 @@
+{
+    "id": 9413,
+    "map_id": 7,
+    "name": "Neuse's Contingency",
+    "date": "2024-03-29T18:19:43.000Z",
+    "author": "ElNeuse",
+    "author_id": 10899,
+    "last_updated": "2024-03-29T21:14:37.000Z",
+    "last_updated_author_id": 480,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "36",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3176,
+            "name": "Mario Room Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 783,
+            "name": "Mario Tower Teleporter",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 696,
+            "name": "Banana Hole",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 782,
+            "name": "Mario Room Teleporter",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

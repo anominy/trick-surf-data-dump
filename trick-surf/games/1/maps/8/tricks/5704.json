@@ -1,0 +1,56 @@
+{
+    "id": 5704,
+    "map_id": 8,
+    "name": "Fake Kebab",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-07-03T09:09:32.000Z",
+    "last_updated_author_id": 75,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "79",
+    "players_completed": "29",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1113,
+            "name": "West Upper Ramp Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 992,
+            "name": "South Loop",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 961,
+            "name": "Middle Hole Grid",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

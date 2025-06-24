@@ -1,73 +1,31 @@
 {
     "id": 12184,
     "map_id": 13,
-    "name": "Kitzsteinhorn",
-    "date": "2025-02-06T17:23:52.000Z",
-    "author": "Natsu",
-    "author_id": 123,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Francesco Virgolini",
+    "date": "2025-02-07T23:22:10.000Z",
+    "author": "Neuse",
+    "author_id": 10899,
+    "last_updated": "2025-02-07T23:26:20.000Z",
+    "last_updated_author_id": 10899,
     "active": 1,
     "ranked": 1,
-    "tier": 8,
+    "tier": 7,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "1",
-    "players_completed": "1",
+    "max_prestrafe": null,
+    "completions": "62",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3500,
-            "name": "Tower Platform",
+            "trigger_id": 3370,
+            "name": "NE Sky Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3312,
-            "name": "Faucet Ramp",
+            "trigger_id": 3326,
+            "name": "Floor Behind Curve",
             "order": 1,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3274,
-            "name": "Acid Ramp",
-            "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3372,
-            "name": "Parallel Ramp",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3389,
-            "name": "Promise Ramp",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3366,
-            "name": "Over Fall Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3344,
-            "name": "M8 Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3308,
-            "name": "Error South Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3384,
-            "name": "Prison Roof",
-            "order": 8,
             "passthrough": 0
         }
     ]

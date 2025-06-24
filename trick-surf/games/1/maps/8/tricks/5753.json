@@ -1,0 +1,56 @@
+{
+    "id": 5753,
+    "map_id": 8,
+    "name": "Push it Real Good",
+    "date": "2022-07-03T18:41:19.000Z",
+    "author": "Lucy",
+    "author_id": 103,
+    "last_updated": "2025-04-26T08:47:48.000Z",
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "294",
+    "players_completed": "40",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1002,
+            "name": "Southwest Lower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1001,
+            "name": "Southwest Cannon Push",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1003,
+            "name": "Southwest Lower Slant",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 927,
+            "name": "Half-Pipe North Top",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

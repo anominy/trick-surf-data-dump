@@ -1,12 +1,12 @@
 {
     "id": 11204,
     "map_id": 13,
-    "name": "Prisoner Escape",
-    "date": "2024-08-30T08:50:35.000Z",
-    "author": "Plan B",
-    "author_id": 1159,
-    "last_updated": "2024-09-06T18:19:57.000Z",
-    "last_updated_author_id": 123,
+    "name": "Blessed",
+    "date": "2024-08-30T09:03:30.000Z",
+    "author": "nextir",
+    "author_id": 2994,
+    "last_updated": "2024-09-08T13:41:23.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
     "tier": 4,
@@ -17,33 +17,39 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3384,
-            "name": "Prison Roof",
+            "trigger_id": 3509,
+            "name": "Top Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3585,
-            "name": "West Corner Ramp",
+            "trigger_id": 3351,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3389,
-            "name": "Promise Ramp",
+            "trigger_id": 3586,
+            "name": "West Corner Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3332,
-            "name": "Lazy Ramp",
+            "trigger_id": 3403,
+            "name": "Promise Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3446,
-            "name": "T2 High Corner",
+            "trigger_id": 3373,
+            "name": "Never Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3557,
+            "name": "Turtle Small Floor",
+            "order": 5,
             "passthrough": 0
         }
     ]

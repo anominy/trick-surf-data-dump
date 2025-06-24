@@ -1,67 +1,61 @@
 {
     "id": 4895,
     "map_id": 7,
-    "name": "Shotgun Check",
-    "date": "2021-09-11T13:30:41.000Z",
-    "author": "adzicents",
-    "author_id": 48,
-    "last_updated": "2022-05-19T09:44:55.000Z",
-    "last_updated_author_id": 209,
+    "name": "Circuit Pitstop",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-14T12:55:38.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
-    "max_prestrafe": 406,
+    "max_prestrafe": null,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 635,
-            "name": "Shotgun Platform",
+            "trigger_id": 816,
+            "name": "Sriracha",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 630,
-            "name": "Shotgun Booster",
+            "trigger_id": 740,
+            "name": "Hamburger",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 632,
-            "name": "Shotgun Bot",
+            "trigger_id": 816,
+            "name": "Sriracha",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 863,
-            "name": "Behind Shotgun",
+            "trigger_id": 740,
+            "name": "Hamburger",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 631,
-            "name": "Shotgun Ramp",
+            "trigger_id": 816,
+            "name": "Sriracha",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 647,
-            "name": "Under Shotgun",
+            "trigger_id": 740,
+            "name": "Hamburger",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 863,
-            "name": "Behind Shotgun",
+            "trigger_id": 782,
+            "name": "Mario Room Teleporter",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 635,
-            "name": "Shotgun Platform",
-            "order": 7,
             "passthrough": 0
         }
     ]

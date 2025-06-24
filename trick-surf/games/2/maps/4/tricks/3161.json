@@ -1,0 +1,122 @@
+{
+    "id": 3161,
+    "map_id": 4,
+    "name": "Reaper's Drowning Pools",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-01-18T18:34:35.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "7",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 392,
+            "name": "Supertop Water",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 393,
+            "name": "Top River",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 409,
+            "name": "Waterfall",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 330,
+            "name": "Jail Ceiling Water",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 333,
+            "name": "Jail Outer Water",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 384,
+            "name": "Spawn Ceiling",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 331,
+            "name": "Jail Floor",
+            "order": 7,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 387,
+            "name": "Spawn River",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 342,
+            "name": "Lower Main Water",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 335,
+            "name": "Jail Tele Water",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 395,
+            "name": "Top Tele Water",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 342,
+            "name": "Lower Main Water",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 349,
+            "name": "Pool",
+            "order": 13,
+            "passthrough": 0
+        }
+    ]
+}

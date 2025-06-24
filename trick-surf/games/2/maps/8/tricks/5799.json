@@ -1,0 +1,62 @@
+{
+    "id": 5799,
+    "map_id": 8,
+    "name": "Really-Hard Lapicide",
+    "date": "2022-07-09T15:25:00.000Z",
+    "author": "the boris",
+    "author_id": 174,
+    "last_updated": "2022-11-03T01:21:30.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1023,
+            "name": "Stage 2 Boxes",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1028,
+            "name": "Stage 2 Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1110,
+            "name": "West Upper Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1092,
+            "name": "West Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1084,
+            "name": "V Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 884,
+            "name": "Bonus Light Ledge",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

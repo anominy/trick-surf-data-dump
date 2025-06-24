@@ -1,7 +1,7 @@
 {
     "id": 1520,
     "map_id": 2,
-    "name": "Touchdown Remix",
+    "name": "Hidden Divide",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,7 +9,7 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,45 +17,27 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 171,
-            "name": "Superhouse Floor 2 Platform",
+            "trigger_id": 137,
+            "name": "Spawn Top Hidden Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 170,
-            "name": "Superhouse Floor 2 Hole",
+            "trigger_id": 133,
+            "name": "Spawn House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 164,
-            "name": "Superhouse Floor 1 Ramp Sides",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 187,
-            "name": "Superramp Sides Top Platform",
+            "trigger_id": 133,
+            "name": "Spawn House Ramp",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 183,
-            "name": "Superramp",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 161,
-            "name": "Superhouse Floor 1 Hole",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 162,
-            "name": "Superhouse Floor 1 Platform",
-            "order": 6,
             "passthrough": 0
         }
     ]

@@ -1,15 +1,15 @@
 {
     "id": 4857,
     "map_id": 7,
-    "name": "Close Cut",
-    "date": "2021-09-09T16:46:12.000Z",
-    "author": "Fragzy4",
-    "author_id": 1,
-    "last_updated": "2021-09-09T16:46:25.000Z",
-    "last_updated_author_id": 1,
+    "name": "Ez Pz",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-14T13:06:44.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,33 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 593,
-            "name": "Awp Platform",
+            "trigger_id": 757,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 628,
-            "name": "Scout Ramp",
+            "trigger_id": 777,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 638,
-            "name": "SMG Platform",
+            "trigger_id": 719,
+            "name": "Center Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 629,
-            "name": "Scout Slant",
+            "trigger_id": 858,
+            "name": "Through T2 Tower",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 592,
-            "name": "Aug Platform",
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 731,
+            "name": "Elevator Hole Platform",
+            "order": 6,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,50 @@
+{
+    "id": 6279,
+    "map_id": 9,
+    "name": "Dragon go Up",
+    "date": "2022-12-02T13:04:33.000Z",
+    "author": "Mr.Dragon",
+    "author_id": 4821,
+    "last_updated": "2024-04-29T08:21:21.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "136",
+    "players_completed": "57",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1571,
+            "name": "SE Spawn Brown Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1533,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1535,
+            "name": "SE Brown Ramp 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1521,
+            "name": "S Yellow Ramp 9",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1516,
+            "name": "S Upper Ground",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

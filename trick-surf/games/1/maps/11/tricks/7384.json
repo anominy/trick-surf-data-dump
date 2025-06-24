@@ -1,49 +1,55 @@
 {
     "id": 7384,
     "map_id": 11,
-    "name": "Trim the Deck",
+    "name": "Flying Cat Return",
     "date": "2023-04-14T18:00:00.000Z",
-    "author": "Xiao",
-    "author_id": 103,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "author": "KingYoshi // solidsurf.info",
+    "author_id": 457,
+    "last_updated": "2024-04-22T13:04:42.000Z",
+    "last_updated_author_id": 480,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "25",
-    "players_completed": "14",
+    "completions": "53",
+    "players_completed": "17",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2069,
-            "name": "Why Are You Up Here",
+            "trigger_id": 2067,
+            "name": "N Upper Catwalk Rail",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1991,
-            "name": "SHORTCUT Trim",
+            "trigger_id": 2064,
+            "name": "N Upper Catwalk Hole",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1987,
-            "name": "SHORTCUT Floor",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1935,
-            "name": "Pre Loop Ramp",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2075,
-            "name": "Big H Curvy Boi Deck",
+            "trigger_id": 2064,
+            "name": "N Upper Catwalk Hole",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
+            "order": 5,
             "passthrough": 0
         }
     ]

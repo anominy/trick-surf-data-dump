@@ -1,7 +1,7 @@
 {
     "id": 1932,
     "map_id": 2,
-    "name": "Anti-Insanity",
+    "name": "AAA Remix",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,7 +9,7 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,93 +17,57 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
+            "trigger_id": 78,
+            "name": "Castle House Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 77,
+            "name": "Castle House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
+            "trigger_id": 162,
             "name": "Superramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 184,
-            "name": "Superramp Booster",
+            "trigger_id": 167,
+            "name": "Superramp Sides Window",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 161,
-            "name": "Superhouse Floor 1 Hole",
+            "trigger_id": 167,
+            "name": "Superramp Sides Window",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 168,
-            "name": "Superhouse Floor 1 Window Rear",
+            "trigger_id": 162,
+            "name": "Superramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 186,
-            "name": "Superramp Sides",
+            "trigger_id": 141,
+            "name": "Stone Wall",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 101,
+            "name": "Grass",
             "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 71,
-            "name": "Around Castle",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 82,
-            "name": "Castle Gap",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 145,
-            "name": "Map Divide",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 13,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 103,
-            "name": "Castle Upper Ledge Front",
-            "order": 14,
             "passthrough": 0
         }
     ]

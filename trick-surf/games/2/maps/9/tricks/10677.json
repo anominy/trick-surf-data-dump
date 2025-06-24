@@ -1,0 +1,68 @@
+{
+    "id": 10677,
+    "map_id": 9,
+    "name": "eatin a burger wit no honey mustard",
+    "date": "2024-07-23T21:28:39.000Z",
+    "author": "Schewpid",
+    "author_id": 25884,
+    "last_updated": null,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1538,
+            "name": "SE Brown Ramp 3 Spine",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1537,
+            "name": "SE Brown Ramp 3",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1586,
+            "name": "SE Structure Beams",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1587,
+            "name": "SE Structure Slant",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1586,
+            "name": "SE Structure Beams",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1587,
+            "name": "SE Structure Slant",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1563,
+            "name": "SE Orange Ramp 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1537,
+            "name": "SE Brown Ramp 3",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

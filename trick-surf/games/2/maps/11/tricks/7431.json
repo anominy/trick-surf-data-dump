@@ -1,15 +1,15 @@
 {
     "id": 7431,
     "map_id": 11,
-    "name": "devil trick n2",
-    "date": "2023-04-17T22:10:19.000Z",
-    "author": "a",
-    "author_id": 2028,
-    "last_updated": "2023-05-19T22:09:54.000Z",
-    "last_updated_author_id": 103,
+    "name": "Downtown",
+    "date": "2023-04-18T10:25:51.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-04-21T15:36:05.000Z",
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,51 +17,69 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1895,
-            "name": "Main Platform",
+            "trigger_id": 2132,
+            "name": "S Letter Deck",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1838,
-            "name": "Facade's Ramp",
+            "trigger_id": 2265,
+            "name": "The Longest Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1796,
-            "name": "Tucksy's Tunnel Ramp",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1877,
-            "name": "Letter S Ramp Left",
+            "trigger_id": 2089,
+            "name": "Pre Loop Base",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2088,
-            "name": "Letter S Main Ramp",
+            "trigger_id": 2312,
+            "name": "Under S Deck Floor",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1880,
-            "name": "Letter S Ramp Right",
+            "trigger_id": 2019,
+            "name": "Lower Rail Box Front",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2088,
-            "name": "Letter S Main Ramp",
+            "trigger_id": 2017,
+            "name": "Lower Rail",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 1816,
-            "name": "Center Trash",
+            "trigger_id": 2021,
+            "name": "Lower Rail Box Right",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1897,
+            "name": "Big H Curvy Boi",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1902,
+            "name": "Big H Curvy Boi Upper",
+            "order": 9,
             "passthrough": 0
         }
     ]

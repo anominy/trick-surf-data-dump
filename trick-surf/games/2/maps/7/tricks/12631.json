@@ -1,0 +1,56 @@
+{
+    "id": 12631,
+    "map_id": 7,
+    "name": "Signal",
+    "date": "2025-05-06T13:38:21.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-06T13:55:10.000Z",
+    "last_updated_author_id": 6763,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 866,
+            "name": "Tower Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 693,
+            "name": "Awp Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 743,
+            "name": "Healbot Ladder",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,42 +1,42 @@
 {
     "id": 4901,
     "map_id": 7,
-    "name": "Sign Language",
-    "date": "2021-09-13T06:17:26.000Z",
-    "author": "adzicents",
-    "author_id": 48,
-    "last_updated": "2022-05-19T09:46:34.000Z",
-    "last_updated_author_id": 209,
+    "name": "Pharm Hop",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "Bogroll/Pharmacist",
+    "author_id": null,
+    "last_updated": "2023-10-14T13:08:39.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "57",
-    "players_completed": "19",
+    "completions": "1397",
+    "players_completed": "107",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 638,
-            "name": "SMG Platform",
+            "trigger_id": 757,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 637,
-            "name": "SMG Booster",
+            "trigger_id": 777,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 617,
-            "name": "Main Ramp",
+            "trigger_id": 826,
+            "name": "T-Spawn Water",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 871,
-            "name": "Spawn Sign",
+            "trigger_id": 777,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         }

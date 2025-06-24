@@ -1,7 +1,7 @@
 {
     "id": 1542,
     "map_id": 2,
-    "name": "Hard Razumba",
+    "name": "Zinger's Utopia",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,7 +9,7 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,39 +17,57 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
-            "name": "Spawn Top",
+            "trigger_id": 102,
+            "name": "Grass Spawn",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
+            "trigger_id": 124,
             "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 174,
+            "name": "Water",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 160,
-            "name": "Stone Wall",
+            "trigger_id": 170,
+            "name": "Through Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 84,
-            "name": "Castle House Ramp",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 171,
+            "name": "Through Main Ramp Stairs",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 124,
+            "name": "Main Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 102,
+            "name": "Grass Spawn",
+            "order": 8,
             "passthrough": 0
         }
     ]

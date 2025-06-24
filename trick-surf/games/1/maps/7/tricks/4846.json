@@ -1,73 +1,37 @@
 {
     "id": 4846,
     "map_id": 7,
-    "name": "Buck 100",
-    "date": "2021-09-07T07:43:17.000Z",
-    "author": "adzicents",
-    "author_id": 48,
-    "last_updated": "2022-05-19T09:41:43.000Z",
-    "last_updated_author_id": 209,
+    "name": "Spawn Wrap",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-21T13:37:28.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "subtier": 3,
-    "max_prestrafe": 406,
-    "completions": "30",
-    "players_completed": "20",
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "1843",
+    "players_completed": "183",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 609,
-            "name": "Buy Platform",
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 608,
-            "name": "Buy Booster",
+            "trigger_id": 704,
+            "name": "Behind Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 617,
-            "name": "Main Ramp",
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 606,
-            "name": "Bent Ramp",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 594,
-            "name": "Awp Ramp",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 600,
-            "name": "Behind Awp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 641,
-            "name": "Straight Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 610,
-            "name": "Curved Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 633,
-            "name": "Shotgun Top",
-            "order": 8,
             "passthrough": 0
         }
     ]

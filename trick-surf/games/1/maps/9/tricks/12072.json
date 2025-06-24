@@ -1,0 +1,62 @@
+{
+    "id": 12072,
+    "map_id": 9,
+    "name": "Antiserum",
+    "date": "2025-01-07T02:13:59.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated": "2025-03-07T21:27:40.000Z",
+    "last_updated_author_id": 18496,
+    "active": 1,
+    "ranked": 1,
+    "tier": 8,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "5",
+    "players_completed": "3",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1571,
+            "name": "SE Spawn Brown Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1533,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1525,
+            "name": "SE Black Ramp 4",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1563,
+            "name": "SE Orange Ramp 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1666,
+            "name": "W Orange Ramp 5",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1206,
+            "name": "E Brown Ramp 5",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1171,
+            "name": "C Strip Top Light Pillar",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,43 +1,49 @@
 {
     "id": 4890,
     "map_id": 7,
-    "name": "Aup Wrap",
-    "date": "2021-09-11T03:34:17.000Z",
-    "author": "adzicents",
-    "author_id": 48,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Pro Banana Wrap Remix",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-21T13:50:23.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": null,
-    "completions": "725",
-    "players_completed": "77",
+    "completions": "1381",
+    "players_completed": "132",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 868,
-            "name": "Aug Ramp",
+            "trigger_id": 697,
+            "name": "Banana Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 600,
-            "name": "Behind Awp",
+            "trigger_id": 700,
+            "name": "Behind Banana Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 852,
-            "name": "Over Awp Ramp",
+            "trigger_id": 706,
+            "name": "Behind Tower",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 868,
-            "name": "Aug Ramp",
+            "trigger_id": 700,
+            "name": "Behind Banana Ramp",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 4,
             "passthrough": 0
         }
     ]

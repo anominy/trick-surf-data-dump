@@ -1,0 +1,62 @@
+{
+    "id": 4221,
+    "map_id": 5,
+    "name": "Bail Rising",
+    "date": "2022-02-07T03:54:23.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-02-07T04:47:23.000Z",
+    "last_updated_author_id": 181,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 467,
+            "name": "Jail Pool",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 468,
+            "name": "Jail Pool Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 425,
+            "name": "Behind Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 477,
+            "name": "Over Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 513,
+            "name": "South Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "name": "Blade Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 482,
+            "name": "Pillar Large",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

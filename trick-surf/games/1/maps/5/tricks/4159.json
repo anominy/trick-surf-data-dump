@@ -1,0 +1,50 @@
+{
+    "id": 4159,
+    "map_id": 5,
+    "name": "Jababa",
+    "date": "2022-01-31T12:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-11-03T01:06:14.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "51",
+    "players_completed": "23",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 545,
+            "name": "Upper Curve Ramp Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 544,
+            "name": "Upper Curve Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 423,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 469,
+            "name": "Lower Curve Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 512,
+            "name": "South Pool Upper Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": 5642,
+    "map_id": 8,
+    "name": "Pit's a sk8r",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "58",
+    "players_completed": "37",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1061,
+            "name": "Stage 6 Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1060,
+            "name": "Stage 6 Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1103,
+            "name": "West Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1098,
+            "name": "West Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1093,
+            "name": "West Ramp 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1074,
+            "name": "Under Stage 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 928,
+            "name": "Half-Pipe South",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 884,
+            "name": "Bonus Light Ledge",
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

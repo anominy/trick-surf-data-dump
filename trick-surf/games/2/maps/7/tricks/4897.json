@@ -1,43 +1,37 @@
 {
     "id": 4897,
     "map_id": 7,
-    "name": "Curved Walk",
-    "date": "2021-09-11T13:47:07.000Z",
-    "author": "adzicents",
-    "author_id": 48,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Fish Wrap",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-14T13:07:23.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
-    "max_prestrafe": 380,
+    "max_prestrafe": null,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 850,
-            "name": "Curved Spine",
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 610,
-            "name": "Curved Ramp",
+            "trigger_id": 873,
+            "name": "Under Awp Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 641,
-            "name": "Straight Ramp",
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 615,
-            "name": "Jail Teleporter",
-            "order": 3,
             "passthrough": 0
         }
     ]

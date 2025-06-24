@@ -1,55 +1,79 @@
 {
     "id": 7463,
     "map_id": 11,
-    "name": "Levan",
-    "date": "2023-04-19T22:42:30.000Z",
-    "author": "King",
-    "author_id": 10,
-    "last_updated": "2023-05-20T17:22:44.000Z",
+    "name": "Daydream",
+    "date": "2023-04-21T14:22:20.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-05-19T22:08:00.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
-    "subtier": 1,
+    "tier": 6,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "26",
-    "players_completed": "13",
+    "completions": "257",
+    "players_completed": "24",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2095,
-            "name": "Main Ramp Spine",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1935,
-            "name": "Pre Loop Ramp",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2147,
-            "name": "Through Loop",
+            "trigger_id": 1894,
+            "name": "Big Drop In",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1935,
-            "name": "Pre Loop Ramp",
+            "trigger_id": 1878,
+            "name": "Above Fence North Front",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1959,
-            "name": "S Letter Deck",
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1897,
+            "name": "Big H Curvy Boi",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1894,
+            "name": "Big Drop In",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1927,
+            "name": "Curvy Ledge Top",
+            "order": 9,
             "passthrough": 0
         }
     ]

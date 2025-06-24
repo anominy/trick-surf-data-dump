@@ -1,43 +1,61 @@
 {
     "id": 7393,
     "map_id": 11,
-    "name": "validated",
-    "date": "2023-04-14T18:00:00.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": "2023-05-20T18:40:51.000Z",
+    "name": "bunnytrack is better",
+    "date": "2023-04-15T16:24:15.000Z",
+    "author": "lockedd",
+    "author_id": 180,
+    "last_updated": "2023-05-19T18:42:37.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "16",
-    "players_completed": "12",
+    "completions": "41",
+    "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1825,
-            "name": "Curvy Ledge Top",
+            "trigger_id": 2027,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2042,
-            "name": "Unbelievably Not Invalid",
+            "trigger_id": 1957,
+            "name": "Facade's Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2054,
-            "name": "Upper Rail",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2071,
-            "name": "Yet Another Ledge",
+            "trigger_id": 1880,
+            "name": "Above Fence South Back",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1881,
+            "name": "Above Fence South Front",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2299,
+            "name": "Under Logo Long",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2034,
+            "name": "Main TP Deck",
+            "order": 6,
             "passthrough": 0
         }
     ]

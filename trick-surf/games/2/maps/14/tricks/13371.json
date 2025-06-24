@@ -1,0 +1,74 @@
+{
+    "id": 13371,
+    "map_id": 14,
+    "name": "Swift",
+    "date": "2025-06-21T15:34:28.000Z",
+    "author": "agent ct",
+    "author_id": 17957,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3784,
+            "name": "Stage 5 Spine Start",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3658,
+            "name": "Bridge Tower Bridge",
+            "order": 0,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3774,
+            "name": "Stage 5 Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3658,
+            "name": "Bridge Tower Bridge",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3873,
+            "name": "Under Bridge Booster2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3872,
+            "name": "Under Bridge Booster1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3668,
+            "name": "Central Upper Tiled Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3679,
+            "name": "Dark Sky Floor",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3641,
+            "name": "Above Stage 2 Finish Platform",
+            "order": 5,
+            "passthrough": 1
+        }
+    ]
+}

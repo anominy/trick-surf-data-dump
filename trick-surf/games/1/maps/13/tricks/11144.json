@@ -1,43 +1,55 @@
 {
     "id": 11144,
     "map_id": 13,
-    "name": "Short Walk",
-    "date": "2024-08-28T08:34:37.000Z",
+    "name": "Fur Elise",
+    "date": "2024-08-28T09:06:11.000Z",
     "author": "Autumn Melancholy",
     "author_id": 1159,
-    "last_updated": "2024-08-31T17:18:09.000Z",
+    "last_updated": "2024-08-31T17:13:59.000Z",
     "last_updated_author_id": 1159,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "149",
-    "players_completed": "39",
+    "completions": "14",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3446,
-            "name": "T2 High Corner",
+            "trigger_id": 3531,
+            "name": "Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3332,
-            "name": "Lazy Ramp",
+            "trigger_id": 3317,
+            "name": "Faucet Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3360,
-            "name": "Never Ramp",
+            "trigger_id": 3570,
+            "name": "Turtle Right Big Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3513,
-            "name": "Turtle Boost Platform",
+            "trigger_id": 3357,
+            "name": "Middle T2 Ramp",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3471,
+            "name": "T2 Wing",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3541,
+            "name": "Turtle Big Ramp Floor",
+            "order": 5,
             "passthrough": 0
         }
     ]

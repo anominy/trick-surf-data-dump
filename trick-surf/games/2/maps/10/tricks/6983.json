@@ -1,15 +1,15 @@
 {
     "id": 6983,
     "map_id": 10,
-    "name": "Smooth Steve",
-    "date": "2023-02-09T11:46:35.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
+    "name": "Advanced Slant Spawn Return",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "masog",
+    "author_id": null,
     "last_updated": null,
-    "last_updated_author_id": 347,
+    "last_updated_author_id": 7073,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,69 +17,39 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1601,
-            "name": "SE Spawn Brown Platform",
+            "trigger_id": 1852,
+            "name": "Top Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1558,
-            "name": "SE Brown Ramp 1",
+            "trigger_id": 1844,
+            "name": "Spawn Ramp Slant",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
+            "trigger_id": 1839,
+            "name": "Spawn Arch",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1812,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1583,
-            "name": "SE Large Pillar Gap North",
+            "trigger_id": 1844,
+            "name": "Spawn Ramp Slant",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1597,
-            "name": "SE Red Ramp 2",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1733,
-            "name": "SE Large Pillar Gap NW",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1734,
-            "name": "SE Large Pillar Gap West",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1551,
-            "name": "SE Black Ramp 4",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1284,
-            "name": "E Red Ramp 3",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1262,
-            "name": "E Between Long Beams",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1296,
-            "name": "E Small Structure Top",
-            "order": 10,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,56 @@
+{
+    "id": 9416,
+    "map_id": 7,
+    "name": "Innermost",
+    "date": "2024-03-29T21:18:57.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2025-05-14T17:03:38.000Z",
+    "last_updated_author_id": 13870,
+    "active": 1,
+    "ranked": 1,
+    "tier": 8,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "11",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 815,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 705,
+            "name": "Behind Spawn",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 871,
+            "name": "Triomino 3",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

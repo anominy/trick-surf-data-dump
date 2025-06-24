@@ -1,12 +1,12 @@
 {
     "id": 7424,
     "map_id": 11,
-    "name": "Subway",
-    "date": "2023-04-17T15:22:15.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-05-20T18:17:55.000Z",
-    "last_updated_author_id": 103,
+    "name": "Weddly Pipes",
+    "date": "2023-04-17T19:14:32.000Z",
+    "author": "ddly",
+    "author_id": 4312,
+    "last_updated": "2023-04-17T19:20:43.000Z",
+    "last_updated_author_id": 2028,
     "active": 1,
     "ranked": 1,
     "tier": 5,
@@ -17,52 +17,70 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1854,
-            "name": "granis Gap Base",
+            "trigger_id": 1921,
+            "name": "Center Trash",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1880,
-            "name": "Letter S Ramp Right",
+            "trigger_id": 1976,
+            "name": "Half Pipe Left Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2088,
-            "name": "Letter S Main Ramp",
+            "trigger_id": 1978,
+            "name": "Half Pipe Right Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1877,
-            "name": "Letter S Ramp Left",
+            "trigger_id": 1994,
+            "name": "Just A Floor",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1935,
-            "name": "Pre Loop Ramp",
+            "trigger_id": 1976,
+            "name": "Half Pipe Left Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1796,
-            "name": "Tucksy's Tunnel Ramp",
+            "trigger_id": 2086,
+            "name": "Poorly Rotated Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1898,
-            "name": "Main Ramp",
+            "trigger_id": 2299,
+            "name": "Under Logo Long",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2149,
-            "name": "Tower Main TP",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 7,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1912,
+            "name": "Big Loop Start",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1922,
+            "name": "Crash Pad",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1912,
+            "name": "Big Loop Start",
+            "order": 9,
+            "passthrough": 1
         }
     ]
 }

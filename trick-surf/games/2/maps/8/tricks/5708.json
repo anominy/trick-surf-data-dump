@@ -1,12 +1,12 @@
 {
     "id": 5708,
     "map_id": 8,
-    "name": "Potato Wedge",
-    "date": "2022-06-19T22:24:06.000Z",
-    "author": "chief",
-    "author_id": 75,
-    "last_updated": "2022-06-20T00:40:10.000Z",
-    "last_updated_author_id": 75,
+    "name": "Sanguine Depths",
+    "date": "2022-06-29T14:52:22.000Z",
+    "author": "dome",
+    "author_id": 174,
+    "last_updated": "2022-07-01T14:13:15.000Z",
+    "last_updated_author_id": 174,
     "active": 1,
     "ranked": 1,
     "tier": 5,
@@ -17,33 +17,81 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 696,
-            "name": "Jail Wall",
+            "trigger_id": 894,
+            "name": "Cannon Pillar Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 688,
-            "name": "Jail Booster",
+            "trigger_id": 895,
+            "name": "Cannon Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 744,
-            "name": "Sriracha Tip",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 678,
-            "name": "Fish Hook Wedge",
+            "trigger_id": 1093,
+            "name": "West Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 768,
-            "name": "T2 Tower Platform",
+            "trigger_id": 1098,
+            "name": "West Ramp 2",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1103,
+            "name": "West Ramp 3",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 914,
+            "name": "East Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 920,
+            "name": "Funbox Top",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 895,
+            "name": "Cannon Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 894,
+            "name": "Cannon Pillar Platform",
+            "order": 12,
             "passthrough": 0
         }
     ]

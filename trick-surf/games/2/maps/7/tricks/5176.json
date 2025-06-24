@@ -1,0 +1,62 @@
+{
+    "id": 5176,
+    "map_id": 7,
+    "name": "Hard Left Right",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-15T00:54:09.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 693,
+            "name": "Awp Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 836,
+            "name": "T2 Big Water",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

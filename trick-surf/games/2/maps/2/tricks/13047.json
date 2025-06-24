@@ -1,0 +1,38 @@
+{
+    "id": 13047,
+    "map_id": 2,
+    "name": "joporval",
+    "date": "2025-05-28T01:41:57.000Z",
+    "author": "Neuse",
+    "author_id": 10899,
+    "last_updated": "2025-05-28T02:25:20.000Z",
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 0,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 136,
+            "name": "Spawn Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 124,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 76,
+            "name": "Castle House Platform",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

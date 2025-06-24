@@ -1,49 +1,91 @@
 {
     "id": 7018,
     "map_id": 10,
-    "name": "Hard Drugs",
-    "date": "2023-02-11T05:47:13.000Z",
-    "author": "King",
-    "author_id": 10,
-    "last_updated": "2025-02-01T11:56:41.000Z",
-    "last_updated_author_id": 18724,
+    "name": "Piercing Armor",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "Liquidator",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "188",
-    "players_completed": "62",
+    "completions": "11",
+    "players_completed": "10",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1525,
-            "name": "S Ground North",
+            "trigger_id": 1852,
+            "name": "Top Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1543,
-            "name": "S Yellow Ramp 8",
+            "trigger_id": 1851,
+            "name": "Top Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1533,
-            "name": "S Fort Light Box",
+            "trigger_id": 1833,
+            "name": "River Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1551,
-            "name": "SE Black Ramp 4",
+            "trigger_id": 1767,
+            "name": "Behind Tower",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
+            "trigger_id": 1827,
+            "name": "Over River Platform",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1846,
+            "name": "Spawn TP",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1841,
+            "name": "Spawn LvL 2",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1812,
+            "name": "Map Divide",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1812,
+            "name": "Map Divide",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1763,
+            "name": "Armor Platform",
+            "order": 11,
             "passthrough": 0
         }
     ]

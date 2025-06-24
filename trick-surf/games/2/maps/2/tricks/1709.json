@@ -1,61 +1,55 @@
 {
     "id": 1709,
     "map_id": 2,
-    "name": "Hard FlexXx's Walk up",
+    "name": "Pro Reversed Main Wrap",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2021-03-07T21:51:59.000Z",
-    "last_updated_author_id": 23,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
-    "max_prestrafe": 406,
+    "max_prestrafe": null,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
-            "name": "Spawn Top",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 171,
+            "name": "Through Main Ramp Stairs",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 139,
-            "name": "House 2 Floor 2 Platform",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 103,
-            "name": "Castle Upper Ledge Front",
+            "trigger_id": 105,
+            "name": "Grass Upper",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 100,
-            "name": "Castle Stairs Inside",
+            "trigger_id": 170,
+            "name": "Through Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 140,
-            "name": "House 2 Floor 2 Ramp",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 83,
-            "name": "Castle House Platform",
-            "order": 6,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,62 @@
+{
+    "id": 13070,
+    "map_id": 7,
+    "name": "Tunnelsnake To Healbot",
+    "date": "2025-05-28T19:35:59.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "7",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3210,
+            "name": "Mini Booster Block Roof",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3206,
+            "name": "Low Fish Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3227,
+            "name": "T2 Big Left Hole",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3229,
+            "name": "T2 Big Right Hole",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 744,
+            "name": "Healbot Platform",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

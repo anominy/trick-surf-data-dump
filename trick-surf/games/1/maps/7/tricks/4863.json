@@ -1,49 +1,37 @@
 {
     "id": 4863,
     "map_id": 7,
-    "name": "Sign Strafe Rodeo",
-    "date": "2021-09-09T17:26:43.000Z",
-    "author": "Fragzy4",
-    "author_id": 1,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Savitar wrap",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-21T13:54:21.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
     "tier": 2,
     "subtier": 1,
-    "max_prestrafe": 395,
-    "completions": "36",
-    "players_completed": "23",
+    "max_prestrafe": null,
+    "completions": "3487",
+    "players_completed": "173",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 871,
-            "name": "Spawn Sign",
+            "trigger_id": 869,
+            "name": "Triomino 2",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 620,
-            "name": "Over Jail Bridge",
+            "trigger_id": 706,
+            "name": "Behind Tower",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 613,
-            "name": "Jail Pillar",
+            "trigger_id": 869,
+            "name": "Triomino 2",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 614,
-            "name": "Jail Ramp",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 613,
-            "name": "Jail Pillar",
-            "order": 4,
             "passthrough": 0
         }
     ]

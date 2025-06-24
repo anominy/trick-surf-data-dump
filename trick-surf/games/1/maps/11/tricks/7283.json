@@ -1,0 +1,56 @@
+{
+    "id": 7283,
+    "map_id": 11,
+    "name": "Executive Suite",
+    "date": "2023-04-14T18:00:00.000Z",
+    "author": "IrynStyl",
+    "author_id": 2076,
+    "last_updated": "2023-05-19T22:25:48.000Z",
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "58",
+    "players_completed": "27",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2150,
+            "name": "S Upper Catwalk",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2139,
+            "name": "S Side Curvy Boi",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2142,
+            "name": "S Side Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1929,
+            "name": "E L Side",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1928,
+            "name": "E L Front",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2264,
+            "name": "The Executive",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

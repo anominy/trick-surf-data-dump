@@ -1,37 +1,31 @@
 {
     "id": 4840,
     "map_id": 7,
-    "name": "Button Yump",
-    "date": "2021-09-07T07:37:37.000Z",
-    "author": "adzicents",
-    "author_id": 48,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Ladder Leap from Jail",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-21T13:44:17.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 1,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "191",
-    "players_completed": "37",
+    "max_prestrafe": 406,
+    "completions": "2391",
+    "players_completed": "253",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 611,
-            "name": "Jail",
+            "trigger_id": 757,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 614,
-            "name": "Jail Ramp",
+            "trigger_id": 808,
+            "name": "Side Spawn Ladder",
             "order": 1,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 845,
-            "name": "Rifle Button",
-            "order": 2,
             "passthrough": 0
         }
     ]

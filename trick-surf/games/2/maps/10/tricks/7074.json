@@ -1,15 +1,15 @@
 {
     "id": 7074,
     "map_id": 10,
-    "name": "My Last Speed Check!",
-    "date": "2023-02-18T15:26:25.000Z",
-    "author": "Kingator",
-    "author_id": 10,
-    "last_updated": "2024-02-17T20:48:52.000Z",
-    "last_updated_author_id": 10,
+    "name": "Observe The Curve",
+    "date": "2023-02-27T21:40:06.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": null,
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,21 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1273,
-            "name": "E High Platform",
+            "trigger_id": 1814,
+            "name": "Masog Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1284,
-            "name": "E Red Ramp 3",
+            "trigger_id": 1813,
+            "name": "Masog Hole",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1405,
-            "name": "NE Ground",
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1776,
+            "name": "HealBot Platform",
+            "order": 4,
             "passthrough": 0
         }
     ]

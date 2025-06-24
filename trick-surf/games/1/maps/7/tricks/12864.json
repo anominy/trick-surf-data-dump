@@ -1,0 +1,44 @@
+{
+    "id": 12864,
+    "map_id": 7,
+    "name": "Alteration To Sign",
+    "date": "2025-05-19T20:25:50.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-20T18:01:31.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "52",
+    "players_completed": "18",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 707,
+            "name": "Bonus Cube",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 819,
+            "name": "Starlight South",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 811,
+            "name": "Ski Sign",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

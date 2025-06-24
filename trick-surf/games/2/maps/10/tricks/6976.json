@@ -1,15 +1,15 @@
 {
     "id": 6976,
     "map_id": 10,
-    "name": "Hard King's Wrap Return Remix v3",
-    "date": "2023-02-08T11:19:24.000Z",
-    "author": "wilevitör",
-    "author_id": 10,
-    "last_updated": "2024-03-21T22:28:39.000Z",
-    "last_updated_author_id": 347,
+    "name": "draH gniroB",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "KingYoshi",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,63 +17,21 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1601,
-            "name": "SE Spawn Brown Platform",
+            "trigger_id": 1771,
+            "name": "Bottom Jail TP Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1558,
-            "name": "SE Brown Ramp 1",
+            "trigger_id": 1772,
+            "name": "Bottom Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
+            "trigger_id": 1781,
+            "name": "Infinite Lantern",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1734,
-            "name": "SE Large Pillar Gap West",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1734,
-            "name": "SE Large Pillar Gap West",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1733,
-            "name": "SE Large Pillar Gap NW",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1558,
-            "name": "SE Brown Ramp 1",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1602,
-            "name": "SE Spawn Floor",
-            "order": 9,
             "passthrough": 0
         }
     ]

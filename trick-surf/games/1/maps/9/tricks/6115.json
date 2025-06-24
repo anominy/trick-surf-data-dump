@@ -1,0 +1,56 @@
+{
+    "id": 6115,
+    "map_id": 9,
+    "name": "Main Turns",
+    "date": "2022-10-31T20:31:43.000Z",
+    "author": "Gengis Khan",
+    "author_id": 4072,
+    "last_updated": "2022-12-14T20:45:04.000Z",
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "254",
+    "players_completed": "83",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1571,
+            "name": "SE Spawn Brown Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1533,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1535,
+            "name": "SE Brown Ramp 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1627,
+            "name": "SW Purple Ramp 6",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1617,
+            "name": "SW Orange Ramp 6",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1665,
+            "name": "W Orange Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

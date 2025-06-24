@@ -1,0 +1,50 @@
+{
+    "id": 10888,
+    "map_id": 7,
+    "name": "Salty King",
+    "date": "2024-08-12T19:15:30.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-08-12T19:32:22.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "40",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 693,
+            "name": "Awp Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 881,
+            "name": "Weapons Teleporter",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

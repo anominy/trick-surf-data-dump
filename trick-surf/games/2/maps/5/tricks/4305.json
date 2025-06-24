@@ -1,0 +1,86 @@
+{
+    "id": 4305,
+    "map_id": 5,
+    "name": "Liquid's Doubledip",
+    "date": "2022-02-26T12:09:52.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-11-03T01:01:38.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 514,
+            "name": "Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 520,
+            "name": "Through Awp Hole",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 423,
+            "name": "Awp Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 513,
+            "name": "South Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 423,
+            "name": "Awp Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 513,
+            "name": "South Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

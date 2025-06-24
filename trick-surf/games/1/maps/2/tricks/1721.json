@@ -1,7 +1,7 @@
 {
     "id": 1721,
     "map_id": 2,
-    "name": "Double AAA",
+    "name": "Beaver Canon",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,59 +9,47 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "79",
-    "players_completed": "29",
+    "completions": "166",
+    "players_completed": "33",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 85,
-            "name": "Castle House Roof Platform",
+            "trigger_id": 136,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 84,
-            "name": "Castle House Ramp",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 174,
+            "name": "Water",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 119,
-            "name": "Grass",
+            "trigger_id": 117,
+            "name": "House 2 Floor 1 Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 82,
-            "name": "Castle Gap",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 132,
+            "name": "Spawn House Inside",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 160,
-            "name": "Stone Wall",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 119,
-            "name": "Grass",
-            "order": 7,
             "passthrough": 0
         }
     ]

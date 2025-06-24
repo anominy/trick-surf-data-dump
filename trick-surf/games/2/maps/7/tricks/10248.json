@@ -1,0 +1,62 @@
+{
+    "id": 10248,
+    "map_id": 7,
+    "name": "Tsunami",
+    "date": "2024-06-15T00:42:19.000Z",
+    "author": "KingYoshi // solidsurf.info",
+    "author_id": 457,
+    "last_updated": "2024-06-21T08:59:32.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3200,
+            "name": "Fish Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3206,
+            "name": "Low Fish Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3248,
+            "name": "Through Middle Awp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Behind Tower",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 766,
+            "name": "Left Wing",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

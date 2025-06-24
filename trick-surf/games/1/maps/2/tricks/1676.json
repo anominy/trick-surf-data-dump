@@ -1,7 +1,7 @@
 {
     "id": 1676,
     "map_id": 2,
-    "name": "Leesriize Gap Remix",
+    "name": "Junz0r",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,47 +9,65 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "28",
-    "players_completed": "21",
+    "completions": "186",
+    "players_completed": "43",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
+            "trigger_id": 136,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 160,
-            "name": "Stone Wall",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 147,
-            "name": "Side Booster",
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 107,
+            "name": "Hole Shotgun",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 121,
-            "name": "Grass Spawn Ramp",
+            "trigger_id": 106,
+            "name": "Hole",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 156,
-            "name": "Spawn Top Hidden Platform",
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 141,
+            "name": "Stone Wall",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 76,
+            "name": "Castle House Platform",
+            "order": 8,
             "passthrough": 0
         }
     ]

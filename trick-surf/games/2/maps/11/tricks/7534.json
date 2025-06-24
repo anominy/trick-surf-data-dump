@@ -1,15 +1,15 @@
 {
     "id": 7534,
     "map_id": 11,
-    "name": "Unbelievable",
-    "date": "2023-05-07T20:01:23.000Z",
-    "author": "IrynStyl",
-    "author_id": 2076,
-    "last_updated": "2023-05-20T18:34:10.000Z",
+    "name": "cute trick",
+    "date": "2023-05-09T07:13:48.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2023-05-19T22:07:36.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,27 +17,39 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1825,
-            "name": "Curvy Ledge Top",
+            "trigger_id": 1902,
+            "name": "Big H Curvy Boi Upper",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1823,
-            "name": "Curvy Ledge",
+            "trigger_id": 1897,
+            "name": "Big H Curvy Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2042,
-            "name": "Unbelievably Not Invalid",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2056,
-            "name": "Upper Rail Deck",
+            "trigger_id": 2265,
+            "name": "The Longest Ramp",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2011,
+            "name": "Loop Trash",
+            "order": 5,
             "passthrough": 0
         }
     ]

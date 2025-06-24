@@ -1,0 +1,80 @@
+{
+    "id": 8021,
+    "map_id": 7,
+    "name": "winter's Brainwash",
+    "date": "2023-10-14T23:08:03.000Z",
+    "author": "ᴛꜱ ٠ winter",
+    "author_id": 406,
+    "last_updated": "2023-10-15T16:05:38.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "9",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 815,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 813,
+            "name": "Spawn Roof Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 842,
+            "name": "T2 Left Wing",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 844,
+            "name": "T2 Right Wing",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "name": "Middle Wing",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 766,
+            "name": "Left Wing",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

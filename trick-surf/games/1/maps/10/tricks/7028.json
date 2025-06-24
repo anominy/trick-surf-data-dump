@@ -1,73 +1,97 @@
 {
     "id": 7028,
     "map_id": 10,
-    "name": "Twister",
-    "date": "2023-02-11T20:38:58.000Z",
-    "author": "Façade",
-    "author_id": 2,
-    "last_updated": "2023-02-13T14:06:44.000Z",
-    "last_updated_author_id": 74,
+    "name": "The Masog Doctrine",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": "2023-02-25T17:46:32.000Z",
+    "last_updated_author_id": 7073,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
+    "tier": 5,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "28",
-    "players_completed": "15",
+    "completions": "8",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1586,
-            "name": "SE Large Structure Red Top",
+            "trigger_id": 1761,
+            "name": "AWP Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1595,
-            "name": "SE Red Ramp 1",
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1597,
-            "name": "SE Red Ramp 2",
+            "trigger_id": 1765,
+            "name": "Behind Masog Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1551,
-            "name": "SE Black Ramp 4",
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1588,
-            "name": "SE Orange Ramp 1",
+            "trigger_id": 1813,
+            "name": "Masog Hole",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1207,
-            "name": "C Orange Ramp 2",
+            "trigger_id": 1768,
+            "name": "Between Masog Arches",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1209,
-            "name": "C Orange Ramp 3",
+            "trigger_id": 1765,
+            "name": "Behind Masog Platform",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2208,
-            "name": "C Strip Top Over Beam",
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 1485,
-            "name": "NW Jungle Roee Corner",
+            "trigger_id": 1808,
+            "name": "Lower Masog Platform",
             "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1813,
+            "name": "Masog Hole",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1768,
+            "name": "Between Masog Arches",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1814,
+            "name": "Masog Platform",
+            "order": 12,
             "passthrough": 0
         }
     ]

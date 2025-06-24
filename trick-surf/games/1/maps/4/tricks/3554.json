@@ -1,0 +1,104 @@
+{
+    "id": 3554,
+    "map_id": 4,
+    "name": "Lewed 790 Under Shotguns",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2023-02-05T03:35:45.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "28",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 330,
+            "name": "Jail Ceiling Water",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 333,
+            "name": "Jail Outer Water",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 404,
+            "name": "Under Stairs",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 331,
+            "name": "Jail Floor",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 311,
+            "name": "Behind River",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 387,
+            "name": "Spawn River",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 343,
+            "name": "Lower Shotgun",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 364,
+            "name": "Shotgun Divide",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 355,
+            "name": "Ramp 1",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 382,
+            "name": "Skyplate",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": 3106,
+    "map_id": 4,
+    "name": "Lewed 69 without shotgun",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-01-28T22:38:37.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "95",
+    "players_completed": "43",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 387,
+            "name": "Spawn River",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 346,
+            "name": "Map Divide",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 355,
+            "name": "Ramp 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 417,
+            "name": "Ramp 1 Boost",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 378,
+            "name": "Sky South",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 417,
+            "name": "Ramp 1 Boost",
+            "order": 5,
+            "passthrough": 1
+        }
+    ]
+}

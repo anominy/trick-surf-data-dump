@@ -1,0 +1,62 @@
+{
+    "id": 4693,
+    "map_id": 6,
+    "name": "Penguin Bounce",
+    "date": "2022-03-17T11:26:29.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-03-17T15:42:17.000Z",
+    "last_updated_author_id": 91,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 610,
+            "name": "Loop Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 562,
+            "name": "Behind Short Deagle",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 636,
+            "name": "Short Deagle Ramp 1",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 637,
+            "name": "Short Deagle Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 574,
+            "name": "Bottom Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 572,
+            "name": "Bottom Kicker Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 588,
+            "name": "Inside Bottom Tele Arc",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

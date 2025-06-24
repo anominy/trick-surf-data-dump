@@ -1,10 +1,10 @@
 {
     "id": 5667,
     "map_id": 8,
-    "name": "Hard Nocturne",
-    "date": "2022-06-13T18:14:37.000Z",
-    "author": "Addicted",
-    "author_id": 209,
+    "name": "Flashpoint aint human",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
@@ -12,55 +12,55 @@
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "72",
-    "players_completed": "28",
+    "completions": "32",
+    "players_completed": "30",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 783,
-            "name": "Tower Top",
+            "trigger_id": 1061,
+            "name": "Stage 6 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 652,
-            "name": "Banana Ramp",
+            "trigger_id": 1060,
+            "name": "Stage 6 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 653,
-            "name": "Behind Banana Ramp",
+            "trigger_id": 992,
+            "name": "South Loop",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 656,
-            "name": "Behind Tower",
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 656,
-            "name": "Behind Tower",
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 963,
+            "name": "North Loop",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 684,
-            "name": "Healbot Ladder",
+            "trigger_id": 1048,
+            "name": "Stage 4 Upper Platform",
             "order": 7,
             "passthrough": 0
         }

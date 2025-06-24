@@ -1,0 +1,50 @@
+{
+    "id": 12435,
+    "map_id": 9,
+    "name": "Hard Snowman Rise",
+    "date": "2025-04-11T04:06:35.000Z",
+    "author": "winter",
+    "author_id": 406,
+    "last_updated": "2025-04-11T04:12:39.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1569,
+            "name": "SE Rooftops",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1570,
+            "name": "SE Rooftops Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1521,
+            "name": "S Yellow Ramp 9",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1525,
+            "name": "SE Black Ramp 4",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1262,
+            "name": "E White Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

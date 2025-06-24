@@ -1,73 +1,85 @@
 {
     "id": 1619,
     "map_id": 2,
-    "name": "Neka's Walk",
+    "name": "Macgregor's Hippidy Hop Remix",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2022-05-18T09:53:28.000Z",
-    "last_updated_author_id": 209,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "59",
-    "players_completed": "28",
+    "completions": "92",
+    "players_completed": "41",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 88,
-            "name": "Castle Platform",
+            "trigger_id": 136,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 93,
-            "name": "Castle Push",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 140,
-            "name": "House 2 Floor 2 Ramp",
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 137,
-            "name": "House 2 Floor 1 Ramp",
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
+            "trigger_id": 126,
             "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 140,
-            "name": "House 2 Floor 2 Ramp",
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 137,
-            "name": "House 2 Floor 1 Ramp",
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 146,
-            "name": "Over Castle Platform",
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 179,
-            "name": "Superhouse Floor 3 Ramp Front",
+            "trigger_id": 162,
+            "name": "Superramp",
             "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 141,
+            "name": "Stone Wall",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 101,
+            "name": "Grass",
+            "order": 10,
             "passthrough": 0
         }
     ]

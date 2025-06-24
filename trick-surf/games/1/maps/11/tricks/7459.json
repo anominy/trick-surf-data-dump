@@ -1,67 +1,85 @@
 {
     "id": 7459,
     "map_id": 11,
-    "name": "Green Shell",
-    "date": "2023-04-19T20:37:49.000Z",
-    "author": "Xiao",
-    "author_id": 103,
-    "last_updated": "2023-05-19T22:40:41.000Z",
+    "name": "Jack Of All Trades",
+    "date": "2023-04-19T23:32:12.000Z",
+    "author": "THE AMPHIBIAN SLAYER",
+    "author_id": 406,
+    "last_updated": "2023-05-20T17:18:06.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
-    "subtier": 1,
+    "tier": 8,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "68",
-    "players_completed": "20",
+    "completions": "7",
+    "players_completed": "6",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1906,
-            "name": "Mini Corner Quarter Deck",
+            "trigger_id": 2160,
+            "name": "SHORTCUT Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1835,
-            "name": "F Loop Shell",
+            "trigger_id": 2158,
+            "name": "SHORTCUT Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1830,
-            "name": "F Loop Big Ramp",
+            "trigger_id": 2157,
+            "name": "SHORTCUT Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1833,
-            "name": "F Loop L Ramp",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1997,
-            "name": "Skinny QP",
+            "trigger_id": 1910,
+            "name": "Big Loop Side Ramp Right",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2050,
-            "name": "Under Logo Right Side",
+            "trigger_id": 2190,
+            "name": "Smol Curvy Boi",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1784,
-            "name": "Another Curvy Boi",
+            "trigger_id": 2195,
+            "name": "Smol H Curvy Boi",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 1797,
-            "name": "Big H Curvy Boi Upper",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2303,
+            "name": "Under Logo Right Side",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1958,
+            "name": "Facade's Ramp Top",
+            "order": 10,
             "passthrough": 0
         }
     ]

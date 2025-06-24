@@ -1,0 +1,62 @@
+{
+    "id": 12021,
+    "map_id": 9,
+    "name": "T5 Flick",
+    "date": "2024-12-20T17:29:45.000Z",
+    "author": "hunter^ #1 fan",
+    "author_id": 10,
+    "last_updated": "2024-12-20T17:32:34.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 262,
+    "completions": "97",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1569,
+            "name": "SE Rooftops",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1570,
+            "name": "SE Rooftops Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1508,
+            "name": "S Ground North",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1666,
+            "name": "W Orange Ramp 5",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1222,
+            "name": "E Large Pillar Gap West 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1260,
+            "name": "E Upper Ground Island",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3133,
+            "name": "E Large Pillar Gap North",
+            "order": 5,
+            "passthrough": 2
+        }
+    ]
+}

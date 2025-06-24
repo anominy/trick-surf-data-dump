@@ -1,55 +1,67 @@
 {
     "id": 7419,
     "map_id": 11,
-    "name": "Apauling",
-    "date": "2023-04-16T21:02:29.000Z",
-    "author": "♚ ● Paul",
-    "author_id": 8969,
-    "last_updated": "2024-04-22T13:11:30.000Z",
-    "last_updated_author_id": 480,
+    "name": "Subway",
+    "date": "2023-04-17T15:22:15.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-05-20T18:17:55.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "95",
-    "players_completed": "35",
+    "completions": "60",
+    "players_completed": "19",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2021,
-            "name": "The Curviest Boi End Cap",
+            "trigger_id": 2350,
+            "name": "granis Gap Base",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2020,
-            "name": "The Curviest Boi",
+            "trigger_id": 2005,
+            "name": "Letter S Ramp Right",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2020,
-            "name": "The Curviest Boi",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 2054,
-            "name": "Upper Rail",
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
+            "trigger_id": 2002,
+            "name": "Letter S Ramp Left",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1896,
-            "name": "Main Ramp Back",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2028,
+            "name": "Main Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2273,
+            "name": "Tower Main TP",
+            "order": 7,
             "passthrough": 0
         }
     ]

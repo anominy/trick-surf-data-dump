@@ -1,0 +1,50 @@
+{
+    "id": 4659,
+    "map_id": 6,
+    "name": "The Kristet Utseende",
+    "date": "2022-03-09T10:07:48.000Z",
+    "author": "LarzZz",
+    "author_id": 181,
+    "last_updated": "2023-11-06T20:19:38.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 595,
+            "name": "Jail Floor After Doorway",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 593,
+            "name": "Jail Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 574,
+            "name": "Bottom Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 607,
+            "name": "Left Ramp 3 Slant",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 590,
+            "name": "Inside Checkered Ramp Water",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

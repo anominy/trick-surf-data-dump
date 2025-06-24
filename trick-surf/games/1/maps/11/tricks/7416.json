@@ -1,67 +1,55 @@
 {
     "id": 7416,
     "map_id": 11,
-    "name": "Sk8er Boi",
-    "date": "2023-04-16T17:39:49.000Z",
-    "author": "King",
-    "author_id": 10,
-    "last_updated": "2023-05-20T18:05:47.000Z",
+    "name": "Dumpster Diver",
+    "date": "2023-04-17T02:52:09.000Z",
+    "author": "Paul",
+    "author_id": 8969,
+    "last_updated": "2023-05-19T22:19:33.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "20",
-    "players_completed": "15",
+    "completions": "111",
+    "players_completed": "31",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1895,
-            "name": "Main Platform",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1898,
-            "name": "Main Ramp",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1857,
-            "name": "Half Pipe Left Ramp",
+            "trigger_id": 2190,
+            "name": "Smol Curvy Boi",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1859,
-            "name": "Half Pipe Right Ramp",
+            "trigger_id": 2111,
+            "name": "Resi Side Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1826,
-            "name": "E L Front",
+            "trigger_id": 1894,
+            "name": "Big Drop In",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2052,
-            "name": "Under Main Ramp",
+            "trigger_id": 2276,
+            "name": "Trash Can Up",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2064,
-            "name": "W L Front",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2015,
-            "name": "THE CUBE Hump",
-            "order": 7,
             "passthrough": 0
         }
     ]

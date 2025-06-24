@@ -1,0 +1,50 @@
+{
+    "id": 5871,
+    "map_id": 5,
+    "name": "Standard",
+    "date": "2022-08-13T12:30:58.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2022-11-03T01:00:57.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "13",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 514,
+            "name": "Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "name": "Blade Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 424,
+            "name": "Back Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 484,
+            "name": "Pillar Medium",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

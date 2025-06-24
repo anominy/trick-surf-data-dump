@@ -1,0 +1,50 @@
+{
+    "id": 7886,
+    "map_id": 11,
+    "name": "Shower Thought",
+    "date": "2023-07-30T01:19:01.000Z",
+    "author": "ᴛꜱ٠ Xiao",
+    "author_id": 103,
+    "last_updated": "2023-07-30T01:25:07.000Z",
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "20",
+    "players_completed": "11",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2108,
+            "name": "Random Cube",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1978,
+            "name": "Half Pipe Right Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1976,
+            "name": "Half Pipe Left Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2088,
+            "name": "Poorly Rotated Ramp Spine",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2275,
+            "name": "Transition Deck",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

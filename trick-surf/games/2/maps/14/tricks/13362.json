@@ -1,0 +1,68 @@
+{
+    "id": 13362,
+    "map_id": 14,
+    "name": "Sakura",
+    "date": "2025-06-21T14:04:59.000Z",
+    "author": "CrazyTroll & Hero",
+    "author_id": null,
+    "last_updated": "2025-06-21T14:09:47.000Z",
+    "last_updated_author_id": 2687,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3677,
+            "name": "Credit Room Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3676,
+            "name": "Credit Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3793,
+            "name": "Stage 6 Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3682,
+            "name": "East Out of Bounds",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3771,
+            "name": "Stage 4 Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3843,
+            "name": "Sun Tiled Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3812,
+            "name": "Stage 7 Ramp 6",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3785,
+            "name": "Stage 5 Tele",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

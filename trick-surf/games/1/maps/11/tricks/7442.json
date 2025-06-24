@@ -1,49 +1,55 @@
 {
     "id": 7442,
     "map_id": 11,
-    "name": "Instinct",
-    "date": "2023-04-18T20:21:26.000Z",
+    "name": "Expert",
+    "date": "2023-04-18T22:17:46.000Z",
     "author": "King",
     "author_id": 10,
-    "last_updated": "2023-05-20T17:14:42.000Z",
+    "last_updated": "2023-05-19T22:25:57.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
     "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "18",
-    "players_completed": "10",
+    "completions": "17",
+    "players_completed": "9",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1811,
-            "name": "Big Wood Floor",
+            "trigger_id": 2025,
+            "name": "Main Floor Left",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1803,
-            "name": "Big Loop Side Ramp Left",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1870,
-            "name": "Inbetweener",
+            "trigger_id": 2277,
+            "name": "Tucksy's Back Door",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1805,
-            "name": "Big Loop Side Ramp Right",
+            "trigger_id": 2305,
+            "name": "Under Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1942,
-            "name": "Pre Loop Slide Right",
+            "trigger_id": 1957,
+            "name": "Facade's Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2328,
+            "name": "W L Front Spine",
+            "order": 5,
             "passthrough": 0
         }
     ]

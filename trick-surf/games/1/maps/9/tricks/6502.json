@@ -1,0 +1,56 @@
+{
+    "id": 6502,
+    "map_id": 9,
+    "name": "Parkin' It Up",
+    "date": "2023-01-10T18:41:50.000Z",
+    "author": "RK",
+    "author_id": 4963,
+    "last_updated": "2023-01-10T18:45:37.000Z",
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "37",
+    "players_completed": "13",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1169,
+            "name": "C Strip Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1183,
+            "name": "C Strip West Slant",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1409,
+            "name": "NW Blue Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1414,
+            "name": "NW Ground Top",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1407,
+            "name": "NW Blue Ramp 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1447,
+            "name": "NW Park Roof",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

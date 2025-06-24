@@ -1,73 +1,55 @@
 {
     "id": 5719,
     "map_id": 8,
-    "name": "Tricycle",
-    "date": "2022-06-23T03:11:53.000Z",
-    "author": "chief",
+    "name": "Flick 'Ard",
+    "date": "2022-06-30T20:12:51.000Z",
+    "author": "chefe",
     "author_id": 75,
-    "last_updated": "2022-10-08T13:59:53.000Z",
-    "last_updated_author_id": 457,
+    "last_updated": "2025-05-03T06:54:41.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 1,
+    "tier": 5,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "37",
-    "players_completed": "17",
+    "completions": "23",
+    "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 902,
+            "name": "Column West Upper",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1073,
+            "name": "Under Red Circle",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 986,
+            "name": "Slanted Cylinder",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 785,
-            "name": "Triomino 2",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 709,
-            "name": "Main Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 738,
-            "name": "Ski Sign",
-            "order": 8,
             "passthrough": 0
         }
     ]

@@ -1,7 +1,7 @@
 {
     "id": 1948,
     "map_id": 2,
-    "name": "Fishion Fuck Off",
+    "name": "Hard Green Tea",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,7 +9,7 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,69 +17,57 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
+            "trigger_id": 136,
             "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
+            "trigger_id": 124,
             "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 196,
-            "name": "Water",
+            "trigger_id": 106,
+            "name": "Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
+            "trigger_id": 162,
+            "name": "Superramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
-            "name": "Map Divide",
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 94,
+            "name": "Castle Upper Ledge Front",
             "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 121,
-            "name": "Grass Spawn Ramp",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 156,
-            "name": "Spawn Top Hidden Platform",
-            "order": 10,
             "passthrough": 0
         }
     ]

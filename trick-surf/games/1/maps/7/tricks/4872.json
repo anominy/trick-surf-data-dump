@@ -1,48 +1,48 @@
 {
     "id": 4872,
     "map_id": 7,
-    "name": "Pro Reverse Bend Around Main",
-    "date": "2021-09-09T19:05:19.000Z",
-    "author": "Fragzy4",
-    "author_id": 1,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Double Long Wrap",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-14T12:59:17.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": null,
-    "completions": "159",
-    "players_completed": "67",
+    "completions": "4044",
+    "players_completed": "157",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 606,
-            "name": "Bent Ramp",
+            "trigger_id": 774,
+            "name": "Long Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 621,
-            "name": "Over Main Ramp",
+            "trigger_id": 703,
+            "name": "Behind Long Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 602,
-            "name": "Behind Main Ramp",
+            "trigger_id": 793,
+            "name": "Over Long Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 621,
-            "name": "Over Main Ramp",
+            "trigger_id": 703,
+            "name": "Behind Long Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 606,
-            "name": "Bent Ramp",
+            "trigger_id": 774,
+            "name": "Long Ramp",
             "order": 4,
             "passthrough": 0
         }

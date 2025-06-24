@@ -1,0 +1,110 @@
+{
+    "id": 3221,
+    "map_id": 4,
+    "name": "Lewed G6 Under Shotguns",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-01-18T18:26:18.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "33",
+    "players_completed": "25",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 330,
+            "name": "Jail Ceiling Water",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 333,
+            "name": "Jail Outer Water",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 404,
+            "name": "Under Stairs",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 331,
+            "name": "Jail Floor",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 311,
+            "name": "Behind River",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 387,
+            "name": "Spawn River",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 343,
+            "name": "Lower Shotgun",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 364,
+            "name": "Shotgun Divide",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 357,
+            "name": "Ramp 3",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 11,
+            "passthrough": 0
+        }
+    ]
+}

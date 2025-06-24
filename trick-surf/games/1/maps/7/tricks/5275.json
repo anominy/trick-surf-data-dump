@@ -1,0 +1,44 @@
+{
+    "id": 5275,
+    "map_id": 7,
+    "name": "Annoying Rise",
+    "date": "2022-05-08T03:29:22.000Z",
+    "author": "HONJA혼자",
+    "author_id": 181,
+    "last_updated": "2023-06-28T21:03:02.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "42",
+    "players_completed": "30",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 709,
+            "name": "Bonus Ramp",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 701,
+            "name": "Behind Bonus Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 852,
+            "name": "Through Bonus Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 707,
+            "name": "Bonus Cube",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

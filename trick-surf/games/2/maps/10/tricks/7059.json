@@ -1,15 +1,15 @@
 {
     "id": 7059,
     "map_id": 10,
-    "name": "Aqua Tepula",
-    "date": "2023-02-17T15:55:56.000Z",
-    "author": "Daxen",
-    "author_id": 1642,
-    "last_updated": "2023-02-18T15:22:22.000Z",
-    "last_updated_author_id": 347,
+    "name": "Tilting Slant",
+    "date": "2023-02-25T23:39:31.000Z",
+    "author": "KingYoshi // solidsurf.info",
+    "author_id": 457,
+    "last_updated": "2025-06-17T15:35:37.000Z",
+    "last_updated_author_id": 123,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,45 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1694,
-            "name": "W Tower Beams 4",
+            "trigger_id": 1822,
+            "name": "Nova Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1677,
-            "name": "W Pink Ramp 3",
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1679,
-            "name": "W Rooftops",
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1780,
+            "name": "HealBot Slant South",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1742,
-            "name": "W Rooftops Booster",
+            "trigger_id": 1833,
+            "name": "River Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1207,
-            "name": "C Orange Ramp 2",
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1340,
-            "name": "N Purple Ramp 4",
+            "trigger_id": 1831,
+            "name": "River Platform",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1313,
-            "name": "N Archway Top",
-            "order": 6,
             "passthrough": 0
         }
     ]

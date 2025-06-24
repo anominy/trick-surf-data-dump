@@ -1,11 +1,11 @@
 {
     "id": 7363,
     "map_id": 11,
-    "name": "nii vibes",
+    "name": "I'm a Scatman!",
     "date": "2023-04-14T18:00:00.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": "2023-05-20T17:37:33.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2023-05-20T17:11:42.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
@@ -17,51 +17,57 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2026,
-            "name": "TP",
+            "trigger_id": 2159,
+            "name": "SHORTCUT Ramp Deck",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1898,
-            "name": "Main Ramp",
+            "trigger_id": 2158,
+            "name": "SHORTCUT Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
+            "trigger_id": 2157,
+            "name": "SHORTCUT Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1877,
-            "name": "Letter S Ramp Left",
+            "trigger_id": 2265,
+            "name": "The Longest Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1880,
-            "name": "Letter S Ramp Right",
+            "trigger_id": 2281,
+            "name": "U Bottom Hole",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
+            "trigger_id": 2287,
+            "name": "U Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1898,
-            "name": "Main Ramp",
+            "trigger_id": 2282,
+            "name": "U Curvy Boi",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 1895,
-            "name": "Main Platform",
+            "trigger_id": 2290,
+            "name": "U Top Hole",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1994,
+            "name": "Just A Floor",
+            "order": 8,
             "passthrough": 0
         }
     ]

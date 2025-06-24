@@ -1,0 +1,56 @@
+{
+    "id": 4153,
+    "map_id": 5,
+    "name": "Elevate",
+    "date": "2022-01-31T12:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-11-03T01:06:31.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "29",
+    "players_completed": "23",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 529,
+            "name": "Top Pool",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 527,
+            "name": "Top Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 513,
+            "name": "South Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 517,
+            "name": "Spine Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 424,
+            "name": "Back Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 488,
+            "name": "Pillar Small",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

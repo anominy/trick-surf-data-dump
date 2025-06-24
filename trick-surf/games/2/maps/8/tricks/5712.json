@@ -1,12 +1,12 @@
 {
     "id": 5712,
     "map_id": 8,
-    "name": "dave",
-    "date": "2022-06-20T20:32:05.000Z",
-    "author": "chief",
-    "author_id": 75,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Fluffeluff's Rise",
+    "date": "2022-06-29T15:06:10.000Z",
+    "author": "dome",
+    "author_id": 174,
+    "last_updated": "2022-07-01T14:12:34.000Z",
+    "last_updated_author_id": 174,
     "active": 1,
     "ranked": 1,
     "tier": 5,
@@ -17,45 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1032,
-            "name": "Keith Ramp Tip",
+            "trigger_id": 902,
+            "name": "Column West Upper",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 698,
-            "name": "Kevin Ramp",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 669,
-            "name": "CT-Spawn Teleporter",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 665,
-            "name": "CT-Spawn",
+            "trigger_id": 922,
+            "name": "Green Circle",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 716,
-            "name": "Middle Wing",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 768,
-            "name": "T2 Tower Platform",
-            "order": 6,
             "passthrough": 0
         }
     ]

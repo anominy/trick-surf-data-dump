@@ -1,0 +1,44 @@
+{
+    "id": 13219,
+    "map_id": 3,
+    "name": "YumpGun",
+    "date": "2025-06-17T14:29:04.000Z",
+    "author": "Leesriize",
+    "author_id": 125,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 2,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 225,
+            "name": "Jail",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 232,
+            "name": "Jail Slope",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 216,
+            "name": "Bent Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 264,
+            "name": "Shotgun Platform",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

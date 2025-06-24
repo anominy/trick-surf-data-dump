@@ -1,0 +1,92 @@
+{
+    "id": 2658,
+    "map_id": 2,
+    "name": "Chief's Slip 'n Slide",
+    "date": "2021-06-08T18:26:24.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": "2022-08-05T02:03:01.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "62",
+    "players_completed": "27",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 102,
+            "name": "Grass Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 124,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 88,
+            "name": "Castle Ramp Slant Upper",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 91,
+            "name": "Castle Stairs",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 94,
+            "name": "Castle Upper Ledge Front",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 75,
+            "name": "Castle Gap",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 141,
+            "name": "Stone Wall",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 81,
+            "name": "Castle Platform",
+            "order": 11,
+            "passthrough": 0
+        }
+    ]
+}

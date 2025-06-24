@@ -1,0 +1,80 @@
+{
+    "id": 3836,
+    "map_id": 4,
+    "name": "RaiBok is cute",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "RaiBok",
+    "author_id": null,
+    "last_updated": "2024-10-02T07:05:52.000Z",
+    "last_updated_author_id": 4561,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "8",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 355,
+            "name": "Ramp 1",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 417,
+            "name": "Ramp 1 Boost",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 310,
+            "name": "Behind Main",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 417,
+            "name": "Ramp 1 Boost",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 415,
+            "name": "Main Ramp Boost",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 382,
+            "name": "Skyplate",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 415,
+            "name": "Main Ramp Boost",
+            "order": 5,
+            "passthrough": 1
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 10705,
+    "map_id": 7,
+    "name": "Why Make It Simple",
+    "date": "2024-07-25T16:59:59.000Z",
+    "author": "IziYani",
+    "author_id": 24151,
+    "last_updated": "2025-04-21T10:09:58.000Z",
+    "last_updated_author_id": 13870,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 810,
+            "name": "Side Spawn Upper Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 807,
+            "name": "Side Spawn Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 808,
+            "name": "Side Spawn Ladder",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "id": 4167,
+    "map_id": 5,
+    "name": "Triple Kill",
+    "date": "2022-01-31T15:41:11.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-02-21T20:04:15.000Z",
+    "last_updated_author_id": 181,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "382",
+    "players_completed": "48",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 541,
+            "name": "Under Spawn",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 479,
+            "name": "Over Spawn",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 541,
+            "name": "Under Spawn",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 479,
+            "name": "Over Spawn",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 541,
+            "name": "Under Spawn",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 479,
+            "name": "Over Spawn",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 9,
+            "passthrough": 0
+        }
+    ]
+}

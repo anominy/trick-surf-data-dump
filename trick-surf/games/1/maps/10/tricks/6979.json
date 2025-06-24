@@ -1,72 +1,72 @@
 {
     "id": 6979,
     "map_id": 10,
-    "name": "Steve's Phoenix",
-    "date": "2023-02-08T11:24:19.000Z",
-    "author": "Steve",
-    "author_id": 10,
-    "last_updated": null,
-    "last_updated_author_id": 347,
+    "name": "If only I could jump...",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "Xiao",
+    "author_id": 103,
+    "last_updated": "2023-03-01T20:34:47.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "97",
-    "players_completed": "26",
+    "completions": "48",
+    "players_completed": "16",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1601,
-            "name": "SE Spawn Brown Platform",
+            "trigger_id": 1795,
+            "name": "Jail Platform South",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1558,
-            "name": "SE Brown Ramp 1",
+            "trigger_id": 1796,
+            "name": "Jail Side Hole",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
+            "trigger_id": 1777,
+            "name": "HealBot Ramp North",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1597,
-            "name": "SE Red Ramp 2",
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1775,
-            "name": "SE Large Pillar Gap East",
+            "trigger_id": 1812,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1551,
-            "name": "SE Black Ramp 4",
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1267,
-            "name": "E Brown Ramp 4",
+            "trigger_id": 1777,
+            "name": "HealBot Ramp North",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 1269,
-            "name": "E Brown Ramp 5",
+            "trigger_id": 1812,
+            "name": "Map Divide",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 1264,
-            "name": "E Brown Beam 1",
+            "trigger_id": 1858,
+            "name": "Tower Railing",
             "order": 8,
             "passthrough": 0
         }

@@ -1,56 +1,74 @@
 {
     "id": 7461,
     "map_id": 11,
-    "name": "Quieroz",
-    "date": "2023-04-19T21:22:53.000Z",
-    "author": "King",
-    "author_id": 10,
-    "last_updated": "2023-05-20T17:53:15.000Z",
+    "name": "Skate Life",
+    "date": "2023-04-20T20:22:44.000Z",
+    "author": "Mason",
+    "author_id": 4140,
+    "last_updated": "2023-05-20T18:06:46.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "23",
-    "players_completed": "11",
+    "completions": "31",
+    "players_completed": "19",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1895,
-            "name": "Main Platform",
+            "trigger_id": 1953,
+            "name": "Facade's Beam 6",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1898,
+            "trigger_id": 2028,
             "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2283,
+            "trigger_id": 1880,
             "name": "Above Fence South Back",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2284,
+            "trigger_id": 1881,
             "name": "Above Fence South Front",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2149,
-            "name": "Tower Main TP",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 5,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1897,
+            "name": "Big H Curvy Boi",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1927,
+            "name": "Curvy Ledge Top",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
+            "order": 7,
+            "passthrough": 1
         }
     ]
 }

@@ -1,0 +1,74 @@
+{
+    "id": 12317,
+    "map_id": 9,
+    "name": "When the Sun Hits",
+    "date": "2025-03-19T03:07:10.000Z",
+    "author": "wex",
+    "author_id": 18496,
+    "last_updated": "2025-03-19T03:25:55.000Z",
+    "last_updated_author_id": 18496,
+    "active": 1,
+    "ranked": 1,
+    "tier": 8,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "14",
+    "players_completed": "5",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1132,
+            "name": "C Lift Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1206,
+            "name": "E Brown Ramp 5",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1218,
+            "name": "E Large Pillar Gap NW",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1133,
+            "name": "C Orange Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1525,
+            "name": "SE Black Ramp 4",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1666,
+            "name": "W Orange Ramp 5",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2362,
+            "name": "S Under Yellow Ramp 9",
+            "order": 5,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2361,
+            "name": "S Under Yellow Ramp 8",
+            "order": 5,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 1287,
+            "name": "N Middle Ground",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

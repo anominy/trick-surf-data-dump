@@ -1,0 +1,56 @@
+{
+    "id": 6916,
+    "map_id": 9,
+    "name": "ryuko's Generic Pillar Trick",
+    "date": "2023-02-24T16:42:31.000Z",
+    "author": "RK",
+    "author_id": 4963,
+    "last_updated": null,
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "110",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1729,
+            "name": "SE East Wall 2",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1537,
+            "name": "SE Brown Ramp 3",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1555,
+            "name": "SE Large Pillar Gap NW",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1554,
+            "name": "SE Large Pillar Gap East",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1537,
+            "name": "SE Brown Ramp 3",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1508,
+            "name": "S Ground North",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

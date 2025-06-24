@@ -1,0 +1,62 @@
+{
+    "id": 6360,
+    "map_id": 7,
+    "name": "KingYoshi's Bonus Whop Rise",
+    "date": "2022-12-12T22:42:20.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2022-12-14T19:44:03.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "117",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 855,
+            "name": "Through T2 Back Right",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 857,
+            "name": "Through T2 Front Right",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 705,
+            "name": "Behind Spawn",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 707,
+            "name": "Bonus Cube",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

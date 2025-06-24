@@ -1,0 +1,56 @@
+{
+    "id": 7991,
+    "map_id": 7,
+    "name": "Aurora Borealis",
+    "date": "2023-10-08T00:19:10.000Z",
+    "author": "Anti-Cheat | Autostrafing detect",
+    "author_id": 416,
+    "last_updated": "2023-10-30T23:26:54.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 860,
+            "name": "Tower Box 1",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 816,
+            "name": "Sriracha",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 752,
+            "name": "Jail Box 1",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

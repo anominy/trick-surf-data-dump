@@ -1,49 +1,73 @@
 {
     "id": 12519,
     "map_id": 5,
-    "name": "Second Spine Rise",
-    "date": "2025-04-19T15:26:55.000Z",
-    "author": "Natsu",
-    "author_id": 123,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "gremma",
+    "date": "2025-04-22T10:06:18.000Z",
+    "author": "fatlonzo",
+    "author_id": 1929,
+    "last_updated": "2025-04-23T15:17:31.000Z",
+    "last_updated_author_id": 1929,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 2,
     "subtier": 2,
-    "max_prestrafe": null,
-    "completions": "17",
-    "players_completed": "6",
+    "max_prestrafe": 406,
+    "completions": "9",
+    "players_completed": "7",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3634,
-            "name": "Second Main Platform",
+            "trigger_id": 516,
+            "name": "Spawn Wall",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3635,
-            "name": "Second Main Ramp",
+            "trigger_id": 3606,
+            "name": "Divide Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 477,
-            "name": "Under Pool",
+            "trigger_id": 3624,
+            "name": "Second Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 461,
-            "name": "Spine Ramp",
+            "trigger_id": 3601,
+            "name": "Behind Second Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 440,
-            "name": "Pillar Floor",
+            "trigger_id": 3624,
+            "name": "Second Main Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 423,
+            "name": "Awp Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 520,
+            "name": "Through Awp Hole",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 545,
+            "name": "Upper Curve Ramp Top",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3629,
+            "name": "Spine Platform",
+            "order": 8,
             "passthrough": 0
         }
     ]

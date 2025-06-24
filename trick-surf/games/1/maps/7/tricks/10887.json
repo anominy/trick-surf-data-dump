@@ -1,0 +1,50 @@
+{
+    "id": 10887,
+    "map_id": 7,
+    "name": "Salty Steve",
+    "date": "2024-08-12T19:14:44.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-08-12T19:17:43.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "355",
+    "players_completed": "23",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 693,
+            "name": "Awp Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 880,
+            "name": "Weapons Tele Ledge",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

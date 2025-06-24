@@ -1,49 +1,85 @@
 {
     "id": 3887,
     "map_id": 1,
-    "name": "Carbon Gap from 4th",
-    "date": "2020-12-22T00:00:00.000Z",
-    "author": "zSkyworld.com",
-    "author_id": null,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Awpx5 through deagle Remix",
+    "date": "2022-01-04T00:01:15.000Z",
+    "author": "Ghostface",
+    "author_id": 5,
+    "last_updated": "2022-01-04T01:48:44.000Z",
+    "last_updated_author_id": 5,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "45",
-    "players_completed": "31",
+    "tier": 7,
+    "subtier": 3,
+    "max_prestrafe": null,
+    "completions": "6",
+    "players_completed": "5",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 48,
-            "name": "Top",
+            "trigger_id": 1,
+            "name": "Awp Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 26,
-            "name": "Main Ramp",
+            "trigger_id": 27,
+            "name": "Map Divide",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 41,
-            "name": "Spawn",
+            "trigger_id": 1,
+            "name": "Awp Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 67,
-            "name": "Wedge 4th",
+            "trigger_id": 43,
+            "name": "Thru Deagle 2",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 35,
-            "name": "Pool",
+            "trigger_id": 42,
+            "name": "Thru Deagle 1",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 12,
+            "name": "Deagle 1st",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "name": "Awp Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 27,
+            "name": "Map Divide",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "name": "Awp Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 27,
+            "name": "Map Divide",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1,
+            "name": "Awp Ramp",
+            "order": 10,
             "passthrough": 0
         }
     ]

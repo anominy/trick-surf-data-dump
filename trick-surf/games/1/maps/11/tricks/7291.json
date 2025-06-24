@@ -1,0 +1,68 @@
+{
+    "id": 7291,
+    "map_id": 11,
+    "name": "Shortcut Snipe",
+    "date": "2023-04-14T18:00:00.000Z",
+    "author": "IrynStyl",
+    "author_id": 2076,
+    "last_updated": "2023-05-20T18:00:47.000Z",
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "103",
+    "players_completed": "24",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2064,
+            "name": "N Upper Catwalk Hole",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2265,
+            "name": "The Longest Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2157,
+            "name": "SHORTCUT Hole",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2158,
+            "name": "SHORTCUT Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2200,
+            "name": "Spawn TP Door",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

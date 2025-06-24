@@ -1,37 +1,145 @@
 {
     "id": 12201,
     "map_id": 13,
-    "name": "john porg",
-    "date": "2025-02-08T11:56:31.000Z",
-    "author": "s1m",
-    "author_id": 23687,
-    "last_updated": "2025-02-22T15:37:44.000Z",
-    "last_updated_author_id": 20730,
+    "name": "bhop_strafes",
+    "date": "2025-02-09T13:23:31.000Z",
+    "author": "nextir",
+    "author_id": 2994,
+    "last_updated": "2025-02-09T13:33:15.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 6,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "672",
-    "players_completed": "14",
+    "max_prestrafe": 261,
+    "completions": "4",
+    "players_completed": "2",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3364,
-            "name": "North Elevator Window Ground",
+            "trigger_id": 3461,
+            "name": "T2 Boost Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3305,
-            "name": "Elevator",
+            "trigger_id": 3460,
+            "name": "T2 Boost",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3507,
-            "name": "Turtle Acid Ramp",
+            "trigger_id": 3541,
+            "name": "Turtle Big Ramp Floor",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3547,
+            "name": "Turtle IBeam Floor",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3374,
+            "name": "Never Ramp Tip",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3448,
+            "name": "Square Booster",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3332,
+            "name": "Jumper",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3280,
+            "name": "Bedge Platform",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3516,
+            "name": "Top Teleporter",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3405,
+            "name": "Rear Tower Platform",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3377,
+            "name": "North Elevator Window Ground",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3310,
+            "name": "Elevator",
+            "order": 10,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3280,
+            "name": "Bedge Platform",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3310,
+            "name": "Elevator",
+            "order": 11,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3516,
+            "name": "Top Teleporter",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3441,
+            "name": "Spine Platform",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3296,
+            "name": "Convex Platform",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3502,
+            "name": "Through South Cage Booster",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3290,
+            "name": "Cage Lower Platform",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3493,
+            "name": "Through North Cage",
+            "order": 17,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3437,
+            "name": "Sphere Floor",
+            "order": 18,
             "passthrough": 0
         }
     ]

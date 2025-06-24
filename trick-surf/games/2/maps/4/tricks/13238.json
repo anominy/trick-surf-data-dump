@@ -1,0 +1,116 @@
+{
+    "id": 13238,
+    "map_id": 4,
+    "name": "Lewed Erb-G6",
+    "date": "2025-06-18T18:27:06.000Z",
+    "author": "Leesriize",
+    "author_id": 125,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 330,
+            "name": "Jail Ceiling Water",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 333,
+            "name": "Jail Outer Water",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 404,
+            "name": "Under Stairs",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 331,
+            "name": "Jail Floor",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 399,
+            "name": "Under Jail Teleporter",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 311,
+            "name": "Behind River",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 387,
+            "name": "Spawn River",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 405,
+            "name": "Upper Shotgun",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 357,
+            "name": "Ramp 3",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 12,
+            "passthrough": 0
+        }
+    ]
+}

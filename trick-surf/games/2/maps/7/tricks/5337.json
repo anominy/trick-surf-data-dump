@@ -1,0 +1,56 @@
+{
+    "id": 5337,
+    "map_id": 7,
+    "name": "Short White Rose",
+    "date": "2022-05-18T17:58:09.000Z",
+    "author": "Addicted",
+    "author_id": 209,
+    "last_updated": "2022-06-19T02:11:32.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 810,
+            "name": "Side Spawn Upper Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 807,
+            "name": "Side Spawn Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 844,
+            "name": "T2 Right Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 810,
+            "name": "Side Spawn Upper Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

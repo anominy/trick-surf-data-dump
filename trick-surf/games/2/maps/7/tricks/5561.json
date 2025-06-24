@@ -1,0 +1,56 @@
+{
+    "id": 5561,
+    "map_id": 7,
+    "name": "Flow",
+    "date": "2022-06-24T17:38:28.000Z",
+    "author": "Parta",
+    "author_id": 385,
+    "last_updated": "2024-03-25T19:08:28.000Z",
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 816,
+            "name": "Sriracha",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 804,
+            "name": "Section Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 804,
+            "name": "Section Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

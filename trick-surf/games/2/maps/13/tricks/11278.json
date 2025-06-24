@@ -1,15 +1,15 @@
 {
     "id": 11278,
     "map_id": 13,
-    "name": "Wukong",
-    "date": "2024-09-03T12:12:47.000Z",
-    "author": "influx",
-    "author_id": 147,
-    "last_updated": "2024-09-03T12:18:10.000Z",
-    "last_updated_author_id": 147,
+    "name": "Persik",
+    "date": "2024-09-03T13:44:54.000Z",
+    "author": "kiwi (づ￣ 3￣)づ",
+    "author_id": 1390,
+    "last_updated": "2024-09-03T13:46:16.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,33 +17,15 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3514,
-            "name": "Turtle Floor",
+            "trigger_id": 3464,
+            "name": "T2 Lowest Corner",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3519,
-            "name": "Turtle Inner Forward Ramp",
+            "trigger_id": 3332,
+            "name": "Jumper",
             "order": 1,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3522,
-            "name": "Turtle Inner Rear Ramp",
-            "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3358,
-            "name": "Moon Ramp",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3545,
-            "name": "North Corner Inner Monkey",
-            "order": 4,
             "passthrough": 0
         }
     ]

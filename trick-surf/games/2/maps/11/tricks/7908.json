@@ -1,15 +1,15 @@
 {
     "id": 7908,
     "map_id": 11,
-    "name": "Humper",
-    "date": "2023-08-03T22:23:33.000Z",
+    "name": "Siren",
+    "date": "2023-08-05T19:45:21.000Z",
     "author": "Xiao",
     "author_id": 103,
-    "last_updated": null,
+    "last_updated": "2023-08-05T20:00:31.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,63 +17,81 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1843,
-            "name": "Fence Base",
+            "trigger_id": 2027,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2391,
-            "name": "THE CUBE Right",
+            "trigger_id": 2045,
+            "name": "Mini Mega Rollin",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2015,
-            "name": "THE CUBE Hump",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2018,
-            "name": "THE CUBE Roller",
+            "trigger_id": 2277,
+            "name": "Tucksy's Back Door",
+            "order": 2,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 2086,
+            "name": "Poorly Rotated Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2391,
-            "name": "THE CUBE Right",
+            "trigger_id": 1873,
+            "name": "45 Ledge",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1796,
-            "name": "Tucksy's Tunnel Ramp",
+            "trigger_id": 1964,
+            "name": "Fence Curve Base",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2207,
-            "name": "Tucksy's Front Hole",
+            "trigger_id": 2320,
+            "name": "Upper Rail Wallride",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
+            "trigger_id": 2272,
+            "name": "Through granis Gap",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 1784,
-            "name": "Another Curvy Boi",
+            "trigger_id": 2005,
+            "name": "Letter S Ramp Right",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 1797,
-            "name": "Big H Curvy Boi Upper",
+            "trigger_id": 2303,
+            "name": "Under Logo Right Side",
             "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2327,
+            "name": "W L Front",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2248,
+            "name": "Subbox High",
+            "order": 11,
             "passthrough": 0
         }
     ]

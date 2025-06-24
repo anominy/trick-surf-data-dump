@@ -1,0 +1,50 @@
+{
+    "id": 5342,
+    "map_id": 7,
+    "name": "Hard Wrap Rise",
+    "date": "2022-05-19T15:23:48.000Z",
+    "author": "Anti-Cheat | Autostrafing detect",
+    "author_id": 416,
+    "last_updated": "2023-10-13T17:46:58.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "18",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 751,
+            "name": "Jail Booster Tip",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 705,
+            "name": "Behind Spawn",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 811,
+            "name": "Ski Sign",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

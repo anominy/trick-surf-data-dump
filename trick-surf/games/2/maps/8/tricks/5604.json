@@ -1,15 +1,15 @@
 {
     "id": 5604,
     "map_id": 8,
-    "name": "Hard Moldau",
-    "date": "2022-06-02T21:56:21.000Z",
-    "author": "Addicted",
-    "author_id": 209,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Mini Tower Rise v2",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2023-06-03T12:30:39.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,39 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 737,
-            "name": "Side Spawn Upper Platform",
+            "trigger_id": 894,
+            "name": "Cannon Pillar Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 734,
-            "name": "Side Spawn Booster",
+            "trigger_id": 895,
+            "name": "Cannon Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 771,
-            "name": "Telepad Water",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 1093,
+            "name": "West Ramp 1",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1098,
+            "name": "West Ramp 2",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 755,
-            "name": "T1 Right Platform",
+            "trigger_id": 1103,
+            "name": "West Ramp 3",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1005,
+            "name": "Southwest Mini Tower",
+            "order": 6,
             "passthrough": 0
         }
     ]

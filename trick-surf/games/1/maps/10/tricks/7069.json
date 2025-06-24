@@ -1,49 +1,133 @@
 {
     "id": 7069,
     "map_id": 10,
-    "name": "The Trick of All Time",
-    "date": "2023-02-18T06:14:01.000Z",
-    "author": "RK",
-    "author_id": 4963,
-    "last_updated": "2023-02-18T18:40:49.000Z",
-    "last_updated_author_id": 347,
+    "name": "Indigo Night",
+    "date": "2023-02-27T16:26:16.000Z",
+    "author": "Xiao",
+    "author_id": 103,
+    "last_updated": "2023-03-11T00:08:03.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 5,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "43",
-    "players_completed": "18",
+    "max_prestrafe": 406,
+    "completions": "45",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1301,
-            "name": "E Teal Ramp 5",
+            "trigger_id": 1852,
+            "name": "Top Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1431,
-            "name": "NE White Ramp 2",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1403,
-            "name": "NE Green Ramp 5",
+            "trigger_id": 1839,
+            "name": "Spawn Arch",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1417,
-            "name": "NE Teal Ramp 3",
+            "trigger_id": 1866,
+            "name": "Under River Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1254,
-            "name": "C Sky East Upper",
+            "trigger_id": 1772,
+            "name": "Bottom Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1813,
+            "name": "Masog Hole",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1765,
+            "name": "Behind Masog Platform",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1861,
+            "name": "Tower Window North",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1862,
+            "name": "Tower Window South",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1833,
+            "name": "River Ramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1769,
+            "name": "Between Spawn Arches",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1810,
+            "name": "Main Ramp",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1772,
+            "name": "Bottom Ramp",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1808,
+            "name": "Lower Masog Platform",
+            "order": 17,
             "passthrough": 0
         }
     ]

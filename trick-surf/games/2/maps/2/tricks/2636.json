@@ -1,0 +1,86 @@
+{
+    "id": 2636,
+    "map_id": 2,
+    "name": "Elite Yoza's Rise",
+    "date": "2021-04-13T23:58:54.000Z",
+    "author": "Ghostface",
+    "author_id": 5,
+    "last_updated": "2021-04-13T23:59:31.000Z",
+    "last_updated_author_id": 5,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 136,
+            "name": "Spawn Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 124,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 106,
+            "name": "Hole",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 126,
+            "name": "Map Divide",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 106,
+            "name": "Hole",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 126,
+            "name": "Map Divide",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 121,
+            "name": "House 2 Floor 2 Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 78,
+            "name": "Castle House Roof Platform",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

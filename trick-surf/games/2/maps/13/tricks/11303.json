@@ -1,43 +1,73 @@
 {
     "id": 11303,
     "map_id": 13,
-    "name": "KInetic energiziNG",
-    "date": "2024-09-04T10:16:15.000Z",
-    "author": "CrazyTroll",
-    "author_id": 17974,
+    "name": "LOK",
+    "date": "2024-09-05T16:43:41.000Z",
+    "author": "Boomstorm",
+    "author_id": 22865,
     "last_updated": null,
     "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
     "tier": 7,
-    "subtier": 3,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3403,
-            "name": "Snake Floor",
+            "trigger_id": 3528,
+            "name": "Tower Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3389,
-            "name": "Promise Ramp",
+            "trigger_id": 3317,
+            "name": "Faucet Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3360,
-            "name": "Never Ramp",
+            "trigger_id": 3429,
+            "name": "Snorkel Left Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3514,
-            "name": "Turtle Floor",
+            "trigger_id": 3332,
+            "name": "Jumper",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3322,
+            "name": "Fine Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3324,
+            "name": "Flat Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3504,
+            "name": "Through Spawn",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3505,
+            "name": "Through Spawn Hole",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3482,
+            "name": "Through East Elevator Window",
+            "order": 8,
             "passthrough": 0
         }
     ]

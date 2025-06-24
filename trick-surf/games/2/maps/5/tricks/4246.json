@@ -1,0 +1,38 @@
+{
+    "id": 4246,
+    "map_id": 5,
+    "name": "Top Up",
+    "date": "2022-02-08T09:12:57.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-02-08T10:28:54.000Z",
+    "last_updated_author_id": 181,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 514,
+            "name": "Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 530,
+            "name": "Top Pool Slants",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 533,
+            "name": "Top Upper Water",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 5227,
+    "map_id": 7,
+    "name": "Dream Killer",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "Pitbull",
+    "author_id": 26,
+    "last_updated": "2024-09-08T13:39:35.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "36",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 708,
+            "name": "Bonus Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 816,
+            "name": "Sriracha",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 730,
+            "name": "Elevator Hole",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 727,
+            "name": "Elevator",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 728,
+            "name": "Elevator Entrance",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

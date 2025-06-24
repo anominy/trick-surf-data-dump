@@ -1,0 +1,74 @@
+{
+    "id": 6417,
+    "map_id": 7,
+    "name": "Guntower Bonus",
+    "date": "2022-12-26T15:40:36.000Z",
+    "author": "Aux",
+    "author_id": 14724,
+    "last_updated": "2023-10-31T01:58:38.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "53",
+    "players_completed": "36",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 737,
+            "name": "Gun Room",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 738,
+            "name": "Gun Room Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 858,
+            "name": "Through T2 Tower",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 706,
+            "name": "Behind Tower",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 766,
+            "name": "Left Wing",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 871,
+            "name": "Triomino 3",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 786,
+            "name": "Mini Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 707,
+            "name": "Bonus Cube",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "id": 7366,
+    "map_id": 11,
+    "name": "Dimy's trick",
+    "date": "2023-04-14T18:00:00.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2023-04-17T15:48:29.000Z",
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2080,
+            "name": "Not Used Ramp Spine",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2282,
+            "name": "U Curvy Boi",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2287,
+            "name": "U Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1912,
+            "name": "Big Loop Start",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2190,
+            "name": "Smol Curvy Boi",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1912,
+            "name": "Big Loop Start",
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2312,
+            "name": "Under S Deck Floor",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2019,
+            "name": "Lower Rail Box Front",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2312,
+            "name": "Under S Deck Floor",
+            "order": 7,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2287,
+            "name": "U Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2021,
+            "name": "Lower Rail Box Right",
+            "order": 8,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2019,
+            "name": "Lower Rail Box Front",
+            "order": 8,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2282,
+            "name": "U Curvy Boi",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2290,
+            "name": "U Top Hole",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1978,
+            "name": "Half Pipe Right Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2086,
+            "name": "Poorly Rotated Ramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2303,
+            "name": "Under Logo Right Side",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1912,
+            "name": "Big Loop Start",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1922,
+            "name": "Crash Pad",
+            "order": 17,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1912,
+            "name": "Big Loop Start",
+            "order": 17,
+            "passthrough": 1
+        }
+    ]
+}

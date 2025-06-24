@@ -1,0 +1,110 @@
+{
+    "id": 9216,
+    "map_id": 4,
+    "name": "mera g5",
+    "date": "2024-03-09T21:55:02.000Z",
+    "author": "LOL",
+    "author_id": 3654,
+    "last_updated": "2024-03-14T13:58:37.000Z",
+    "last_updated_author_id": 480,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 326,
+            "name": "Inside Garage Sign",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 324,
+            "name": "Inside Garage Ground",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 368,
+            "name": "Sign Level 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 415,
+            "name": "Main Ramp Boost",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 337,
+            "name": "Jail Teleporter",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 333,
+            "name": "Jail Outer Water",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 311,
+            "name": "Behind River",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 331,
+            "name": "Jail Floor",
+            "order": 8,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 387,
+            "name": "Spawn River",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 357,
+            "name": "Ramp 3",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 376,
+            "name": "Sky North",
+            "order": 12,
+            "passthrough": 0
+        }
+    ]
+}

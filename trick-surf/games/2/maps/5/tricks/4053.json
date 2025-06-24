@@ -1,0 +1,38 @@
+{
+    "id": 4053,
+    "map_id": 5,
+    "name": "Funky",
+    "date": "2022-01-31T12:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 467,
+            "name": "Jail Pool",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 450,
+            "name": "Butter Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 501,
+            "name": "Side Pool Upper Platform",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

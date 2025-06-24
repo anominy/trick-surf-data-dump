@@ -1,60 +1,60 @@
 {
     "id": 5682,
     "map_id": 8,
-    "name": "Vamonos Pest",
-    "date": "2022-06-17T05:00:12.000Z",
-    "author": "chief",
-    "author_id": 75,
-    "last_updated": "2022-06-17T05:03:24.000Z",
-    "last_updated_author_id": 75,
+    "name": "Super-Hard Lapicide",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "43",
-    "players_completed": "25",
+    "completions": "624",
+    "players_completed": "42",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 1023,
+            "name": "Stage 2 Boxes",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 742,
-            "name": "Spawn Roof Water",
+            "trigger_id": 1028,
+            "name": "Stage 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 740,
-            "name": "Spawn Roof Booster",
+            "trigger_id": 1110,
+            "name": "West Upper Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 734,
-            "name": "Side Spawn Booster",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 663,
-            "name": "Center Wedge Platform",
+            "trigger_id": 1084,
+            "name": "V Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 649,
-            "name": "Awp Ramp",
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 738,
-            "name": "Ski Sign",
+            "trigger_id": 886,
+            "name": "Bonus Platform",
             "order": 6,
             "passthrough": 0
         }

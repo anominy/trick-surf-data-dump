@@ -1,0 +1,62 @@
+{
+    "id": 4746,
+    "map_id": 5,
+    "name": "Around The Back",
+    "date": "2022-04-12T12:16:51.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-08-26T19:09:46.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 526,
+            "name": "Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "name": "Blade Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 424,
+            "name": "Back Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 435,
+            "name": "Blade Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 514,
+            "name": "Spawn",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

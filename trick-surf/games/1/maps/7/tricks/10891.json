@@ -1,0 +1,62 @@
+{
+    "id": 10891,
+    "map_id": 7,
+    "name": "Cinderella",
+    "date": "2024-08-13T02:16:26.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated": "2024-08-13T15:06:45.000Z",
+    "last_updated_author_id": 147,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "10",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3203,
+            "name": "Ground Ramp Reverse",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "name": "Middle Wing",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 811,
+            "name": "Ski Sign",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

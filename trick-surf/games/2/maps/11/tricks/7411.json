@@ -1,15 +1,15 @@
 {
     "id": 7411,
     "map_id": 11,
-    "name": "Backside 540!",
-    "date": "2023-04-16T16:34:59.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-05-19T18:32:35.000Z",
+    "name": "Sk8er Boi",
+    "date": "2023-04-16T17:39:49.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2023-05-20T18:05:47.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,39 +17,51 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2038,
-            "name": "U TP Floor",
+            "trigger_id": 2027,
+            "name": "Main Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2151,
-            "name": "U Curvy Boi",
+            "trigger_id": 2028,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2154,
-            "name": "U Ramp",
+            "trigger_id": 1976,
+            "name": "Half Pipe Left Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1784,
-            "name": "Another Curvy Boi",
+            "trigger_id": 1978,
+            "name": "Half Pipe Right Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1794,
-            "name": "Big H Curvy Boi",
+            "trigger_id": 1928,
+            "name": "E L Front",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1797,
-            "name": "Big H Curvy Boi Upper",
+            "trigger_id": 2305,
+            "name": "Under Main Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2327,
+            "name": "W L Front",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2254,
+            "name": "THE CUBE Hump",
+            "order": 7,
             "passthrough": 0
         }
     ]

@@ -1,7 +1,7 @@
 {
     "id": 1916,
     "map_id": 2,
-    "name": "Double Generic Cancer Trick",
+    "name": "T-Gap",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,71 +9,35 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "14",
-    "players_completed": "13",
+    "completions": "91",
+    "players_completed": "42",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 85,
+            "trigger_id": 78,
             "name": "Castle House Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 84,
+            "trigger_id": 77,
             "name": "Castle House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
+            "trigger_id": 162,
+            "name": "Superramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 172,
-            "name": "Superhouse Floor 2 Ramp Ends",
+            "trigger_id": 161,
+            "name": "Superhouse Floor 3 Ramp Top",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 172,
-            "name": "Superhouse Floor 2 Ramp Ends",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
-            "order": 9,
             "passthrough": 0
         }
     ]

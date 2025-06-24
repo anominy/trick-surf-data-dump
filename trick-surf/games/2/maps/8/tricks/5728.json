@@ -1,15 +1,15 @@
 {
     "id": 5728,
     "map_id": 8,
-    "name": "El Honcho",
-    "date": "2022-06-23T22:35:22.000Z",
-    "author": "Dzhan",
-    "author_id": null,
-    "last_updated": "2023-10-13T19:34:49.000Z",
-    "last_updated_author_id": 457,
+    "name": "Vyda's Train to Birmingham",
+    "date": "2022-07-01T15:54:55.000Z",
+    "author": "Xiao",
+    "author_id": 103,
+    "last_updated": "2022-07-01T16:15:17.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,38 +17,38 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 997,
+            "name": "South Loop Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 679,
-            "name": "Ground Teleporter",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 1073,
+            "name": "Under Red Circle",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 1047,
+            "name": "Stage 4 Platform",
             "order": 5,
             "passthrough": 0
         }

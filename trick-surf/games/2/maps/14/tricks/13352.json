@@ -1,0 +1,38 @@
+{
+    "id": 13352,
+    "map_id": 14,
+    "name": "Bingo",
+    "date": "2025-06-21T11:36:39.000Z",
+    "author": "djum",
+    "author_id": 2687,
+    "last_updated": "2025-06-21T12:33:56.000Z",
+    "last_updated_author_id": 2687,
+    "active": 1,
+    "ranked": 1,
+    "tier": 8,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3686,
+            "name": "Final Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3702,
+            "name": "Lower SW Tiled Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3720,
+            "name": "Playhouse level 3",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

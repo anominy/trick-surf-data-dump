@@ -1,15 +1,15 @@
 {
     "id": 7044,
     "map_id": 10,
-    "name": "Aqua Virgo",
-    "date": "2023-02-16T12:31:05.000Z",
-    "author": "Daxen",
-    "author_id": 1642,
-    "last_updated": null,
-    "last_updated_author_id": 347,
+    "name": "Harder Rail Strafe",
+    "date": "2023-02-24T20:32:29.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2023-03-11T16:16:29.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,75 +17,15 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1570,
-            "name": "SE High Pillar",
+            "trigger_id": 1809,
+            "name": "Lower Masog Platform Railing",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1579,
-            "name": "SE High Pillar Booster West",
+            "trigger_id": 1807,
+            "name": "Lantern MP",
             "order": 1,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1656,
-            "name": "SW Yellow Ramp 7",
-            "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1652,
-            "name": "SW Yellow Ramp 5",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1669,
-            "name": "W Orange Platform",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1762,
-            "name": "W Orange Teleporter",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1190,
-            "name": "C Blue Ramp 1",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1494,
-            "name": "NW Through Window",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1192,
-            "name": "C Blue Ramp 6",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1727,
-            "name": "C Undergrounds Entry West",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1445,
-            "name": "NW Blue Ramp 3",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1312,
-            "name": "N Archway Ledge",
-            "order": 11,
             "passthrough": 0
         }
     ]

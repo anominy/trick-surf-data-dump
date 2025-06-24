@@ -1,0 +1,44 @@
+{
+    "id": 12953,
+    "map_id": 7,
+    "name": "Anxiety Return",
+    "date": "2025-05-21T13:12:30.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2025-06-14T22:45:46.000Z",
+    "last_updated_author_id": 13870,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "32",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 815,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 813,
+            "name": "Spawn Roof Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 815,
+            "name": "Spawn Roof Water",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

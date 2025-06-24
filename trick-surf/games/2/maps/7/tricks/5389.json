@@ -1,0 +1,62 @@
+{
+    "id": 5389,
+    "map_id": 7,
+    "name": "Deviation to Sign",
+    "date": "2022-05-24T16:19:29.000Z",
+    "author": "dim",
+    "author_id": 174,
+    "last_updated": "2022-05-24T16:27:56.000Z",
+    "last_updated_author_id": 174,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 844,
+            "name": "T2 Right Wing",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 811,
+            "name": "Ski Sign",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

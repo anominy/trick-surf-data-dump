@@ -1,49 +1,79 @@
 {
     "id": 6986,
     "map_id": 10,
-    "name": "Tic Tac",
-    "date": "2023-02-09T22:05:30.000Z",
-    "author": "Kassihici",
-    "author_id": 3123,
-    "last_updated": null,
+    "name": "Happy Star",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-02-26T00:21:12.000Z",
     "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "116",
-    "players_completed": "31",
+    "completions": "67",
+    "players_completed": "23",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1564,
-            "name": "SE East Ledge",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1562,
-            "name": "SE Brown Ramp 3",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1588,
-            "name": "SE Orange Ramp 1",
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1597,
-            "name": "SE Red Ramp 2",
+            "trigger_id": 1812,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1531,
-            "name": "S Fort Floor",
+            "trigger_id": 1778,
+            "name": "HealBot Ramp South",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1812,
+            "name": "Map Divide",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1777,
+            "name": "HealBot Ramp North",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1808,
+            "name": "Lower Masog Platform",
+            "order": 9,
             "passthrough": 0
         }
     ]

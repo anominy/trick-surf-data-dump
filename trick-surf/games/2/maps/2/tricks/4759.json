@@ -1,15 +1,15 @@
 {
     "id": 4759,
     "map_id": 2,
-    "name": "Crate Glide Lane",
-    "date": "2021-06-04T09:46:58.000Z",
-    "author": "Fragzy4",
-    "author_id": 1,
-    "last_updated": "2021-06-04T10:04:46.000Z",
+    "name": "Ghastly Divide",
+    "date": "2022-04-18T14:42:20.000Z",
+    "author": "dim",
+    "author_id": 174,
+    "last_updated": "2024-06-15T15:28:14.000Z",
     "last_updated_author_id": 1,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,26 +17,26 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 114,
-            "name": "Crate Spawn 2",
+            "trigger_id": 136,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 113,
-            "name": "Crate Spawn 1",
+            "trigger_id": 133,
+            "name": "Spawn House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 133,
+            "name": "Spawn House Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 159,
-            "name": "Stairs 3",
+            "trigger_id": 130,
+            "name": "Spawn Divide Glass",
             "order": 3,
             "passthrough": 0
         }

@@ -1,0 +1,44 @@
+{
+    "id": 5391,
+    "map_id": 7,
+    "name": "Kano to Sign",
+    "date": "2022-05-24T22:33:09.000Z",
+    "author": "Нычка богрола",
+    "author_id": 385,
+    "last_updated": "2023-10-13T18:00:47.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 804,
+            "name": "Section Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 811,
+            "name": "Ski Sign",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

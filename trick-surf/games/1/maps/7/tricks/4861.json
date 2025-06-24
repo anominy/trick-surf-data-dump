@@ -1,31 +1,43 @@
 {
     "id": 4861,
     "map_id": 7,
-    "name": "Aug Ledge Strafe",
-    "date": "2021-09-09T17:01:13.000Z",
-    "author": "Fragzy4",
-    "author_id": 1,
-    "last_updated": "2021-09-10T08:07:14.000Z",
-    "last_updated_author_id": 48,
+    "name": "Orbit",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-21T13:48:36.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
     "tier": 2,
     "subtier": 1,
-    "max_prestrafe": 398,
-    "completions": "106",
-    "players_completed": "39",
+    "max_prestrafe": 406,
+    "completions": "1354",
+    "players_completed": "221",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 895,
-            "name": "Aug Ledge",
+            "trigger_id": 863,
+            "name": "Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 638,
-            "name": "SMG Platform",
+            "trigger_id": 697,
+            "name": "Banana Ramp",
             "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 842,
+            "name": "T2 Left Wing",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 3,
             "passthrough": 0
         }
     ]

@@ -1,10 +1,10 @@
 {
     "id": 10946,
     "map_id": 8,
-    "name": "For Influx ^_^",
-    "date": "2024-08-16T15:45:46.000Z",
-    "author": "synq_",
-    "author_id": 6763,
+    "name": "Golden Nitrus Rise",
+    "date": "2024-08-17T05:04:15.000Z",
+    "author": "Schewpid",
+    "author_id": 25884,
     "last_updated": null,
     "last_updated_author_id": 480,
     "active": 1,
@@ -17,27 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3259,
-            "name": "UFO Roof",
+            "trigger_id": 1027,
+            "name": "Stage 2 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 698,
-            "name": "Kevin Ramp",
+            "trigger_id": 1028,
+            "name": "Stage 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 745,
-            "name": "Starlight North",
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 744,
-            "name": "Sriracha Tip",
+            "trigger_id": 1083,
+            "name": "Upper Ramp",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1055,
+            "name": "Stage 5 Platform",
+            "order": 4,
             "passthrough": 0
         }
     ]

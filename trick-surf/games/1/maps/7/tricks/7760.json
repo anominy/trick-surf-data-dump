@@ -1,0 +1,86 @@
+{
+    "id": 7760,
+    "map_id": 7,
+    "name": "Vórtice",
+    "date": "2023-06-27T20:24:13.000Z",
+    "author": "ᴛꜱ٠ winter",
+    "author_id": 406,
+    "last_updated": "2023-06-27T20:39:29.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "6",
+    "players_completed": "4",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 703,
+            "name": "Behind Long Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 793,
+            "name": "Over Long Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 703,
+            "name": "Behind Long Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 793,
+            "name": "Over Long Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 703,
+            "name": "Behind Long Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 700,
+            "name": "Behind Banana Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,15 +1,15 @@
 {
     "id": 5729,
     "map_id": 8,
-    "name": "El gran Honcho",
-    "date": "2022-06-23T22:46:09.000Z",
-    "author": "Dzhan",
-    "author_id": null,
-    "last_updated": "2023-10-13T19:35:22.000Z",
-    "last_updated_author_id": 457,
+    "name": "Octane",
+    "date": "2022-07-01T21:07:37.000Z",
+    "author": "Frag",
+    "author_id": 1,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,39 +17,27 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 1031,
+            "name": "Stage 2 Upper Left Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1028,
+            "name": "Stage 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 679,
-            "name": "Ground Teleporter",
+            "trigger_id": 1110,
+            "name": "West Upper Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 1037,
+            "name": "Stage 3 Platform",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 785,
-            "name": "Triomino 2",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 693,
-            "name": "Jail Ledge",
-            "order": 5,
             "passthrough": 0
         }
     ]

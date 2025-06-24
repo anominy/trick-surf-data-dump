@@ -1,91 +1,67 @@
 {
     "id": 5674,
     "map_id": 8,
-    "name": "I Love Chief",
-    "date": "2022-06-14T02:08:13.000Z",
-    "author": "chief",
-    "author_id": 75,
-    "last_updated": "2022-06-14T02:18:12.000Z",
-    "last_updated_author_id": 75,
+    "name": "V for Vendetta",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "55",
-    "players_completed": "45",
+    "completions": "49",
+    "players_completed": "31",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 747,
-            "name": "T-Spawn",
+            "trigger_id": 984,
+            "name": "Red Circle",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 663,
-            "name": "Center Wedge Platform",
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 784,
-            "name": "Triomino 1",
+            "trigger_id": 953,
+            "name": "Lower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 676,
-            "name": "Fish Hook Ramp",
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 658,
-            "name": "Rear T2 Tower Wedge",
+            "trigger_id": 943,
+            "name": "Large Cylinder",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 771,
-            "name": "Telepad Water",
+            "trigger_id": 1084,
+            "name": "V Ramp",
             "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1050,
-            "name": "Weapons Tele Ledge",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 727,
-            "name": "Rear Spawn Ramp",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 787,
-            "name": "Triomino 3",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 714,
-            "name": "Mario Room Teleporter",
-            "order": 11,
             "passthrough": 0
         }
     ]

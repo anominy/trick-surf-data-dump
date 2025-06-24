@@ -1,0 +1,74 @@
+{
+    "id": 13119,
+    "map_id": 4,
+    "name": "Pwned 79",
+    "date": "2025-06-05T16:42:24.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2025-06-05T16:53:37.000Z",
+    "last_updated_author_id": 181,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 384,
+            "name": "Spawn Ceiling",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 346,
+            "name": "Map Divide",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 384,
+            "name": "Spawn Ceiling",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 366,
+            "name": "Shotgun Water",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 355,
+            "name": "Ramp 1",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 405,
+            "name": "Upper Shotgun",
+            "order": 6,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 382,
+            "name": "Skyplate",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

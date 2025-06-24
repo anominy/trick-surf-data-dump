@@ -1,0 +1,80 @@
+{
+    "id": 9727,
+    "map_id": 9,
+    "name": "End Of Time",
+    "date": "2024-04-22T07:43:05.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-04-24T00:22:35.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "21",
+    "players_completed": "14",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1609,
+            "name": "SW Grass Pillar Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1517,
+            "name": "S West Block",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1519,
+            "name": "S Yellow Ramp 8",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1593,
+            "name": "SW Blue Ramp 5",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1666,
+            "name": "W Orange Ramp 5",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1735,
+            "name": "SW Between Broken Pillars",
+            "order": 4,
+            "passthrough": 2
+        },
+        {
+            "trigger_id": 1409,
+            "name": "NW Blue Ramp 3",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1407,
+            "name": "NW Blue Ramp 2",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1193,
+            "name": "C Undergrounds Entry West",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1189,
+            "name": "C Undergrounds",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

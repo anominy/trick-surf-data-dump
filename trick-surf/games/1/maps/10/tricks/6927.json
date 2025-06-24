@@ -1,97 +1,37 @@
 {
     "id": 6927,
     "map_id": 10,
-    "name": "Kitchen Life",
-    "date": "2023-02-02T14:22:34.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-02-02T14:28:51.000Z",
-    "last_updated_author_id": 347,
+    "name": "Top Hop",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 1,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "10",
-    "players_completed": "8",
+    "max_prestrafe": null,
+    "completions": "150",
+    "players_completed": "55",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1599,
-            "name": "SE Rooftops",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1595,
-            "name": "SE Red Ramp 1",
+            "trigger_id": 1845,
+            "name": "Spawn Slope",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1564,
-            "name": "SE East Ledge",
+            "trigger_id": 1852,
+            "name": "Top Platform",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1607,
-            "name": "SE Structure Top",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1588,
-            "name": "SE Orange Ramp 1",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1284,
-            "name": "E Red Ramp 3",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1286,
-            "name": "E Red Ramp 4",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1284,
-            "name": "E Red Ramp 3",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1588,
-            "name": "SE Orange Ramp 1",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1562,
-            "name": "SE Brown Ramp 3",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1775,
-            "name": "SE Large Pillar Gap East",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1583,
-            "name": "SE Large Pillar Gap North",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1607,
-            "name": "SE Structure Top",
-            "order": 12,
             "passthrough": 0
         }
     ]

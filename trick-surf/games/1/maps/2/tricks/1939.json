@@ -1,7 +1,7 @@
 {
     "id": 1939,
     "map_id": 2,
-    "name": "Complex Claud",
+    "name": "Advanced Emblem",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,65 +9,59 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "1059",
-    "players_completed": "47",
+    "completions": "50",
+    "players_completed": "37",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 131,
-            "name": "House 1 Floor 2 Platform",
+            "trigger_id": 136,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 132,
-            "name": "House 1 Floor 2 Ramp",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 137,
-            "name": "House 2 Floor 1 Ramp",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 140,
+            "trigger_id": 121,
             "name": "House 2 Floor 2 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 129,
-            "name": "House 1 Floor 1 Ramp",
+            "trigger_id": 77,
+            "name": "Castle House Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
-            "name": "Map Divide",
+            "trigger_id": 121,
+            "name": "House 2 Floor 2 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 132,
-            "name": "House 1 Floor 2 Ramp",
+            "trigger_id": 158,
+            "name": "Superhouse Floor 3 Ramp Front",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
-            "name": "Map Divide",
+            "trigger_id": 81,
+            "name": "Castle Platform",
             "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 137,
-            "name": "House 2 Floor 1 Ramp",
-            "order": 8,
             "passthrough": 0
         }
     ]

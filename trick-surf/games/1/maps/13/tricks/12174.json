@@ -1,37 +1,97 @@
 {
     "id": 12174,
     "map_id": 13,
-    "name": "Coke and Rum",
-    "date": "2025-02-06T15:11:22.000Z",
-    "author": "Neuse",
-    "author_id": 10899,
-    "last_updated": "2025-02-06T15:57:02.000Z",
-    "last_updated_author_id": 10899,
+    "name": "Blood Path",
+    "date": "2025-02-06T17:50:52.000Z",
+    "author": "djum",
+    "author_id": 2687,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
     "tier": 7,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "5",
-    "players_completed": "5",
+    "completions": "2",
+    "players_completed": "2",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3500,
-            "name": "Tower Platform",
+            "trigger_id": 3547,
+            "name": "Turtle IBeam Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3330,
-            "name": "Lain Ramp",
+            "trigger_id": 3556,
+            "name": "Turtle Ramp Slant",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3354,
-            "name": "Monkey Floor",
+            "trigger_id": 3566,
+            "name": "Turtle Large Left Ramp",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3483,
+            "name": "Through East Turtle Inner",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3430,
+            "name": "Snorkel Right Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3552,
+            "name": "Turtle Inner Rear Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3503,
+            "name": "Through South Turtle Inner",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3580,
+            "name": "Through East Subway",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3458,
+            "name": "Subway Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3584,
+            "name": "Through West Subway",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3317,
+            "name": "Faucet Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3480,
+            "name": "Through E Monkey",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3432,
+            "name": "South Corner Inner Monkey",
+            "order": 12,
             "passthrough": 0
         }
     ]

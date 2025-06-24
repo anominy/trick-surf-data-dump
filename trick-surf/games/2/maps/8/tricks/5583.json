@@ -1,15 +1,15 @@
 {
     "id": 5583,
     "map_id": 8,
-    "name": "Addition",
-    "date": "2022-05-26T22:21:28.000Z",
-    "author": "chief",
-    "author_id": 75,
-    "last_updated": "2022-05-29T08:43:45.000Z",
-    "last_updated_author_id": 209,
+    "name": "Mini Pyramid Bounce",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,51 +17,39 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 780,
-            "name": "Tower Platform",
+            "trigger_id": 1037,
+            "name": "Stage 3 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 652,
-            "name": "Banana Ramp",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 764,
-            "name": "T2 Right Wing",
+            "trigger_id": 1073,
+            "name": "Under Red Circle",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 922,
+            "name": "Green Circle",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 727,
-            "name": "Rear Spawn Ramp",
+            "trigger_id": 923,
+            "name": "Green Circle Mini Pyramids",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 771,
-            "name": "Telepad Water",
+            "trigger_id": 984,
+            "name": "Red Circle",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 704,
-            "name": "Long Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1029,
-            "name": "Healbot Plus",
-            "order": 7,
             "passthrough": 0
         }
     ]

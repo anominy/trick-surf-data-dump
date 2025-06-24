@@ -1,12 +1,12 @@
 {
     "id": 11114,
     "map_id": 13,
-    "name": "Inevitable Meanness",
-    "date": "2024-08-27T20:29:47.000Z",
-    "author": "CrazyTroll",
-    "author_id": 17974,
-    "last_updated": "2024-09-03T13:03:34.000Z",
-    "last_updated_author_id": 147,
+    "name": "Impossible Godsnipe",
+    "date": "2024-08-28T08:13:00.000Z",
+    "author": "Schewpid",
+    "author_id": 25884,
+    "last_updated": null,
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
     "tier": 8,
@@ -17,21 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3451,
-            "name": "T2 Roof",
+            "trigger_id": 3511,
+            "name": "Top Left Mini Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3455,
-            "name": "T2 Wing",
+            "trigger_id": 3351,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3514,
-            "name": "Turtle Floor",
+            "trigger_id": 3298,
+            "name": "Crew Ramp",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3562,
+            "name": "Under Prison",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3437,
+            "name": "Sphere Floor",
+            "order": 4,
             "passthrough": 0
         }
     ]

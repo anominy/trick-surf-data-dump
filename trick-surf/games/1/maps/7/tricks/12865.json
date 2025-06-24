@@ -1,0 +1,44 @@
+{
+    "id": 12865,
+    "map_id": 7,
+    "name": "Alteration To Top",
+    "date": "2025-05-19T20:29:02.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-20T18:01:26.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "28",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 707,
+            "name": "Bonus Cube",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 819,
+            "name": "Starlight South",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

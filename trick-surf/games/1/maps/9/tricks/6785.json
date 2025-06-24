@@ -1,0 +1,56 @@
+{
+    "id": 6785,
+    "map_id": 9,
+    "name": "Hard King's Wrap Return",
+    "date": "2023-02-08T11:07:14.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2023-02-08T11:07:29.000Z",
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "40",
+    "players_completed": "23",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1571,
+            "name": "SE Spawn Brown Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1533,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1535,
+            "name": "SE Brown Ramp 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1557,
+            "name": "SE Large Pillar Gap West",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1533,
+            "name": "SE Brown Ramp 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1572,
+            "name": "SE Spawn Floor",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

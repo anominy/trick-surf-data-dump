@@ -1,55 +1,73 @@
 {
     "id": 5618,
     "map_id": 8,
-    "name": "Fish can Fly",
-    "date": "2022-06-03T21:48:17.000Z",
-    "author": "๖ۣۜKïñgYo§hi ٿـ",
-    "author_id": 457,
-    "last_updated": "2023-10-13T14:17:06.000Z",
-    "last_updated_author_id": 457,
+    "name": "Hi",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "112",
-    "players_completed": "55",
+    "completions": "68",
+    "players_completed": "42",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 685,
-            "name": "Healbot Platform",
+            "trigger_id": 886,
+            "name": "Bonus Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 658,
-            "name": "Rear T2 Tower Wedge",
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 676,
-            "name": "Fish Hook Ramp",
+            "trigger_id": 1084,
+            "name": "V Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 649,
-            "name": "Awp Ramp",
+            "trigger_id": 1047,
+            "name": "Stage 4 Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 762,
-            "name": "T2 Left Wing",
+            "trigger_id": 1084,
+            "name": "V Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 738,
-            "name": "Ski Sign",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 984,
+            "name": "Red Circle",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1092,
+            "name": "West Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1047,
+            "name": "Stage 4 Platform",
+            "order": 8,
             "passthrough": 0
         }
     ]

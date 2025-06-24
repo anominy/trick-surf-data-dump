@@ -1,0 +1,80 @@
+{
+    "id": 10229,
+    "map_id": 9,
+    "name": "CatMeow",
+    "date": "2024-06-14T23:20:39.000Z",
+    "author": "leon",
+    "author_id": 1071,
+    "last_updated": "2024-06-15T09:53:41.000Z",
+    "last_updated_author_id": 18496,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "69",
+    "players_completed": "42",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1227,
+            "name": "E Large Structure Green Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1224,
+            "name": "E Large Structure Booster North",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1375,
+            "name": "NE Teal Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1402,
+            "name": "NW Black Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1403,
+            "name": "NW Black Ramp 2 Booster 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1298,
+            "name": "N Teal Ramp 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1402,
+            "name": "NW Black Ramp 2",
+            "order": 5,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1119,
+            "name": "C Blue Ramp 1",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1519,
+            "name": "S Yellow Ramp 8",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1571,
+            "name": "SE Spawn Brown Platform",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

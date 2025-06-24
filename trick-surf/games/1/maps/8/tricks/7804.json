@@ -1,61 +1,85 @@
 {
     "id": 7804,
     "map_id": 8,
-    "name": "Kingdom Of Souls",
-    "date": "2023-07-10T20:18:15.000Z",
-    "author": "зима",
-    "author_id": 406,
-    "last_updated": "2023-11-07T18:18:02.000Z",
+    "name": "Wall Top Return",
+    "date": "2023-07-10T23:15:24.000Z",
+    "author": "Gengis Khan",
+    "author_id": 4072,
+    "last_updated": null,
     "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
-    "tier": 8,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "11",
-    "players_completed": "10",
+    "completions": "79",
+    "players_completed": "33",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 696,
-            "name": "Jail Wall",
+            "trigger_id": 1088,
+            "name": "Wall Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 953,
+            "name": "Lower Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 762,
-            "name": "T2 Left Wing",
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 676,
-            "name": "Fish Hook Ramp",
+            "trigger_id": 904,
+            "name": "Cube",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 649,
-            "name": "Awp Ramp",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 706,
-            "name": "Center Wedge",
+            "trigger_id": 977,
+            "name": "Platform Elbows",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 684,
-            "name": "Healbot Ladder",
+            "trigger_id": 943,
+            "name": "Large Cylinder",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1083,
+            "name": "Upper Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1088,
+            "name": "Wall Top",
+            "order": 10,
             "passthrough": 0
         }
     ]

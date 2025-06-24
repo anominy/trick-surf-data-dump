@@ -1,15 +1,15 @@
 {
     "id": 12171,
     "map_id": 13,
-    "name": "Super EZ Strafe",
-    "date": "2025-02-05T20:00:58.000Z",
-    "author": "benlol",
-    "author_id": 32140,
-    "last_updated": "2025-02-05T20:04:20.000Z",
-    "last_updated_author_id": 20730,
+    "name": "Kaprun",
+    "date": "2025-02-06T17:05:19.000Z",
+    "author": "Natsu",
+    "author_id": 123,
+    "last_updated": "2025-02-06T17:23:59.000Z",
+    "last_updated_author_id": 123,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,15 +17,63 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3510,
-            "name": "Turtle Big Ramp Floor",
+            "trigger_id": 3531,
+            "name": "Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3375,
-            "name": "Pit Ramp",
+            "trigger_id": 3317,
+            "name": "Faucet Ramp",
             "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3274,
+            "name": "Acid Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3384,
+            "name": "Parallel Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3403,
+            "name": "Promise Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3378,
+            "name": "Over Fall Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3349,
+            "name": "M8 Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3313,
+            "name": "Error South Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3485,
+            "name": "Through Funnel Room",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3328,
+            "name": "Funnel Floor",
+            "order": 9,
             "passthrough": 0
         }
     ]

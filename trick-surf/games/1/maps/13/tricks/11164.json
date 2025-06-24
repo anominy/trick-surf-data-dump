@@ -1,61 +1,49 @@
 {
     "id": 11164,
     "map_id": 13,
-    "name": "Alxitector",
-    "date": "2024-08-28T10:10:26.000Z",
-    "author": "nextir",
-    "author_id": 2994,
-    "last_updated": "2024-09-11T13:09:09.000Z",
-    "last_updated_author_id": 2994,
+    "name": "Shorty",
+    "date": "2024-08-29T20:12:14.000Z",
+    "author": "ᴛꜱ٠ jnssurf ツ",
+    "author_id": 92,
+    "last_updated": null,
+    "last_updated_author_id": 92,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "77",
-    "players_completed": "42",
+    "completions": "45",
+    "players_completed": "20",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3513,
-            "name": "Turtle Boost Platform",
+            "trigger_id": 3521,
+            "name": "Tower Crane Cabin",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3512,
-            "name": "Turtle Boost",
+            "trigger_id": 3342,
+            "name": "Lonely Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3519,
-            "name": "Turtle Inner Forward Ramp",
+            "trigger_id": 3566,
+            "name": "Turtle Large Left Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3522,
-            "name": "Turtle Inner Rear Ramp",
+            "trigger_id": 3471,
+            "name": "T2 Wing",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3564,
-            "name": "Turtle Large Left Ramp",
+            "trigger_id": 3394,
+            "name": "Prison IBeam",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3455,
-            "name": "T2 Wing",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3384,
-            "name": "Prison Roof",
-            "order": 6,
             "passthrough": 0
         }
     ]

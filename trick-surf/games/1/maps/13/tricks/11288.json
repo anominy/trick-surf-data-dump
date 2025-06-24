@@ -1,55 +1,49 @@
 {
     "id": 11288,
     "map_id": 13,
-    "name": "Hard Bober",
-    "date": "2024-09-03T13:43:14.000Z",
-    "author": "nextir",
-    "author_id": 2994,
-    "last_updated": "2024-09-03T14:40:35.000Z",
-    "last_updated_author_id": 2994,
+    "name": "Hope",
+    "date": "2024-09-04T03:30:10.000Z",
+    "author": "winter",
+    "author_id": 406,
+    "last_updated": "2024-09-04T13:41:04.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
     "tier": 6,
-    "subtier": 3,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "4",
-    "players_completed": "4",
+    "completions": "11",
+    "players_completed": "8",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3433,
+            "trigger_id": 3455,
             "name": "Strafes Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3392,
-            "name": "Right Pillar",
+            "trigger_id": 3351,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3422,
-            "name": "Spine Ramp 2",
+            "trigger_id": 3471,
+            "name": "T2 Wing",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3420,
-            "name": "Spine Ramp 1",
+            "trigger_id": 3324,
+            "name": "Flat Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3495,
-            "name": "Top Right Mini Ramp",
+            "trigger_id": 3390,
+            "name": "Prison Bags",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3393,
-            "name": "Right Pillar Floor",
-            "order": 5,
             "passthrough": 0
         }
     ]

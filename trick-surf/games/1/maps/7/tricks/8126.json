@@ -1,0 +1,68 @@
+{
+    "id": 8126,
+    "map_id": 7,
+    "name": "L2 Town of Dion",
+    "date": "2023-11-03T10:34:02.000Z",
+    "author": "trikz_shineska",
+    "author_id": 259,
+    "last_updated": null,
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "10",
+    "players_completed": "8",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 842,
+            "name": "T2 Left Wing",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 878,
+            "name": "Under T2 Left Wing",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 798,
+            "name": "Rear T2 Tower Wedge",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 879,
+            "name": "Under T2 Right Wing",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 844,
+            "name": "T2 Right Wing",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

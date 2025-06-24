@@ -1,0 +1,62 @@
+{
+    "id": 5375,
+    "map_id": 7,
+    "name": "Motorsport",
+    "date": "2022-05-22T21:09:50.000Z",
+    "author": "chief",
+    "author_id": 75,
+    "last_updated": "2022-05-25T21:43:07.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 863,
+            "name": "Tower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 697,
+            "name": "Banana Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 804,
+            "name": "Section Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 760,
+            "name": "Jail Teleporter",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 752,
+            "name": "Jail Box 1",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

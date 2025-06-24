@@ -1,0 +1,38 @@
+{
+    "id": 12620,
+    "map_id": 7,
+    "name": "Bonus Stop",
+    "date": "2025-05-06T11:33:21.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-16T15:23:21.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 708,
+            "name": "Bonus Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 819,
+            "name": "Starlight South",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 709,
+            "name": "Bonus Ramp",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

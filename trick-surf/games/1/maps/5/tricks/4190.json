@@ -1,0 +1,56 @@
+{
+    "id": 4190,
+    "map_id": 5,
+    "name": "Hard Be Right Back",
+    "date": "2022-02-01T18:23:57.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": "2022-02-01T18:24:08.000Z",
+    "last_updated_author_id": 1,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "45",
+    "players_completed": "19",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 526,
+            "name": "Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 436,
+            "name": "Boosting Pool",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 491,
+            "name": "Pool Boost",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 471,
+            "name": "Main Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 530,
+            "name": "Top Pool Slants",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

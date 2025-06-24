@@ -1,55 +1,43 @@
 {
     "id": 5613,
     "map_id": 8,
-    "name": "Beginner Wrap",
-    "date": "2022-06-03T21:41:59.000Z",
-    "author": "๖ۣۜKïñgYo§hi ٿـ",
-    "author_id": 457,
-    "last_updated": "2023-10-13T14:15:53.000Z",
-    "last_updated_author_id": 457,
+    "name": "Cory Shaw",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-06-28T01:11:59.000Z",
+    "last_updated_author_id": 5,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "270",
-    "players_completed": "140",
+    "completions": "120",
+    "players_completed": "52",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 665,
-            "name": "CT-Spawn",
+            "trigger_id": 1024,
+            "name": "Stage 2 Lower Left Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1110,
+            "name": "West Upper Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 716,
-            "name": "Middle Wing",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 700,
-            "name": "Left Wing",
+            "trigger_id": 946,
+            "name": "Lever Platform",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 656,
-            "name": "Behind Tower",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 700,
-            "name": "Left Wing",
-            "order": 5,
             "passthrough": 0
         }
     ]

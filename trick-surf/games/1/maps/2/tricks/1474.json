@@ -1,7 +1,7 @@
 {
     "id": 1474,
     "map_id": 2,
-    "name": "T-Gap",
+    "name": "Rooftops",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,34 +9,34 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 1,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "91",
-    "players_completed": "42",
+    "max_prestrafe": null,
+    "completions": "721",
+    "players_completed": "174",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 85,
-            "name": "Castle House Roof Platform",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 84,
-            "name": "Castle House Ramp",
+            "trigger_id": 121,
+            "name": "House 2 Floor 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 113,
+            "name": "House 1 Floor 2 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 182,
-            "name": "Superhouse Floor 3 Ramp Top",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 3,
             "passthrough": 0
         }

@@ -1,67 +1,73 @@
 {
     "id": 6961,
     "map_id": 10,
-    "name": "Kassi's Last Slant Trick",
-    "date": "2023-02-06T11:59:00.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-02-07T21:47:53.000Z",
-    "last_updated_author_id": 347,
+    "name": "Simple Trip",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2023-02-26T17:23:06.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "79",
-    "players_completed": "20",
+    "completions": "130",
+    "players_completed": "33",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1323,
-            "name": "N High Platform Top",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1324,
-            "name": "N High Slant",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1338,
-            "name": "N Purple Ramp 3",
+            "trigger_id": 1833,
+            "name": "River Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1335,
-            "name": "N North Hole Platform",
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1336,
-            "name": "N North Hole Slants",
+            "trigger_id": 1812,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1384,
-            "name": "N White Ramp 5",
+            "trigger_id": 1773,
+            "name": "Curve Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1457,
-            "name": "NW Ground Slide",
+            "trigger_id": 1833,
+            "name": "River Ramp",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 1355,
-            "name": "N Top Ground",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
+            "order": 8,
             "passthrough": 0
         }
     ]

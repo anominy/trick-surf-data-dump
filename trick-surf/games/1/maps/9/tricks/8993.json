@@ -1,0 +1,62 @@
+{
+    "id": 8993,
+    "map_id": 9,
+    "name": "Hop & Strafe",
+    "date": "2024-02-18T19:27:22.000Z",
+    "author": "padu",
+    "author_id": 15902,
+    "last_updated": "2024-02-18T19:36:18.000Z",
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "64",
+    "players_completed": "25",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1419,
+            "name": "NW Jungle Dimy Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1406,
+            "name": "NW Black Ramp 2 Spine",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1406,
+            "name": "NW Black Ramp 2 Spine",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1427,
+            "name": "NW Jungle Pignu Corner",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1413,
+            "name": "NW Ground Slide",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1724,
+            "name": "N Divider",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1332,
+            "name": "N Upper Ground",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

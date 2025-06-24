@@ -1,0 +1,50 @@
+{
+    "id": 10591,
+    "map_id": 4,
+    "name": "VRise",
+    "date": "2024-07-07T04:02:20.000Z",
+    "author": "jessetooler",
+    "author_id": 4561,
+    "last_updated": "2025-05-16T19:35:17.000Z",
+    "last_updated_author_id": 15261,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 408,
+            "name": "V Wall Top Slant",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 357,
+            "name": "Ramp 3",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 346,
+            "name": "Map Divide",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 357,
+            "name": "Ramp 3",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 396,
+            "name": "Top Tele Water Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "id": 1793,
     "map_id": 2,
-    "name": "Insane Twister",
+    "name": "Alpha",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,7 +9,7 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,111 +17,63 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
+            "trigger_id": 136,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
             "trigger_id": 124,
-            "name": "Hole",
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 184,
-            "name": "Superramp Booster",
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 186,
-            "name": "Superramp Sides",
+            "trigger_id": 90,
+            "name": "Castle Shotgun Platform",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 161,
-            "name": "Superhouse Floor 1 Hole",
+            "trigger_id": 153,
+            "name": "Superhouse Floor 2 Ramp Sides",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 167,
-            "name": "Superhouse Floor 1 Window Front",
+            "trigger_id": 149,
+            "name": "Superhouse Floor 1 Window Sides",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 169,
-            "name": "Superhouse Floor 1 Window Sides",
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 167,
-            "name": "Superhouse Floor 1 Window Front",
+            "trigger_id": 162,
+            "name": "Superramp",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 186,
-            "name": "Superramp Sides",
+            "trigger_id": 81,
+            "name": "Castle Platform",
             "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 145,
-            "name": "Map Divide",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
-            "order": 13,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 14,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 145,
-            "name": "Map Divide",
-            "order": 15,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 16,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
-            "order": 17,
             "passthrough": 0
         }
     ]

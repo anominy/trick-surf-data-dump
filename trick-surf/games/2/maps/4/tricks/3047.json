@@ -1,0 +1,38 @@
+{
+    "id": 3047,
+    "map_id": 4,
+    "name": "Disco Pogo",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-01-20T22:15:48.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "1287",
+    "players_completed": "123",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 360,
+            "name": "Ramp 4",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 418,
+            "name": "Ramp 4 Boost",
+            "order": 1,
+            "passthrough": 1
+        }
+    ]
+}

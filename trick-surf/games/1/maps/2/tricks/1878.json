@@ -1,7 +1,7 @@
 {
     "id": 1878,
     "map_id": 2,
-    "name": "Elite Divide",
+    "name": "Hard Slantin'",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,41 +9,53 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "75",
-    "players_completed": "24",
+    "max_prestrafe": 406,
+    "completions": "1341",
+    "players_completed": "67",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 153,
-            "name": "Spawn Lower Ramp",
+            "trigger_id": 136,
+            "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 192,
-            "name": "Through Main Ramp",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
-            "name": "Map Divide",
+            "trigger_id": 125,
+            "name": "Main Ramp Slant",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 192,
-            "name": "Through Main Ramp",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 153,
-            "name": "Spawn Lower Ramp",
+            "trigger_id": 125,
+            "name": "Main Ramp Slant",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 121,
+            "name": "House 2 Floor 2 Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 77,
+            "name": "Castle House Ramp",
+            "order": 6,
             "passthrough": 0
         }
     ]

@@ -1,15 +1,15 @@
 {
     "id": 5608,
     "map_id": 8,
-    "name": "Speed Ticket",
-    "date": "2022-06-03T17:30:10.000Z",
-    "author": "KingYoshi // solidsurf.info",
-    "author_id": 457,
-    "last_updated": "2024-06-16T22:59:40.000Z",
-    "last_updated_author_id": 406,
+    "name": "Rockwool",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,33 +17,81 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 737,
-            "name": "Side Spawn Upper Platform",
+            "trigger_id": 886,
+            "name": "Bonus Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 734,
-            "name": "Side Spawn Booster",
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 655,
-            "name": "Behind Main Ramp",
+            "trigger_id": 1084,
+            "name": "V Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 742,
-            "name": "Spawn Roof Water",
+            "trigger_id": 1103,
+            "name": "West Ramp 3",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 914,
+            "name": "East Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 988,
+            "name": "South Box",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1103,
+            "name": "West Ramp 3",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 922,
+            "name": "Green Circle",
+            "order": 12,
             "passthrough": 0
         }
     ]

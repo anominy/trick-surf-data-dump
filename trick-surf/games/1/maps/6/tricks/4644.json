@@ -1,0 +1,50 @@
+{
+    "id": 4644,
+    "map_id": 6,
+    "name": "Glass Blonde From Spawn",
+    "date": "2022-03-06T18:18:04.000Z",
+    "author": "Addicted",
+    "author_id": 209,
+    "last_updated": "2022-03-12T23:01:09.000Z",
+    "last_updated_author_id": 174,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "174",
+    "players_completed": "42",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 646,
+            "name": "Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 613,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 586,
+            "name": "Glass Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 613,
+            "name": "Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 646,
+            "name": "Spawn",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

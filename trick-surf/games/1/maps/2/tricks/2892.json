@@ -1,0 +1,74 @@
+{
+    "id": 2892,
+    "map_id": 2,
+    "name": "Elite Junz0r from spawn",
+    "date": "2021-10-11T18:03:22.000Z",
+    "author": "Ghostface",
+    "author_id": 5,
+    "last_updated": "2021-10-11T18:37:47.000Z",
+    "last_updated_author_id": 5,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "9",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 102,
+            "name": "Grass Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 124,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 107,
+            "name": "Hole Shotgun",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 106,
+            "name": "Hole",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 145,
+            "name": "Superhouse Floor 1 Ramp Sides",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 141,
+            "name": "Stone Wall",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 78,
+            "name": "Castle House Roof Platform",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

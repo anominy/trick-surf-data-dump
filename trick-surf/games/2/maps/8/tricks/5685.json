@@ -1,15 +1,15 @@
 {
     "id": 5685,
     "map_id": 8,
-    "name": "Echo",
-    "date": "2022-06-17T18:56:07.000Z",
-    "author": "Нычка богрола",
-    "author_id": 385,
-    "last_updated": "2023-10-13T17:36:44.000Z",
-    "last_updated_author_id": 457,
+    "name": "Delving into Sync's Mancave",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2024-04-10T19:41:18.000Z",
+    "last_updated_author_id": 1137,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,39 +17,39 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 718,
-            "name": "Mini Ramp Tip",
+            "trigger_id": 1024,
+            "name": "Stage 2 Lower Left Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 719,
-            "name": "Mini Ramp",
+            "trigger_id": 1110,
+            "name": "West Upper Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 683,
-            "name": "Hamburger",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 743,
-            "name": "Sriracha",
+            "trigger_id": 1110,
+            "name": "West Upper Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
-            "order": 4,
-            "passthrough": 0
+            "trigger_id": 1092,
+            "name": "West Ramp",
+            "order": 3,
+            "passthrough": 1
         },
         {
-            "trigger_id": 685,
-            "name": "Healbot Platform",
-            "order": 5,
+            "trigger_id": 1067,
+            "name": "The Mancave",
+            "order": 4,
             "passthrough": 0
         }
     ]

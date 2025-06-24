@@ -1,15 +1,15 @@
 {
     "id": 6980,
     "map_id": 10,
-    "name": "Hard Steve's Phoenix",
-    "date": "2023-02-08T11:25:02.000Z",
-    "author": "Steve",
+    "name": "King's Return",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "King",
     "author_id": 10,
-    "last_updated": "2024-06-24T17:00:39.000Z",
-    "last_updated_author_id": 147,
+    "last_updated": "2023-03-02T19:50:46.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,57 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1601,
-            "name": "SE Spawn Brown Platform",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1558,
-            "name": "SE Brown Ramp 1",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
+            "trigger_id": 1833,
+            "name": "River Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1597,
-            "name": "SE Red Ramp 2",
+            "trigger_id": 1854,
+            "name": "Top TP Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1775,
-            "name": "SE Large Pillar Gap East",
+            "trigger_id": 1833,
+            "name": "River Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1551,
-            "name": "SE Black Ramp 4",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1267,
-            "name": "E Brown Ramp 4",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1269,
-            "name": "E Brown Ramp 5",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1413,
-            "name": "NE Lower Rooftops",
-            "order": 8,
             "passthrough": 0
         }
     ]

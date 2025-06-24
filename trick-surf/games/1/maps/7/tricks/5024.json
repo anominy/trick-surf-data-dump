@@ -1,0 +1,50 @@
+{
+    "id": 5024,
+    "map_id": 7,
+    "name": "Anime Gap",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "LOL",
+    "author_id": 3654,
+    "last_updated": "2024-03-09T15:26:02.000Z",
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "310",
+    "players_completed": "102",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 767,
+            "name": "Left Wing Tip",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 766,
+            "name": "Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 865,
+            "name": "Tower Sign",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

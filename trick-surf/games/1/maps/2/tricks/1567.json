@@ -1,7 +1,7 @@
 {
     "id": 1567,
     "map_id": 2,
-    "name": "Surf and Turf!",
+    "name": "Medi Jump",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,35 +9,23 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "87",
-    "players_completed": "34",
+    "max_prestrafe": null,
+    "completions": "628",
+    "players_completed": "55",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
-            "name": "Spawn Top",
+            "trigger_id": 109,
+            "name": "House 1 Floor 1 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 134,
+            "name": "Spawn Lower Ramp",
             "order": 1,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 124,
-            "name": "Hole",
-            "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 172,
-            "name": "Superhouse Floor 2 Ramp Ends",
-            "order": 3,
             "passthrough": 0
         }
     ]

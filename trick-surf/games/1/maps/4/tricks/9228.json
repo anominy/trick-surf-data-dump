@@ -1,0 +1,104 @@
+{
+    "id": 9228,
+    "map_id": 4,
+    "name": "merahop",
+    "date": "2024-03-10T21:40:00.000Z",
+    "author": "LOL",
+    "author_id": 3654,
+    "last_updated": "2024-03-23T22:47:46.000Z",
+    "last_updated_author_id": 15261,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "23",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 309,
+            "name": "Behind Garage Platform 3",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 308,
+            "name": "Behind Garage Platform 2",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 325,
+            "name": "Inside Garage Ground Side",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 324,
+            "name": "Inside Garage Ground",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 346,
+            "name": "Map Divide",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 324,
+            "name": "Inside Garage Ground",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 325,
+            "name": "Inside Garage Ground Side",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 393,
+            "name": "Top River",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 384,
+            "name": "Spawn Ceiling",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 409,
+            "name": "Waterfall",
+            "order": 8,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 346,
+            "name": "Map Divide",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 384,
+            "name": "Spawn Ceiling",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 395,
+            "name": "Top Tele Water",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 335,
+            "name": "Jail Tele Water",
+            "order": 12,
+            "passthrough": 0
+        }
+    ]
+}

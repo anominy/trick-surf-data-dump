@@ -1,0 +1,56 @@
+{
+    "id": 7035,
+    "map_id": 10,
+    "name": "Bog's Climb",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-02-25T14:38:48.000Z",
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1841,
+            "name": "Spawn LvL 2",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1810,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1833,
+            "name": "River Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1862,
+            "name": "Tower Window South",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1857,
+            "name": "Tower Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

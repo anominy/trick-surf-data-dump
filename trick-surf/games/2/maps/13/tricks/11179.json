@@ -1,56 +1,50 @@
 {
     "id": 11179,
     "map_id": 13,
-    "name": "Chimney Dive",
-    "date": "2024-08-29T20:57:01.000Z",
+    "name": "Flat Walk",
+    "date": "2024-08-30T00:59:42.000Z",
     "author": "CrazyTroll",
-    "author_id": 17974,
-    "last_updated": null,
-    "last_updated_author_id": 2994,
+    "author_id": 17957,
+    "last_updated": "2024-08-30T01:08:50.000Z",
+    "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
     "tier": 6,
-    "subtier": 1,
+    "subtier": 3,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3406,
-            "name": "Snake Top",
+            "trigger_id": 3548,
+            "name": "Turtle Inner Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3368,
-            "name": "Over Faucet Ramp Teleport",
+            "trigger_id": 3320,
+            "name": "Faucet Under Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3312,
-            "name": "Faucet Ramp",
+            "trigger_id": 3324,
+            "name": "Flat Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3352,
-            "name": "Middle T2 Ramp",
+            "trigger_id": 3290,
+            "name": "Cage Lower Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3319,
-            "name": "Flat Ramp",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3498,
-            "name": "Tower Floor",
-            "order": 5,
-            "passthrough": 0
+            "trigger_id": 3502,
+            "name": "Through South Cage Booster",
+            "order": 3,
+            "passthrough": 1
         }
     ]
 }

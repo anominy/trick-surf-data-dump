@@ -1,0 +1,50 @@
+{
+    "id": 9402,
+    "map_id": 7,
+    "name": "Aberrant",
+    "date": "2024-03-28T10:31:53.000Z",
+    "author": "ᴛꜱ٠ synq_",
+    "author_id": 6763,
+    "last_updated": null,
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3176,
+            "name": "Mario Room Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 779,
+            "name": "Mario Jail Teleporter",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 740,
+            "name": "Hamburger",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 788,
+            "name": "Mini Ramp Tip",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

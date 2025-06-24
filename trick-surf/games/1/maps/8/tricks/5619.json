@@ -1,31 +1,73 @@
 {
     "id": 5619,
     "map_id": 8,
-    "name": "T2 Strafe",
-    "date": "2022-06-03T21:50:20.000Z",
-    "author": "Unknown",
+    "name": "Highlyf",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2023-10-14T17:56:10.000Z",
-    "last_updated_author_id": 406,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "30283",
-    "players_completed": "170",
+    "completions": "77",
+    "players_completed": "44",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 768,
-            "name": "T2 Tower Platform",
+            "trigger_id": 1061,
+            "name": "Stage 6 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 1060,
+            "name": "Stage 6 Booster",
             "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 992,
+            "name": "South Loop",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1092,
+            "name": "West Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 963,
+            "name": "North Loop",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 895,
+            "name": "Cannon Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 886,
+            "name": "Bonus Platform",
+            "order": 8,
             "passthrough": 0
         }
     ]

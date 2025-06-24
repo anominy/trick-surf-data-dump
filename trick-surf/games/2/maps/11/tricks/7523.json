@@ -1,15 +1,15 @@
 {
     "id": 7523,
     "map_id": 11,
-    "name": "Roots",
-    "date": "2023-05-05T11:19:44.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": null,
+    "name": "Line Sniffer 9000",
+    "date": "2023-05-06T18:44:18.000Z",
+    "author": "Paul",
+    "author_id": 8969,
+    "last_updated": "2023-05-20T17:22:56.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,51 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1990,
-            "name": "SHORTCUT Top",
+            "trigger_id": 1921,
+            "name": "Center Trash",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1842,
-            "name": "Fence 45",
+            "trigger_id": 1976,
+            "name": "Half Pipe Left Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1843,
-            "name": "Fence Base",
+            "trigger_id": 1978,
+            "name": "Half Pipe Right Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2129,
-            "name": "SHORTCUT Hole",
+            "trigger_id": 2282,
+            "name": "U Curvy Boi",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2022,
-            "name": "The Longest Ramp",
+            "trigger_id": 2287,
+            "name": "U Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1796,
-            "name": "Tucksy's Tunnel Ramp",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2016,
-            "name": "THE CUBE Front",
+            "trigger_id": 1902,
+            "name": "Big H Curvy Boi Upper",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1843,
-            "name": "Fence Base",
-            "order": 7,
             "passthrough": 0
         }
     ]

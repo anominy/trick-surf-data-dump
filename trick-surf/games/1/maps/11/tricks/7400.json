@@ -1,37 +1,55 @@
 {
     "id": 7400,
     "map_id": 11,
-    "name": "Main Wrap",
-    "date": "2023-04-16T00:42:36.000Z",
-    "author": "Xiao",
-    "author_id": 103,
-    "last_updated": "2023-05-20T17:30:16.000Z",
+    "name": "The Thicc Blue",
+    "date": "2023-04-16T13:55:33.000Z",
+    "author": "Paul",
+    "author_id": 8969,
+    "last_updated": "2023-05-20T18:28:16.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 3,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "740",
-    "players_completed": "123",
+    "max_prestrafe": 406,
+    "completions": "53",
+    "players_completed": "18",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1898,
-            "name": "Main Ramp",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2280,
-            "name": "Behind Main",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1898,
-            "name": "Main Ramp",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2083,
+            "name": "Over Letter S Ramp Left Rail",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1904,
+            "name": "Big Loop Crash Pad",
+            "order": 5,
             "passthrough": 0
         }
     ]

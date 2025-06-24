@@ -1,15 +1,15 @@
 {
     "id": 9744,
     "map_id": 11,
-    "name": "bfur",
-    "date": "2024-04-22T14:50:59.000Z",
-    "author": "Formal",
-    "author_id": 480,
-    "last_updated": null,
+    "name": "Master of Puppets",
+    "date": "2024-04-24T14:18:54.000Z",
+    "author": "alexander",
+    "author_id": 1177,
+    "last_updated": "2024-04-24T15:08:06.000Z",
     "last_updated_author_id": 480,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,21 +17,39 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1793,
-            "name": "Big Drop In Side Deck",
+            "trigger_id": 2068,
+            "name": "N Upper Deck",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1821,
-            "name": "Curviest Boi Floor",
+            "trigger_id": 2055,
+            "name": "N Deck",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1822,
-            "name": "Curviest Boi Slide",
+            "trigger_id": 2057,
+            "name": "N Tramp Ledge",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2056,
+            "name": "N Tramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1966,
+            "name": "Fence Top Center",
+            "order": 5,
             "passthrough": 0
         }
     ]

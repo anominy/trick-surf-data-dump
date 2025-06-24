@@ -1,0 +1,50 @@
+{
+    "id": 9827,
+    "map_id": 9,
+    "name": "BMW",
+    "date": "2024-04-30T23:47:56.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-04-30T23:54:29.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "29",
+    "players_completed": "15",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1539,
+            "name": "SE East Ledge",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1563,
+            "name": "SE Orange Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1204,
+            "name": "E Brown Ramp 4",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1563,
+            "name": "SE Orange Ramp 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1505,
+            "name": "S Fort Slant Top",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

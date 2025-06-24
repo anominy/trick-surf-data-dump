@@ -1,73 +1,61 @@
 {
     "id": 7386,
     "map_id": 11,
-    "name": "Enigma",
+    "name": "Double U-Wrap",
     "date": "2023-04-14T18:00:00.000Z",
-    "author": "Xiao",
-    "author_id": 103,
-    "last_updated": "2023-05-19T22:21:23.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2023-05-19T22:13:59.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
-    "subtier": 1,
-    "max_prestrafe": 406,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": null,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2184,
-            "name": "N Upper Catwalk Back",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2020,
-            "name": "The Curviest Boi",
+            "trigger_id": 2282,
+            "name": "U Curvy Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2204,
-            "name": "Through granis Gap",
+            "trigger_id": 2290,
+            "name": "U Top Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1791,
-            "name": "Big Drop In",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2286,
-            "name": "Above Fence North Front",
+            "trigger_id": 2282,
+            "name": "U Curvy Boi",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2285,
-            "name": "Above Fence North Back",
+            "trigger_id": 2290,
+            "name": "U Top Hole",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2088,
-            "name": "Letter S Main Ramp",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2046,
-            "name": "Under Logo Long",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1902,
-            "name": "Main TP Deck",
-            "order": 8,
             "passthrough": 0
         }
     ]

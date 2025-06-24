@@ -1,55 +1,61 @@
 {
     "id": 10589,
     "map_id": 8,
-    "name": "Walking in the Dark",
-    "date": "2024-07-06T10:00:13.000Z",
+    "name": "Trade Winds",
+    "date": "2024-07-06T23:20:08.000Z",
     "author": "influx",
     "author_id": 147,
     "last_updated": null,
     "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "461",
-    "players_completed": "37",
+    "completions": "22",
+    "players_completed": "13",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 940,
+            "name": "Ladder Platform Upper",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1092,
+            "name": "West Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 727,
-            "name": "Rear Spawn Ramp",
+            "trigger_id": 953,
+            "name": "Lower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 914,
+            "name": "East Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 768,
-            "name": "T2 Tower Platform",
+            "trigger_id": 892,
+            "name": "Booster Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 922,
+            "name": "Green Circle",
+            "order": 6,
             "passthrough": 0
         }
     ]

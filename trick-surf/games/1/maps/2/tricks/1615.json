@@ -1,7 +1,7 @@
 {
     "id": 1615,
     "map_id": 2,
-    "name": "The Tiny Normark",
+    "name": "Kiwilicious",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,29 +9,65 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "152",
-    "players_completed": "54",
+    "completions": "93",
+    "players_completed": "45",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 131,
-            "name": "House 1 Floor 2 Platform",
+            "trigger_id": 101,
+            "name": "Grass",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 132,
-            "name": "House 1 Floor 2 Ramp",
+            "trigger_id": 106,
+            "name": "Hole",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 141,
+            "name": "Stone Wall",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 167,
+            "name": "Superramp Sides Window",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 165,
+            "name": "Superramp Sides",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 167,
+            "name": "Superramp Sides Window",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 153,
+            "name": "Superhouse Floor 2 Ramp Sides",
+            "order": 8,
             "passthrough": 0
         }
     ]

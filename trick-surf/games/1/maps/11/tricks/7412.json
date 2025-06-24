@@ -1,49 +1,73 @@
 {
     "id": 7412,
     "map_id": 11,
-    "name": "Frontside 360",
-    "date": "2023-04-16T16:41:05.000Z",
+    "name": "Ingenuity",
+    "date": "2023-04-16T18:08:46.000Z",
     "author": "william",
     "author_id": 347,
-    "last_updated": "2023-05-19T22:32:05.000Z",
+    "last_updated": "2023-05-20T17:14:17.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "438",
-    "players_completed": "23",
+    "completions": "21",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2038,
-            "name": "U TP Floor",
+            "trigger_id": 1994,
+            "name": "Just A Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2151,
+            "trigger_id": 2282,
             "name": "U Curvy Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2154,
+            "trigger_id": 2287,
             "name": "U Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1784,
-            "name": "Another Curvy Boi",
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2024,
-            "name": "The Longest Ramp Spine",
+            "trigger_id": 2269,
+            "name": "Through Loop",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2287,
+            "name": "U Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2282,
+            "name": "U Curvy Boi",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2076,
+            "name": "Not Used Floor Left",
+            "order": 8,
             "passthrough": 0
         }
     ]

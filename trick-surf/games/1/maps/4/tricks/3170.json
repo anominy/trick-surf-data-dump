@@ -1,0 +1,68 @@
+{
+    "id": 3170,
+    "map_id": 4,
+    "name": "Triple Main Wrap",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-01-29T23:17:39.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "38",
+    "players_completed": "23",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 310,
+            "name": "Behind Main",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 346,
+            "name": "Map Divide",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 310,
+            "name": "Behind Main",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 346,
+            "name": "Map Divide",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 310,
+            "name": "Behind Main",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 415,
+            "name": "Main Ramp Boost",
+            "order": 6,
+            "passthrough": 1
+        }
+    ]
+}

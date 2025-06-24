@@ -1,67 +1,43 @@
 {
     "id": 1490,
     "map_id": 2,
-    "name": "Duke Return",
+    "name": "Prebstrafe Remix",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2021-03-07T21:48:02.000Z",
-    "last_updated_author_id": 23,
+    "last_updated": "2024-04-16T23:33:41.000Z",
+    "last_updated_author_id": 169,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 1,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "52",
-    "players_completed": "25",
+    "completions": "9832",
+    "players_completed": "175",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 85,
+            "trigger_id": 78,
             "name": "Castle House Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 84,
+            "trigger_id": 77,
             "name": "Castle House Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 100,
-            "name": "Castle Stairs Inside",
+            "trigger_id": 76,
+            "name": "Castle House Platform",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 82,
-            "name": "Castle Gap",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 183,
-            "name": "Superramp",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
             "trigger_id": 160,
-            "name": "Stone Wall",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 124,
-            "name": "Hole",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 79,
-            "name": "Castle Front Ledge",
-            "order": 7,
+            "name": "Superhouse Floor 3 Ramp Sides",
+            "order": 3,
             "passthrough": 0
         }
     ]

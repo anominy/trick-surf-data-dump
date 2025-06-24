@@ -1,55 +1,49 @@
 {
     "id": 7364,
     "map_id": 11,
-    "name": "Sidekick",
+    "name": "Aestroid",
     "date": "2023-04-14T18:00:00.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": "2023-05-20T18:04:29.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2023-05-19T18:17:56.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 5,
     "subtier": 1,
-    "max_prestrafe": 406,
+    "max_prestrafe": null,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1902,
-            "name": "Main TP Deck",
+            "trigger_id": 2299,
+            "name": "Under Logo Long",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1838,
-            "name": "Facade's Ramp",
+            "trigger_id": 2158,
+            "name": "SHORTCUT Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1995,
-            "name": "Side Kicker",
+            "trigger_id": 2157,
+            "name": "SHORTCUT Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2050,
-            "name": "Under Logo Right Side",
+            "trigger_id": 2280,
+            "name": "Tucksy's Tunnel Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1784,
-            "name": "Another Curvy Boi",
+            "trigger_id": 2322,
+            "name": "Upper TP Deck",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1797,
-            "name": "Big H Curvy Boi Upper",
-            "order": 5,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,44 @@
+{
+    "id": 11996,
+    "map_id": 1,
+    "name": "The Natsu hop",
+    "date": "2024-12-13T20:17:06.000Z",
+    "author": "Natsu",
+    "author_id": 123,
+    "last_updated": "2024-12-13T20:31:31.000Z",
+    "last_updated_author_id": 123,
+    "active": 1,
+    "ranked": 1,
+    "tier": 9,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "4",
+    "players_completed": "1",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 44,
+            "name": "Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 25,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 37,
+            "name": "Sign",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 38,
+            "name": "Spawn",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

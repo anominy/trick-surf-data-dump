@@ -1,7 +1,7 @@
 {
     "id": 1834,
     "map_id": 2,
-    "name": "Encore",
+    "name": "V Divide",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,95 +9,59 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "30",
-    "players_completed": "22",
+    "completions": "49",
+    "players_completed": "29",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
+            "trigger_id": 136,
             "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
+            "trigger_id": 124,
             "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 129,
-            "name": "House 1 Floor 1 Ramp",
+            "trigger_id": 125,
+            "name": "Main Ramp Slant",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 137,
-            "name": "House 2 Floor 1 Ramp",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 125,
+            "name": "Main Ramp Slant",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
+            "trigger_id": 134,
+            "name": "Spawn Lower Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
+            "trigger_id": 126,
             "name": "Map Divide",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
+            "trigger_id": 134,
+            "name": "Spawn Lower Ramp",
             "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 160,
-            "name": "Stone Wall",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 126,
-            "name": "Hole Shotgun",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 145,
-            "name": "Map Divide",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 98,
-            "name": "Castle Shotgun Platform",
-            "order": 13,
             "passthrough": 0
         }
     ]

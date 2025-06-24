@@ -1,0 +1,44 @@
+{
+    "id": 8009,
+    "map_id": 7,
+    "name": "Lake Jump Awp Return",
+    "date": "2023-10-12T20:09:50.000Z",
+    "author": "ᴛꜱ ٠ summer",
+    "author_id": 264,
+    "last_updated": null,
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "7",
+    "players_completed": "7",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 864,
+            "name": "Tower Run-up Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 869,
+            "name": "Triomino 2",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 707,
+            "name": "Bonus Cube",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 695,
+            "name": "Awp Water",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

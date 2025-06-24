@@ -1,91 +1,43 @@
 {
     "id": 1551,
     "map_id": 2,
-    "name": "The Big Twist",
+    "name": "B-24",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2021-03-07T22:28:52.000Z",
-    "last_updated_author_id": 23,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
-    "max_prestrafe": 406,
-    "completions": "124",
-    "players_completed": "19",
+    "max_prestrafe": null,
+    "completions": "926",
+    "players_completed": "65",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 156,
-            "name": "Spawn Top Hidden Platform",
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 75,
+            "name": "Castle Gap",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 146,
-            "name": "Over Castle Platform",
+            "trigger_id": 106,
+            "name": "Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 181,
+            "trigger_id": 160,
             "name": "Superhouse Floor 3 Ramp Sides",
             "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 145,
-            "name": "Map Divide",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 145,
-            "name": "Map Divide",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 164,
-            "name": "Superhouse Floor 1 Ramp Sides",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 183,
-            "name": "Superramp",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 124,
-            "name": "Hole",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 126,
-            "name": "Hole Shotgun",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 83,
-            "name": "Castle House Platform",
-            "order": 11,
             "passthrough": 0
         }
     ]

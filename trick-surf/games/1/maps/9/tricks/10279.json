@@ -1,0 +1,44 @@
+{
+    "id": 10279,
+    "map_id": 9,
+    "name": "SmallJump",
+    "date": "2024-06-15T21:05:22.000Z",
+    "author": "leon",
+    "author_id": 1071,
+    "last_updated": "2024-06-15T21:06:55.000Z",
+    "last_updated_author_id": 18912,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "337",
+    "players_completed": "36",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1653,
+            "name": "W Crane Box Pink Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1651,
+            "name": "W Crane Box Booster North",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1218,
+            "name": "E Large Pillar Gap NW",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1203,
+            "name": "E Brown Platform",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

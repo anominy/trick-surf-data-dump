@@ -1,11 +1,11 @@
 {
     "id": 7452,
     "map_id": 11,
-    "name": "Long Asf Jump",
-    "date": "2023-04-18T23:16:07.000Z",
-    "author": "ice",
-    "author_id": 7479,
-    "last_updated": "2023-05-20T17:23:55.000Z",
+    "name": "Red Shell",
+    "date": "2023-04-19T20:10:32.000Z",
+    "author": "Xiao",
+    "author_id": 103,
+    "last_updated": "2023-05-20T17:54:06.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
@@ -17,45 +17,63 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1793,
-            "name": "Big Drop In Side Deck",
+            "trigger_id": 2039,
+            "name": "Mini Corner Quarter Deck",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1791,
-            "name": "Big Drop In",
+            "trigger_id": 1940,
+            "name": "F Loop Shell",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1794,
-            "name": "Big H Curvy Boi",
+            "trigger_id": 1934,
+            "name": "F Loop Big Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1784,
-            "name": "Another Curvy Boi",
+            "trigger_id": 1937,
+            "name": "F Loop L Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2022,
-            "name": "The Longest Ramp",
+            "trigger_id": 2187,
+            "name": "Skinny QP",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2023,
-            "name": "The Longest Ramp End",
+            "trigger_id": 2303,
+            "name": "Under Logo Right Side",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 1864,
-            "name": "Horse Left QP",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2195,
+            "name": "Smol H Curvy Boi",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2190,
+            "name": "Smol Curvy Boi",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2110,
+            "name": "Resi Lander",
+            "order": 9,
             "passthrough": 0
         }
     ]

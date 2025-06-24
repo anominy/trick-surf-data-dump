@@ -1,55 +1,109 @@
 {
     "id": 7533,
     "map_id": 11,
-    "name": "No Foamo",
-    "date": "2023-05-07T17:58:59.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": "2023-05-07T18:11:02.000Z",
-    "last_updated_author_id": 103,
+    "name": "York",
+    "date": "2023-05-09T06:52:59.000Z",
+    "author": "william",
+    "author_id": 347,
+    "last_updated": "2023-05-09T07:14:16.000Z",
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 7,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "20",
-    "players_completed": "16",
+    "completions": "12",
+    "players_completed": "11",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1850,
-            "name": "Foam Pit Back Deck",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1853,
-            "name": "Foam Pit Tramp",
+            "trigger_id": 2263,
+            "name": "The Curviest Boi End Cap",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1960,
-            "name": "S Ramp Large",
+            "trigger_id": 1894,
+            "name": "Big Drop In",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1809,
-            "name": "Big Tramp",
+            "trigger_id": 2312,
+            "name": "Under S Deck Floor",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1948,
-            "name": "S Curvy Boi Left",
+            "trigger_id": 1894,
+            "name": "Big Drop In",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1900,
+            "name": "Big H Curvy Boi Out",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1899,
+            "name": "Big H Curvy Boi In",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1906,
-            "name": "Mini Corner Quarter Deck",
+            "trigger_id": 2000,
+            "name": "Letter S Main Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1897,
+            "name": "Big H Curvy Boi",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2090,
+            "name": "Pre Loop Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2354,
+            "name": "Undersplat S",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1894,
+            "name": "Big Drop In",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1900,
+            "name": "Big H Curvy Boi Out",
+            "order": 10,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2162,
+            "name": "Secret Tape Floor",
+            "order": 11,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,50 @@
+{
+    "id": 13340,
+    "map_id": 14,
+    "name": "Marmalade",
+    "date": "2025-06-21T01:02:30.000Z",
+    "author": "FISHMAN",
+    "author_id": 49,
+    "last_updated": "2025-06-23T20:52:37.000Z",
+    "last_updated_author_id": 49,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 3,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3828,
+            "name": "Stage 9 Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3829,
+            "name": "Stage 9 Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3789,
+            "name": "Stage 6 Ramp 1",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3862,
+            "name": "Tiny Tiled Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3713,
+            "name": "N Upper Block",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

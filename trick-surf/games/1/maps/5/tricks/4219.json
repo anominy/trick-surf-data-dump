@@ -1,0 +1,62 @@
+{
+    "id": 4219,
+    "map_id": 5,
+    "name": "Bail Wrap",
+    "date": "2022-02-06T14:21:06.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-02-06T14:22:34.000Z",
+    "last_updated_author_id": 181,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "238",
+    "players_completed": "49",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 467,
+            "name": "Jail Pool",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 468,
+            "name": "Jail Pool Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 425,
+            "name": "Behind Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 477,
+            "name": "Over Main Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 503,
+            "name": "South Pool",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 509,
+            "name": "South Pool Slants",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 490,
+            "name": "Pool",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

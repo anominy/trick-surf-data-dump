@@ -1,0 +1,56 @@
+{
+    "id": 9940,
+    "map_id": 9,
+    "name": "Hail to the Emperor",
+    "date": "2024-05-15T10:07:29.000Z",
+    "author": "Steve",
+    "author_id": 10,
+    "last_updated": "2024-05-15T10:09:05.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1118,
+            "name": "C Blue Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1119,
+            "name": "C Blue Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1138,
+            "name": "C Orange Ramp 4",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1133,
+            "name": "C Orange Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1519,
+            "name": "S Yellow Ramp 8",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1634,
+            "name": "SW Upper Ledge East Platform",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

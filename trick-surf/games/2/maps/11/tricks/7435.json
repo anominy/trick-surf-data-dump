@@ -1,15 +1,15 @@
 {
     "id": 7435,
     "map_id": 11,
-    "name": "Traverse",
-    "date": "2023-04-18T10:18:13.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": null,
-    "last_updated_author_id": 347,
+    "name": "Ramp Rebel",
+    "date": "2023-04-18T13:51:48.000Z",
+    "author": "Paul",
+    "author_id": 8969,
+    "last_updated": "2023-05-20T17:53:54.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,51 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1850,
-            "name": "Foam Pit Back Deck",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1809,
-            "name": "Big Tramp",
+            "trigger_id": 2064,
+            "name": "N Upper Catwalk Hole",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1853,
-            "name": "Foam Pit Tramp",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1912,
-            "name": "Mini Mega Ramp",
+            "trigger_id": 2079,
+            "name": "Not Used Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1913,
-            "name": "Mini Mega Rollin",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1898,
-            "name": "Main Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1857,
-            "name": "Half Pipe Left Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
             "trigger_id": 2068,
-            "name": "Wall Ride Top",
-            "order": 7,
+            "name": "N Upper Deck",
+            "order": 4,
             "passthrough": 0
         }
     ]

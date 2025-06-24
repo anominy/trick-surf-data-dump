@@ -1,0 +1,62 @@
+{
+    "id": 8077,
+    "map_id": 7,
+    "name": "EZ Tour 5",
+    "date": "2023-10-27T20:49:27.000Z",
+    "author": "Aux",
+    "author_id": 14724,
+    "last_updated": "2023-10-28T17:41:59.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "492",
+    "players_completed": "141",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 815,
+            "name": "Spawn Roof Water",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 813,
+            "name": "Spawn Roof Booster",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 719,
+            "name": "Center Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 723,
+            "name": "Center Wings",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 858,
+            "name": "Through T2 Tower",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 760,
+            "name": "Jail Teleporter",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

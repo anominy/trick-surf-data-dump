@@ -1,55 +1,49 @@
 {
     "id": 10588,
     "map_id": 8,
-    "name": "Running in the Dark",
-    "date": "2024-07-06T09:52:17.000Z",
+    "name": "Fixation",
+    "date": "2024-07-06T22:58:40.000Z",
     "author": "influx",
     "author_id": 147,
-    "last_updated": "2024-07-06T20:38:28.000Z",
+    "last_updated": null,
     "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "40",
-    "players_completed": "23",
+    "completions": "20",
+    "players_completed": "12",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 692,
-            "name": "Jail Floor",
+            "trigger_id": 883,
+            "name": "Blue Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 727,
-            "name": "Rear Spawn Ramp",
+            "trigger_id": 953,
+            "name": "Lower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 918,
+            "name": "Funbox Lower Top",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 763,
-            "name": "T2 Right Hole",
-            "order": 5,
             "passthrough": 0
         }
     ]

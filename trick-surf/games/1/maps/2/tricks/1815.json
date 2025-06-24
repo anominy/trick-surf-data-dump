@@ -1,7 +1,7 @@
 {
     "id": 1815,
     "map_id": 2,
-    "name": "Pitbull is Fapping Superhard",
+    "name": "KOAN",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,59 +9,47 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "51",
-    "players_completed": "27",
+    "completions": "40",
+    "players_completed": "25",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
-            "name": "Spawn Top",
+            "trigger_id": 78,
+            "name": "Castle House Roof Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 162,
+            "name": "Superramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 164,
-            "name": "Superhouse Floor 1 Ramp Sides",
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 187,
-            "name": "Superramp Sides Top Platform",
+            "trigger_id": 165,
+            "name": "Superramp Sides",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
             "trigger_id": 160,
-            "name": "Stone Wall",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 85,
-            "name": "Castle House Roof Platform",
-            "order": 7,
+            "name": "Superhouse Floor 3 Ramp Sides",
+            "order": 5,
             "passthrough": 0
         }
     ]

@@ -1,15 +1,15 @@
 {
     "id": 11189,
     "map_id": 13,
-    "name": "Lucidity",
-    "date": "2024-08-30T00:51:00.000Z",
-    "author": "influx",
-    "author_id": 147,
-    "last_updated": "2024-08-30T00:51:34.000Z",
-    "last_updated_author_id": 147,
+    "name": "Azkaban Prisoner",
+    "date": "2024-08-30T08:44:19.000Z",
+    "author": "Plan B",
+    "author_id": 1159,
+    "last_updated": "2024-09-02T18:07:34.000Z",
+    "last_updated_author_id": 1159,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,33 +17,51 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3518,
-            "name": "Turtle Inner Floor",
+            "trigger_id": 3392,
+            "name": "Prison Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3315,
-            "name": "Faucet Under Ramp",
+            "trigger_id": 3496,
+            "name": "Through Prison Floor",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3319,
-            "name": "Flat Ramp",
+            "trigger_id": 3298,
+            "name": "Crew Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3295,
-            "name": "Crew Ramp",
+            "trigger_id": 3324,
+            "name": "Flat Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3378,
-            "name": "Prison Corner",
+            "trigger_id": 3294,
+            "name": "Cage Side Ramp",
             "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3375,
+            "name": "North Bro Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3417,
+            "name": "Sausage Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3392,
+            "name": "Prison Floor",
+            "order": 7,
             "passthrough": 0
         }
     ]

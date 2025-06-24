@@ -1,0 +1,50 @@
+{
+    "id": 6076,
+    "map_id": 9,
+    "name": "Facade's Fantasy",
+    "date": "2022-10-28T18:00:00.000Z",
+    "author": "KingYoshi",
+    "author_id": 457,
+    "last_updated": "2022-12-03T17:48:20.000Z",
+    "last_updated_author_id": 347,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1571,
+            "name": "SE Spawn Brown Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1533,
+            "name": "SE Brown Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1535,
+            "name": "SE Brown Ramp 2",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1537,
+            "name": "SE Brown Ramp 3",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1209,
+            "name": "E East Ledge",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

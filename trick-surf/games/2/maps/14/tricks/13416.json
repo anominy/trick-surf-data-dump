@@ -1,0 +1,32 @@
+{
+    "id": 13416,
+    "map_id": 14,
+    "name": "Diving to Hell",
+    "date": "2025-06-24T00:55:27.000Z",
+    "author": "owen608",
+    "author_id": 32029,
+    "last_updated": "2025-06-24T00:55:56.000Z",
+    "last_updated_author_id": 32029,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3828,
+            "name": "Stage 9 Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3693,
+            "name": "Hell Floor",
+            "order": 1,
+            "passthrough": 0
+        }
+    ]
+}

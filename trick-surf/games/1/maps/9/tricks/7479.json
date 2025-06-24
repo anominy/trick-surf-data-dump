@@ -1,0 +1,50 @@
+{
+    "id": 7479,
+    "map_id": 9,
+    "name": "Going To The Park",
+    "date": "2023-04-25T00:31:21.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": null,
+    "last_updated_author_id": 406,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "119",
+    "players_completed": "43",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1314,
+            "name": "N Tower Alley Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1300,
+            "name": "N Teal Ramp 2",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1338,
+            "name": "N White Ramp 5",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1336,
+            "name": "N White Ramp 4",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1447,
+            "name": "NW Park Roof",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

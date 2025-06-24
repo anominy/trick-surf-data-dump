@@ -1,15 +1,15 @@
 {
     "id": 7036,
     "map_id": 10,
-    "name": "Pillar Enjoyer",
-    "date": "2023-02-13T19:23:42.000Z",
-    "author": "hunter",
-    "author_id": 4820,
-    "last_updated": "2023-08-09T16:42:13.000Z",
-    "last_updated_author_id": 174,
+    "name": "Hard Masog Return",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "IrynStyl",
+    "author_id": 2076,
+    "last_updated": "2023-06-30T21:22:04.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 8,
+    "tier": 6,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,118 +17,34 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1599,
-            "name": "SE Rooftops",
+            "trigger_id": 1815,
+            "name": "Masog Platform Arch",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1600,
-            "name": "SE Rooftops Booster",
+            "trigger_id": 1813,
+            "name": "Masog Hole",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1588,
-            "name": "SE Orange Ramp 1",
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1775,
-            "name": "SE Large Pillar Gap East",
+            "trigger_id": 1808,
+            "name": "Lower Masog Platform",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1583,
-            "name": "SE Large Pillar Gap North",
-            "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1267,
-            "name": "E Brown Ramp 4",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1636,
-            "name": "E Large Pillar Gap West 1",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1637,
-            "name": "E Large Pillar Gap West 2",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1551,
-            "name": "SE Black Ramp 4",
-            "order": 8,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1734,
-            "name": "SE Large Pillar Gap West",
-            "order": 9,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1733,
-            "name": "SE Large Pillar Gap NW",
-            "order": 10,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1267,
-            "name": "E Brown Ramp 4",
-            "order": 11,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2209,
-            "name": "E Over High Platform",
-            "order": 12,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1274,
-            "name": "E Large Pillar Gap South",
-            "order": 13,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1562,
-            "name": "SE Brown Ramp 3",
-            "order": 14,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1775,
-            "name": "SE Large Pillar Gap East",
-            "order": 15,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1583,
-            "name": "SE Large Pillar Gap North",
-            "order": 16,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1560,
-            "name": "SE Brown Ramp 2",
-            "order": 17,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1601,
-            "name": "SE Spawn Brown Platform",
-            "order": 18,
-            "passthrough": 0
+            "trigger_id": 1813,
+            "name": "Masog Hole",
+            "order": 3,
+            "passthrough": 2
         }
     ]
 }

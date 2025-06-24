@@ -1,0 +1,50 @@
+{
+    "id": 10173,
+    "map_id": 7,
+    "name": "Perfect Wings",
+    "date": "2024-06-11T20:32:45.000Z",
+    "author": "KingYoshi // solidsurf.info",
+    "author_id": 457,
+    "last_updated": "2024-06-11T20:40:01.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "12",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 846,
+            "name": "T2 Top Left Block",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 842,
+            "name": "T2 Left Wing",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 844,
+            "name": "T2 Right Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 790,
+            "name": "North East Booster Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

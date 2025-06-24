@@ -3,97 +3,12 @@
         "id": 24,
         "name": "[AU1] trick.surf | SurfTricks/Timer/Stats/100T",
         "server_ip": "103.25.59.61:27015",
-        "players_online": "0",
-        "map": {
-            "id": 3,
-            "name": "tsurf_buck-wild",
-            "target_name": "tsurf_buck-wild",
-            "image_url": "https://media.trick.surf/tsurf_buck-wild.png"
-        },
-        "gameName": "Counter-Strike: Source",
-        "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 0,
-        "passwordRequired": false,
-        "players": []
-    },
-    {
-        "id": 25,
-        "name": "[AU2] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "103.25.59.61:27016",
-        "players_online": "0",
-        "map": {
-            "id": 10,
-            "name": "tsurf_innovation",
-            "target_name": "tsurf_innovation_b01",
-            "image_url": "https://media.trick.surf/tsurf_innovation.jpg"
-        },
-        "gameName": "Counter-Strike: Source",
-        "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 0,
-        "passwordRequired": false,
-        "players": []
-    },
-    {
-        "id": 26,
-        "name": "[US1] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "5.161.100.59:27015",
-        "players_online": "0",
-        "map": {
-            "id": 1,
-            "name": "tsurf_skyworld",
-            "target_name": "tsurf_skyworld",
-            "image_url": "https://media.trick.surf/tsurf_skyworld.jpg"
-        },
-        "gameName": "Counter-Strike: Source",
-        "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 0,
-        "passwordRequired": false,
-        "players": []
-    },
-    {
-        "id": 27,
-        "name": "[US2] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "5.161.100.59:27016",
-        "players_online": "0",
-        "map": {
-            "id": 10,
-            "name": "tsurf_innovation",
-            "target_name": "tsurf_innovation_b01",
-            "image_url": "https://media.trick.surf/tsurf_innovation.jpg"
-        },
-        "gameName": "Counter-Strike: Source",
-        "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 0,
-        "passwordRequired": false,
-        "players": []
-    },
-    {
-        "id": 28,
-        "name": "[EU1] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "213.239.213.214:27015",
-        "players_online": "0",
-        "map": {
-            "id": 3,
-            "name": "tsurf_buck-wild",
-            "target_name": "tsurf_buck-wild",
-            "image_url": "https://media.trick.surf/tsurf_buck-wild.png"
-        },
-        "gameName": "Counter-Strike: Source",
-        "maxNumberOfPlayers": 32,
-        "numberOfPlayers": 0,
-        "passwordRequired": false,
-        "players": []
-    },
-    {
-        "id": 29,
-        "name": "[EU2] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "213.239.213.214:27016",
         "players_online": "1",
         "map": {
-            "id": 1,
-            "name": "tsurf_skyworld",
-            "target_name": "tsurf_skyworld",
-            "image_url": "https://media.trick.surf/tsurf_skyworld.jpg"
+            "id": 9,
+            "name": "tsurf_concretejungle",
+            "target_name": "tsurf_concretejungle_b15",
+            "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -101,17 +16,17 @@
         "passwordRequired": false,
         "players": [
             {
-                "player_id": 145,
-                "name": "Akitake (Skraay)",
-                "avatar_url": "https://avatars.steamstatic.com/31fd8c84587a803343e220ec492b70f0b3aa06df_full.jpg",
-                "server_id": 29
+                "player_id": 24697,
+                "name": "ext",
+                "avatar_url": "https://avatars.steamstatic.com/38e944d4eb8aa30307fb04f64c98f1c0fc870b6c_full.jpg",
+                "server_id": 24
             }
         ]
     },
     {
-        "id": 30,
-        "name": "[EU3] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "213.239.213.214:27017",
+        "id": 25,
+        "name": "[AU2] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "103.25.59.61:27016",
         "players_online": "0",
         "map": {
             "id": 5,
@@ -126,9 +41,26 @@
         "players": []
     },
     {
-        "id": 31,
-        "name": "[CJUNGLE247] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "213.239.213.214:27018",
+        "id": 26,
+        "name": "[US1] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "5.161.100.59:27015",
+        "players_online": "0",
+        "map": {
+            "id": 9,
+            "name": "tsurf_concretejungle",
+            "target_name": "tsurf_concretejungle_b15",
+            "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
+        },
+        "gameName": "Counter-Strike: Source",
+        "maxNumberOfPlayers": 32,
+        "numberOfPlayers": 0,
+        "passwordRequired": false,
+        "players": []
+    },
+    {
+        "id": 27,
+        "name": "[US2] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "5.161.100.59:27016",
         "players_online": "2",
         "map": {
             "id": 9,
@@ -142,29 +74,29 @@
         "passwordRequired": false,
         "players": [
             {
-                "player_id": 18497,
-                "name": "disco jesus fish",
-                "avatar_url": "https://avatars.steamstatic.com/12450712ad05899ac2a3eafbae35fca50e1a3470_full.jpg",
-                "server_id": 31
+                "player_id": 29342,
+                "name": "brandon",
+                "avatar_url": "https://avatars.steamstatic.com/471431642fb24fdc630f89bd284a9f632211e732_full.jpg",
+                "server_id": 27
             },
             {
-                "player_id": 20679,
-                "name": "agent prog",
-                "avatar_url": "https://avatars.steamstatic.com/2538958c3c44eae3e869a0a73ee13d22694a19a5_full.jpg",
-                "server_id": 31
+                "player_id": 422,
+                "name": "reyted",
+                "avatar_url": "https://avatars.steamstatic.com/c8d1bb5203412cd1cc7dd81ae0cac28b6db01306_full.jpg",
+                "server_id": 27
             }
         ]
     },
     {
-        "id": 32,
-        "name": "[SKI247] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "213.239.213.214:27019",
+        "id": 28,
+        "name": "[EU1] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "213.239.213.214:27015",
         "players_online": "0",
         "map": {
-            "id": 7,
-            "name": "tsurf_ski_2",
-            "target_name": "tsurf_ski_2_gxds05",
-            "image_url": "https://media.trick.surf/tsurf_ski_2_gxds.jpg"
+            "id": 8,
+            "name": "tsurf_parc_colore",
+            "target_name": "tsurf_parc_colore_b06",
+            "image_url": "https://media.trick.surf/tsurf_parc_colore.jpg"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,
@@ -173,15 +105,133 @@
         "players": []
     },
     {
-        "id": 33,
-        "name": "[TEST] trick.surf | SurfTricks/Timer/Stats/100T",
-        "server_ip": "213.239.213.214:27020",
+        "id": 29,
+        "name": "[EU2] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "213.239.213.214:27016",
         "players_online": "0",
         "map": {
             "id": 11,
             "name": "tsurf_instantdeath",
             "target_name": "tsurf_instantdeath_b08",
             "image_url": "https://media.trick.surf/tsurf_instantdeath.png"
+        },
+        "gameName": "Counter-Strike: Source",
+        "maxNumberOfPlayers": 32,
+        "numberOfPlayers": 0,
+        "passwordRequired": false,
+        "players": []
+    },
+    {
+        "id": 30,
+        "name": "[EU3] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "213.239.213.214:27017",
+        "players_online": "0",
+        "map": {
+            "id": 2,
+            "name": "tsurf_japan_ptad",
+            "target_name": "tsurf_japan_ptad_b04",
+            "image_url": "https://media.trick.surf/tsurf_japan_ptad.png"
+        },
+        "gameName": "Counter-Strike: Source",
+        "maxNumberOfPlayers": 32,
+        "numberOfPlayers": 0,
+        "passwordRequired": false,
+        "players": []
+    },
+    {
+        "id": 31,
+        "name": "[CJUNGLE247] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "213.239.213.214:27018",
+        "players_online": "7",
+        "map": {
+            "id": 9,
+            "name": "tsurf_concretejungle",
+            "target_name": "tsurf_concretejungle_b15",
+            "image_url": "https://media.trick.surf/tsurf_concretejungle.png"
+        },
+        "gameName": "Counter-Strike: Source",
+        "maxNumberOfPlayers": 32,
+        "numberOfPlayers": 7,
+        "passwordRequired": false,
+        "players": [
+            {
+                "player_id": 18497,
+                "name": "disco jesus fish",
+                "avatar_url": "https://avatars.steamstatic.com/12450712ad05899ac2a3eafbae35fca50e1a3470_full.jpg",
+                "server_id": 31
+            },
+            {
+                "player_id": 26964,
+                "name": "agent herø",
+                "avatar_url": "https://avatars.steamstatic.com/7531886a9bf3c9befea2b5a0a44715168a7f8075_full.jpg",
+                "server_id": 31
+            },
+            {
+                "player_id": 86,
+                "name": "disres",
+                "avatar_url": "https://avatars.steamstatic.com/764445a3d490dd8bcfcd28a178c17b69a0ae4dc2_full.jpg",
+                "server_id": 31
+            },
+            {
+                "player_id": 20679,
+                "name": "agent prog",
+                "avatar_url": "https://avatars.steamstatic.com/2538958c3c44eae3e869a0a73ee13d22694a19a5_full.jpg",
+                "server_id": 31
+            },
+            {
+                "player_id": 32295,
+                "name": "catt",
+                "avatar_url": "https://avatars.steamstatic.com/52afa6ae97ed8a6a95e64a72b511d07cc5863349_full.jpg",
+                "server_id": 31
+            },
+            {
+                "player_id": 26817,
+                "name": "Rille",
+                "avatar_url": "https://avatars.steamstatic.com/523f43c808357fd38937c6d5ad5bdbc78c9551df_full.jpg",
+                "server_id": 31
+            },
+            {
+                "player_id": 30286,
+                "name": "AAARGH!!!!!!",
+                "avatar_url": "https://avatars.steamstatic.com/b78d9bd330dae8a2a0280d773d5c0597073fab64_full.jpg",
+                "server_id": 31
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "[SKI247] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "213.239.213.214:27019",
+        "players_online": "1",
+        "map": {
+            "id": 7,
+            "name": "tsurf_ski_2",
+            "target_name": "tsurf_ski_2_gxds05",
+            "image_url": "https://media.trick.surf/tsurf_ski_2_gxds.jpg"
+        },
+        "gameName": "Counter-Strike: Source",
+        "maxNumberOfPlayers": 32,
+        "numberOfPlayers": 1,
+        "passwordRequired": false,
+        "players": [
+            {
+                "player_id": 28925,
+                "name": "happiness.com",
+                "avatar_url": "https://avatars.steamstatic.com/82b03be75fa5a79baf10b3b9b0eeb3c62b40d9fa_full.jpg",
+                "server_id": 32
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "[TEST] trick.surf | SurfTricks/Timer/Stats/100T",
+        "server_ip": "213.239.213.214:27020",
+        "players_online": "0",
+        "map": {
+            "id": 4,
+            "name": "tsurf_greatriver_xdre4m",
+            "target_name": "tsurf_greatriver_xdre4m_b06",
+            "image_url": "https://media.trick.surf/tsurf_greatriver_xdre4m.png"
         },
         "gameName": "Counter-Strike: Source",
         "maxNumberOfPlayers": 32,

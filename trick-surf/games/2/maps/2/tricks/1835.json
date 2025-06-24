@@ -1,7 +1,7 @@
 {
     "id": 1835,
     "map_id": 2,
-    "name": "Skyline's Take Off",
+    "name": "Wall Divide",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,7 +9,7 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,33 +17,21 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 85,
-            "name": "Castle House Roof Platform",
+            "trigger_id": 138,
+            "name": "Spawn Wall",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 103,
+            "name": "Grass Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 161,
-            "name": "Superhouse Floor 1 Hole",
+            "trigger_id": 138,
+            "name": "Spawn Wall",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 182,
-            "name": "Superhouse Floor 3 Ramp Top",
-            "order": 4,
             "passthrough": 0
         }
     ]

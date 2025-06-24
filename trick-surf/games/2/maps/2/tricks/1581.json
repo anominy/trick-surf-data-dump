@@ -1,7 +1,7 @@
 {
     "id": 1581,
     "map_id": 2,
-    "name": "AAA-Remix",
+    "name": "V Edd's Gap",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,29 +9,47 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
-    "max_prestrafe": 406,
+    "max_prestrafe": null,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 83,
-            "name": "Castle House Platform",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 125,
+            "name": "Main Ramp Slant",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 119,
-            "name": "Grass",
+            "trigger_id": 124,
+            "name": "Main Ramp",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 171,
+            "name": "Through Main Ramp Stairs",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 124,
+            "name": "Main Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 120,
+            "name": "House 2 Floor 2 Platform",
+            "order": 5,
             "passthrough": 0
         }
     ]

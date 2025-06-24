@@ -1,0 +1,44 @@
+{
+    "id": 12816,
+    "map_id": 7,
+    "name": "Bloom",
+    "date": "2025-05-18T19:18:42.000Z",
+    "author": "><",
+    "author_id": 10483,
+    "last_updated": "2025-05-18T19:19:04.000Z",
+    "last_updated_author_id": 10483,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "217",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 838,
+            "name": "T2 Bottom Left Block",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 842,
+            "name": "T2 Left Wing",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 859,
+            "name": "Tower Base Water",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

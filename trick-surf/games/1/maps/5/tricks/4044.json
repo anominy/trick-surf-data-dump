@@ -1,0 +1,50 @@
+{
+    "id": 4044,
+    "map_id": 5,
+    "name": "Lucker Rise",
+    "date": "2022-01-31T12:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "84",
+    "players_completed": "17",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 467,
+            "name": "Jail Pool",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 517,
+            "name": "Spine Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 447,
+            "name": "Bottom Pool Through Floor",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 469,
+            "name": "Lower Curve Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 512,
+            "name": "South Pool Upper Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

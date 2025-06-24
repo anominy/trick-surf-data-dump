@@ -1,0 +1,86 @@
+{
+    "id": 7942,
+    "map_id": 11,
+    "name": "Simba",
+    "date": "2023-08-19T02:46:36.000Z",
+    "author": "nags",
+    "author_id": 5914,
+    "last_updated": "2023-08-19T02:50:20.000Z",
+    "last_updated_author_id": 103,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 2027,
+            "name": "Main Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2028,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1976,
+            "name": "Half Pipe Left Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1978,
+            "name": "Half Pipe Right Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1929,
+            "name": "E L Side",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2142,
+            "name": "S Side Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2116,
+            "name": "S Curvy Boi Left",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2305,
+            "name": "Under Main Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2153,
+            "name": "S Wedge",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2329,
+            "name": "W L Side",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 2200,
+            "name": "Spawn TP Door",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

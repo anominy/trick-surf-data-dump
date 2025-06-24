@@ -1,7 +1,7 @@
 {
     "id": 1775,
     "map_id": 2,
-    "name": "Flickin'",
+    "name": "Waave's Hop",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,7 +9,7 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,26 +17,26 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
+            "trigger_id": 136,
             "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 103,
+            "name": "Grass Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 129,
-            "name": "House 1 Floor 1 Ramp",
+            "trigger_id": 139,
+            "name": "Stairs 1",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 85,
-            "name": "Castle House Roof Platform",
+            "trigger_id": 98,
+            "name": "Crate Spawn 4",
             "order": 3,
             "passthrough": 0
         }

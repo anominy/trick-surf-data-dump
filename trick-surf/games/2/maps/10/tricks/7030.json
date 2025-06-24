@@ -1,11 +1,11 @@
 {
     "id": 7030,
     "map_id": 10,
-    "name": "Kitchen Aid",
-    "date": "2023-02-12T15:26:04.000Z",
-    "author": "Liquidator",
-    "author_id": 1137,
-    "last_updated": null,
+    "name": "Harder Spawn Return",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2024-04-09T20:33:46.000Z",
     "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
@@ -17,45 +17,33 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1599,
-            "name": "SE Rooftops",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1595,
-            "name": "SE Red Ramp 1",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1564,
-            "name": "SE East Ledge",
+            "trigger_id": 1843,
+            "name": "Spawn Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1607,
-            "name": "SE Structure Top",
+            "trigger_id": 1812,
+            "name": "Map Divide",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1588,
-            "name": "SE Orange Ramp 1",
+            "trigger_id": 1840,
+            "name": "Spawn LvL 1",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1267,
-            "name": "E Brown Ramp 4",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1607,
-            "name": "SE Structure Top",
-            "order": 6,
             "passthrough": 0
         }
     ]

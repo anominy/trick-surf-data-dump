@@ -1,7 +1,7 @@
 {
     "id": 1616,
     "map_id": 2,
-    "name": "Authenic's Jumpstyle",
+    "name": "Lines in the sky",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,47 +9,77 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
-    "max_prestrafe": null,
-    "completions": "55",
-    "players_completed": "26",
+    "max_prestrafe": 406,
+    "completions": "50",
+    "players_completed": "36",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 190,
-            "name": "Superramp Teleporter",
+            "trigger_id": 112,
+            "name": "House 1 Floor 2 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
+            "trigger_id": 113,
+            "name": "House 1 Floor 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 174,
+            "name": "Water",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 119,
-            "name": "Grass",
+            "trigger_id": 91,
+            "name": "Castle Stairs",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 94,
+            "name": "Castle Upper Ledge Front",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 156,
-            "name": "Spawn Top Hidden Platform",
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 113,
+            "name": "House 1 Floor 2 Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 121,
+            "name": "House 2 Floor 2 Ramp",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 106,
+            "name": "Hole",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 144,
+            "name": "Superhouse Floor 1 Ramp Ends",
+            "order": 10,
             "passthrough": 0
         }
     ]

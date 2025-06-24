@@ -1,0 +1,38 @@
+{
+    "id": 13313,
+    "map_id": 14,
+    "name": "Surf Ramp to Heaven",
+    "date": "2025-06-20T19:50:09.000Z",
+    "author": "owen608 passtime.tf",
+    "author_id": 32029,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "2",
+    "players_completed": "2",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3723,
+            "name": "Purgatory Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3694,
+            "name": "Hell Slide",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3689,
+            "name": "Heaven Platform",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

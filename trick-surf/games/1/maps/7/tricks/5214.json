@@ -1,0 +1,50 @@
+{
+    "id": 5214,
+    "map_id": 7,
+    "name": "Mayweather",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-21T13:46:27.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "282",
+    "players_completed": "41",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 816,
+            "name": "Sriracha",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 823,
+            "name": "T-Spawn Hole Front",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 881,
+            "name": "Weapons Teleporter",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 5122,
+    "map_id": 7,
+    "name": "Draynor Village",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "Dankmeister",
+    "author_id": 10703,
+    "last_updated": "2023-10-14T19:23:53.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "361",
+    "players_completed": "63",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 708,
+            "name": "Bonus Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 816,
+            "name": "Sriracha",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 761,
+            "name": "Jail Wall",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

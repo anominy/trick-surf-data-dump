@@ -1,0 +1,50 @@
+{
+    "id": 8987,
+    "map_id": 9,
+    "name": "High on the Ground",
+    "date": "2024-02-17T20:30:03.000Z",
+    "author": "Kingator",
+    "author_id": 10,
+    "last_updated": "2024-02-17T20:33:55.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1217,
+            "name": "E High Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1233,
+            "name": "E Red Ramp 3",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1258,
+            "name": "E Under White Beams",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1233,
+            "name": "E Red Ramp 3",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1361,
+            "name": "NE Ground",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

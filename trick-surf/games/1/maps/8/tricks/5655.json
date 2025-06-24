@@ -1,43 +1,61 @@
 {
     "id": 5655,
     "map_id": 8,
-    "name": "Harder Wrath",
-    "date": "2022-06-11T14:48:49.000Z",
-    "author": "Unknown",
+    "name": "Satan Dance",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": "2023-10-13T17:52:06.000Z",
-    "last_updated_author_id": 457,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "929",
-    "players_completed": "53",
+    "completions": "49",
+    "players_completed": "28",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 705,
-            "name": "Long Ramp Slant",
+            "trigger_id": 1061,
+            "name": "Stage 6 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 698,
-            "name": "Kevin Ramp",
+            "trigger_id": 1060,
+            "name": "Stage 6 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 697,
-            "name": "Keith Ramp",
+            "trigger_id": 992,
+            "name": "South Loop",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 766,
-            "name": "T2 Top Left Block",
+            "trigger_id": 984,
+            "name": "Red Circle",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 985,
+            "name": "Red Circle Pyramids",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 997,
+            "name": "South Loop Top",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1055,
+            "name": "Stage 5 Platform",
+            "order": 6,
             "passthrough": 0
         }
     ]

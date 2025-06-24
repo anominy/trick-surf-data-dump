@@ -1,67 +1,61 @@
 {
     "id": 5666,
     "map_id": 8,
-    "name": "Nocturne",
-    "date": "2022-06-13T18:14:05.000Z",
-    "author": "Addicted",
-    "author_id": 209,
-    "last_updated": "2022-06-13T18:16:26.000Z",
-    "last_updated_author_id": 209,
+    "name": "Duek Pillar",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
     "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "530",
-    "players_completed": "60",
+    "completions": "46",
+    "players_completed": "35",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 783,
-            "name": "Tower Top",
+            "trigger_id": 1088,
+            "name": "Wall Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 652,
-            "name": "Banana Ramp",
+            "trigger_id": 1083,
+            "name": "Upper Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 653,
-            "name": "Behind Banana Ramp",
+            "trigger_id": 955,
+            "name": "Lower Ramp Entry North",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 656,
-            "name": "Behind Tower",
+            "trigger_id": 953,
+            "name": "Lower Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 956,
+            "name": "Lower Ramp Gravel",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 656,
-            "name": "Behind Tower",
+            "trigger_id": 957,
+            "name": "Lower Ramp Pillars",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 975,
+            "name": "Platform",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 768,
-            "name": "T2 Tower Platform",
-            "order": 7,
             "passthrough": 0
         }
     ]

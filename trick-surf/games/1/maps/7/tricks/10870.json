@@ -1,0 +1,62 @@
+{
+    "id": 10870,
+    "map_id": 7,
+    "name": "Ocho Rios to San Juan",
+    "date": "2024-08-11T16:49:29.000Z",
+    "author": "synq_",
+    "author_id": 6763,
+    "last_updated": "2024-08-13T18:08:03.000Z",
+    "last_updated_author_id": 147,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "11",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 863,
+            "name": "Tower Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 721,
+            "name": "Center Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 843,
+            "name": "T2 Right Hole",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 857,
+            "name": "Through T2 Front Right",
+            "order": 5,
+            "passthrough": 2
+        }
+    ]
+}

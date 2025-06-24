@@ -1,55 +1,61 @@
 {
     "id": 11077,
     "map_id": 13,
-    "name": "Trip to Mallorca",
-    "date": "2024-08-26T23:02:28.000Z",
-    "author": "ElNeuse",
-    "author_id": 10899,
-    "last_updated": "2024-08-26T23:55:24.000Z",
-    "last_updated_author_id": 147,
+    "name": "surfacc first trick",
+    "date": "2024-08-27T00:12:56.000Z",
+    "author": "surfacc",
+    "author_id": 13870,
+    "last_updated": "2024-09-11T21:17:26.000Z",
+    "last_updated_author_id": 180,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
+    "tier": 4,
+    "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3409,
-            "name": "Snorkel Floor",
+            "trigger_id": 3393,
+            "name": "Prison Forklift",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3436,
-            "name": "Subway Ramp",
+            "trigger_id": 3575,
+            "name": "North Corner Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3358,
-            "name": "Moon Ramp",
+            "trigger_id": 3417,
+            "name": "Sausage Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3436,
-            "name": "Subway Ramp",
+            "trigger_id": 3298,
+            "name": "Crew Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3358,
-            "name": "Moon Ramp",
+            "trigger_id": 3496,
+            "name": "Through Prison Floor",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3448,
-            "name": "T2 Lowest Corner",
+            "trigger_id": 3497,
+            "name": "Through Prison Hole",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3306,
+            "name": "Down Funnel Floor",
+            "order": 6,
             "passthrough": 0
         }
     ]

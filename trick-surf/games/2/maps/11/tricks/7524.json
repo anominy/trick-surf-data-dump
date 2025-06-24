@@ -1,67 +1,61 @@
 {
     "id": 7524,
     "map_id": 11,
-    "name": "Airhead",
-    "date": "2023-05-05T16:45:07.000Z",
-    "author": "william",
-    "author_id": 347,
-    "last_updated": "2023-05-05T17:07:32.000Z",
-    "last_updated_author_id": 347,
+    "name": "Cats on Tramps",
+    "date": "2023-05-06T21:43:44.000Z",
+    "author": "Natsu",
+    "author_id": 123,
+    "last_updated": null,
+    "last_updated_author_id": 74,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
-    "max_prestrafe": null,
+    "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1925,
-            "name": "N Tucksy's Tunnel Floor",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 2053,
-            "name": "Under S Deck Floor",
+            "trigger_id": 2064,
+            "name": "N Upper Catwalk Hole",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1890,
-            "name": "Lower Rail Box Left",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 1887,
-            "name": "Lower Rail",
+            "trigger_id": 2056,
+            "name": "N Tramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 2388,
-            "name": "Undersplat S",
+            "trigger_id": 2303,
+            "name": "Under Logo Right Side",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 2019,
-            "name": "THE CUBE Top",
+            "trigger_id": 2005,
+            "name": "Letter S Ramp Right",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 2129,
-            "name": "SHORTCUT Hole",
+            "trigger_id": 2063,
+            "name": "N Upper Catwalk Front",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2134,
-            "name": "Sign Middle",
-            "order": 7,
             "passthrough": 0
         }
     ]

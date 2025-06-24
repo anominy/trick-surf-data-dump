@@ -1,67 +1,49 @@
 {
     "id": 5727,
     "map_id": 8,
-    "name": "Endless Euphoria",
-    "date": "2022-06-23T22:31:08.000Z",
-    "author": "thousand years voyage",
-    "author_id": 416,
-    "last_updated": "2024-09-17T16:09:54.000Z",
-    "last_updated_author_id": 10899,
+    "name": "Elbow Grease v2",
+    "date": "2022-07-01T14:14:23.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 7,
-    "subtier": 3,
+    "tier": 3,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "51",
-    "players_completed": "24",
+    "completions": "50",
+    "players_completed": "39",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 648,
-            "name": "Awp Platform",
+            "trigger_id": 977,
+            "name": "Platform Elbows",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 649,
-            "name": "Awp Ramp",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 676,
-            "name": "Fish Hook Ramp",
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 658,
-            "name": "Rear T2 Tower Wedge",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 676,
-            "name": "Fish Hook Ramp",
+            "trigger_id": 977,
+            "name": "Platform Elbows",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 649,
-            "name": "Awp Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 762,
-            "name": "T2 Left Wing",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 738,
-            "name": "Ski Sign",
-            "order": 7,
             "passthrough": 0
         }
     ]

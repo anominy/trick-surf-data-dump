@@ -1,0 +1,62 @@
+{
+    "id": 4126,
+    "map_id": 5,
+    "name": "Return v2",
+    "date": "2022-01-31T12:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-05-18T14:41:08.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "23",
+    "players_completed": "16",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 467,
+            "name": "Jail Pool",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 468,
+            "name": "Jail Pool Boost",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 544,
+            "name": "Upper Curve Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 423,
+            "name": "Awp Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 469,
+            "name": "Lower Curve Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 517,
+            "name": "Spine Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 467,
+            "name": "Jail Pool",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

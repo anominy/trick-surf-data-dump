@@ -1,73 +1,55 @@
 {
     "id": 7401,
     "map_id": 11,
-    "name": "Spine Transfer to Hip Transfer",
-    "date": "2023-04-16T13:40:28.000Z",
-    "author": "jesse",
-    "author_id": 4561,
-    "last_updated": "2023-05-20T18:16:59.000Z",
+    "name": "TripleHeadTwister5000",
+    "date": "2023-04-16T13:57:12.000Z",
+    "author": "Paul",
+    "author_id": 8969,
+    "last_updated": "2023-05-20T18:31:02.000Z",
     "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "12",
-    "players_completed": "10",
+    "completions": "97",
+    "players_completed": "17",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1881,
-            "name": "Letter S Ramp Right Spine",
+            "trigger_id": 2062,
+            "name": "N Upper Catwalk Back",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1880,
-            "name": "Letter S Ramp Right",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 2088,
-            "name": "Letter S Main Ramp",
+            "trigger_id": 1883,
+            "name": "Another Curvy Boi",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 2088,
+            "trigger_id": 2000,
             "name": "Letter S Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 1877,
-            "name": "Letter S Ramp Left",
+            "trigger_id": 2262,
+            "name": "The Curviest Boi",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 1897,
-            "name": "Over Letter S Ramp Left Rail",
+            "trigger_id": 2068,
+            "name": "N Upper Deck",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1805,
-            "name": "Big Loop Side Ramp Right",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1803,
-            "name": "Big Loop Side Ramp Left",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 1820,
-            "name": "Crash Pad",
-            "order": 8,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,62 @@
+{
+    "id": 13361,
+    "map_id": 14,
+    "name": "Diamonds",
+    "date": "2025-06-21T13:49:01.000Z",
+    "author": "CrazyTroll & Hero",
+    "author_id": null,
+    "last_updated": "2025-06-21T13:51:32.000Z",
+    "last_updated_author_id": 2687,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3697,
+            "name": "Isolated Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3755,
+            "name": "Stage 2 Ramp 3",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3640,
+            "name": "Above Isolated Tower",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3641,
+            "name": "Above Stage 2 Finish Platform",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3764,
+            "name": "Stage 3 Ramp 3",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3739,
+            "name": "Stage 1 Ramp 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3678,
+            "name": "Credits Tele",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

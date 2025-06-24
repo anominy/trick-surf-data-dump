@@ -1,0 +1,56 @@
+{
+    "id": 7817,
+    "map_id": 10,
+    "name": "Chasing the Dragon",
+    "date": "2023-07-15T00:47:42.000Z",
+    "author": "Dr Mulped",
+    "author_id": 70,
+    "last_updated": null,
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 405,
+    "completions": "45",
+    "players_completed": "20",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1828,
+            "name": "Pipe",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1833,
+            "name": "River Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1779,
+            "name": "HealBot Slant North",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1772,
+            "name": "Bottom Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1821,
+            "name": "Nova Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1828,
+            "name": "Pipe",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

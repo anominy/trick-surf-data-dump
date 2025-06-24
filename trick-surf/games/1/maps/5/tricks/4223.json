@@ -1,0 +1,56 @@
+{
+    "id": 4223,
+    "map_id": 5,
+    "name": "Pinball v2",
+    "date": "2022-02-07T14:25:20.000Z",
+    "author": "LarzZz^",
+    "author_id": 181,
+    "last_updated": "2022-11-03T01:06:16.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "104",
+    "players_completed": "21",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 482,
+            "name": "Pillar Large",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 517,
+            "name": "Spine Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 469,
+            "name": "Lower Curve Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 423,
+            "name": "Awp Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 544,
+            "name": "Upper Curve Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 437,
+            "name": "Boosting Pool Top",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

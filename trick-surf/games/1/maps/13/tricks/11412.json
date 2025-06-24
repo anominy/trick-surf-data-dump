@@ -1,0 +1,92 @@
+{
+    "id": 11412,
+    "map_id": 13,
+    "name": "Flyhop?",
+    "date": "2024-09-17T17:37:05.000Z",
+    "author": "LuK ♛",
+    "author_id": 18912,
+    "last_updated": "2024-09-17T17:38:18.000Z",
+    "last_updated_author_id": 18912,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "25",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3433,
+            "name": "Spawn Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3351,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3454,
+            "name": "Strafes Fall Teleport",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3455,
+            "name": "Strafes Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3317,
+            "name": "Faucet Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3454,
+            "name": "Strafes Fall Teleport",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3455,
+            "name": "Strafes Platform",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3390,
+            "name": "Prison Bags",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3471,
+            "name": "T2 Wing",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3340,
+            "name": "Left Pillar Floor",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3528,
+            "name": "Tower Floor",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3348,
+            "name": "Lowest Stairs",
+            "order": 11,
+            "passthrough": 0
+        }
+    ]
+}

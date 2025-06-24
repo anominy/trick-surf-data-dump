@@ -1,10 +1,10 @@
 {
     "id": 5603,
     "map_id": 8,
-    "name": "Moldau",
-    "date": "2022-06-02T21:55:30.000Z",
-    "author": "Addicted",
-    "author_id": 209,
+    "name": "Lucid Dream",
+    "date": "2022-06-27T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
@@ -12,44 +12,50 @@
     "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "1683",
-    "players_completed": "97",
+    "completions": "75",
+    "players_completed": "42",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 737,
-            "name": "Side Spawn Upper Platform",
+            "trigger_id": 1055,
+            "name": "Stage 5 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 734,
-            "name": "Side Spawn Booster",
+            "trigger_id": 1051,
+            "name": "Stage 5 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 771,
-            "name": "Telepad Water",
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 992,
+            "name": "South Loop",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 747,
-            "name": "T-Spawn",
+            "trigger_id": 1073,
+            "name": "Under Red Circle",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1087,
+            "name": "Wall Front Lights",
+            "order": 6,
             "passthrough": 0
         }
     ]

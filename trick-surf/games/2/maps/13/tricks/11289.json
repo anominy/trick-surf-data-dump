@@ -1,31 +1,49 @@
 {
     "id": 11289,
     "map_id": 13,
-    "name": "Persik",
-    "date": "2024-09-03T13:44:54.000Z",
-    "author": "kiwi (づ￣ 3￣)づ",
-    "author_id": 1390,
-    "last_updated": "2024-09-03T13:46:16.000Z",
-    "last_updated_author_id": 2994,
+    "name": "Hopeless",
+    "date": "2024-09-04T03:30:42.000Z",
+    "author": "winter",
+    "author_id": 406,
+    "last_updated": "2024-09-04T13:43:12.000Z",
+    "last_updated_author_id": 406,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
+    "tier": 7,
+    "subtier": 2,
     "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3448,
-            "name": "T2 Lowest Corner",
+            "trigger_id": 3455,
+            "name": "Strafes Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3327,
-            "name": "Jumper",
+            "trigger_id": 3351,
+            "name": "Main Ramp",
             "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3471,
+            "name": "T2 Wing",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3324,
+            "name": "Flat Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3395,
+            "name": "Prison Low Beam",
+            "order": 4,
             "passthrough": 0
         }
     ]

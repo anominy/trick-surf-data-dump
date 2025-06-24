@@ -1,0 +1,44 @@
+{
+    "id": 5256,
+    "map_id": 7,
+    "name": "Diamond Glider",
+    "date": "2022-05-06T15:13:41.000Z",
+    "author": "Fragzy4",
+    "author_id": 1,
+    "last_updated": "2022-05-06T15:15:23.000Z",
+    "last_updated_author_id": 1,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "144",
+    "players_completed": "66",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 757,
+            "name": "Jail Floor",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 704,
+            "name": "Behind Main Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 851,
+            "name": "Telepad Water",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

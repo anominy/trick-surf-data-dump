@@ -1,0 +1,50 @@
+{
+    "id": 5158,
+    "map_id": 7,
+    "name": "King's Brainfuck",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "ᴛꜱ ٠ King",
+    "author_id": 10,
+    "last_updated": "2023-10-12T22:55:09.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "236",
+    "players_completed": "49",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 761,
+            "name": "Jail Wall",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 784,
+            "name": "Middle Wing",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 766,
+            "name": "Left Wing",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 693,
+            "name": "Awp Platform",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "id": 1639,
     "map_id": 2,
-    "name": "The Essence of Death",
+    "name": "V Rize",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,59 +9,53 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "44",
-    "players_completed": "29",
+    "completions": "103",
+    "players_completed": "49",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 162,
-            "name": "Superhouse Floor 1 Platform",
+            "trigger_id": 112,
+            "name": "House 1 Floor 2 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 161,
-            "name": "Superhouse Floor 1 Hole",
+            "trigger_id": 113,
+            "name": "House 1 Floor 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 190,
-            "name": "Superramp Teleporter",
+            "trigger_id": 125,
+            "name": "Main Ramp Slant",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
-            "name": "Map Divide",
+            "trigger_id": 125,
+            "name": "Main Ramp Slant",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 88,
-            "name": "Castle Platform",
-            "order": 7,
             "passthrough": 0
         }
     ]

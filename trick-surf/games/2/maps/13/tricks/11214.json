@@ -1,15 +1,15 @@
 {
     "id": 11214,
     "map_id": 13,
-    "name": "GraphQl",
-    "date": "2024-08-30T09:02:49.000Z",
+    "name": "Zapaska return",
+    "date": "2024-08-30T09:11:31.000Z",
     "author": "nextir",
     "author_id": 2994,
     "last_updated": null,
     "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,33 +17,21 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3514,
+            "trigger_id": 3544,
             "name": "Turtle Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3507,
-            "name": "Turtle Acid Ramp",
+            "trigger_id": 3369,
+            "name": "Moon Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3360,
-            "name": "Never Ramp",
-            "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3360,
-            "name": "Never Ramp",
-            "order": 3,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3514,
+            "trigger_id": 3544,
             "name": "Turtle Floor",
-            "order": 4,
+            "order": 2,
             "passthrough": 0
         }
     ]

@@ -1,31 +1,49 @@
 {
     "id": 7139,
     "map_id": 9,
-    "name": "Frame Hop",
-    "date": "2023-02-24T18:00:00.000Z",
-    "author": "Xiao",
-    "author_id": 103,
-    "last_updated": "2023-03-28T17:32:13.000Z",
-    "last_updated_author_id": 103,
+    "name": "Down under",
+    "date": "2023-03-06T21:29:15.000Z",
+    "author": "ryuko // talk soon <3",
+    "author_id": 4963,
+    "last_updated": "2023-06-13T09:33:22.000Z",
+    "last_updated_author_id": 10,
     "active": 1,
     "ranked": 1,
-    "tier": 1,
+    "tier": 2,
     "subtier": 1,
-    "max_prestrafe": 406,
+    "max_prestrafe": null,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 832,
-            "name": "Tower Window Frame North",
+            "trigger_id": 1521,
+            "name": "S Yellow Ramp 9",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 833,
-            "name": "Tower Window Frame South",
+            "trigger_id": 1187,
+            "name": "C Through Lift",
             "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1187,
+            "name": "C Through Lift",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1191,
+            "name": "C Undergrounds Entry NW",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1189,
+            "name": "C Undergrounds",
+            "order": 4,
             "passthrough": 0
         }
     ]

@@ -1,11 +1,11 @@
 {
     "id": 11331,
     "map_id": 13,
-    "name": "Apprentice",
-    "date": "2024-09-06T14:40:06.000Z",
+    "name": "Liquor",
+    "date": "2024-09-08T14:10:51.000Z",
     "author": "influx",
     "author_id": 147,
-    "last_updated": null,
+    "last_updated": "2024-09-16T14:07:59.000Z",
     "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
@@ -17,27 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3454,
-            "name": "T2 Upper Right Window",
+            "trigger_id": 3520,
+            "name": "Tower Crane Beams",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3395,
-            "name": "Sausage Ramp",
+            "trigger_id": 3342,
+            "name": "Lonely Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3293,
-            "name": "East Corner Ramp",
+            "trigger_id": 3345,
+            "name": "Lovely Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3300,
-            "name": "Curve Floor",
+            "trigger_id": 3501,
+            "name": "Through S Monkey",
             "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3363,
+            "name": "Monkey Inner Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3492,
+            "name": "Through N Monkey",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3388,
+            "name": "Pit Ramp Ground",
+            "order": 6,
             "passthrough": 0
         }
     ]

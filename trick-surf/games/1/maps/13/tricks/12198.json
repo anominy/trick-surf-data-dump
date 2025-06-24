@@ -1,67 +1,55 @@
 {
     "id": 12198,
     "map_id": 13,
-    "name": "Djum and Neuse's PornStory",
-    "date": "2025-02-08T00:37:20.000Z",
-    "author": "Neuse",
-    "author_id": 10899,
-    "last_updated": "2025-02-08T01:14:15.000Z",
-    "last_updated_author_id": 10899,
+    "name": "Brain Death",
+    "date": "2025-02-09T12:06:07.000Z",
+    "author": "nextir",
+    "author_id": 2994,
+    "last_updated": "2025-02-09T12:09:39.000Z",
+    "last_updated_author_id": 2994,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
+    "tier": 5,
     "subtier": 1,
-    "max_prestrafe": 260,
-    "completions": "2",
-    "players_completed": "2",
+    "max_prestrafe": null,
+    "completions": "6",
+    "players_completed": "4",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3445,
-            "name": "T2 Boost Platform",
+            "trigger_id": 3533,
+            "name": "Triangle East Ramp Tip",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3444,
-            "name": "T2 Boost",
+            "trigger_id": 3537,
+            "name": "Triangle Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3315,
-            "name": "Faucet Under Ramp",
+            "trigger_id": 3322,
+            "name": "Fine Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3585,
-            "name": "West Corner Ramp",
+            "trigger_id": 3299,
+            "name": "Crew Ramp Slant",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3317,
-            "name": "Fine Ramp",
+            "trigger_id": 3324,
+            "name": "Flat Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 3279,
-            "name": "Bedge Ramp",
+            "trigger_id": 3296,
+            "name": "Convex Platform",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3328,
-            "name": "L Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3429,
-            "name": "Stairs Lower Platform",
-            "order": 7,
             "passthrough": 0
         }
     ]

@@ -1,7 +1,7 @@
 {
     "id": 1592,
     "map_id": 2,
-    "name": "Around The Nark",
+    "name": "The Albtraum Remix",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,59 +9,47 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "46",
-    "players_completed": "27",
+    "completions": "259",
+    "players_completed": "49",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 98,
+            "trigger_id": 90,
             "name": "Castle Shotgun Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 101,
+            "name": "Grass",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 174,
+            "name": "Water",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 184,
-            "name": "Superramp Booster",
+            "trigger_id": 87,
+            "name": "Castle Ramp Slant Lower",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 186,
-            "name": "Superramp Sides",
+            "trigger_id": 88,
+            "name": "Castle Ramp Slant Upper",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
-            "name": "Superramp",
+            "trigger_id": 158,
+            "name": "Superhouse Floor 3 Ramp Front",
             "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 84,
-            "name": "Castle House Ramp",
-            "order": 7,
             "passthrough": 0
         }
     ]

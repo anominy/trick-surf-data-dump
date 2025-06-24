@@ -1,0 +1,68 @@
+{
+    "id": 8821,
+    "map_id": 8,
+    "name": "Zinc",
+    "date": "2024-01-16T23:49:04.000Z",
+    "author": "Liquidator",
+    "author_id": 1137,
+    "last_updated": null,
+    "last_updated_author_id": 1137,
+    "active": 1,
+    "ranked": 1,
+    "tier": 4,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1047,
+            "name": "Stage 4 Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1084,
+            "name": "V Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1093,
+            "name": "West Ramp 1",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1098,
+            "name": "West Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1092,
+            "name": "West Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 892,
+            "name": "Booster Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1088,
+            "name": "Wall Top",
+            "order": 7,
+            "passthrough": 0
+        }
+    ]
+}

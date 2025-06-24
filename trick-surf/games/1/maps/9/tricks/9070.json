@@ -1,0 +1,32 @@
+{
+    "id": 9070,
+    "map_id": 9,
+    "name": "Medium Strafe Training Grounds",
+    "date": "2024-02-25T01:38:48.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2024-02-25T01:39:00.000Z",
+    "last_updated_author_id": 10,
+    "active": 1,
+    "ranked": 1,
+    "tier": 1,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "2547",
+    "players_completed": "142",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1580,
+            "name": "SE Spawn Roof Block 4",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1573,
+            "name": "SE Spawn Roof",
+            "order": 1,
+            "passthrough": 0
+        }
+    ]
+}

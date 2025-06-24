@@ -1,85 +1,151 @@
 {
     "id": 4722,
     "map_id": 2,
-    "name": "Airbus A320",
-    "date": "2021-04-02T04:10:04.000Z",
-    "author": "Frag",
-    "author_id": 1,
-    "last_updated": "2023-02-26T21:53:16.000Z",
-    "last_updated_author_id": 1,
+    "name": "DDDDDDDDDDD",
+    "date": "2022-03-28T16:29:11.000Z",
+    "author": "Ghostface",
+    "author_id": 5,
+    "last_updated": null,
+    "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
-    "subtier": 1,
+    "tier": 8,
+    "subtier": 2,
     "max_prestrafe": 406,
-    "completions": "79",
-    "players_completed": "43",
+    "completions": "2",
+    "players_completed": "2",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 88,
-            "name": "Castle Platform",
+            "trigger_id": 112,
+            "name": "House 1 Floor 2 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 93,
-            "name": "Castle Push",
+            "trigger_id": 113,
+            "name": "House 1 Floor 2 Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
-            "name": "Map Divide",
+            "trigger_id": 75,
+            "name": "Castle Gap",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 181,
-            "name": "Superhouse Floor 3 Ramp Sides",
+            "trigger_id": 162,
+            "name": "Superramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 146,
-            "name": "Over Castle Platform",
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 82,
-            "name": "Castle Gap",
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 164,
-            "name": "Superhouse Floor 1 Ramp Sides",
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 183,
+            "trigger_id": 162,
             "name": "Superramp",
             "order": 8,
             "passthrough": 0
         },
         {
             "trigger_id": 160,
-            "name": "Stone Wall",
+            "name": "Superhouse Floor 3 Ramp Sides",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 88,
-            "name": "Castle Platform",
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
             "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 160,
+            "name": "Superhouse Floor 3 Ramp Sides",
+            "order": 17,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 150,
+            "name": "Superhouse Floor 2 Hole",
+            "order": 18,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 142,
+            "name": "Superhouse Floor 1 Hole",
+            "order": 19,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 20,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 151,
+            "name": "Superhouse Floor 2 Platform",
+            "order": 21,
             "passthrough": 0
         }
     ]

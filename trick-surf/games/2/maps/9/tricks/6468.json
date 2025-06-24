@@ -1,0 +1,74 @@
+{
+    "id": 6468,
+    "map_id": 9,
+    "name": "Needlefire",
+    "date": "2023-01-05T01:40:23.000Z",
+    "author": "Daxen",
+    "author_id": 1642,
+    "last_updated": "2023-01-15T16:30:49.000Z",
+    "last_updated_author_id": 74,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1507,
+            "name": "S Fort Top Beam",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1518,
+            "name": "S Yellow Platform",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1523,
+            "name": "S Yellow Teleporter",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1572,
+            "name": "SE Spawn Floor",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1528,
+            "name": "SE Bonus 1 Teleporter",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1717,
+            "name": "W Yellow Ramp 4",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1457,
+            "name": "NW Purple Ramp 2",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1495,
+            "name": "NW Yellow Ramp 3",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1655,
+            "name": "W Crane Platform",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

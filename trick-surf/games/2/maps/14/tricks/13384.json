@@ -1,0 +1,134 @@
+{
+    "id": 13384,
+    "map_id": 14,
+    "name": "DjYoshi's Facade",
+    "date": "2025-06-21T18:46:48.000Z",
+    "author": "KingYoshi & Facade",
+    "author_id": null,
+    "last_updated": "2025-06-22T09:19:02.000Z",
+    "last_updated_author_id": 2687,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3750,
+            "name": "Stage 2 Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3751,
+            "name": "Stage 2 Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3735,
+            "name": "South Out of Bounds",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 3736,
+            "name": "South Tiled Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3739,
+            "name": "Stage 1 Ramp 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3881,
+            "name": "Under Stage 8 Ramp 1",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3819,
+            "name": "Stage 8 Ramp 1",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3741,
+            "name": "Stage 1 Ramp 2",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3855,
+            "name": "Through Set Towers",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3892,
+            "name": "West Through Stage 3 Ramp 2",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3878,
+            "name": "Under Ramp Tiled Ramp",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3652,
+            "name": "Between Door",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3668,
+            "name": "Central Upper Tiled Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3826,
+            "name": "Stage 8 Tele",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3642,
+            "name": "Above Stage 9",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3736,
+            "name": "South Tiled Ramp",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3668,
+            "name": "Central Upper Tiled Ramp",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3724,
+            "name": "Roof Booster",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3725,
+            "name": "Roof Booster Floor",
+            "order": 17,
+            "passthrough": 1
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 7117,
+    "map_id": 10,
+    "name": "Chief Lights the Way",
+    "date": "2023-03-03T01:46:14.000Z",
+    "author": "chief",
+    "author_id": 75,
+    "last_updated": null,
+    "last_updated_author_id": 75,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "15",
+    "players_completed": "9",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1776,
+            "name": "HealBot Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1778,
+            "name": "HealBot Ramp South",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1781,
+            "name": "Infinite Lantern",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1772,
+            "name": "Bottom Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1797,
+            "name": "Jail TP",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1817,
+            "name": "Masog Ramp",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

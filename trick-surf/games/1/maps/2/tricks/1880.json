@@ -1,7 +1,7 @@
 {
     "id": 1880,
     "map_id": 2,
-    "name": "Fishion",
+    "name": "Ichhaueuch's Trick",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
@@ -9,77 +9,89 @@
     "last_updated_author_id": null,
     "active": 1,
     "ranked": 1,
-    "tier": 5,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "29",
-    "players_completed": "20",
+    "completions": "69",
+    "players_completed": "26",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
+            "trigger_id": 136,
             "name": "Spawn Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
+            "trigger_id": 124,
             "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 196,
-            "name": "Water",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
+            "trigger_id": 107,
+            "name": "Hole Shotgun",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 145,
-            "name": "Map Divide",
+            "trigger_id": 90,
+            "name": "Castle Shotgun Platform",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 173,
-            "name": "Superhouse Floor 2 Ramp Sides",
+            "trigger_id": 91,
+            "name": "Castle Stairs",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 124,
-            "name": "Hole",
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 121,
-            "name": "Grass Spawn Ramp",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 155,
-            "name": "Spawn Top",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 76,
+            "name": "Castle House Platform",
+            "order": 12,
             "passthrough": 0
         }
     ]

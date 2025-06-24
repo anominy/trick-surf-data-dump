@@ -1,0 +1,122 @@
+{
+    "id": 3784,
+    "map_id": 4,
+    "name": "In5anity",
+    "date": "2022-01-01T21:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
+    "last_updated": "2022-01-18T18:20:46.000Z",
+    "last_updated_author_id": 209,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "19",
+    "players_completed": "12",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 373,
+            "name": "Sky",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 379,
+            "name": "Sky West",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 330,
+            "name": "Jail Ceiling Water",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 2,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 325,
+            "name": "Inside Garage Ground Side",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 3,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 399,
+            "name": "Under Jail Teleporter",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 329,
+            "name": "Jail Ceiling",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 311,
+            "name": "Behind River",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 384,
+            "name": "Spawn Ceiling",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 383,
+            "name": "Spawn",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 385,
+            "name": "Spawn Divide",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 311,
+            "name": "Behind River",
+            "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 387,
+            "name": "Spawn River",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 357,
+            "name": "Ramp 3",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 344,
+            "name": "Main Ramp",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 376,
+            "name": "Sky North",
+            "order": 14,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 11654,
+    "map_id": 9,
+    "name": "Bhop Strafe Gain Training Centre",
+    "date": "2024-10-27T06:29:34.000Z",
+    "author": "King",
+    "author_id": 10,
+    "last_updated": "2025-06-03T20:11:14.000Z",
+    "last_updated_author_id": 147,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "933",
+    "players_completed": "60",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1516,
+            "name": "S Upper Ground",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1518,
+            "name": "S Yellow Platform",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1518,
+            "name": "S Yellow Platform",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1518,
+            "name": "S Yellow Platform",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1502,
+            "name": "S Fort Floor",
+            "order": 4,
+            "passthrough": 0
+        }
+    ]
+}

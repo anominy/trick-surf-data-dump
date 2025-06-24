@@ -1,61 +1,79 @@
 {
     "id": 1706,
     "map_id": 2,
-    "name": "Double Hard Core",
+    "name": "Hard Omega's Step up",
     "date": "2020-12-25T21:00:00.000Z",
     "author": "zSkyworld.com",
     "author_id": null,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "last_updated": "2022-05-18T09:53:46.000Z",
+    "last_updated_author_id": 209,
     "active": 1,
     "ranked": 1,
-    "tier": 4,
+    "tier": 3,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "604",
-    "players_completed": "47",
+    "completions": "36",
+    "players_completed": "29",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 155,
-            "name": "Spawn Top",
+            "trigger_id": 81,
+            "name": "Castle Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 86,
+            "name": "Castle Push",
             "order": 1,
             "passthrough": 0
         },
         {
             "trigger_id": 121,
-            "name": "Grass Spawn Ramp",
+            "name": "House 2 Floor 2 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 152,
-            "name": "Spawn House Ramp",
+            "trigger_id": 113,
+            "name": "House 1 Floor 2 Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 143,
-            "name": "Main Ramp",
+            "trigger_id": 126,
+            "name": "Map Divide",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 121,
-            "name": "Grass Spawn Ramp",
+            "trigger_id": 110,
+            "name": "House 1 Floor 1 Ramp",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 152,
-            "name": "Spawn House Ramp",
+            "trigger_id": 118,
+            "name": "House 2 Floor 1 Ramp",
             "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 162,
+            "name": "Superramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 141,
+            "name": "Stone Wall",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 81,
+            "name": "Castle Platform",
+            "order": 9,
             "passthrough": 0
         }
     ]

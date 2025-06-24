@@ -1,0 +1,44 @@
+{
+    "id": 6842,
+    "map_id": 9,
+    "name": "The Chameleon",
+    "date": "2023-02-11T23:55:28.000Z",
+    "author": "chefe",
+    "author_id": 75,
+    "last_updated": "2025-05-02T03:58:06.000Z",
+    "last_updated_author_id": 4820,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "56",
+    "players_completed": "26",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1508,
+            "name": "S Ground North",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1521,
+            "name": "S Yellow Ramp 9",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1525,
+            "name": "SE Black Ramp 4",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1588,
+            "name": "SE Structure Top",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}

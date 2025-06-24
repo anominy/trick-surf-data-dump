@@ -1,15 +1,15 @@
 {
     "id": 7002,
     "map_id": 10,
-    "name": "Fifty Dollars",
-    "date": "2023-02-10T16:22:43.000Z",
-    "author": "Kassihici",
-    "author_id": 3123,
+    "name": "Main Return",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "zSkyworld.com",
+    "author_id": null,
     "last_updated": null,
-    "last_updated_author_id": 347,
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 4,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,27 +17,21 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 1679,
-            "name": "W Rooftops",
+            "trigger_id": 1841,
+            "name": "Spawn LvL 2",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1654,
-            "name": "SW Yellow Ramp 6",
+            "trigger_id": 1810,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1660,
-            "name": "W Blue Ramp 4",
+            "trigger_id": 1841,
+            "name": "Spawn LvL 2",
             "order": 2,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 2235,
-            "name": "W West Wall North",
-            "order": 3,
             "passthrough": 0
         }
     ]

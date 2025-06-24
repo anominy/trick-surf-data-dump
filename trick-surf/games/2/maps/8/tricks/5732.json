@@ -1,10 +1,10 @@
 {
     "id": 5732,
     "map_id": 8,
-    "name": "Flevin Rise",
-    "date": "2022-06-23T23:36:35.000Z",
-    "author": "KingYoshi",
-    "author_id": 457,
+    "name": "Under Where",
+    "date": "2022-07-01T23:43:45.000Z",
+    "author": "chief",
+    "author_id": 75,
     "last_updated": null,
     "last_updated_author_id": null,
     "active": 1,
@@ -17,69 +17,117 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 780,
-            "name": "Tower Platform",
+            "trigger_id": 1061,
+            "name": "Stage 6 Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 652,
-            "name": "Banana Ramp",
+            "trigger_id": 1060,
+            "name": "Stage 6 Booster",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 728,
-            "name": "Right Wing",
+            "trigger_id": 992,
+            "name": "South Loop",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 654,
-            "name": "Behind Long Ramp",
+            "trigger_id": 984,
+            "name": "Red Circle",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 704,
-            "name": "Long Ramp",
+            "trigger_id": 977,
+            "name": "Platform Elbows",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 727,
-            "name": "Rear Spawn Ramp",
+            "trigger_id": 1071,
+            "name": "Under Green Circle",
             "order": 5,
             "passthrough": 0
         },
         {
-            "trigger_id": 785,
-            "name": "Triomino 2",
+            "trigger_id": 1073,
+            "name": "Under Red Circle",
             "order": 6,
             "passthrough": 0
         },
         {
-            "trigger_id": 764,
-            "name": "T2 Right Wing",
+            "trigger_id": 1098,
+            "name": "West Ramp 2",
             "order": 7,
             "passthrough": 0
         },
         {
-            "trigger_id": 762,
-            "name": "T2 Left Wing",
+            "trigger_id": 1093,
+            "name": "West Ramp 1",
             "order": 8,
             "passthrough": 0
         },
         {
-            "trigger_id": 709,
-            "name": "Main Ramp",
+            "trigger_id": 1074,
+            "name": "Under Stage 1",
             "order": 9,
             "passthrough": 0
         },
         {
-            "trigger_id": 741,
-            "name": "Spawn Roof Platform",
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
             "order": 10,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 969,
+            "name": "North Ramp",
+            "order": 11,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1070,
+            "name": "Under Cannon Pillar Ramp",
+            "order": 12,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 895,
+            "name": "Cannon Ramp",
+            "order": 13,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 892,
+            "name": "Booster Ramp",
+            "order": 14,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1072,
+            "name": "Under Purple Platform",
+            "order": 15,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 953,
+            "name": "Lower Ramp",
+            "order": 16,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
+            "order": 17,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 961,
+            "name": "Middle Hole Grid",
+            "order": 18,
             "passthrough": 0
         }
     ]

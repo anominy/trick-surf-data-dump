@@ -1,37 +1,49 @@
 {
     "id": 4858,
     "map_id": 7,
-    "name": "Lil' Strafe",
-    "date": "2021-09-09T16:47:03.000Z",
-    "author": "Fragzy4",
-    "author_id": 1,
-    "last_updated": "2021-09-09T16:51:32.000Z",
-    "last_updated_author_id": 1,
+    "name": "Long Wrap from Jail",
+    "date": "2022-05-05T18:00:00.000Z",
+    "author": "bog",
+    "author_id": 131,
+    "last_updated": "2023-10-14T12:59:35.000Z",
+    "last_updated_author_id": 457,
     "active": 1,
     "ranked": 1,
     "tier": 2,
     "subtier": 1,
-    "max_prestrafe": 385,
+    "max_prestrafe": 406,
     "completions": "0",
     "players_completed": "0",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 615,
-            "name": "Jail Teleporter",
+            "trigger_id": 757,
+            "name": "Jail Floor",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 620,
-            "name": "Over Jail Bridge",
+            "trigger_id": 777,
+            "name": "Main Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 858,
-            "name": "Jail Slope",
+            "trigger_id": 774,
+            "name": "Long Ramp",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 703,
+            "name": "Behind Long Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 774,
+            "name": "Long Ramp",
+            "order": 4,
             "passthrough": 0
         }
     ]

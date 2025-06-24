@@ -1,0 +1,74 @@
+{
+    "id": 12146,
+    "map_id": 8,
+    "name": "NExtir Bhops to Pet Your Meow",
+    "date": "2025-02-02T10:24:08.000Z",
+    "author": "nextir",
+    "author_id": 2994,
+    "last_updated": "2025-02-02T10:26:03.000Z",
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 5,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1041,
+            "name": "Stage 3 Tower",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1092,
+            "name": "West Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 977,
+            "name": "Platform Elbows",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1069,
+            "name": "Under Blue Platform",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1092,
+            "name": "West Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1084,
+            "name": "V Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 888,
+            "name": "Bonus Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 886,
+            "name": "Bonus Platform",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

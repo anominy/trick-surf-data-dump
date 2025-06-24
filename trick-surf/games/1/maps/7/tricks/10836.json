@@ -1,0 +1,86 @@
+{
+    "id": 10836,
+    "map_id": 7,
+    "name": "Now Break Yo Legs",
+    "date": "2024-08-07T03:25:38.000Z",
+    "author": "Schewpid",
+    "author_id": 25884,
+    "last_updated": null,
+    "last_updated_author_id": 2994,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "46",
+    "players_completed": "28",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 821,
+            "name": "T-Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 777,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 719,
+            "name": "Center Ramp",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 858,
+            "name": "Through T2 Tower",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 732,
+            "name": "Fish Hook Ramp",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 762,
+            "name": "Keith Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 764,
+            "name": "Kevin Ramp",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 818,
+            "name": "Starlight North",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 819,
+            "name": "Starlight South",
+            "order": 8,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 740,
+            "name": "Hamburger",
+            "order": 9,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3256,
+            "name": "Tower Right Middle Platform",
+            "order": 10,
+            "passthrough": 0
+        }
+    ]
+}

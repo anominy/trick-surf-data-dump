@@ -1,0 +1,62 @@
+{
+    "id": 6545,
+    "map_id": 7,
+    "name": "Insane Left Right",
+    "date": "2023-01-14T18:40:53.000Z",
+    "author": "Anti-Cheat | Autostrafing detect",
+    "author_id": 416,
+    "last_updated": "2023-10-13T18:00:01.000Z",
+    "last_updated_author_id": 457,
+    "active": 1,
+    "ranked": 1,
+    "tier": 7,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "58",
+    "players_completed": "27",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 693,
+            "name": "Awp Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 867,
+            "name": "Triomino 1",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 734,
+            "name": "Fish Hook Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 694,
+            "name": "Awp Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 733,
+            "name": "Fish Hook Ramp Tip",
+            "order": 6,
+            "passthrough": 0
+        }
+    ]
+}

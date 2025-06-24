@@ -1,73 +1,49 @@
 {
     "id": 11316,
     "map_id": 13,
-    "name": "Violent Violet",
-    "date": "2024-09-05T17:07:08.000Z",
+    "name": "Windmill",
+    "date": "2024-09-06T14:11:09.000Z",
     "author": "influx",
     "author_id": 147,
     "last_updated": null,
     "last_updated_author_id": 147,
     "active": 1,
     "ranked": 1,
-    "tier": 6,
-    "subtier": 3,
+    "tier": 3,
+    "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "2",
-    "players_completed": "2",
+    "completions": "29",
+    "players_completed": "19",
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 3443,
-            "name": "Sphere Ramp Top Ground",
+            "trigger_id": 3425,
+            "name": "Snake Top",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 3310,
+            "trigger_id": 3315,
             "name": "Fall Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 3389,
-            "name": "Promise Ramp",
+            "trigger_id": 3349,
+            "name": "M8 Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 3360,
-            "name": "Never Ramp",
+            "trigger_id": 3449,
+            "name": "Square Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 3527,
-            "name": "Turtle Ramp",
+            "trigger_id": 3426,
+            "name": "Snip Floor",
             "order": 4,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3274,
-            "name": "Acid Ramp",
-            "order": 5,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3519,
-            "name": "Turtle Inner Forward Ramp",
-            "order": 6,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3522,
-            "name": "Turtle Inner Rear Ramp",
-            "order": 7,
-            "passthrough": 0
-        },
-        {
-            "trigger_id": 3354,
-            "name": "Monkey Floor",
-            "order": 8,
             "passthrough": 0
         }
     ]

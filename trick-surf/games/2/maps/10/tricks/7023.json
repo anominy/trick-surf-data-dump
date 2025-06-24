@@ -1,15 +1,15 @@
 {
     "id": 7023,
     "map_id": 10,
-    "name": "Cough Syrup",
-    "date": "2023-02-11T05:54:52.000Z",
-    "author": "Steve",
-    "author_id": 10,
-    "last_updated": null,
-    "last_updated_author_id": 406,
+    "name": "Mason's Flight",
+    "date": "2023-02-24T18:00:00.000Z",
+    "author": "Mason",
+    "author_id": 4140,
+    "last_updated": "2023-02-26T17:28:11.000Z",
+    "last_updated_author_id": 103,
     "active": 1,
     "ranked": 1,
-    "tier": 2,
+    "tier": 5,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,21 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 2177,
-            "name": "SW Pink Pillar Slant 1",
+            "trigger_id": 1858,
+            "name": "Tower Railing",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 1656,
-            "name": "SW Yellow Ramp 7",
+            "trigger_id": 1833,
+            "name": "River Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 1525,
-            "name": "S Ground North",
+            "trigger_id": 1783,
+            "name": "Infinite Ramp",
             "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1833,
+            "name": "River Ramp",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1862,
+            "name": "Tower Window South",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1861,
+            "name": "Tower Window North",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1763,
+            "name": "Armor Platform",
+            "order": 6,
             "passthrough": 0
         }
     ]

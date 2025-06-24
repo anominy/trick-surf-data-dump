@@ -1,15 +1,15 @@
 {
     "id": 5950,
     "map_id": 7,
-    "name": "Plucky Johnson",
-    "date": "2022-07-30T15:40:33.000Z",
-    "author": "KingYoshi",
-    "author_id": 457,
-    "last_updated": null,
-    "last_updated_author_id": null,
+    "name": "Iryn's Endeavor",
+    "date": "2022-09-13T23:06:19.000Z",
+    "author": "IrynStyl",
+    "author_id": 2076,
+    "last_updated": "2023-12-15T00:14:18.000Z",
+    "last_updated_author_id": 347,
     "active": 1,
     "ranked": 1,
-    "tier": 3,
+    "tier": 2,
     "subtier": 1,
     "max_prestrafe": 406,
     "completions": "0",
@@ -17,39 +17,45 @@
     "average_rating": "0.0000",
     "sequence": [
         {
-            "trigger_id": 609,
-            "name": "Buy Platform",
+            "trigger_id": 863,
+            "name": "Tower Platform",
             "order": 0,
             "passthrough": 0
         },
         {
-            "trigger_id": 608,
-            "name": "Buy Booster",
+            "trigger_id": 697,
+            "name": "Banana Ramp",
             "order": 1,
             "passthrough": 0
         },
         {
-            "trigger_id": 600,
-            "name": "Behind Awp",
+            "trigger_id": 777,
+            "name": "Main Ramp",
             "order": 2,
             "passthrough": 0
         },
         {
-            "trigger_id": 594,
-            "name": "Awp Ramp",
+            "trigger_id": 704,
+            "name": "Behind Main Ramp",
             "order": 3,
             "passthrough": 0
         },
         {
-            "trigger_id": 631,
-            "name": "Shotgun Ramp",
+            "trigger_id": 797,
+            "name": "Rear Spawn Ramp",
             "order": 4,
             "passthrough": 0
         },
         {
-            "trigger_id": 633,
-            "name": "Shotgun Top",
+            "trigger_id": 774,
+            "name": "Long Ramp",
             "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 848,
+            "name": "T2 Tower Platform",
+            "order": 6,
             "passthrough": 0
         }
     ]

@@ -1,0 +1,44 @@
+{
+    "id": 6487,
+    "map_id": 9,
+    "name": "Tornado",
+    "date": "2023-01-07T21:16:24.000Z",
+    "author": "Mason",
+    "author_id": 4140,
+    "last_updated": "2024-04-11T03:35:40.000Z",
+    "last_updated_author_id": 18496,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": null,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 1673,
+            "name": "W Pink Ramp 2",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1699,
+            "name": "W Tower Floor 2",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1495,
+            "name": "NW Yellow Ramp 3",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 1454,
+            "name": "NW Purple Platform",
+            "order": 3,
+            "passthrough": 0
+        }
+    ]
+}
