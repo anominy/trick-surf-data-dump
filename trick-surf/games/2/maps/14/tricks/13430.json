@@ -1,0 +1,74 @@
+{
+    "id": 13430,
+    "map_id": 14,
+    "name": "Voodoo",
+    "date": "2025-06-24T20:11:44.000Z",
+    "author": "influx",
+    "author_id": 147,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 6,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3750,
+            "name": "Stage 2 Platform",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3751,
+            "name": "Stage 2 Ramp 1",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3735,
+            "name": "South Out of Bounds",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3753,
+            "name": "Stage 2 Ramp 2",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3651,
+            "name": "Between Cramped and Lower Wedge",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3668,
+            "name": "Central Upper Tiled Ramp",
+            "order": 5,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3834,
+            "name": "Stage 9 Ramp 4",
+            "order": 6,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3859,
+            "name": "Tiled Scaffolding Ramp",
+            "order": 7,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 4239,
+            "name": "N Outskirt Island",
+            "order": 8,
+            "passthrough": 0
+        }
+    ]
+}

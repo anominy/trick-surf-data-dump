@@ -3544,14 +3544,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1825,
-                "name": "Outward Ramp North",
+                "trigger_id": 1826,
+                "name": "Outward Ramp South",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1826,
-                "name": "Outward Ramp South",
+                "trigger_id": 1825,
+                "name": "Outward Ramp North",
                 "order": 2,
                 "passthrough": 1
             }
@@ -6328,14 +6328,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1777,
-                "name": "HealBot Ramp North",
+                "trigger_id": 1778,
+                "name": "HealBot Ramp South",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1778,
-                "name": "HealBot Ramp South",
+                "trigger_id": 1777,
+                "name": "HealBot Ramp North",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9372,14 +9372,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1761,
-                "name": "AWP Platform",
+                "trigger_id": 1762,
+                "name": "AWP Slope",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1762,
-                "name": "AWP Slope",
+                "trigger_id": 1761,
+                "name": "AWP Platform",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9414,12 +9414,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1840,
-                "name": "Spawn LvL 1",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1845,
                 "name": "Spawn Slope",
                 "order": 6,
@@ -9428,6 +9422,12 @@
             {
                 "trigger_id": 1841,
                 "name": "Spawn LvL 2",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1840,
+                "name": "Spawn LvL 1",
                 "order": 6,
                 "passthrough": 1
             },

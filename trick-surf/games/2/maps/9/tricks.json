@@ -8950,6 +8950,56 @@
         ]
     },
     {
+        "id": 13462,
+        "map_id": 9,
+        "name": "jeff buck",
+        "date": "2025-06-30T00:28:00.000Z",
+        "author": "agent pickle",
+        "author_id": 18496,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 2,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1182,
+                "name": "C Strip West Light Pillar",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1138,
+                "name": "C Orange Ramp 4",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1666,
+                "name": "W Orange Ramp 5",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1140,
+                "name": "C Purple Ramp 5",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1286,
+                "name": "N Lower Ground",
+                "order": 4,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6183,
         "map_id": 9,
         "name": "jumper",
@@ -9624,104 +9674,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1614,
-                "name": "SW Middle Ledge East Pillar",
+                "trigger_id": 1628,
+                "name": "SW Purple Ramp 6 Spine",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1649,
-                "name": "W Blue Ramp 4 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1597,
-                "name": "SW Concrete Tube 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1619,
-                "name": "SW Pink Ledge",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1636,
-                "name": "SW West Pillar Upper",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1601,
-                "name": "SW Crane Box Top",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1624,
-                "name": "SW Pink Pillar Slant 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1641,
-                "name": "SW Yellow Ramp 6",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1613,
-                "name": "SW Middle Ledge East",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1629,
-                "name": "SW Purple Teleporter",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1648,
-                "name": "W Blue Ramp 4",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1596,
-                "name": "SW Broken Pillar Slant 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1618,
-                "name": "SW Orange Ramp 6 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1635,
-                "name": "SW West Pillar Lower",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1600,
-                "name": "SW Crane Box Pink Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1623,
-                "name": "SW Pink Pillar Slant 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1640,
-                "name": "SW Yellow Ramp 5 Spine",
+                "trigger_id": 1645,
+                "name": "SW Yellow Ramp 7 Spine",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9732,14 +9692,8 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1628,
-                "name": "SW Purple Ramp 6 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1645,
-                "name": "SW Yellow Ramp 7 Spine",
+                "trigger_id": 1634,
+                "name": "SW Upper Ledge East Platform",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9756,26 +9710,14 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1634,
-                "name": "SW Upper Ledge East Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1622,
-                "name": "SW Pink Pillar Booster 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1639,
                 "name": "SW Yellow Ramp 5",
                 "order": 1,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1611,
-                "name": "SW Lower Ledge",
+                "trigger_id": 1622,
+                "name": "SW Pink Pillar Booster 2",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9792,14 +9734,8 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1594,
-                "name": "SW Blue Ramp 5 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1616,
-                "name": "SW Middle Ledge West",
+                "trigger_id": 1611,
+                "name": "SW Lower Ledge",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9816,14 +9752,32 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1621,
-                "name": "SW Pink Pillar Booster 1",
+                "trigger_id": 1594,
+                "name": "SW Blue Ramp 5 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1616,
+                "name": "SW Middle Ledge West",
                 "order": 1,
                 "passthrough": 1
             },
             {
                 "trigger_id": 1638,
                 "name": "SW West Wall Upper",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1621,
+                "name": "SW Pink Pillar Booster 1",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1643,
+                "name": "SW Yellow Ramp 7",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9840,8 +9794,14 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1643,
-                "name": "SW Yellow Ramp 7",
+                "trigger_id": 1630,
+                "name": "SW Steep Slide",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1662,
+                "name": "W Ground West",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9858,14 +9818,8 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1630,
-                "name": "SW Steep Slide",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1662,
-                "name": "W Ground West",
+                "trigger_id": 1637,
+                "name": "SW West Wall Lower",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9882,8 +9836,8 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1637,
-                "name": "SW West Wall Lower",
+                "trigger_id": 1642,
+                "name": "SW Yellow Ramp 6 Spine",
                 "order": 1,
                 "passthrough": 1
             },
@@ -9900,8 +9854,104 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1642,
-                "name": "SW Yellow Ramp 6 Spine",
+                "trigger_id": 1649,
+                "name": "W Blue Ramp 4 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1614,
+                "name": "SW Middle Ledge East Pillar",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1636,
+                "name": "SW West Pillar Upper",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1597,
+                "name": "SW Concrete Tube 1",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1619,
+                "name": "SW Pink Ledge",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1641,
+                "name": "SW Yellow Ramp 6",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1601,
+                "name": "SW Crane Box Top",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1624,
+                "name": "SW Pink Pillar Slant 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1629,
+                "name": "SW Purple Teleporter",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1648,
+                "name": "W Blue Ramp 4",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1613,
+                "name": "SW Middle Ledge East",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1635,
+                "name": "SW West Pillar Lower",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1596,
+                "name": "SW Broken Pillar Slant 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1618,
+                "name": "SW Orange Ramp 6 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1640,
+                "name": "SW Yellow Ramp 5 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1600,
+                "name": "SW Crane Box Pink Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1623,
+                "name": "SW Pink Pillar Slant 1",
                 "order": 1,
                 "passthrough": 1
             },
@@ -28326,18 +28376,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1623,
-                "name": "SW Pink Pillar Slant 1",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1620,
-                "name": "SW Pink Ledge Slant",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1619,
                 "name": "SW Pink Ledge",
                 "order": 2,
@@ -28346,6 +28384,18 @@
             {
                 "trigger_id": 1624,
                 "name": "SW Pink Pillar Slant 2",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1623,
+                "name": "SW Pink Pillar Slant 1",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1620,
+                "name": "SW Pink Ledge Slant",
                 "order": 2,
                 "passthrough": 1
             },
@@ -34878,30 +34928,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1738,
-                "name": "W Large Pillar Gap South",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3162,
-                "name": "W Large Pillar Gap North 2",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 1737,
-                "name": "W Large Pillar Gap SW",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3161,
-                "name": "W Large Pillar Gap North 1",
-                "order": 3,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 1736,
                 "name": "W Large Pillar Gap NE",
                 "order": 3,
@@ -34940,6 +34966,30 @@
             {
                 "trigger_id": 3163,
                 "name": "W Large Pillar Gap West 1",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 1738,
+                "name": "W Large Pillar Gap South",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3162,
+                "name": "W Large Pillar Gap North 2",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 1737,
+                "name": "W Large Pillar Gap SW",
+                "order": 3,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3161,
+                "name": "W Large Pillar Gap North 1",
                 "order": 3,
                 "passthrough": 2
             }
@@ -35824,10 +35874,10 @@
         "date": "2025-06-16T07:52:05.000Z",
         "author": "brandon",
         "author_id": 29342,
-        "last_updated": "2025-06-16T18:34:46.000Z",
-        "last_updated_author_id": 147,
+        "last_updated": "2025-06-24T21:47:27.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 3,
         "subtier": 2,
         "max_prestrafe": 261,
@@ -41782,26 +41832,8 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1206,
-                "name": "E Brown Ramp 5",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1536,
-                "name": "SE Brown Ramp 2 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1205,
-                "name": "E Brown Ramp 4 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1535,
-                "name": "SE Brown Ramp 2",
+                "trigger_id": 1534,
+                "name": "SE Brown Ramp 1 Spine",
                 "order": 1,
                 "passthrough": 1
             },
@@ -41812,8 +41844,8 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1534,
-                "name": "SE Brown Ramp 1 Spine",
+                "trigger_id": 1533,
+                "name": "SE Brown Ramp 1",
                 "order": 1,
                 "passthrough": 1
             },
@@ -41824,20 +41856,8 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1533,
-                "name": "SE Brown Ramp 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1538,
                 "name": "SE Brown Ramp 3 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1207,
-                "name": "E Brown Ramp 5 Spine",
                 "order": 1,
                 "passthrough": 1
             },
@@ -41848,50 +41868,44 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1207,
+                "name": "E Brown Ramp 5 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1536,
+                "name": "SE Brown Ramp 2 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1206,
+                "name": "E Brown Ramp 5",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1535,
+                "name": "SE Brown Ramp 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1205,
+                "name": "E Brown Ramp 4 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1668,
                 "name": "W Orange Teleporter",
                 "order": 2,
                 "passthrough": 0
             },
             {
-                "trigger_id": 1136,
-                "name": "C Orange Ramp 3 Lower Spine",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1564,
-                "name": "SE Orange Ramp 1 Spine",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1618,
-                "name": "SW Orange Ramp 6 Spine",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1135,
-                "name": "C Orange Ramp 3",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1563,
-                "name": "SE Orange Ramp 1",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1617,
                 "name": "SW Orange Ramp 6",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1134,
-                "name": "C Orange Ramp 2 Spine",
                 "order": 2,
                 "passthrough": 1
             },
@@ -41908,20 +41922,26 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1134,
+                "name": "C Orange Ramp 2 Spine",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1139,
                 "name": "C Orange Ramp 4 Spine",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1133,
-                "name": "C Orange Ramp 2",
+                "trigger_id": 1666,
+                "name": "W Orange Ramp 5",
                 "order": 2,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1666,
-                "name": "W Orange Ramp 5",
+                "trigger_id": 1133,
+                "name": "C Orange Ramp 2",
                 "order": 2,
                 "passthrough": 1
             },
@@ -41944,52 +41964,40 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1564,
+                "name": "SE Orange Ramp 1 Spine",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1136,
+                "name": "C Orange Ramp 3 Lower Spine",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1618,
+                "name": "SW Orange Ramp 6 Spine",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1563,
+                "name": "SE Orange Ramp 1",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1135,
+                "name": "C Orange Ramp 3",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1270,
                 "name": "N Blue Teleporter",
                 "order": 3,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1121,
-                "name": "C Blue Ramp 6",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1649,
-                "name": "W Blue Ramp 4 Spine",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1410,
-                "name": "NW Blue Ramp 3 Spine",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1269,
-                "name": "N Blue Platform",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1120,
-                "name": "C Blue Ramp 1 Spine",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1648,
-                "name": "W Blue Ramp 4",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1409,
-                "name": "NW Blue Ramp 3",
-                "order": 3,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1119,
@@ -42034,10 +42042,106 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1649,
+                "name": "W Blue Ramp 4 Spine",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1121,
+                "name": "C Blue Ramp 6",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1410,
+                "name": "NW Blue Ramp 3 Spine",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1269,
+                "name": "N Blue Platform",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1648,
+                "name": "W Blue Ramp 4",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1120,
+                "name": "C Blue Ramp 1 Spine",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1409,
+                "name": "NW Blue Ramp 3",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1341,
                 "name": "N White Teleporter",
                 "order": 4,
                 "passthrough": 0
+            },
+            {
+                "trigger_id": 1338,
+                "name": "N White Ramp 5",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1265,
+                "name": "E White Ramp 1 Spine",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1394,
+                "name": "NE White Ramp 2",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1337,
+                "name": "N White Ramp 4 Spine",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1263,
+                "name": "E White Ramp 1",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1336,
+                "name": "N White Ramp 4",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1262,
+                "name": "E White Platform",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1397,
+                "name": "NE White Ramp 3 Spine",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1335,
+                "name": "N White Platform",
+                "order": 4,
+                "passthrough": 1
             },
             {
                 "trigger_id": 1396,
@@ -42058,110 +42162,20 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1265,
-                "name": "E White Ramp 1 Spine",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1338,
-                "name": "N White Ramp 5",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1394,
-                "name": "NE White Ramp 2",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1263,
-                "name": "E White Ramp 1",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1337,
-                "name": "N White Ramp 4 Spine",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1262,
-                "name": "E White Platform",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1336,
-                "name": "N White Ramp 4",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1397,
-                "name": "NE White Ramp 3 Spine",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1335,
-                "name": "N White Platform",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1685,
                 "name": "W Teal Teleporter",
                 "order": 5,
                 "passthrough": 0
             },
             {
-                "trigger_id": 1185,
-                "name": "C Teal Ramp 6",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1250,
-                "name": "E Teal Ramp 5",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1301,
-                "name": "N Teal Ramp 2 Spine",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1684,
-                "name": "W Short Tower Teal Top",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1249,
-                "name": "E Teal Ramp 4 Spine",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1300,
-                "name": "N Teal Ramp 2",
+                "trigger_id": 1299,
+                "name": "N Teal Ramp 1 Spine",
                 "order": 5,
                 "passthrough": 1
             },
             {
                 "trigger_id": 1248,
                 "name": "E Teal Ramp 4",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1299,
-                "name": "N Teal Ramp 1 Spine",
                 "order": 5,
                 "passthrough": 1
             },
@@ -42178,12 +42192,6 @@
                 "passthrough": 1
             },
             {
-                "trigger_id": 1186,
-                "name": "C Teal Ramp 6 Spine",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1375,
                 "name": "NE Teal Ramp 3",
                 "order": 5,
@@ -42192,6 +42200,12 @@
             {
                 "trigger_id": 1464,
                 "name": "NW Teal Platform",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1186,
+                "name": "C Teal Ramp 6 Spine",
                 "order": 5,
                 "passthrough": 1
             },
@@ -42208,56 +42222,56 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1185,
+                "name": "C Teal Ramp 6",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1301,
+                "name": "N Teal Ramp 2 Spine",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1684,
+                "name": "W Short Tower Teal Top",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1250,
+                "name": "E Teal Ramp 5",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1300,
+                "name": "N Teal Ramp 2",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1249,
+                "name": "E Teal Ramp 4 Spine",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1629,
                 "name": "SW Purple Teleporter",
                 "order": 6,
                 "passthrough": 0
             },
             {
-                "trigger_id": 1459,
-                "name": "NW Purple Ramp 2 Upper Spine",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1626,
-                "name": "SW Purple Platform",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1296,
-                "name": "N Purple Ramp 4 Spine",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1141,
-                "name": "C Purple Ramp 5 Spine",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1458,
-                "name": "NW Purple Ramp 2 Lower Spine",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1293,
-                "name": "N Purple Ramp 4",
+                "trigger_id": 1457,
+                "name": "NW Purple Ramp 2",
                 "order": 6,
                 "passthrough": 1
             },
             {
                 "trigger_id": 1140,
                 "name": "C Purple Ramp 5",
-                "order": 6,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1457,
-                "name": "NW Purple Ramp 2",
                 "order": 6,
                 "passthrough": 1
             },
@@ -42306,6 +42320,42 @@
             {
                 "trigger_id": 1454,
                 "name": "NW Purple Platform",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1459,
+                "name": "NW Purple Ramp 2 Upper Spine",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1626,
+                "name": "SW Purple Platform",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1296,
+                "name": "N Purple Ramp 4 Spine",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1458,
+                "name": "NW Purple Ramp 2 Lower Spine",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1141,
+                "name": "C Purple Ramp 5 Spine",
+                "order": 6,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1293,
+                "name": "N Purple Ramp 4",
                 "order": 6,
                 "passthrough": 1
             }
@@ -46400,12 +46450,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1403,
-                "name": "NW Black Ramp 2 Booster 1",
-                "order": 7,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1402,
                 "name": "NW Black Ramp 2",
                 "order": 7,
@@ -46414,6 +46458,12 @@
             {
                 "trigger_id": 1404,
                 "name": "NW Black Ramp 2 Booster 2",
+                "order": 7,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1403,
+                "name": "NW Black Ramp 2 Booster 1",
                 "order": 7,
                 "passthrough": 1
             },
@@ -46454,306 +46504,6 @@
                 "name": "Beetle179",
                 "order": 1,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1208,
-                "name": "E Brown Teleporter",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1293,
-                "name": "N Purple Ramp 4",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1392,
-                "name": "NE Upper Rooftops",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1490,
-                "name": "NW Yellow Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1533,
-                "name": "SE Brown Ramp 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1602,
-                "name": "SW Crane Top",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1648,
-                "name": "W Blue Ramp 4",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1675,
-                "name": "W Pink Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1126,
-                "name": "C Green Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1233,
-                "name": "E Red Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1336,
-                "name": "N White Ramp 4",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1400,
-                "name": "NW Black Ramp 1 Booster",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1519,
-                "name": "S Yellow Ramp 8",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1561,
-                "name": "SE Large Structure Red Top",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1621,
-                "name": "SW Pink Pillar Booster 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1656,
-                "name": "W Crane Room Floor",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1717,
-                "name": "W Yellow Ramp 4",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1179,
-                "name": "C Strip West",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1262,
-                "name": "E White Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1358,
-                "name": "NE Green Ramp 5",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1409,
-                "name": "NW Blue Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1527,
-                "name": "SE Black Teleporter",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1569,
-                "name": "SE Rooftops",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1626,
-                "name": "SW Purple Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1666,
-                "name": "W Orange Ramp 5",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1206,
-                "name": "E Brown Ramp 5",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1291,
-                "name": "N Purple Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1389,
-                "name": "NE Undergrounds Red Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1464,
-                "name": "NW Teal Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1532,
-                "name": "SE Bonus 5 Teleporter",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1600,
-                "name": "SW Crane Box Pink Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1643,
-                "name": "SW Yellow Ramp 7",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1673,
-                "name": "W Pink Ramp 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1123,
-                "name": "C Green Ramp 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1227,
-                "name": "E Large Structure Green Top",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1335,
-                "name": "N White Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1399,
-                "name": "NW Black Ramp 1",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1518,
-                "name": "S Yellow Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1559,
-                "name": "SE Large Structure Booster",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1620,
-                "name": "SW Pink Ledge Slant",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1653,
-                "name": "W Crane Box Pink Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1709,
-                "name": "W Tower Top",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1140,
-                "name": "C Purple Ramp 5",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1250,
-                "name": "E Teal Ramp 5",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1355,
-                "name": "NE Green Ramp 4",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1407,
-                "name": "NW Blue Ramp 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1525,
-                "name": "SE Black Ramp 4",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1567,
-                "name": "SE Red Ramp 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1625,
-                "name": "SW Pink Teleporter",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1665,
-                "name": "W Orange Platform",
-                "order": 1,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1204,
@@ -47244,6 +46994,306 @@
             {
                 "trigger_id": 1668,
                 "name": "W Orange Teleporter",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1208,
+                "name": "E Brown Teleporter",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1293,
+                "name": "N Purple Ramp 4",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1392,
+                "name": "NE Upper Rooftops",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1490,
+                "name": "NW Yellow Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1533,
+                "name": "SE Brown Ramp 1",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1602,
+                "name": "SW Crane Top",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1648,
+                "name": "W Blue Ramp 4",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1675,
+                "name": "W Pink Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1126,
+                "name": "C Green Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1233,
+                "name": "E Red Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1336,
+                "name": "N White Ramp 4",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1400,
+                "name": "NW Black Ramp 1 Booster",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1519,
+                "name": "S Yellow Ramp 8",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1561,
+                "name": "SE Large Structure Red Top",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1621,
+                "name": "SW Pink Pillar Booster 1",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1656,
+                "name": "W Crane Room Floor",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1717,
+                "name": "W Yellow Ramp 4",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1179,
+                "name": "C Strip West",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1262,
+                "name": "E White Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1358,
+                "name": "NE Green Ramp 5",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1409,
+                "name": "NW Blue Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1527,
+                "name": "SE Black Teleporter",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1569,
+                "name": "SE Rooftops",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1626,
+                "name": "SW Purple Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1666,
+                "name": "W Orange Ramp 5",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1206,
+                "name": "E Brown Ramp 5",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1291,
+                "name": "N Purple Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1389,
+                "name": "NE Undergrounds Red Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1464,
+                "name": "NW Teal Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1532,
+                "name": "SE Bonus 5 Teleporter",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1600,
+                "name": "SW Crane Box Pink Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1643,
+                "name": "SW Yellow Ramp 7",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1673,
+                "name": "W Pink Ramp 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1123,
+                "name": "C Green Ramp 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1227,
+                "name": "E Large Structure Green Top",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1335,
+                "name": "N White Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1399,
+                "name": "NW Black Ramp 1",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1518,
+                "name": "S Yellow Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1559,
+                "name": "SE Large Structure Booster",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1620,
+                "name": "SW Pink Ledge Slant",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1653,
+                "name": "W Crane Box Pink Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1709,
+                "name": "W Tower Top",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1140,
+                "name": "C Purple Ramp 5",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1250,
+                "name": "E Teal Ramp 5",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1355,
+                "name": "NE Green Ramp 4",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1407,
+                "name": "NW Blue Ramp 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1525,
+                "name": "SE Black Ramp 4",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1567,
+                "name": "SE Red Ramp 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1625,
+                "name": "SW Pink Teleporter",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1665,
+                "name": "W Orange Platform",
                 "order": 1,
                 "passthrough": 1
             }
@@ -51424,48 +51474,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1676,
-                "name": "W Pink Ramp 3 Spine",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1619,
-                "name": "SW Pink Ledge",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1670,
-                "name": "W Pink Pad",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1624,
-                "name": "SW Pink Pillar Slant 2",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1675,
-                "name": "W Pink Ramp 3",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1600,
-                "name": "SW Crane Box Pink Platform",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1669,
-                "name": "W Pink Jumppad",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 1623,
                 "name": "SW Pink Pillar Slant 1",
                 "order": 1,
@@ -51520,40 +51528,52 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1676,
+                "name": "W Pink Ramp 3 Spine",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1619,
+                "name": "SW Pink Ledge",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1670,
+                "name": "W Pink Pad",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1624,
+                "name": "SW Pink Pillar Slant 2",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1675,
+                "name": "W Pink Ramp 3",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1600,
+                "name": "SW Crane Box Pink Platform",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1669,
+                "name": "W Pink Jumppad",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1360,
                 "name": "NE Green Teleporter",
                 "order": 2,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1128,
-                "name": "C Green Ramp 3 Spine",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1359,
-                "name": "NE Green Ramp 5 Spine",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1126,
-                "name": "C Green Ramp 3",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1358,
-                "name": "NE Green Ramp 5",
-                "order": 2,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1227,
-                "name": "E Large Structure Green Top",
-                "order": 2,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1125,
@@ -51592,46 +51612,40 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1128,
+                "name": "C Green Ramp 3 Spine",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1359,
+                "name": "NE Green Ramp 5 Spine",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1126,
+                "name": "C Green Ramp 3",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1358,
+                "name": "NE Green Ramp 5",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1227,
+                "name": "E Large Structure Green Top",
+                "order": 2,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1523,
                 "name": "S Yellow Teleporter",
                 "order": 3,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1492,
-                "name": "NW Yellow Ramp 1 Spine",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1643,
-                "name": "SW Yellow Ramp 7",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1518,
-                "name": "S Yellow Platform",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1491,
-                "name": "NW Yellow Ramp 1",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1642,
-                "name": "SW Yellow Ramp 6 Spine",
-                "order": 3,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1496,
-                "name": "NW Yellow Ramp 3 Spine",
-                "order": 3,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1522,
@@ -51718,40 +51732,46 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1492,
+                "name": "NW Yellow Ramp 1 Spine",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1643,
+                "name": "SW Yellow Ramp 7",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1518,
+                "name": "S Yellow Platform",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1491,
+                "name": "NW Yellow Ramp 1",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1642,
+                "name": "SW Yellow Ramp 6 Spine",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1496,
+                "name": "NW Yellow Ramp 3 Spine",
+                "order": 3,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1373,
                 "name": "NE Red Teleporter",
                 "order": 4,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1565,
-                "name": "SE Red Ramp 1",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1233,
-                "name": "E Red Ramp 3",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1389,
-                "name": "NE Undergrounds Red Platform",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1238,
-                "name": "E Red Slant Top",
-                "order": 4,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1561,
-                "name": "SE Large Structure Red Top",
-                "order": 4,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1237,
@@ -51808,34 +51828,40 @@
                 "passthrough": 1
             },
             {
+                "trigger_id": 1565,
+                "name": "SE Red Ramp 1",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1233,
+                "name": "E Red Ramp 3",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1389,
+                "name": "NE Undergrounds Red Platform",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1238,
+                "name": "E Red Slant Top",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1561,
+                "name": "SE Large Structure Red Top",
+                "order": 4,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1527,
                 "name": "SE Black Teleporter",
                 "order": 5,
                 "passthrough": 0
-            },
-            {
-                "trigger_id": 1342,
-                "name": "NE Black Ramp 3",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1403,
-                "name": "NW Black Ramp 2 Booster 1",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1524,
-                "name": "SE Black Platform",
-                "order": 5,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1402,
-                "name": "NW Black Ramp 2",
-                "order": 5,
-                "passthrough": 1
             },
             {
                 "trigger_id": 1401,
@@ -51894,6 +51920,30 @@
             {
                 "trigger_id": 1398,
                 "name": "NW Black Platform",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1342,
+                "name": "NE Black Ramp 3",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1403,
+                "name": "NW Black Ramp 2 Booster 1",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1524,
+                "name": "SE Black Platform",
+                "order": 5,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1402,
+                "name": "NW Black Ramp 2",
                 "order": 5,
                 "passthrough": 1
             }
@@ -67576,12 +67626,12 @@
         "map_id": 9,
         "name": "brandon's LJ",
         "date": "2025-05-01T04:57:59.000Z",
-        "author": "brandøn",
+        "author": "brandon",
         "author_id": 29342,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-06-24T21:47:18.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 4,
         "subtier": 2,
         "max_prestrafe": 406,
@@ -69802,6 +69852,80 @@
             {
                 "trigger_id": 1171,
                 "name": "C Strip Top Light Pillar",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13436,
+        "map_id": 9,
+        "name": "try to dw",
+        "date": "2025-06-25T18:01:01.000Z",
+        "author": "herobrine",
+        "author_id": 18496,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 4,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1569,
+                "name": "SE Rooftops",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1570,
+                "name": "SE Rooftops Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1516,
+                "name": "S Upper Ground",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1500,
+                "name": "S East Block",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1535,
+                "name": "SE Brown Ramp 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1557,
+                "name": "SE Large Pillar Gap West",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 2363,
+                "name": "SE Large Pillar Gap South",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1537,
+                "name": "SE Brown Ramp 3",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1524,
+                "name": "SE Black Platform",
                 "order": 8,
                 "passthrough": 0
             }
@@ -78778,18 +78902,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1554,
-                "name": "SE Large Pillar Gap East",
-                "order": 9,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 1557,
-                "name": "SE Large Pillar Gap West",
-                "order": 9,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 1556,
                 "name": "SE Large Pillar Gap North",
                 "order": 9,
@@ -78798,6 +78910,18 @@
             {
                 "trigger_id": 1555,
                 "name": "SE Large Pillar Gap NW",
+                "order": 9,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 1554,
+                "name": "SE Large Pillar Gap East",
+                "order": 9,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 1557,
+                "name": "SE Large Pillar Gap West",
                 "order": 9,
                 "passthrough": 2
             }
@@ -80176,10 +80300,10 @@
         "date": "2024-11-22T05:52:03.000Z",
         "author": "King",
         "author_id": 10,
-        "last_updated": "2024-11-26T17:48:27.000Z",
+        "last_updated": "2025-06-24T21:47:46.000Z",
         "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 5,
         "subtier": 1,
         "max_prestrafe": 262,
@@ -80666,6 +80790,18 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 3162,
+                "name": "W Large Pillar Gap North 2",
+                "order": 12,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3161,
+                "name": "W Large Pillar Gap North 1",
+                "order": 12,
+                "passthrough": 2
+            },
+            {
                 "trigger_id": 1736,
                 "name": "W Large Pillar Gap NE",
                 "order": 12,
@@ -80680,18 +80816,6 @@
             {
                 "trigger_id": 3163,
                 "name": "W Large Pillar Gap West 1",
-                "order": 12,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3162,
-                "name": "W Large Pillar Gap North 2",
-                "order": 12,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3161,
-                "name": "W Large Pillar Gap North 1",
                 "order": 12,
                 "passthrough": 2
             },
@@ -81446,12 +81570,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2359,
-                "name": "NW Under Park Roof",
-                "order": 10,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 1467,
                 "name": "NW Under Window",
                 "order": 10,
@@ -81460,6 +81578,12 @@
             {
                 "trigger_id": 1465,
                 "name": "NW Through Window",
+                "order": 10,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 2359,
+                "name": "NW Under Park Roof",
                 "order": 10,
                 "passthrough": 2
             },
@@ -89648,6 +89772,68 @@
         ]
     },
     {
+        "id": 13438,
+        "map_id": 9,
+        "name": "Maltes gw1",
+        "date": "2025-06-26T20:49:31.000Z",
+        "author": "Malte on top",
+        "author_id": 31106,
+        "last_updated": "2025-06-26T21:18:34.000Z",
+        "last_updated_author_id": 20679,
+        "active": 1,
+        "ranked": 0,
+        "tier": 5,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1132,
+                "name": "C Lift Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1206,
+                "name": "E Brown Ramp 5",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1176,
+                "name": "C Strip Top Upper Pillar",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1159,
+                "name": "C Strip",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1164,
+                "name": "C Strip Lower",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1666,
+                "name": "W Orange Ramp 5",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1166,
+                "name": "C Strip Side",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 10058,
         "map_id": 9,
         "name": "Mambo",
@@ -90854,14 +91040,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1549,
-                "name": "SE Ground",
+                "trigger_id": 1259,
+                "name": "E Upper Ground",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1259,
-                "name": "E Upper Ground",
+                "trigger_id": 1549,
+                "name": "SE Ground",
                 "order": 5,
                 "passthrough": 1
             },
@@ -99720,14 +99906,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1723,
-                "name": "E Under Long Beams",
+                "trigger_id": 1199,
+                "name": "E Between Long Beams",
                 "order": 7,
                 "passthrough": 2
             },
             {
-                "trigger_id": 1199,
-                "name": "E Between Long Beams",
+                "trigger_id": 1723,
+                "name": "E Under Long Beams",
                 "order": 7,
                 "passthrough": 2
             },
@@ -108582,6 +108768,80 @@
         ]
     },
     {
+        "id": 13433,
+        "map_id": 9,
+        "name": "Simple Silence",
+        "date": "2025-06-25T04:36:08.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 5,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1262,
+                "name": "E White Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "name": "E White Ramp 1",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1204,
+                "name": "E Brown Ramp 4",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1567,
+                "name": "SE Red Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1555,
+                "name": "SE Large Pillar Gap NW",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1556,
+                "name": "SE Large Pillar Gap North",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1554,
+                "name": "SE Large Pillar Gap East",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1537,
+                "name": "SE Brown Ramp 3",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1508,
+                "name": "S Ground North",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12908,
         "map_id": 9,
         "name": "The Goose",
@@ -114042,10 +114302,10 @@
         "date": "2025-06-16T07:47:30.000Z",
         "author": "brandon",
         "author_id": 29342,
-        "last_updated": "2025-06-17T09:06:43.000Z",
-        "last_updated_author_id": 169,
+        "last_updated": "2025-06-24T21:47:21.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 261,
@@ -119978,10 +120238,10 @@
         "date": "2024-10-18T03:23:12.000Z",
         "author": "King",
         "author_id": 10,
-        "last_updated": "2024-10-19T00:56:41.000Z",
-        "last_updated_author_id": 10,
+        "last_updated": "2025-06-24T21:47:38.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 261,
@@ -120320,12 +120580,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3161,
-                "name": "W Large Pillar Gap North 1",
-                "order": 12,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 1736,
                 "name": "W Large Pillar Gap NE",
                 "order": 12,
@@ -120346,6 +120600,12 @@
             {
                 "trigger_id": 3162,
                 "name": "W Large Pillar Gap North 2",
+                "order": 12,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3161,
+                "name": "W Large Pillar Gap North 1",
                 "order": 12,
                 "passthrough": 2
             },
@@ -124556,6 +124816,74 @@
         ]
     },
     {
+        "id": 13435,
+        "map_id": 9,
+        "name": "Junt",
+        "date": "2025-06-25T15:12:28.000Z",
+        "author": "LuK ♛",
+        "author_id": 18912,
+        "last_updated": "2025-06-26T06:26:08.000Z",
+        "last_updated_author_id": 18912,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1227,
+                "name": "E Large Structure Green Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1225,
+                "name": "E Large Structure Booster SW",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1250,
+                "name": "E Teal Ramp 5",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1197,
+                "name": "E Behind Rooftops Block",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1200,
+                "name": "E Black Jumppad",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1138,
+                "name": "C Orange Ramp 4",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1185,
+                "name": "C Teal Ramp 6",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1722,
+                "name": "E Structure Floor",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6560,
         "map_id": 9,
         "name": "Just North of Here",
@@ -124830,12 +125158,12 @@
         "map_id": 9,
         "name": "King LJ",
         "date": "2024-11-05T20:58:11.000Z",
-        "author": "ᴛꜱ ٠ King",
+        "author": "King",
         "author_id": 10,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-06-24T21:47:51.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
@@ -126220,14 +126548,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 2362,
-                "name": "S Under Yellow Ramp 9",
+                "trigger_id": 2361,
+                "name": "S Under Yellow Ramp 8",
                 "order": 6,
                 "passthrough": 2
             },
             {
-                "trigger_id": 2361,
-                "name": "S Under Yellow Ramp 8",
+                "trigger_id": 2362,
+                "name": "S Under Yellow Ramp 9",
                 "order": 6,
                 "passthrough": 2
             },
@@ -134678,18 +135006,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3163,
-                "name": "W Large Pillar Gap West 1",
-                "order": 1,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3159,
-                "name": "W Large Pillar Gap East 1",
-                "order": 1,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 1738,
                 "name": "W Large Pillar Gap South",
                 "order": 1,
@@ -134704,6 +135020,18 @@
             {
                 "trigger_id": 1663,
                 "name": "W Large Pillar Gap SE",
+                "order": 1,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3163,
+                "name": "W Large Pillar Gap West 1",
+                "order": 1,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3159,
+                "name": "W Large Pillar Gap East 1",
                 "order": 1,
                 "passthrough": 2
             },
@@ -134788,12 +135116,12 @@
         "map_id": 9,
         "name": "Rk's LJ",
         "date": "2023-06-10T05:51:18.000Z",
-        "author": "ryuko // talk soon <3",
+        "author": "ryuko",
         "author_id": 4963,
-        "last_updated": "2024-03-26T04:08:03.000Z",
-        "last_updated_author_id": 10,
+        "last_updated": "2025-06-24T21:47:55.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 6,
         "subtier": 1,
         "max_prestrafe": 406,
@@ -141206,14 +141534,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3168,
-                "name": "N Tower Alley Entry",
+                "trigger_id": 1317,
+                "name": "N Tower Beams 2",
                 "order": 5,
                 "passthrough": 1
             },
             {
-                "trigger_id": 1317,
-                "name": "N Tower Beams 2",
+                "trigger_id": 3168,
+                "name": "N Tower Alley Entry",
                 "order": 5,
                 "passthrough": 1
             },
@@ -145091,68 +145419,6 @@
                 "trigger_id": 1264,
                 "name": "E White Ramp 1 Platform",
                 "order": 12,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 13226,
-        "map_id": 9,
-        "name": "12 hour edge",
-        "date": "2025-06-18T02:43:54.000Z",
-        "author": "whatever dude",
-        "author_id": 24278,
-        "last_updated": "2025-06-20T01:24:32.000Z",
-        "last_updated_author_id": 18912,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "subtier": 2,
-        "max_prestrafe": 262,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 1569,
-                "name": "SE Rooftops",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1570,
-                "name": "SE Rooftops Booster",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1538,
-                "name": "SE Brown Ramp 3 Spine",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1567,
-                "name": "SE Red Ramp 2",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1555,
-                "name": "SE Large Pillar Gap NW",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1563,
-                "name": "SE Orange Ramp 1",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1514,
-                "name": "S Long Beam 2",
-                "order": 6,
                 "passthrough": 0
             }
         ]
@@ -156552,6 +156818,116 @@
         ]
     },
     {
+        "id": 13458,
+        "map_id": 9,
+        "name": "Salvation",
+        "date": "2025-06-29T05:48:09.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated": "2025-06-29T07:49:07.000Z",
+        "last_updated_author_id": 147,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1227,
+                "name": "E Large Structure Green Top",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1225,
+                "name": "E Large Structure Booster SW",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1247,
+                "name": "E Structure Top",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1252,
+                "name": "E Through Large Structure",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1210,
+                "name": "E East Wall Lower",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1200,
+                "name": "E Black Jumppad",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1256,
+                "name": "E Through White Beams Bottom",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1235,
+                "name": "E Red Ramp 4",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1394,
+                "name": "NE White Ramp 2",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "name": "E White Ramp 1",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1256,
+                "name": "E Through White Beams Bottom",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1231,
+                "name": "E Over High Platform",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1220,
+                "name": "E Large Pillar Gap South",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1204,
+                "name": "E Brown Ramp 4",
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1508,
+                "name": "S Ground North",
+                "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 9556,
         "map_id": 9,
         "name": "Simo Hayha",
@@ -160260,68 +160636,6 @@
                 "name": "NW Undergrounds High Ledge",
                 "order": 9,
                 "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 10834,
-        "map_id": 9,
-        "name": "A Monarch's Hideout",
-        "date": "2024-08-06T22:41:36.000Z",
-        "author": "King",
-        "author_id": 10,
-        "last_updated": "2025-06-08T20:00:58.000Z",
-        "last_updated_author_id": 18698,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "subtier": 3,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 1677,
-                "name": "W Rooftops",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1666,
-                "name": "W Orange Ramp 5",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1121,
-                "name": "C Blue Ramp 6",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1331,
-                "name": "N Undergrounds Ledge",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1287,
-                "name": "N Middle Ground",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1284,
-                "name": "N Low Dark Box",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1287,
-                "name": "N Middle Ground",
-                "order": 5,
-                "passthrough": 2
             }
         ]
     },
@@ -173532,16 +173846,90 @@
         ]
     },
     {
+        "id": 13457,
+        "map_id": 9,
+        "name": "That's Enough for Me",
+        "date": "2025-06-29T02:29:10.000Z",
+        "author": "hunter",
+        "author_id": 4820,
+        "last_updated": "2025-06-30T05:53:38.000Z",
+        "last_updated_author_id": 4820,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 3,
+        "max_prestrafe": 261,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1392,
+                "name": "NE Upper Rooftops",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1393,
+                "name": "NE Upper Rooftops Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1374,
+                "name": "NE Rooftops",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1358,
+                "name": "NE Green Ramp 5",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1394,
+                "name": "NE White Ramp 2",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1342,
+                "name": "NE Black Ramp 3",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1373,
+                "name": "NE Red Teleporter",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1298,
+                "name": "N Teal Ramp 1",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1430,
+                "name": "NW Jungle Soap Beam",
+                "order": 8,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 6642,
         "map_id": 9,
         "name": "The Bullet",
         "date": "2023-01-21T09:49:54.000Z",
-        "author": "ryuko // talk soon <3",
+        "author": "ryuko",
         "author_id": 4963,
-        "last_updated": "2024-06-18T09:24:52.000Z",
+        "last_updated": "2025-06-29T07:37:01.000Z",
         "last_updated_author_id": 147,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 6,
         "subtier": 3,
         "max_prestrafe": null,
@@ -176006,6 +176394,68 @@
         ]
     },
     {
+        "id": 13226,
+        "map_id": 9,
+        "name": "12 hour edge",
+        "date": "2025-06-18T02:43:54.000Z",
+        "author": "arex",
+        "author_id": 24278,
+        "last_updated": "2025-06-27T15:34:07.000Z",
+        "last_updated_author_id": 20679,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": 262,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1569,
+                "name": "SE Rooftops",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1570,
+                "name": "SE Rooftops Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1538,
+                "name": "SE Brown Ramp 3 Spine",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1567,
+                "name": "SE Red Ramp 2",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1555,
+                "name": "SE Large Pillar Gap NW",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1563,
+                "name": "SE Orange Ramp 1",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1514,
+                "name": "S Long Beam 2",
+                "order": 6,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 13088,
         "map_id": 9,
         "name": "2006 soulja boy",
@@ -176186,14 +176636,76 @@
         ]
     },
     {
+        "id": 10834,
+        "map_id": 9,
+        "name": "A Monarch's Hideout",
+        "date": "2024-08-06T22:41:36.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": "2025-06-29T21:06:41.000Z",
+        "last_updated_author_id": 20679,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1677,
+                "name": "W Rooftops",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1666,
+                "name": "W Orange Ramp 5",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1121,
+                "name": "C Blue Ramp 6",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1331,
+                "name": "N Undergrounds Ledge",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1287,
+                "name": "N Middle Ground",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1284,
+                "name": "N Low Dark Box",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1287,
+                "name": "N Middle Ground",
+                "order": 5,
+                "passthrough": 2
+            }
+        ]
+    },
+    {
         "id": 9330,
         "map_id": 9,
         "name": "A Monarch's Rise",
         "date": "2024-03-20T21:09:54.000Z",
-        "author": "wilevitör",
+        "author": "King",
         "author_id": 10,
-        "last_updated": "2024-03-20T21:16:04.000Z",
-        "last_updated_author_id": 10,
+        "last_updated": "2025-06-29T21:15:14.000Z",
+        "last_updated_author_id": 20679,
         "active": 1,
         "ranked": 1,
         "tier": 7,
@@ -177006,12 +177518,12 @@
         "map_id": 9,
         "name": "Another LJ zzzz",
         "date": "2024-11-15T04:05:17.000Z",
-        "author": "ᴛꜱ ٠ King",
+        "author": "King",
         "author_id": 10,
-        "last_updated": null,
-        "last_updated_author_id": null,
+        "last_updated": "2025-06-24T21:47:15.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 406,
@@ -184000,10 +184512,10 @@
         "date": "2024-10-18T02:44:07.000Z",
         "author": "King",
         "author_id": 10,
-        "last_updated": "2024-11-28T17:58:15.000Z",
+        "last_updated": "2025-06-24T21:47:33.000Z",
         "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 261,
@@ -184036,12 +184548,12 @@
         "map_id": 9,
         "name": "Fly LJ 260 v3",
         "date": "2024-10-20T01:17:00.000Z",
-        "author": "zeka :D",
+        "author": "tako",
         "author_id": 7521,
-        "last_updated": "2024-10-20T04:55:03.000Z",
-        "last_updated_author_id": 10,
+        "last_updated": "2025-06-24T21:47:41.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "subtier": 1,
         "max_prestrafe": 261,
@@ -184490,18 +185002,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3163,
-                "name": "W Large Pillar Gap West 1",
-                "order": 12,
-                "passthrough": 2
-            },
-            {
-                "trigger_id": 3162,
-                "name": "W Large Pillar Gap North 2",
-                "order": 12,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 3161,
                 "name": "W Large Pillar Gap North 1",
                 "order": 12,
@@ -184516,6 +185016,18 @@
             {
                 "trigger_id": 3164,
                 "name": "W Large Pillar Gap West 2",
+                "order": 12,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3163,
+                "name": "W Large Pillar Gap West 1",
+                "order": 12,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3162,
+                "name": "W Large Pillar Gap North 2",
                 "order": 12,
                 "passthrough": 2
             },
@@ -188182,6 +188694,12 @@
                 "passthrough": 0
             },
             {
+                "trigger_id": 1260,
+                "name": "E Upper Ground Island",
+                "order": 10,
+                "passthrough": 1
+            },
+            {
                 "trigger_id": 1259,
                 "name": "E Upper Ground",
                 "order": 10,
@@ -188190,12 +188708,6 @@
             {
                 "trigger_id": 1549,
                 "name": "SE Ground",
-                "order": 10,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1260,
-                "name": "E Upper Ground Island",
                 "order": 10,
                 "passthrough": 1
             },
@@ -198448,12 +198960,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3164,
-                "name": "W Large Pillar Gap West 2",
-                "order": 8,
-                "passthrough": 2
-            },
-            {
                 "trigger_id": 3163,
                 "name": "W Large Pillar Gap West 1",
                 "order": 8,
@@ -198468,6 +198974,12 @@
             {
                 "trigger_id": 1737,
                 "name": "W Large Pillar Gap SW",
+                "order": 8,
+                "passthrough": 2
+            },
+            {
+                "trigger_id": 3164,
+                "name": "W Large Pillar Gap West 2",
                 "order": 8,
                 "passthrough": 2
             }
@@ -200667,56 +201179,6 @@
                 "trigger_id": 1451,
                 "name": "NW Pool Entrance",
                 "order": 5,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
-        "id": 11545,
-        "map_id": 9,
-        "name": "The Dissected Witch",
-        "date": "2024-10-09T17:43:02.000Z",
-        "author": "King",
-        "author_id": 10,
-        "last_updated": "2024-10-10T20:57:07.000Z",
-        "last_updated_author_id": 10,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 1171,
-                "name": "C Strip Top Light Pillar",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1138,
-                "name": "C Orange Ramp 4",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1176,
-                "name": "C Strip Top Upper Pillar",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1138,
-                "name": "C Orange Ramp 4",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1244,
-                "name": "E Small Structure Beams",
-                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -206740,6 +207202,104 @@
         ]
     },
     {
+        "id": 13463,
+        "map_id": 9,
+        "name": "Bloodbath",
+        "date": "2025-06-30T12:07:27.000Z",
+        "author": "agent tronic",
+        "author_id": 1858,
+        "last_updated": "2025-06-30T19:47:26.000Z",
+        "last_updated_author_id": 4820,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 2,
+        "max_prestrafe": 261,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1181,
+                "name": "C Strip West Dark Box",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1180,
+                "name": "C Strip West Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1139,
+                "name": "C Orange Ramp 4 Spine",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1668,
+                "name": "W Orange Teleporter",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1118,
+                "name": "C Blue Platform",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1171,
+                "name": "C Strip Top Light Pillar",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1206,
+                "name": "E Brown Ramp 5",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1245,
+                "name": "E Small Structure Top",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1233,
+                "name": "E Red Ramp 3",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1258,
+                "name": "E Under White Beams",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "name": "SE Black Ramp 4",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1524,
+                "name": "SE Black Platform",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1557,
+                "name": "SE Large Pillar Gap West",
+                "order": 11,
+                "passthrough": 2
+            }
+        ]
+    },
+    {
         "id": 9207,
         "map_id": 9,
         "name": "Boarding BCom Honours",
@@ -206980,10 +207540,10 @@
         "date": "2025-06-16T07:49:18.000Z",
         "author": "brandon",
         "author_id": 29342,
-        "last_updated": "2025-06-16T21:43:30.000Z",
-        "last_updated_author_id": 75,
+        "last_updated": "2025-06-24T21:47:24.000Z",
+        "last_updated_author_id": 18496,
         "active": 1,
-        "ranked": 1,
+        "ranked": 0,
         "tier": 7,
         "subtier": 2,
         "max_prestrafe": 261,
@@ -213530,14 +214090,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1222,
-                "name": "E Large Pillar Gap West 2",
+                "trigger_id": 1221,
+                "name": "E Large Pillar Gap West 1",
                 "order": 17,
                 "passthrough": 2
             },
             {
-                "trigger_id": 1221,
-                "name": "E Large Pillar Gap West 1",
+                "trigger_id": 1222,
+                "name": "E Large Pillar Gap West 2",
                 "order": 17,
                 "passthrough": 2
             }
@@ -216409,6 +216969,56 @@
                 "trigger_id": 1571,
                 "name": "SE Spawn Brown Platform",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11545,
+        "map_id": 9,
+        "name": "The Dissected Witch",
+        "date": "2024-10-09T17:43:02.000Z",
+        "author": "King",
+        "author_id": 10,
+        "last_updated": "2025-06-29T21:23:40.000Z",
+        "last_updated_author_id": 20679,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 2,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1171,
+                "name": "C Strip Top Light Pillar",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1138,
+                "name": "C Orange Ramp 4",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1176,
+                "name": "C Strip Top Upper Pillar",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1138,
+                "name": "C Orange Ramp 4",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1244,
+                "name": "E Small Structure Beams",
+                "order": 4,
                 "passthrough": 0
             }
         ]
@@ -228640,6 +229250,86 @@
         ]
     },
     {
+        "id": 13439,
+        "map_id": 9,
+        "name": "Alter Ego",
+        "date": "2025-06-26T21:58:46.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated": "2025-06-26T22:05:33.000Z",
+        "last_updated_author_id": 147,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1569,
+                "name": "SE Rooftops",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1570,
+                "name": "SE Rooftops Booster",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1535,
+                "name": "SE Brown Ramp 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1617,
+                "name": "SW Orange Ramp 6",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1714,
+                "name": "W Under Yellow Ramp 4",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1617,
+                "name": "SW Orange Ramp 6",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1135,
+                "name": "C Orange Ramp 3",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1173,
+                "name": "C Strip Top Over Beam",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1724,
+                "name": "N Divider",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1274,
+                "name": "N High Beam Upper 2",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 12654,
         "map_id": 9,
         "name": "Apocalypse",
@@ -230624,6 +231314,98 @@
         ]
     },
     {
+        "id": 13431,
+        "map_id": 9,
+        "name": "Driver",
+        "date": "2025-06-24T20:31:39.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated": null,
+        "last_updated_author_id": null,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1155,
+                "name": "C Sky Roof",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1123,
+                "name": "C Green Ramp 2",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1124,
+                "name": "C Green Ramp 2 Beams",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1182,
+                "name": "C Strip West Light Pillar",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1119,
+                "name": "C Blue Ramp 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1173,
+                "name": "C Strip Top Over Beam",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1135,
+                "name": "C Orange Ramp 3",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1175,
+                "name": "C Strip Top Under Beam",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1138,
+                "name": "C Orange Ramp 4",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1666,
+                "name": "W Orange Ramp 5",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1270,
+                "name": "N Blue Teleporter",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1193,
+                "name": "C Undergrounds Entry West",
+                "order": 10,
+                "passthrough": 2
+            }
+        ]
+    },
+    {
         "id": 6329,
         "map_id": 9,
         "name": "Elite Djungelvrål",
@@ -232182,14 +232964,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1584,
-                "name": "SE Spawn Roof Through Beams Top",
+                "trigger_id": 1732,
+                "name": "SE Spawn Roof Through Beams Back",
                 "order": 2,
                 "passthrough": 2
             },
             {
-                "trigger_id": 1732,
-                "name": "SE Spawn Roof Through Beams Back",
+                "trigger_id": 1584,
+                "name": "SE Spawn Roof Through Beams Top",
                 "order": 2,
                 "passthrough": 2
             },
@@ -239070,6 +239852,116 @@
         ]
     },
     {
+        "id": 13454,
+        "map_id": 9,
+        "name": "✪ agent wazy :  thx",
+        "date": "2025-06-28T12:49:20.000Z",
+        "author": "herø & ct",
+        "author_id": null,
+        "last_updated": "2025-06-28T12:50:24.000Z",
+        "last_updated_author_id": 4820,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1239,
+                "name": "E Rooftops",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1123,
+                "name": "C Green Ramp 2",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1118,
+                "name": "C Blue Platform",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1460,
+                "name": "NW Rooftops",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1489,
+                "name": "NW Window Top",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1407,
+                "name": "NW Blue Ramp 2",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1409,
+                "name": "NW Blue Ramp 3",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1648,
+                "name": "W Blue Ramp 4",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1737,
+                "name": "W Large Pillar Gap SW",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1738,
+                "name": "W Large Pillar Gap South",
+                "order": 9,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1648,
+                "name": "W Blue Ramp 4",
+                "order": 10,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1409,
+                "name": "NW Blue Ramp 3",
+                "order": 11,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1407,
+                "name": "NW Blue Ramp 2",
+                "order": 12,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1193,
+                "name": "C Undergrounds Entry West",
+                "order": 13,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1189,
+                "name": "C Undergrounds",
+                "order": 14,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 13187,
         "map_id": 9,
         "name": "007",
@@ -242568,14 +243460,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1222,
-                "name": "E Large Pillar Gap West 2",
+                "trigger_id": 1221,
+                "name": "E Large Pillar Gap West 1",
                 "order": 8,
                 "passthrough": 2
             },
             {
-                "trigger_id": 1221,
-                "name": "E Large Pillar Gap West 1",
+                "trigger_id": 1222,
+                "name": "E Large Pillar Gap West 2",
                 "order": 8,
                 "passthrough": 2
             },
@@ -244289,6 +245181,80 @@
                 "trigger_id": 1412,
                 "name": "NW Ground",
                 "order": 3,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11805,
+        "map_id": 9,
+        "name": "Buzzcut",
+        "date": "2024-11-12T02:43:03.000Z",
+        "author": "agent nex",
+        "author_id": 18496,
+        "last_updated": "2025-06-26T20:32:06.000Z",
+        "last_updated_author_id": 18496,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1571,
+                "name": "SE Spawn Brown Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1533,
+                "name": "SE Brown Ramp 1",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1535,
+                "name": "SE Brown Ramp 2",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1525,
+                "name": "SE Black Ramp 4",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1135,
+                "name": "C Orange Ramp 3",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1175,
+                "name": "C Strip Top Under Beam",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1119,
+                "name": "C Blue Ramp 1",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1476,
+                "name": "NW Undergrounds Entry East",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1457,
+                "name": "NW Purple Ramp 2",
+                "order": 8,
                 "passthrough": 0
             }
         ]
@@ -248576,6 +249542,74 @@
         ]
     },
     {
+        "id": 13440,
+        "map_id": 9,
+        "name": "✪ agent herø :  srs",
+        "date": "2025-06-27T19:57:56.000Z",
+        "author": "agent wazy",
+        "author_id": 17957,
+        "last_updated": "2025-06-28T08:37:08.000Z",
+        "last_updated_author_id": 18496,
+        "active": 1,
+        "ranked": 1,
+        "tier": 8,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1262,
+                "name": "E White Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "name": "E White Ramp 1",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1258,
+                "name": "E Under White Beams",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1235,
+                "name": "E Red Ramp 4",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1263,
+                "name": "E White Ramp 1",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1258,
+                "name": "E Under White Beams",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1204,
+                "name": "E Brown Ramp 4",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1503,
+                "name": "S Fort Light Box",
+                "order": 7,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
         "id": 13122,
         "map_id": 9,
         "name": "Crazyvana",
@@ -248728,14 +249762,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 1219,
-                "name": "E Large Pillar Gap SW",
+                "trigger_id": 1220,
+                "name": "E Large Pillar Gap South",
                 "order": 10,
                 "passthrough": 2
             },
             {
-                "trigger_id": 1220,
-                "name": "E Large Pillar Gap South",
+                "trigger_id": 1219,
+                "name": "E Large Pillar Gap SW",
                 "order": 10,
                 "passthrough": 2
             },

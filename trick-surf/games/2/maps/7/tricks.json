@@ -33798,14 +33798,14 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 3218,
-                "name": "T-Spawn Hole",
+                "trigger_id": 3192,
+                "name": "CT-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             },
             {
-                "trigger_id": 3192,
-                "name": "CT-Spawn Hole",
+                "trigger_id": 3218,
+                "name": "T-Spawn Hole",
                 "order": 2,
                 "passthrough": 2
             }
@@ -96596,74 +96596,6 @@
         ]
     },
     {
-        "id": 11037,
-        "map_id": 7,
-        "name": "Solar Flare",
-        "date": "2024-08-26T05:57:39.000Z",
-        "author": "Schewpid",
-        "author_id": 25884,
-        "last_updated": "2024-09-24T23:06:44.000Z",
-        "last_updated_author_id": 10899,
-        "active": 1,
-        "ranked": 1,
-        "tier": 6,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 757,
-                "name": "Jail Floor",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 777,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 842,
-                "name": "T2 Left Wing",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 844,
-                "name": "T2 Right Wing",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 777,
-                "name": "Main Ramp",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 705,
-                "name": "Behind Spawn",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 777,
-                "name": "Main Ramp",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 811,
-                "name": "Ski Sign",
-                "order": 7,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 10281,
         "map_id": 7,
         "name": "sonki can beat this",
@@ -108245,6 +108177,74 @@
                 "trigger_id": 846,
                 "name": "T2 Top Left Block",
                 "order": 15,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 11037,
+        "map_id": 7,
+        "name": "Solar Flare",
+        "date": "2024-08-26T05:57:39.000Z",
+        "author": "surfacc",
+        "author_id": 13870,
+        "last_updated": "2025-06-24T20:24:44.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 6,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 757,
+                "name": "Jail Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 842,
+                "name": "T2 Left Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 844,
+                "name": "T2 Right Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "name": "Main Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 705,
+                "name": "Behind Spawn",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "name": "Main Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 811,
+                "name": "Ski Sign",
+                "order": 7,
                 "passthrough": 0
             }
         ]
@@ -129354,56 +129354,6 @@
         ]
     },
     {
-        "id": 13392,
-        "map_id": 7,
-        "name": "Avalanche to gunroom",
-        "date": "2025-06-22T08:26:21.000Z",
-        "author": "Partochka tired of games",
-        "author_id": 14446,
-        "last_updated": "2025-06-22T08:27:15.000Z",
-        "last_updated_author_id": 2687,
-        "active": 1,
-        "ranked": 1,
-        "tier": 8,
-        "subtier": 3,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 757,
-                "name": "Jail Floor",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 777,
-                "name": "Main Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 867,
-                "name": "Triomino 1",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 737,
-                "name": "Gun Room",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 3268,
-                "name": "Through Gun Room",
-                "order": 3,
-                "passthrough": 1
-            }
-        ]
-    },
-    {
         "id": 12077,
         "map_id": 7,
         "name": "High Tree Return",
@@ -129738,44 +129688,6 @@
         ]
     },
     {
-        "id": 12726,
-        "map_id": 7,
-        "name": "Tiny Flight To Elevator",
-        "date": "2025-05-16T12:35:56.000Z",
-        "author": "><",
-        "author_id": 10483,
-        "last_updated": "2025-05-18T15:36:34.000Z",
-        "last_updated_author_id": 13870,
-        "active": 1,
-        "ranked": 1,
-        "tier": 8,
-        "subtier": 3,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 3207,
-                "name": "Middle Awp Ground",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 867,
-                "name": "Triomino 1",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 728,
-                "name": "Elevator Entrance",
-                "order": 2,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 6862,
         "map_id": 7,
         "name": "Wedges all day to T2",
@@ -129979,6 +129891,124 @@
                 "trigger_id": 731,
                 "name": "Elevator Hole Platform",
                 "order": 13,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13434,
+        "map_id": 7,
+        "name": "Reverb to Spawn Roof Platform",
+        "date": "2025-06-25T10:07:36.000Z",
+        "author": "Meowra",
+        "author_id": 12573,
+        "last_updated": "2025-06-25T10:09:39.000Z",
+        "last_updated_author_id": 2687,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 821,
+                "name": "T-Spawn",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 784,
+                "name": "Middle Wing",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 766,
+                "name": "Left Wing",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 734,
+                "name": "Fish Hook Wedge",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 732,
+                "name": "Fish Hook Ramp",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 798,
+                "name": "Rear T2 Tower Wedge",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 800,
+                "name": "Right Wing",
+                "order": 7,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "name": "Main Ramp",
+                "order": 8,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 814,
+                "name": "Spawn Roof Platform",
+                "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 12726,
+        "map_id": 7,
+        "name": "Tiny Flight To Elevator",
+        "date": "2025-05-16T12:35:56.000Z",
+        "author": "localhost",
+        "author_id": 10483,
+        "last_updated": "2025-06-25T13:36:38.000Z",
+        "last_updated_author_id": 13870,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "subtier": 1,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 3207,
+                "name": "Middle Awp Ground",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 867,
+                "name": "Triomino 1",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 728,
+                "name": "Elevator Entrance",
+                "order": 2,
                 "passthrough": 0
             }
         ]
@@ -130314,6 +130344,56 @@
                 "name": "Tower Box 3",
                 "order": 4,
                 "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 13392,
+        "map_id": 7,
+        "name": "Avalanche to gunroom",
+        "date": "2025-06-22T08:26:21.000Z",
+        "author": "Partochka tired of games",
+        "author_id": 14446,
+        "last_updated": "2025-06-30T18:05:39.000Z",
+        "last_updated_author_id": 2687,
+        "active": 1,
+        "ranked": 1,
+        "tier": 9,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 757,
+                "name": "Jail Floor",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 777,
+                "name": "Main Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 867,
+                "name": "Triomino 1",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 737,
+                "name": "Gun Room",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 3268,
+                "name": "Through Gun Room",
+                "order": 3,
+                "passthrough": 1
             }
         ]
     },

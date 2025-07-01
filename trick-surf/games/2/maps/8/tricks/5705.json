@@ -29,18 +29,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 933,
-            "name": "In-Ground Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1084,
-            "name": "V Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 914,
             "name": "East Ramp",
             "order": 1,
@@ -103,6 +91,18 @@
         {
             "trigger_id": 1092,
             "name": "West Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 933,
+            "name": "In-Ground Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1084,
+            "name": "V Ramp",
             "order": 1,
             "passthrough": 1
         }

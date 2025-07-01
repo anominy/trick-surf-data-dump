@@ -1,0 +1,38 @@
+{
+    "id": 13426,
+    "map_id": 14,
+    "name": "Shaded Balls",
+    "date": "2025-06-24T18:15:36.000Z",
+    "author": "owen608",
+    "author_id": 32029,
+    "last_updated": "2025-06-24T18:15:49.000Z",
+    "last_updated_author_id": 32029,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 1,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 3681,
+            "name": "Door Top",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3762,
+            "name": "Stage 3 Ramp 2",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 3656,
+            "name": "Blacklight Platform",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

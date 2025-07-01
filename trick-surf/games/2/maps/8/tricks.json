@@ -86,18 +86,6 @@
                 "passthrough": 0
             },
             {
-                "trigger_id": 933,
-                "name": "In-Ground Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
-                "trigger_id": 1084,
-                "name": "V Ramp",
-                "order": 1,
-                "passthrough": 1
-            },
-            {
                 "trigger_id": 914,
                 "name": "East Ramp",
                 "order": 1,
@@ -160,6 +148,18 @@
             {
                 "trigger_id": 1092,
                 "name": "West Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 933,
+                "name": "In-Ground Ramp",
+                "order": 1,
+                "passthrough": 1
+            },
+            {
+                "trigger_id": 1084,
+                "name": "V Ramp",
                 "order": 1,
                 "passthrough": 1
             }
@@ -21452,74 +21452,6 @@
         ]
     },
     {
-        "id": 10847,
-        "map_id": 8,
-        "name": "Coast to Coast",
-        "date": "2024-08-08T21:13:45.000Z",
-        "author": "influx",
-        "author_id": 147,
-        "last_updated": null,
-        "last_updated_author_id": 147,
-        "active": 1,
-        "ranked": 1,
-        "tier": 7,
-        "subtier": 1,
-        "max_prestrafe": 406,
-        "completions": "0",
-        "players_completed": "0",
-        "average_rating": "0.0000",
-        "sequence": [
-            {
-                "trigger_id": 1031,
-                "name": "Stage 2 Upper Left Platform",
-                "order": 0,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1028,
-                "name": "Stage 2 Ramp",
-                "order": 1,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1063,
-                "name": "Stage 6 Ramp",
-                "order": 2,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 892,
-                "name": "Booster Ramp",
-                "order": 3,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 933,
-                "name": "In-Ground Ramp",
-                "order": 4,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 1069,
-                "name": "Under Blue Platform",
-                "order": 5,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 892,
-                "name": "Booster Ramp",
-                "order": 6,
-                "passthrough": 0
-            },
-            {
-                "trigger_id": 984,
-                "name": "Red Circle",
-                "order": 7,
-                "passthrough": 0
-            }
-        ]
-    },
-    {
         "id": 12249,
         "map_id": 8,
         "name": "f1m",
@@ -23031,6 +22963,74 @@
                 "trigger_id": 891,
                 "name": "Bonus Water",
                 "order": 9,
+                "passthrough": 0
+            }
+        ]
+    },
+    {
+        "id": 10847,
+        "map_id": 8,
+        "name": "Coast to Coast",
+        "date": "2024-08-08T21:13:45.000Z",
+        "author": "influx",
+        "author_id": 147,
+        "last_updated": "2025-07-01T03:50:20.000Z",
+        "last_updated_author_id": 18496,
+        "active": 1,
+        "ranked": 1,
+        "tier": 7,
+        "subtier": 3,
+        "max_prestrafe": 406,
+        "completions": "0",
+        "players_completed": "0",
+        "average_rating": "0.0000",
+        "sequence": [
+            {
+                "trigger_id": 1031,
+                "name": "Stage 2 Upper Left Platform",
+                "order": 0,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1028,
+                "name": "Stage 2 Ramp",
+                "order": 1,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1063,
+                "name": "Stage 6 Ramp",
+                "order": 2,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 892,
+                "name": "Booster Ramp",
+                "order": 3,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 933,
+                "name": "In-Ground Ramp",
+                "order": 4,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 1069,
+                "name": "Under Blue Platform",
+                "order": 5,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 892,
+                "name": "Booster Ramp",
+                "order": 6,
+                "passthrough": 0
+            },
+            {
+                "trigger_id": 984,
+                "name": "Red Circle",
+                "order": 7,
                 "passthrough": 0
             }
         ]

@@ -47,12 +47,6 @@
             "passthrough": 0
         },
         {
-            "trigger_id": 2444,
-            "name": "Center Ramp",
-            "order": 4,
-            "passthrough": 1
-        },
-        {
             "trigger_id": 2443,
             "name": "Center Pink Platform",
             "order": 4,
@@ -61,6 +55,12 @@
         {
             "trigger_id": 2451,
             "name": "Center White Platform",
+            "order": 4,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 2444,
+            "name": "Center Ramp",
             "order": 4,
             "passthrough": 1
         }

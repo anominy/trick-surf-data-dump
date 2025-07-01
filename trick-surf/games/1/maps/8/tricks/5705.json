@@ -12,8 +12,8 @@
     "tier": 1,
     "subtier": 1,
     "max_prestrafe": 406,
-    "completions": "759",
-    "players_completed": "141",
+    "completions": "764",
+    "players_completed": "142",
     "average_rating": "0.0000",
     "sequence": [
         {
@@ -27,6 +27,30 @@
             "name": "South Box",
             "order": 1,
             "passthrough": 0
+        },
+        {
+            "trigger_id": 1063,
+            "name": "Stage 6 Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1103,
+            "name": "West Ramp 3",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 895,
+            "name": "Cannon Ramp",
+            "order": 1,
+            "passthrough": 1
+        },
+        {
+            "trigger_id": 1098,
+            "name": "West Ramp 2",
+            "order": 1,
+            "passthrough": 1
         },
         {
             "trigger_id": 892,
@@ -79,30 +103,6 @@
         {
             "trigger_id": 914,
             "name": "East Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1063,
-            "name": "Stage 6 Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1103,
-            "name": "West Ramp 3",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 895,
-            "name": "Cannon Ramp",
-            "order": 1,
-            "passthrough": 1
-        },
-        {
-            "trigger_id": 1098,
-            "name": "West Ramp 2",
             "order": 1,
             "passthrough": 1
         }

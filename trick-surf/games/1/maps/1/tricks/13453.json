@@ -1,0 +1,56 @@
+{
+    "id": 13453,
+    "map_id": 1,
+    "name": "DaTs Kiddie Pool from spawn",
+    "date": "2025-06-28T04:35:34.000Z",
+    "author": "Dr Mulped",
+    "author_id": 70,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 3,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "8",
+    "players_completed": "6",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 38,
+            "name": "Spawn",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 25,
+            "name": "Main Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 59,
+            "name": "Wedge 3rd",
+            "order": 2,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 27,
+            "name": "Map Divide",
+            "order": 3,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 59,
+            "name": "Wedge 3rd",
+            "order": 4,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 6,
+            "name": "Awpbox Slant",
+            "order": 5,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 13450,
+    "map_id": 14,
+    "name": "Hard Ramp Strafe Prac",
+    "date": "2025-06-28T00:34:28.000Z",
+    "author": "FISHMAN",
+    "author_id": 49,
+    "last_updated": null,
+    "last_updated_author_id": null,
+    "active": 1,
+    "ranked": 1,
+    "tier": 2,
+    "subtier": 2,
+    "max_prestrafe": 406,
+    "completions": "0",
+    "players_completed": "0",
+    "average_rating": "0.0000",
+    "sequence": [
+        {
+            "trigger_id": 4276,
+            "name": "Out of Bounds Mountain",
+            "order": 0,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 4264,
+            "name": "Chopped Void Ramp",
+            "order": 1,
+            "passthrough": 0
+        },
+        {
+            "trigger_id": 4239,
+            "name": "N Outskirt Island",
+            "order": 2,
+            "passthrough": 0
+        }
+    ]
+}

@@ -1,178 +1,346 @@
 [
     {
-        "id": 174,
+        "id": 169,
         "map_id": 9,
         "trigger_id": null,
-        "name": "World Hop #1",
+        "name": "World Hop Crane",
         "order": 0,
         "whop": 1
     },
     {
-        "id": 175,
+        "id": 170,
         "map_id": 9,
         "trigger_id": null,
-        "name": "World Hop #2",
+        "name": "World Hop NE",
         "order": 1,
         "whop": 1
     },
     {
+        "id": 171,
+        "map_id": 9,
+        "trigger_id": null,
+        "name": "World Hop NW",
+        "order": 2,
+        "whop": 1
+    },
+    {
+        "id": 172,
+        "map_id": 9,
+        "trigger_id": null,
+        "name": "World Hop SE",
+        "order": 3,
+        "whop": 1
+    },
+    {
+        "id": 173,
+        "map_id": 9,
+        "trigger_id": null,
+        "name": "World Hop SW",
+        "order": 4,
+        "whop": 1
+    },
+    {
+        "id": 174,
+        "map_id": 9,
+        "trigger_id": 1118,
+        "name": "C Blue",
+        "order": 5,
+        "whop": 0
+    },
+    {
+        "id": 175,
+        "map_id": 9,
+        "trigger_id": 1132,
+        "name": "C Lift",
+        "order": 6,
+        "whop": 0
+    },
+    {
         "id": 176,
         "map_id": 9,
-        "trigger_id": 825,
-        "name": "Top Platform",
-        "order": 2,
+        "trigger_id": 1171,
+        "name": "C Strip Top Light Pillar",
+        "order": 7,
         "whop": 0
     },
     {
         "id": 177,
         "map_id": 9,
-        "trigger_id": 819,
-        "name": "CT Spawn",
-        "order": 3,
+        "trigger_id": 1181,
+        "name": "C Strip West Booster",
+        "order": 8,
         "whop": 0
     },
     {
         "id": 178,
         "map_id": 9,
-        "trigger_id": 819,
-        "name": "T Spawn",
-        "order": 4,
+        "trigger_id": 1182,
+        "name": "C Strip West Light Pillar",
+        "order": 9,
         "whop": 0
     },
     {
         "id": 179,
         "map_id": 9,
-        "trigger_id": 2345,
-        "name": "The Highest Point",
-        "order": 5,
+        "trigger_id": 1156,
+        "name": "C Sky",
+        "order": 10,
         "whop": 0
     },
     {
         "id": 180,
         "map_id": 9,
-        "trigger_id": 2309,
-        "name": "AWP Middle",
-        "order": 6,
+        "trigger_id": 1142,
+        "name": "C Sky Beam East",
+        "order": 11,
         "whop": 0
     },
     {
         "id": 181,
         "map_id": 9,
-        "trigger_id": 2321,
-        "name": "Jail Platform",
-        "order": 7,
+        "trigger_id": 1143,
+        "name": "C Sky Beam West",
+        "order": 12,
         "whop": 0
     },
     {
         "id": 182,
         "map_id": 9,
-        "trigger_id": 2322,
-        "name": "Jail Platform Inside",
-        "order": 8,
+        "trigger_id": 1146,
+        "name": "C Sky Top Dark Pillar",
+        "order": 13,
         "whop": 0
     },
     {
         "id": 183,
         "map_id": 9,
-        "trigger_id": 812,
-        "name": "Masog Platform",
-        "order": 9,
+        "trigger_id": 1147,
+        "name": "C Sky Top Gray Pillar",
+        "order": 14,
         "whop": 0
     },
     {
         "id": 184,
         "map_id": 9,
-        "trigger_id": 808,
-        "name": "Lower Masog Platform",
-        "order": 10,
+        "trigger_id": 1227,
+        "name": "E Large Structure Booster North",
+        "order": 15,
         "whop": 0
     },
     {
         "id": 185,
         "map_id": 9,
-        "trigger_id": 826,
-        "name": "Top TP Platform (CT)",
-        "order": 11,
+        "trigger_id": 1227,
+        "name": "E Large Structure Booster SW",
+        "order": 16,
         "whop": 0
     },
     {
         "id": 186,
         "map_id": 9,
-        "trigger_id": 826,
-        "name": "Top TP Platform (T)",
-        "order": 12,
+        "trigger_id": 1227,
+        "name": "E Large Structure",
+        "order": 17,
         "whop": 0
     },
     {
         "id": 187,
         "map_id": 9,
-        "trigger_id": 829,
-        "name": "Tower Platform (CT)",
-        "order": 13,
+        "trigger_id": 1242,
+        "name": "E Rooftops Large Block",
+        "order": 18,
         "whop": 0
     },
     {
         "id": 188,
         "map_id": 9,
-        "trigger_id": 829,
-        "name": "Tower Platform (T)",
-        "order": 14,
+        "trigger_id": 1262,
+        "name": "E White",
+        "order": 19,
         "whop": 0
     },
     {
         "id": 189,
         "map_id": 9,
-        "trigger_id": 831,
-        "name": "River Pipe (CT)",
-        "order": 15,
+        "trigger_id": 1314,
+        "name": "N Tower Alley",
+        "order": 20,
         "whop": 0
     },
     {
         "id": 190,
         "map_id": 9,
-        "trigger_id": 831,
-        "name": "River Pipe (T)",
-        "order": 16,
+        "trigger_id": 1325,
+        "name": "N Tower",
+        "order": 21,
         "whop": 0
     },
     {
         "id": 191,
         "map_id": 9,
-        "trigger_id": 2349,
-        "name": "Waterfall Boost (CT)",
-        "order": 17,
+        "trigger_id": 1348,
+        "name": "NE Building",
+        "order": 22,
         "whop": 0
     },
     {
         "id": 192,
         "map_id": 9,
-        "trigger_id": 2349,
-        "name": "Waterfall Boost (T)",
-        "order": 18,
+        "trigger_id": 1350,
+        "name": "NE Crane Box Top",
+        "order": 23,
         "whop": 0
     },
     {
         "id": 193,
         "map_id": 9,
-        "trigger_id": 2313,
-        "name": "HealBot Platform",
-        "order": 19,
+        "trigger_id": 1351,
+        "name": "NE Crane",
+        "order": 24,
         "whop": 0
     },
     {
         "id": 194,
         "map_id": 9,
-        "trigger_id": 2317,
-        "name": "Infinite Platform",
-        "order": 20,
+        "trigger_id": 1392,
+        "name": "NE Rooftops Booster",
+        "order": 25,
         "whop": 0
     },
     {
         "id": 195,
         "map_id": 9,
-        "trigger_id": 2311,
-        "name": "Bottom Jail TP Platform",
-        "order": 21,
+        "trigger_id": 1398,
+        "name": "NW Black",
+        "order": 26,
+        "whop": 0
+    },
+    {
+        "id": 196,
+        "map_id": 9,
+        "trigger_id": 1402,
+        "name": "NW Jungle",
+        "order": 27,
+        "whop": 0
+    },
+    {
+        "id": 197,
+        "map_id": 9,
+        "trigger_id": 1436,
+        "name": "NW North Ledge Booster",
+        "order": 28,
+        "whop": 0
+    },
+    {
+        "id": 198,
+        "map_id": 9,
+        "trigger_id": 1454,
+        "name": "NW Purple",
+        "order": 29,
+        "whop": 0
+    },
+    {
+        "id": 199,
+        "map_id": 9,
+        "trigger_id": 1464,
+        "name": "NW Teal",
+        "order": 30,
+        "whop": 0
+    },
+    {
+        "id": 200,
+        "map_id": 9,
+        "trigger_id": 1490,
+        "name": "NW Yellow",
+        "order": 31,
+        "whop": 0
+    },
+    {
+        "id": 201,
+        "map_id": 9,
+        "trigger_id": 1507,
+        "name": "S Fort Top Beam",
+        "order": 32,
+        "whop": 0
+    },
+    {
+        "id": 202,
+        "map_id": 9,
+        "trigger_id": 1550,
+        "name": "SE High Pillar",
+        "order": 33,
+        "whop": 0
+    },
+    {
+        "id": 203,
+        "map_id": 9,
+        "trigger_id": 1561,
+        "name": "SE Large Structure Booster",
+        "order": 34,
+        "whop": 0
+    },
+    {
+        "id": 204,
+        "map_id": 9,
+        "trigger_id": 1561,
+        "name": "SE Large Structure",
+        "order": 35,
+        "whop": 0
+    },
+    {
+        "id": 205,
+        "map_id": 9,
+        "trigger_id": 1562,
+        "name": "SE Orange",
+        "order": 36,
+        "whop": 0
+    },
+    {
+        "id": 206,
+        "map_id": 9,
+        "trigger_id": 1569,
+        "name": "SE Rooftops Booster",
+        "order": 37,
+        "whop": 0
+    },
+    {
+        "id": 207,
+        "map_id": 9,
+        "trigger_id": 1571,
+        "name": "SE Spawn",
+        "order": 38,
+        "whop": 0
+    },
+    {
+        "id": 208,
+        "map_id": 9,
+        "trigger_id": 1602,
+        "name": "SW Crane",
+        "order": 39,
+        "whop": 0
+    },
+    {
+        "id": 209,
+        "map_id": 9,
+        "trigger_id": 1658,
+        "name": "W Crane",
+        "order": 40,
+        "whop": 0
+    },
+    {
+        "id": 210,
+        "map_id": 9,
+        "trigger_id": 1653,
+        "name": "W Crane Box",
+        "order": 41,
+        "whop": 0
+    },
+    {
+        "id": 211,
+        "map_id": 9,
+        "trigger_id": 1460,
+        "name": "W Rooftops Booster",
+        "order": 42,
         "whop": 0
     }
 ]
