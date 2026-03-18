@@ -359,7 +359,7 @@ _TRICK_GXDS_TRIGGER_NAMES: Final[dict[str, Optional[str]]] = MappingProxy({
     'bonus_cube': 'Bonus Cube (G: 0)',  # @CONFIRMED
     'bonus_rear_slant': 'Bonus Rear Slant (G: 0)',  # @CONFIRMED
     't2_tower_water02': 'T2 Tower Water (G: 0)',  # @CONFIRMED
-    'reset': 'Healbot Leader (G: 0)',  # @CONFIRMED
+    'reset': 'Healbot Ladder (G: 0)',  # @CONFIRMED
     'behind_t2_tower_wedge_t': 'Rear T2 Tower Wedge Tip (G: 0)',  # @CONFIRMED
     't2_left_hole': 'T2 Left Hole (G: 1)',  # @CONFIRMED
     'section_ramp_tip': 'Section Ramp Tip (G: 0)',  # @CONFIRMED
